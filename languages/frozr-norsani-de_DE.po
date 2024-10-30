@@ -1,0 +1,5919 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Norsani, The Multi-Vendor online Food Ordering System.\n"
+"POT-Creation-Date: 2018-11-16 15:07+0300\n"
+"PO-Revision-Date: 2018-11-16 15:09+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: frozr-norsani.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-norsani-admin.php:164
+msgid "Activate the Norsani's default childtheme"
+msgstr "Aktivieren Sie das standardmäßige Kinderthema des Norsani."
+
+#: includes/class-norsani-admin.php:164
+msgid "Install the Norsani's default theme"
+msgstr "Das Standard-Theme von Norsani installieren"
+
+#: includes/class-norsani-admin.php:167
+msgid ""
+"Your current theme dose not support Norsani. Please install and activate a "
+"supported theme or"
+msgstr ""
+"Ihre aktuelle Themendosis unterstützt Norsani nicht. Bitte installieren und "
+"aktivieren Sie ein unterstütztes Theme oder"
+
+#: includes/class-norsani-admin.php:172
+msgid ""
+"You have not yet set a fee/commission on your vendors sales. Vendors will "
+"get %100 of their sales. Set your fee/commission now from the&nbsp;"
+msgstr ""
+"Sie haben noch keine Provision auf die Verkäufe Ihrer Lieferanten "
+"festgelegt. Verkäufer erhalten 100 % ihres Umsatzes. Setzen Sie Ihre "
+"Provision jetzt von der&nbsp;"
+
+#: includes/class-norsani-admin.php:172
+msgid "Fees/Commission Settings"
+msgstr "Gebühren/Kommissionseinstellungen"
+
+#: includes/class-norsani-admin.php:178
+msgid ""
+"Norsani highly depends on WooCommerce plugin which was uninstalled. Norsani "
+"will stop working untill you install and activate WooCommerce."
+msgstr ""
+"Norsani hängt stark vom WooCommerce-Plugin ab, das deinstalliert wurde. "
+"Norsani wird aufhören zu arbeiten, bis Sie WooCommerce installieren und "
+"aktivieren."
+
+#: includes/class-norsani-admin.php:182
+msgid ""
+"Norsani highly depends on WooCommerce plugin which was deactivated. Norsani "
+"will stop working untill you reactivate WooCommerce."
+msgstr ""
+"Norsani ist stark abhängig vom WooCommerce-Plugin, das deaktiviert wurde. "
+"Norsani wird die Arbeit einstellen, bis Sie WooCommerce wieder aktivieren."
+
+#: includes/class-norsani-admin.php:1120 installer.php:215
+msgid "Norsani's Demo Menu"
+msgstr "Norsanis Demo-Menü"
+
+#: includes/class-norsani-admin.php:1134 installer.php:226
+msgid "Browse"
+msgstr "Durchsuchen"
+
+#: includes/class-norsani-admin.php:1147 includes/class-norsani-admin.php:1180
+#: installer.php:237
+msgid "Vendor Registration"
+msgstr "Verkäuferregistrierung"
+
+#: includes/class-norsani-admin.php:1168
+#, php-format
+msgid ""
+"Please use the following password to login to the accounts of the newly "
+"added users: %1$s"
+msgstr ""
+"Bitte verwenden Sie das folgende Passwort, um sich bei den Konten der neu "
+"hinzugefügten Benutzer anzumelden: %1$s"
+
+#: includes/class-norsani-admin.php:1170
+#, php-format
+msgid "Demo data was installed successfully. %1$s"
+msgstr "Die Demo-Daten wurden erfolgreich installiert. %1$s"
+
+#: includes/class-norsani-admin.php:1181
+msgid "Vendors list"
+msgstr "Verkäuferliste"
+
+#: includes/class-norsani-admin.php:1182
+msgid "Sellers list."
+msgstr "Verkäuferliste."
+
+#: includes/class-norsani-admin.php:1190
+msgid ""
+"This page is used by Norsani. You can freely change this text but please do "
+"NOT delete it."
+msgstr ""
+"Diese Seite wird von Norsani verwendet. Sie können diesen Text frei ändern, "
+"aber bitte löschen Sie ihn NICHT."
+
+#: includes/class-norsani-admin.php:1212 includes/class-norsani-admin.php:1213
+msgid "here"
+msgstr "hier"
+
+#: includes/class-norsani-admin.php:1214
+msgid "Learn how payments are processed"
+msgstr "Erfahren Sie, wie Zahlungen abgewickelt werden."
+
+#: includes/class-norsani-admin.php:1215
+msgid "PayPal Payouts FAQ"
+msgstr "FAQ zu PayPal-Auszahlungen"
+
+#: includes/class-norsani-admin.php:1216
+msgid "Advance"
+msgstr "Vorteil"
+
+#: includes/class-norsani-admin.php:1217
+#: includes/class-norsani-dashboard.php:74
+msgid "Sellers"
+msgstr "Meistverkaufte Produkte"
+
+#: includes/class-norsani-admin.php:1218
+#: includes/class-norsani-dashboard.php:66
+#: includes/class-norsani-wp_init.php:237 templates/vendors-registration.php:81
+#: templates/views/html-dashboard-home-vendor_balance.php:18
+msgid "Withdraw"
+msgstr "Auszahlung"
+
+#: includes/class-norsani-admin.php:1221
+#, php-format
+msgid ""
+"You must enter your Google API key to enable Norsani's user location based "
+"services such as Geolocation, Delivery orders and vendor addresses. Click %s "
+"for instruction on how to get an API key."
+msgstr ""
+"Sie müssen Ihren Google API-Schlüssel eingeben, um Norsanis "
+"benutzerstandortbezogene Dienste wie Geolokalisierung, Lieferaufträge und "
+"Lieferantenadressen zu aktivieren. Klicken Sie auf %s, um zu erfahren, wie "
+"Sie einen API-Schlüssel erhalten."
+
+#: includes/class-norsani-admin.php:1222
+msgid ""
+"Enter the type of vendors you allow to register separated with commas. If "
+"you remove a vendor type, it will be removed from the vendor registration "
+"form but vendors holding that type are still going to be available until you "
+"manually delete them."
+msgstr ""
+"Geben Sie die Art der Lieferanten ein, die Sie mit Kommas getrennt "
+"registrieren dürfen. Wenn Sie einen Lieferantentyp entfernen, wird er aus "
+"dem Formular zur Lieferantenregistrierung entfernt, aber Lieferanten, die "
+"diesen Typ besitzen, werden weiterhin verfügbar sein, bis Sie ihn manuell "
+"löschen."
+
+#: includes/class-norsani-admin.php:1223
+#, php-format
+msgid ""
+"If you selected this, vendors will be able to post their products "
+"immediately after registeration. You can manually activate/deactivate "
+"selling privileges for a vendor from the %s page."
+msgstr ""
+"Wenn Sie dies gewählt haben, können Lieferanten ihre Produkte sofort nach "
+"der Registrierung veröffentlichen. Sie können die Verkaufsprivilegien für "
+"einen Lieferanten manuell auf der Seite %s aktivieren/deaktivieren."
+
+#: includes/class-norsani-admin.php:1224
+msgid ""
+"If this field is selected, the vendor shop's open/close timing options will "
+"not be available and vendors will have to manually change their status to "
+"'online' to receive orders. This will insure that vendors are available to "
+"process orders once they are received. However, vendors can also change "
+"their status manually even if this option is not selected."
+msgstr ""
+"Wenn dieses Feld markiert ist, sind die Öffnungszeiten des Lieferantenshops "
+"nicht verfügbar und die Lieferanten müssen ihren Status manuell auf \"online"
+"\" ändern, um Bestellungen zu erhalten. Dadurch wird sichergestellt, dass "
+"die Lieferanten nach Erhalt der Aufträge für die Bearbeitung zur Verfügung "
+"stehen. Lieferanten können ihren Status jedoch auch manuell ändern, auch "
+"wenn diese Option nicht aktiviert ist."
+
+#: includes/class-norsani-admin.php:1225
+msgid ""
+"If the above option is selected, the system will ignore the vendor's shop "
+"timing data and make the vendor's original status to 'offline' until they "
+"manually change it to 'online'. However, vendors can manually change their "
+"original status for a specific time. In that case, enter the time the system "
+"should wait before returning the vendor status to its original status if the "
+"vendor has closed or navigated away from your website. This is helpful when "
+"you wish to make sure that the vendor is really online to receive and "
+"process orders."
+msgstr ""
+"Wenn die obige Option ausgewählt ist, ignoriert das System die Shop-Timing-"
+"Daten des Lieferanten und setzt den ursprünglichen Status des Lieferanten "
+"auf \"offline\", bis er ihn manuell auf \"online\" ändert. Lieferanten "
+"können jedoch ihren ursprünglichen Status für einen bestimmten Zeitpunkt "
+"manuell ändern. Geben Sie in diesem Fall die Zeit ein, die das System warten "
+"soll, bevor es den Lieferantenstatus in seinen ursprünglichen Zustand "
+"zurückversetzt, wenn der Lieferant geschlossen oder von Ihrer Website weg "
+"navigiert hat. Dies ist hilfreich, wenn Sie sicherstellen möchten, dass der "
+"Lieferant wirklich online ist, um Bestellungen zu empfangen und zu "
+"bearbeiten."
+
+#: includes/class-norsani-admin.php:1226
+msgid ""
+"Featured products will appear to users when they click the main search "
+"button."
+msgstr ""
+"Die vorgestellten Produkte werden den Benutzern angezeigt, wenn sie auf die "
+"Hauptsuchschaltfläche klicken."
+
+#: includes/class-norsani-admin.php:1227
+msgid ""
+"Featured vendors will appear to users when they click the main search button."
+msgstr ""
+"Die vorgestellten Anbieter werden den Benutzern angezeigt, wenn sie auf die "
+"Hauptsuchschaltfläche klicken."
+
+#: includes/class-norsani-admin.php:1228
+msgid ""
+"Select this field to automatically create withdrawal requests for vendors "
+"after their orders statuses change to completed."
+msgstr ""
+"Markieren Sie dieses Feld, um automatisch Auszahlungsanträge für Lieferanten "
+"zu erstellen, nachdem deren Auftragsstatus auf abgeschlossen geändert wurde."
+
+#: includes/class-norsani-admin.php:1229
+#, php-format
+msgid ""
+"If you wish to pay a withdrawal request directly from the %1$s page with one "
+"click using \"PayPal\" Payouts, please enter your \"PayPal App ClientId\". "
+"Click %2$s if you need instructions on creating a \"PayPal REST App\"."
+msgstr ""
+"Wenn Sie eine Auszahlungsanforderung direkt von der %1$s-Seite mit einem "
+"Klick über \"PayPal\" Auszahlungen bezahlen möchten, geben Sie bitte Ihre "
+"\"PayPal App ClientId\" ein. Klicken Sie auf %2$s, wenn Sie Anweisungen zur "
+"Erstellung einer \"PayPal REST App\" benötigen."
+
+#: includes/class-norsani-admin.php:1230
+#, php-format
+msgid ""
+"If you wish to pay a withdrawal request directly from the %1$s page with one "
+"click using \"PayPal\" Payouts, please enter your \"PayPal App ClientSecret"
+"\". Click %2$s if you need instructions on creating a \"PayPal REST App\"."
+msgstr ""
+"Wenn Sie eine Auszahlungsanforderung direkt von der %1$s-Seite mit einem "
+"Klick über \"PayPal\" Auszahlungen bezahlen möchten, geben Sie bitte Ihre "
+"\"PayPal App ClientSecret\" ein. Klicken Sie auf %2$s, wenn Sie Anweisungen "
+"zur Erstellung einer \"PayPal REST App\" benötigen."
+
+#: includes/class-norsani-admin.php:1231
+msgid ""
+"When vendors manually create withdrawal requests, what is the minimum amount "
+"a vendor can ask for?"
+msgstr ""
+"Was ist der Mindestbetrag, den ein Lieferant bei der manuellen Erstellung "
+"von Auszahlungsanträgen verlangen kann?"
+
+#: includes/class-norsani-admin.php:1232
+msgid ""
+"Select your preferred methods to pay vendors. Each selected method will add "
+"new fields to the vendors settings page, vendors will use those settings to "
+"provide you with the required information to pay them."
+msgstr ""
+"Wählen Sie Ihre bevorzugten Methoden für die Bezahlung von Anbietern. Jede "
+"ausgewählte Methode fügt neue Felder zur Seite der Lieferanteneinstellungen "
+"hinzu, die von den Lieferanten verwendet werden, um Ihnen die erforderlichen "
+"Informationen zur Verfügung zu stellen."
+
+#: includes/class-norsani-admin.php:1233
+msgid ""
+"Select the default withdrawal request status when vendors submit them. The "
+"default status of an automatically created withdrawal request is \"pending\"."
+msgstr ""
+"Wählen Sie den Standardstatus für Auszahlungsanträge, wenn Lieferanten diese "
+"einreichen. Der Standardstatus einer automatisch erstellten "
+"Auszahlungsanfrage ist \"schwebend\"."
+
+#: includes/class-norsani-admin.php:1234
+msgid ""
+"These settings are used to calculate the delivery cost and distance between "
+"vendors and customers."
+msgstr ""
+"Diese Einstellungen werden verwendet, um die Lieferkosten und die Entfernung "
+"zwischen Lieferanten und Kunden zu berechnen."
+
+#: includes/class-norsani-admin.php:1235
+msgid ""
+"These fees are only applied on vendors. This means customers will not be "
+"affected and will only pay the original total amount of the order. To add "
+"fees on customers, please use the WooCommerce Tax settings."
+msgstr ""
+"Diese Gebühren werden nur bei Verkäufern erhoben. Das bedeutet, dass die "
+"Kunden nicht betroffen sind und nur den ursprünglichen Gesamtbetrag der "
+"Bestellung bezahlen. Um Gebühren für Kunden zu erheben, verwenden Sie bitte "
+"die Einstellungen der WooCommerce-Steuer."
+
+#: includes/class-norsani-admin.php:1236
+msgid ""
+"With 'Cash on Delivery' orders, customers will pay the order total amount "
+"including your fees to the delivery person and thus you will not receive any "
+"payment. In that case, the system by default deducts your fees from the "
+"vendor account's balance on your website."
+msgstr ""
+"Bei Bestellungen per Nachnahme zahlen die Kunden den Gesamtbetrag der "
+"Bestellung einschließlich Ihrer Gebühren an den Zusteller und Sie erhalten "
+"somit keine Zahlung. In diesem Fall zieht das System standardmäßig Ihre "
+"Gebühren vom Guthaben des Lieferantenkontos auf Ihrer Website ab."
+
+#: includes/class-norsani-admin.php:1237
+#, php-format
+msgid ""
+"Enter terms and conditions for vendors, this will be used in the vendor "
+"registration form. To add terms for customers go to WooCommerce %s settings."
+msgstr ""
+"Geben Sie die Allgemeinen Geschäftsbedingungen für Lieferanten ein, diese "
+"werden im Formular zur Lieferantenregistrierung verwendet. Um Begriffe für "
+"Kunden hinzuzufügen, gehen Sie zu WooCommerce %s Einstellungen."
+
+#: includes/class-norsani-admin.php:1238
+msgid ""
+"Apply this fee on vendors when they receive orders from all, some or "
+"selected customers."
+msgstr ""
+"Wenden Sie diese Gebühr auf Lieferanten an, wenn sie Bestellungen von allen, "
+"einigen oder ausgewählten Kunden erhalten."
+
+#: includes/class-norsani-admin.php:1239
+msgid "Select vendors who will be effected by this fee."
+msgstr "Wählen Sie Lieferanten aus, die von dieser Gebühr betroffen sind."
+
+#: includes/class-norsani-admin.php:1240
+msgid ""
+"A float value which if the sub-total amount of the order exceeds, this rule "
+"will be applied."
+msgstr ""
+"Ein Float-Wert, der bei Überschreitung des Zwischensummenbetrags des "
+"Auftrags diese Regel anwendet."
+
+#: includes/class-norsani-admin.php:1241
+msgid ""
+"Whether to apply this rule on the order total including delivery fee or only "
+"on the order delivery fee."
+msgstr ""
+"Ob diese Regel auf die Auftragssumme inklusive Liefergebühr oder nur auf die "
+"Auftragsliefergebühr angewendet werden soll."
+
+#: includes/class-norsani-admin.php:1242
+msgid ""
+"The amount to deduct from orders. The first field is a percentage which is "
+"multiplied by the total order or delivery fee. i.e: if order total is $10 "
+"and you have entered 2.9 in first field and selected \"Plus\" and entered 3 "
+"in the last field, the total fee applied will be: ($10 x 2.9 / 100) + 3 = "
+"$3.29"
+msgstr ""
+"Der Betrag, der von Bestellungen abgezogen werden soll. Das erste Feld ist "
+"ein Prozentsatz, der mit der gesamten Bestell- oder Liefergebühr "
+"multipliziert wird, d.h. wenn die Bestellsumme $10 beträgt und Sie 2,9 in "
+"das erste Feld eingegeben und \"Plus\" ausgewählt und 3 in das letzte Feld "
+"eingegeben haben, wird die angewandte Gesamtgebühr berechnet: ($10 x 2.9 / "
+"100) + 3 = $3.29"
+
+#: includes/class-norsani-admin.php:1243
+msgid ""
+"This rule will only be applied if the order was paid with the selected "
+"payment method."
+msgstr ""
+"Diese Regel wird nur angewendet, wenn die Bestellung mit der gewählten "
+"Zahlungsmethode bezahlt wurde."
+
+#: includes/class-norsani-admin.php:1244
+msgid "Enter a name for this fee. i.e: Website Fee"
+msgstr "Geben Sie einen Namen für diese Gebühr ein. z.B.: Website Fee"
+
+#: includes/class-norsani-admin.php:1245
+msgid "Let the vendor know why are you applying this fee."
+msgstr "Lassen Sie den Lieferanten wissen, warum Sie diese Gebühr erheben."
+
+#: includes/class-norsani-admin.php:1246
+msgid ""
+"Select the order types allowed on your website. Vendors will be restricted "
+"to select their accepted order types from your selection here."
+msgstr ""
+"Wählen Sie die auf Ihrer Website zulässigen Bestellarten aus. Die "
+"Lieferanten können hier nur ihre akzeptierten Auftragsarten aus Ihrer "
+"Auswahl auswählen."
+
+#: includes/class-norsani-admin.php:1247
+msgid ""
+"Vendors can also allow receiving pre-orders from their stores while closed. "
+"Select the order types that are allowed for vendors to allow while their "
+"stores are closed."
+msgstr ""
+"Lieferanten können auch Vorbestellungen aus ihren Filialen erhalten, wenn "
+"sie geschlossen sind. Wählen Sie die Auftragsarten aus, die für Lieferanten "
+"erlaubt sind, während ihre Filialen geschlossen sind."
+
+#: includes/class-norsani-admin.php:1311
+msgid ""
+"We could not complete the theme installation process due to restricted write "
+"permissions."
+msgstr ""
+"Wir konnten den Installationsprozess des Themas aufgrund eingeschränkter "
+"Schreibrechte nicht abschließen."
+
+#: includes/class-norsani-admin.php:1330
+#: includes/class-norsani-dashboard.php:94
+#: includes/class-norsani-vendor.php:990
+#: templates/views/html-dashboard-coupon-list.php:29
+#: templates/views/html-dashboard-orders-list.php:28
+msgid "Vendor"
+msgstr "Verkäufer"
+
+#: includes/class-norsani-admin.php:1331
+msgid "Sub Order"
+msgstr "Unterauftrag"
+
+#: includes/class-norsani-admin.php:1332
+msgid "Preparation Time"
+msgstr "Vorbereitungszeit"
+
+#: includes/class-norsani-admin.php:1333
+msgid "Receive Date"
+msgstr "Empfangsdatum"
+
+#: includes/class-norsani-admin.php:1360
+msgid "In Queue"
+msgstr "In der Warteschlange"
+
+#: includes/class-norsani-admin.php:1367
+msgid "Show Sub-Orders"
+msgstr "Sub-Aufträge anzeigen"
+
+#: includes/class-norsani-admin.php:1367
+msgid "Hide Sub-Orders"
+msgstr "Unteraufträge ausblenden"
+
+#: includes/class-norsani-admin.php:1379
+msgid "Multiple"
+msgstr "Mehrfach"
+
+#: includes/class-norsani-admin.php:1493
+msgid "Toggle Sub-orders"
+msgstr "Toggle Unteraufträge"
+
+#: includes/class-norsani-admin.php:1514
+msgid "Norsani Options"
+msgstr "Norsani-Optionen"
+
+#: includes/class-norsani-admin.php:1518
+msgid "Selling"
+msgstr "Verkaufen"
+
+#: includes/class-norsani-admin.php:1523
+msgid "Enable Selling"
+msgstr "Verkaufen aktivieren"
+
+#: includes/class-norsani-admin.php:1526
+msgid "Enable or disable the product selling capability"
+msgstr "Aktivieren oder Deaktivieren der Verkaufsfähigkeit des Produkts"
+
+#: includes/class-norsani-admin.php:1570
+msgid "Author"
+msgstr "Autor"
+
+#: includes/class-norsani-ajax.php:168
+msgid "The payout was canceled"
+msgstr "Die Auszahlung wurde storniert."
+
+#: includes/class-norsani-ajax.php:222
+msgid "Something went wrong."
+msgstr "Etwas ist schief gelaufen."
+
+#: includes/class-norsani-ajax.php:227
+msgid ""
+"Please enter your 'PayPal App clientId' and 'Secret' in Norsani's admin "
+"Withdrawals Requests Settings."
+msgstr ""
+"Bitte geben Sie Ihre'PayPal App clientId' und'Secret' in Norsani's Admin "
+"Abhebungsanfragen Einstellungen ein."
+
+#: includes/class-norsani-ajax.php:232
+msgid "Payment is already processing. Please refresh page to see status."
+msgstr ""
+"Die Zahlung ist bereits in Bearbeitung. Bitte aktualisieren Sie die Seite, "
+"um den Status zu sehen."
+
+#: includes/class-norsani-ajax.php:247 includes/class-norsani-withdraw.php:577
+msgid "Payment for order: #"
+msgstr "Bezahlung der Bestellung: #"
+
+#: includes/class-norsani-ajax.php:252
+msgid ""
+"The available funds in the vendor's account is lower than the minimum amount "
+"to make a withdraw request."
+msgstr ""
+"Der verfügbare Betrag auf dem Konto des Lieferanten ist niedriger als der "
+"Mindestbetrag für einen Auszahlungsantrag."
+
+#: includes/class-norsani-ajax.php:257
+msgid "The amount of withdraw is 0"
+msgstr "Der Auszahlungsbetrag beträgt 0"
+
+#: includes/class-norsani-ajax.php:262
+msgid "Insufficient funds in the vendor's account."
+msgstr "Unzureichende Deckung auf dem Konto des Lieferanten."
+
+#: includes/class-norsani-ajax.php:267
+msgid "Order Payment"
+msgstr "Zahlungsart"
+
+#: includes/class-norsani-ajax.php:335
+msgid ""
+"The payment is currently processing. Please refresh the page to see status."
+msgstr ""
+"die Zahlung wird gerade bearbeitet. Bitte aktualisieren Sie die Seite, um "
+"den Status zu sehen."
+
+#: includes/class-norsani-ajax.php:464 includes/class-norsani-ajax.php:468
+#: includes/class-norsani-ajax.php:505 includes/class-norsani-ajax.php:1410
+#: includes/class-norsani-ajax.php:1427 includes/class-norsani-ajax.php:1828
+#: includes/class-norsani-ajax.php:2169 includes/class-norsani-item.php:558
+#: includes/class-norsani-item.php:669
+msgid "Something went wrong!"
+msgstr "Etwas hat nicht funktioniert!"
+
+#: includes/class-norsani-ajax.php:472
+msgid "Payout was canceled and moved to the \"canceled list\"."
+msgstr ""
+"Die Auszahlung wurde storniert und in die \"stornierte Liste\" verschoben."
+
+#: includes/class-norsani-ajax.php:486
+msgid "Payout was canceled by Admin"
+msgstr "Auszahlung wurde von Admin abgebrochen"
+
+#: includes/class-norsani-ajax.php:494
+msgid "Payout already completed and cannot be canceled."
+msgstr ""
+"Die Auszahlung ist bereits abgeschlossen und kann nicht mehr storniert "
+"werden."
+
+#: includes/class-norsani-ajax.php:545 includes/class-norsani-withdraw.php:122
+msgid "pending"
+msgstr "ausstehend"
+
+#: includes/class-norsani-ajax.php:573
+msgid "The order should be refunded. Customer, please send a message to"
+msgstr ""
+"Die Bestellung sollte zurückerstattet werden. Kunde, bitte senden Sie eine "
+"Nachricht an"
+
+#: includes/class-norsani-ajax.php:573
+msgid ""
+"in reference to this order ID and your payment account details and method to "
+"complete refund."
+msgstr ""
+"in Bezug auf diese Bestellnummer und Ihre Kontodaten und die Art der "
+"Rückerstattung."
+
+#: includes/class-norsani-ajax.php:575
+msgid "The order has been cancelled."
+msgstr "Die Bestellung wurde abgebrochen."
+
+#: includes/class-norsani-ajax.php:577
+msgid "The order is being prepared."
+msgstr "Der Auftrag wird vorbereitet."
+
+#: includes/class-norsani-ajax.php:579
+msgid "The order is on its way to customer."
+msgstr "Der Auftrag ist auf dem Weg zum Kunden."
+
+#: includes/class-norsani-ajax.php:581
+msgid "Customer has received the order."
+msgstr "Der Kunde hat die Bestellung erhalten."
+
+#: includes/class-norsani-ajax.php:583
+msgid "The order was failed to process."
+msgstr "Der Auftrag wurde nicht bearbeitet."
+
+#: includes/class-norsani-ajax.php:638 templates/orders/order-details.php:74
+msgid "Delete note"
+msgstr "Notiz löschen"
+
+#: includes/class-norsani-ajax.php:653 includes/class-norsani-ajax.php:671
+#: includes/class-norsani-ajax.php:717 includes/class-norsani-ajax.php:734
+#: includes/class-norsani-ajax.php:1489 includes/class-norsani-ajax.php:1614
+#: includes/class-norsani-ajax.php:1812
+msgid "Something Went Wrong!"
+msgstr "Etwas ist schief gelaufen!"
+
+#: includes/class-norsani-ajax.php:660
+msgid "Coupon has been deleted successfully!"
+msgstr "Gutschein wurde erfolgreich gelöscht!"
+
+#: includes/class-norsani-ajax.php:688
+msgid "You are not allowed to edit/create coupons for the selected products!"
+msgstr ""
+"Sie dürfen keine Gutscheine für die ausgewählten Produkte bearbeiten/"
+"erstellen!"
+
+#: includes/class-norsani-ajax.php:698
+msgid "You're the site admin, you cant post coupons!"
+msgstr ""
+"Sie sind der Site-Administrator, Sie können Gutscheine nicht verschieben!"
+
+#: includes/class-norsani-ajax.php:712
+msgid "Coupon has been saved successfully!"
+msgstr "Gutschein wurde erfolgreich gespeichert!"
+
+#: includes/class-norsani-ajax.php:730
+msgid "Coupon has been updated successfully!"
+msgstr "Gutschein wurde erfolgreich aktualisiert!"
+
+#: includes/class-norsani-ajax.php:868 includes/class-norsani-ajax.php:893
+msgid "You're not authorized to do this step."
+msgstr "Sie sind nicht berechtigt, diesen Schritt zu tun."
+
+#: includes/class-norsani-ajax.php:878
+msgid ""
+"Success: The product will show in the special products list only for today "
+"and only while your store is open."
+msgstr ""
+"Erfolg: Das Produkt wird in der Liste der Spezialprodukte nur für heute und "
+"nur solange Ihr Geschäft geöffnet ist angezeigt."
+
+#: includes/class-norsani-ajax.php:880
+msgid ""
+"Success: The product has been removed from today's specials products list."
+msgstr ""
+"Erfolg: Das Produkt wurde aus der heutigen Liste der Spezialprodukte "
+"entfernt."
+
+#: includes/class-norsani-ajax.php:919
+msgid "Error while checking for new orders"
+msgstr "Fehler bei der Prüfung auf neue Aufträge"
+
+#: includes/class-norsani-ajax.php:955 includes/class-norsani-ajax.php:989
+msgid "You do not have permissions to perform this."
+msgstr "Sie haben keine Berechtigung, dies durchzuführen."
+
+#: includes/class-norsani-ajax.php:1228 templates/views/html-items-atc.php:48
+#: templates/views/html-items-atc.php:74
+msgid "This product is currently unavailable."
+msgstr "Dieses Produkt ist momentan nicht verfügbar."
+
+#: includes/class-norsani-ajax.php:1358
+msgid "Variation"
+msgstr "Varianten"
+
+#: includes/class-norsani-ajax.php:1363
+#: templates/views/html-dashboard-items-form_variation.php:33
+msgid "Option"
+msgstr "Option"
+
+#: includes/class-norsani-ajax.php:1365 includes/class-norsani-scripts.php:398
+msgid "Any"
+msgstr "Alle"
+
+#: includes/class-norsani-ajax.php:1374
+#: templates/views/html-dashboard-items-form_variation.php:51
+msgid "Variation Description"
+msgstr "Varianten-Beschreibung"
+
+#: includes/class-norsani-ajax.php:1375
+msgid "Few words about this variation"
+msgstr "Einige Worte zu dieser Variante"
+
+#: includes/class-norsani-ajax.php:1379
+#: templates/views/html-dashboard-items-form_data.php:111
+#: templates/views/html-dashboard-items-form_variation.php:56
+msgid "Regular Price"
+msgstr "Regulärer Preis"
+
+#: includes/class-norsani-ajax.php:1382
+#: templates/views/html-dashboard-items-form_data.php:114
+#: templates/views/html-dashboard-items-form_variation.php:59
+msgid "Sale Price"
+msgstr "Angebotspreis"
+
+#: includes/class-norsani-ajax.php:1382
+#: templates/views/html-dashboard-items-form_data.php:114
+#: templates/views/html-dashboard-items-form_variation.php:59
+msgid "Schedule"
+msgstr "Zeitplan"
+
+#: includes/class-norsani-ajax.php:1387 includes/class-norsani-ajax.php:1388
+#: templates/views/html-dashboard-items-form_data.php:120
+#: templates/views/html-dashboard-items-form_data.php:121
+#: templates/views/html-dashboard-items-form_variation.php:64
+#: templates/views/html-dashboard-items-form_variation.php:65
+msgid "Sale price start date"
+msgstr "Starttermin des Verkaufspreises"
+
+#: includes/class-norsani-ajax.php:1391 includes/class-norsani-ajax.php:1392
+#: templates/views/html-dashboard-items-form_data.php:124
+#: templates/views/html-dashboard-items-form_data.php:125
+#: templates/views/html-dashboard-items-form_variation.php:68
+#: templates/views/html-dashboard-items-form_variation.php:69
+msgid "Sale price end date"
+msgstr "Verkaufspreis Enddatum"
+
+#: includes/class-norsani-ajax.php:1395
+#: templates/views/html-dashboard-items-form_data.php:128
+#: templates/views/html-dashboard-items-form_variation.php:72
+msgid "The sale will end at the beginning of the set date."
+msgstr "Der Angebotspreis endet zu Beginn des gesetzten Datums."
+
+#: includes/class-norsani-ajax.php:1395
+#: templates/views/html-dashboard-items-form_data.php:128
+#: templates/views/html-dashboard-items-form_variation.php:72
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: includes/class-norsani-ajax.php:1440 includes/class-norsani-ajax.php:2187
+msgid "Email sent successfully!"
+msgstr "E-Mail erfolgreich versandt!"
+
+#: includes/class-norsani-ajax.php:1473
+msgid "Sorry you cannot order from this vendor"
+msgstr "Es tut mir leid, dass Sie nicht bei diesem Anbieter bestellen können."
+
+#: includes/class-norsani-ajax.php:1478
+msgid "Sorry you cannot order this product at this time!"
+msgstr "Leider können Sie dieses Produkt zur Zeit nicht bestellen!"
+
+#: includes/class-norsani-ajax.php:1483
+msgid ""
+"Sorry, we cannot receive any more orders for this product today, please come "
+"back another day."
+msgstr ""
+"Sorry, wir können heute keine weiteren Bestellungen für dieses Produkt "
+"erhalten, bitte kommen Sie an einem anderen Tag wieder."
+
+#: includes/class-norsani-ajax.php:1493 includes/class-norsani-ajax.php:1537
+#: includes/class-norsani-ajax.php:1688
+msgid "View Cart"
+msgstr "Warenkorb anzeigen"
+
+#: includes/class-norsani-ajax.php:1493
+#, php-format
+msgid "You cannot add another &quot;%s&quot; to your cart."
+msgstr ""
+"Sie können kein weiteres Exemplar von „%s“ zu Ihrem Warenkorb hinzufügen."
+
+#: includes/class-norsani-ajax.php:1499 includes/class-norsani-ajax.php:1667
+msgid "Sorry, this product cannot be purchased."
+msgstr "Dieses Produkt kann leider nicht gekauft werden."
+
+#: includes/class-norsani-ajax.php:1506 includes/class-norsani-ajax.php:1672
+#, php-format
+msgid ""
+"You cannot add &quot;%s&quot; to the cart because the product is out of "
+"stock."
+msgstr ""
+"Sie können „%s“ Ihrem Warenkorb nicht hinzufügen, weil das Produkt derzeit "
+"nicht vorrätig ist. "
+
+#. translators: 1: product name 2: quantity in stock
+#: includes/class-norsani-ajax.php:1511 includes/class-norsani-ajax.php:1677
+#, php-format
+msgid ""
+"You cannot add that amount of &quot;%1$s&quot; to the cart because there is "
+"not enough stock (%2$s remaining)."
+msgstr ""
+"Sie können die Menge von &quot;%1$s&quot; nicht dem Warenkorb hinzufügen, "
+"weil diese nicht vorrätig sind (%2$s auf Lager)."
+
+#: includes/class-norsani-ajax.php:1516 includes/class-norsani-item.php:1010
+#: includes/class-norsani-item.php:1020
+msgid ""
+"The Vendor will not deliver to your location, please choose another option."
+msgstr ""
+"Der Verkäufer wird nicht an Ihren Standort liefern, bitte wählen Sie eine "
+"andere Option."
+
+#: includes/class-norsani-ajax.php:1538
+#, php-format
+msgid ""
+"You cannot add that amount to the cart &mdash; we have %s in stock and you "
+"already have %s in your cart."
+msgstr ""
+"Sie können diese Menge nicht Ihrem Warenkorb hinzufügen. Wir haben %s "
+"vorrätig und %s sind bereits im Warenkorb."
+
+#: includes/class-norsani-ajax.php:1574
+#, php-format
+msgid "Invalid value posted for %s"
+msgstr "Ungültiger Wert für %s"
+
+#: includes/class-norsani-ajax.php:1584
+#, php-format
+msgid "%s is a required field"
+msgid_plural "%s are required fields"
+msgstr[0] "%s ist ein Pflichtfeld"
+msgstr[1] "%s sind Pflichtfelder"
+
+#: includes/class-norsani-ajax.php:1588
+msgid "Please choose product options&hellip;"
+msgstr "Bitte wählen Sie Produktausführungen…"
+
+#. translators: %s: product name
+#: includes/class-norsani-ajax.php:1661
+msgid "View cart"
+msgstr "Warenkorb ansehen"
+
+#: includes/class-norsani-ajax.php:1661
+#, php-format
+msgid "You cannot add another \"%s\" to your cart."
+msgstr "Sie können keinen weiteren \"%s\" zu Warenkorb hinzufügen."
+
+#: includes/class-norsani-ajax.php:1689
+#, php-format
+msgid ""
+"You cannot add that amount to the cart &mdash; we have %1$s in stock and you "
+"already have %2$s in your cart."
+msgstr ""
+"Sie können diese Menge nicht Ihrem Warenkorb hinzufügen. Wir haben %1$s "
+"vorrätig und %2$s sind bereits in Ihrem Warenkorb."
+
+#: includes/class-norsani-ajax.php:1766
+msgid "was added to cart."
+msgstr "wurde dem Warenkorb hinzugefügt."
+
+#: includes/class-norsani-ajax.php:1767
+msgid "We also recommend these products with"
+msgstr "Wir empfehlen diese Produkte auch mit"
+
+#: includes/class-norsani-ajax.php:1846 includes/class-norsani-ajax.php:2058
+msgid "Settings Saved!"
+msgstr "Einstellungen gespeichert!"
+
+#: includes/class-norsani-ajax.php:1876
+msgid "Location set successfully"
+msgstr "Standort erfolgreich gesetzt"
+
+#: includes/class-norsani-ajax.php:1881
+msgid "Your location is out the range of our delivery service."
+msgstr "Ihr Standort gehört nicht zu unserem Lieferservice."
+
+#: includes/class-norsani-ajax.php:1886
+msgid "You did not change your location!"
+msgstr "Sie haben Ihren Standort nicht geändert!"
+
+#: includes/class-norsani-ajax.php:1895
+msgid ""
+"You will not be able to use the delivery service due to Geolocation access "
+"denied error."
+msgstr ""
+"Sie können den Lieferservice nicht nutzen, da Ihnen der Zugriff auf "
+"Geolocation verweigert wurde."
+
+#: includes/class-norsani-ajax.php:1934
+msgid "Product was deleted!"
+msgstr "Produkt wurde gelöscht!"
+
+#: includes/class-norsani-ajax.php:2086
+msgid "Product was updated successfully!"
+msgstr "Produkt wurde erfolgreich aktualisiert!"
+
+#: includes/class-norsani-ajax.php:2102
+msgid "Product was created successfully!"
+msgstr "Produkt wurde erfolgreich erstellt!"
+
+#: includes/class-norsani-ajax.php:2199
+msgid "Please fill the email and password fields."
+msgstr "Bitte füllen Sie die Felder E-Mail und Passwort aus."
+
+#: includes/class-norsani-ajax.php:2207
+msgid "Incorrect email address, please try again."
+msgstr "Falsche E-Mail-Adresse, bitte versuchen Sie es erneut."
+
+#: includes/class-norsani-ajax.php:2218
+msgid "Incorrect password, please try again."
+msgstr "Falsches Passwort, bitte versuchen Sie es erneut."
+
+#: includes/class-norsani-ajax.php:2234
+msgid "Sorry, you cant rate this vendor."
+msgstr "Sorry, Sie können diesen Anbieter nicht bewerten."
+
+#: includes/class-norsani-ajax.php:2238
+msgid "Sorry, you cant rate your self."
+msgstr "Tut mir leid, du kannst dich selbst nicht bewerten."
+
+#: includes/class-norsani-ajax.php:2249
+msgid "You have already made your rating."
+msgstr "Sie haben Ihre Bewertung bereits abgegeben."
+
+#: includes/class-norsani-ajax.php:2255
+msgid "Thank you for rating this vendor."
+msgstr "Vielen Dank für die Bewertung dieses Anbieters."
+
+#: includes/class-norsani-dashboard.php:50
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: includes/class-norsani-dashboard.php:54
+#: includes/class-norsani-sellers.php:157
+#: templates/views/html-dashboard-coupon-form.php:167
+msgid "Products"
+msgstr "Produkte"
+
+#: includes/class-norsani-dashboard.php:58
+#: includes/class-norsani-sellers.php:158 norsani-options.php:896
+#: templates/views/html-dashboard-home-orders.php:15
+#: templates/views/html-dashboard-vendor-settings_form.php:165
+msgid "Orders"
+msgstr "Bestellungen"
+
+#: includes/class-norsani-dashboard.php:62
+#: includes/class-norsani-sellers.php:159
+#: templates/views/html-vendor-store_coupon.php:15
+msgid "Coupons"
+msgstr "Gutscheine"
+
+#: includes/class-norsani-dashboard.php:70 norsani-options.php:15
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/class-norsani-dashboard.php:94
+msgid "Admin"
+msgstr "Admin"
+
+#: includes/class-norsani-dashboard.php:232
+msgid "(Refunded)"
+msgstr "(Rückerstattet)"
+
+#: includes/class-norsani-item.php:80
+msgid "Online"
+msgstr "Online"
+
+#: includes/class-norsani-item.php:84
+msgid "Draft"
+msgstr "Entwurf"
+
+#: includes/class-norsani-item.php:88 includes/class-norsani-withdraw.php:64
+#: includes/class-norsani-withdraw.php:313 norsani-options.php:623
+#: templates/views/html-dashboard-orders-list-row_actions.php:24
+msgid "Pending"
+msgstr "Ausstehend"
+
+#: includes/class-norsani-item.php:92
+msgid "Offline"
+msgstr "Offline"
+
+#: includes/class-norsani-item.php:109
+msgid "Make offline"
+msgstr "Offline machen"
+
+#: includes/class-norsani-item.php:109
+msgid "Make online"
+msgstr "Machen Sie online"
+
+#: includes/class-norsani-item.php:140
+msgid "Access Denied"
+msgstr "Zugriff verweigert"
+
+#: includes/class-norsani-item.php:269 includes/class-norsani-item.php:1098
+#: includes/class-norsani-item.php:1191 includes/class-norsani-item.php:1252
+#: templates/views/html-dashboard-orders-single-items.php:84
+msgid "Discount"
+msgstr "Rabatt"
+
+#: includes/class-norsani-item.php:270
+#: templates/views/html-dashboard-items-form_data.php:242
+#: templates/views/html-dashboard-items-form_data.php:271
+msgid "Free Product"
+msgstr "Gratis Produkt"
+
+#: includes/class-norsani-item.php:609 includes/class-norsani-item.php:626
+#, php-format
+msgid "Variation #%1$s of %2$s"
+msgstr "Variante %1$s von %2$s"
+
+#: includes/class-norsani-item.php:860
+msgid "Preparation/Handling Duration:"
+msgstr "Vorbereitungs-/Handhabungsdauer:"
+
+#: includes/class-norsani-item.php:860
+msgid "Minutes"
+msgstr "Minuten"
+
+#: includes/class-norsani-item.php:877 includes/main-functions.php:467
+msgid "Ingredients:"
+msgstr "Inhaltsstoffe:"
+
+#: includes/class-norsani-item.php:895
+#: templates/views/html-dashboard-coupon-form.php:112
+msgid "Description"
+msgstr "Beschreibung"
+
+#: includes/class-norsani-item.php:925
+msgid ""
+"Maximum orders per day has reached for this product, please come back "
+"another day."
+msgstr ""
+"Die maximalen Bestellungen pro Tag für dieses Produkt sind erreicht, bitte "
+"kommen Sie an einem anderen Tag wieder."
+
+#: includes/class-norsani-item.php:930
+msgid "Remaining orders for today:"
+msgstr "Restbestellungen für heute:"
+
+#: includes/class-norsani-item.php:930
+msgid "Maximum orders per day:"
+msgstr "Maximale Bestellungen pro Tag:"
+
+#: includes/class-norsani-item.php:977 norsani-options.php:630
+#: norsani-options.php:643 templates/vendors-registration.php:77
+msgid "Delivery"
+msgstr "Lieferung"
+
+#: includes/class-norsani-item.php:977
+msgid "Pickup"
+msgstr "Übernahme"
+
+#: includes/class-norsani-item.php:977 norsani-options.php:630
+#: norsani-options.php:643
+msgid "Dine-in"
+msgstr "Dine-in"
+
+#: includes/class-norsani-item.php:977 norsani-options.php:630
+#: norsani-options.php:643
+msgid "Curbside"
+msgstr "Bordstein"
+
+#: includes/class-norsani-item.php:996
+msgid "The order will be processed"
+msgstr "Die Bestellung wird bearbeitet"
+
+#: includes/class-norsani-item.php:998
+msgid "Addresses:"
+msgstr "Adressen:"
+
+#: includes/class-norsani-item.php:999
+msgid "Please set your location to make a delivery order."
+msgstr "Bitte geben Sie Ihren Standort an, um einen Lieferauftrag zu erteilen."
+
+#: includes/class-norsani-item.php:1000 includes/main-functions.php:441
+msgid "This vendor"
+msgstr "Dieser Anbieter"
+
+#: includes/class-norsani-item.php:1012
+msgid "This Vendor is in your neighbourhood."
+msgstr "Dieser Verkäufer ist in Ihrer Nähe."
+
+#: includes/class-norsani-item.php:1036
+msgid "Number of People invited?"
+msgstr "Anzahl der eingeladenen Personen?"
+
+#: includes/class-norsani-item.php:1046
+msgid "Car Information"
+msgstr "Fahrzeug-Informationen"
+
+#: includes/class-norsani-item.php:1046
+msgid "Car's make, model & color"
+msgstr "Automarke, Modell & Farbe"
+
+#: includes/class-norsani-item.php:1058
+msgid "Add special comments or a person name."
+msgstr "Fügen Sie spezielle Kommentare oder einen Personennamen hinzu."
+
+#: includes/class-norsani-item.php:1058
+msgid ""
+"Don't add products names, that have separate prices, Just add instructions "
+"for your current product like \"add extra sauces or toppings\" ..etc."
+msgstr ""
+"Fügen Sie keine Produktnamen hinzu, die separate Preise haben. Fügen Sie "
+"einfach Anweisungen für Ihr aktuelles Produkt hinzu, wie z.B. \"zusätzliche "
+"Soßen oder Toppings hinzufügen\" usw."
+
+#: includes/class-norsani-item.php:1098 includes/class-norsani-item.php:1100
+#: includes/class-norsani-item.php:1191 includes/class-norsani-item.php:1193
+#: includes/class-norsani-item.php:1252 includes/class-norsani-item.php:1254
+#: templates/views/html-dashboard-items-form_data.php:226
+#: templates/views/html-dashboard-items-form_data.php:227
+#: templates/views/html-dashboard-items-form_data.php:255
+#: templates/views/html-dashboard-items-form_data.php:256
+msgid "Buy"
+msgstr "Kaufen"
+
+#: includes/class-norsani-item.php:1098 includes/class-norsani-item.php:1191
+#: includes/class-norsani-item.php:1252
+#: templates/views/html-dashboard-items-form_data.php:230
+#: templates/views/html-dashboard-items-form_data.php:259
+msgid "Get"
+msgstr "Hole"
+
+#: includes/class-norsani-item.php:1100 includes/class-norsani-item.php:1193
+#: includes/class-norsani-item.php:1254
+msgid "Get a free"
+msgstr "Holen Sie sich eine kostenlose"
+
+#: includes/class-norsani-order.php:374 norsani-options.php:622
+#: templates/views/html-dashboard-home-orders.php:45
+#: templates/views/html-dashboard-orders-list-row_actions.php:17
+msgid "Processing"
+msgstr "In Bearbeitung"
+
+#: includes/class-norsani-order.php:377
+msgid "day"
+msgid_plural "days"
+msgstr[0] "Tag"
+msgstr[1] "Tage"
+
+#: includes/class-norsani-order.php:378
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "Stunde"
+msgstr[1] "Stunde"
+
+#: includes/class-norsani-order.php:379
+msgid "min"
+msgid_plural "mins"
+msgstr[0] "min"
+msgstr[1] "Admin"
+
+#: includes/class-norsani-order.php:380
+msgid "In queue"
+msgstr "In Wrteschlange"
+
+#: includes/class-norsani-order.php:380
+msgid "After"
+msgstr "Nach"
+
+#. translators: %s: human-readable time difference
+#: includes/class-norsani-order.php:384
+#, php-format
+msgctxt "%2$s = human-readable time difference"
+msgid "%1$s %2$s ago"
+msgstr "%1$s %2$s ago"
+
+#. translators: %s: human-readable time difference
+#: includes/class-norsani-order.php:414
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "vor %s"
+
+#: includes/class-norsani-order.php:447 includes/class-norsani-order.php:500
+msgid "Standard"
+msgstr "Standard"
+
+#: includes/class-norsani-order.php:550
+msgid ""
+"Note: The website fees of this order will be deducted from the current "
+"vendor balance. If the balance is insufficient, it will go in minus."
+msgstr ""
+"Hinweis: Die Website-Gebühren dieser Bestellung werden vom aktuellen "
+"Lieferantensaldo abgezogen. Wenn der Saldo nicht ausreicht, geht er ins "
+"Minus."
+
+#: includes/class-norsani-order.php:630
+msgid ""
+"The parent order was marked as \"completed\" because all child orders ware "
+"completed."
+msgstr ""
+"Der Mutterauftrag wurde als \"erledigt\" gekennzeichnet, da alle "
+"Tochteraufträge abgeschlossen waren."
+
+#: includes/class-norsani-order.php:792
+#, php-format
+msgid "Sorry you cannot order from %s"
+msgstr "Es tut mir leid, dass du nicht bei %s bestellen kannst."
+
+#: includes/class-norsani-order.php:813
+#, php-format
+msgid ""
+"Sorry, You cannot make a %1$s order for %2$s at this time. Please update "
+"your %3$s."
+msgstr ""
+"Sorry, Du kannst zur Zeit keine %1$s Bestellung für %2$s machen. Bitte "
+"aktualisieren Sie Ihre %3$s."
+
+#: includes/class-norsani-order.php:813 includes/class-norsani-order.php:821
+#: includes/class-norsani-order.php:888
+msgid "Cart"
+msgstr "Warenkorb"
+
+#: includes/class-norsani-order.php:817
+#, php-format
+msgid ""
+"Sorry, The preparation timing set for %1$s&apos;s products is inappropriate. "
+"Please choose a time between %2$s"
+msgstr ""
+"Sorry, der für %1$s&apos;s Produkte eingestellte Vorbereitungszeitpunkt ist "
+"unangemessen. Bitte wählen Sie eine Zeit zwischen %2$s."
+
+#: includes/class-norsani-order.php:817 includes/class-norsani-vendor.php:1156
+#: includes/main-functions.php:1244
+msgid "or"
+msgstr "oder"
+
+#: includes/class-norsani-order.php:821
+#, php-format
+msgid ""
+"Sorry, we cannot receive any more orders for %1$s today. Please update your "
+"%2$s."
+msgstr ""
+"Sorry, wir können heute keine weiteren Bestellungen für %1$s erhalten. Bitte "
+"aktualisieren Sie Ihre %2$s."
+
+#: includes/class-norsani-order.php:827
+#, php-format
+msgid "Sorry, the minimum order amount for delivery service from %1$s is %2$s"
+msgstr "Sorry, der Mindestbestellwert für den Lieferservice von %1$s ist %2$s."
+
+#: includes/class-norsani-order.php:872
+#, php-format
+msgid ""
+"Sorry, %1$s will be closed at the selected time. %1$s&apos;s timing at %2$s "
+"is %3$s to %4$s & %5$s to %6$s"
+msgstr ""
+"Sorry, %1$s wird zur gewählten Zeit geschlossen. %1$s&apos;s Timing bei %2$s "
+"ist %3$s bis %4$s & %5$s bis %6$s."
+
+#: includes/class-norsani-order.php:872
+#, php-format
+msgid ""
+"Sorry, %1$s will be closed at the selected time. %1$s&apos;s timing at %2$s "
+"is %3$s to %4$s"
+msgstr ""
+"Sorry, %1$s wird zur gewählten Zeit geschlossen. %1$s&apos;s Timing bei %2$s "
+"ist %3$s bis %4$s."
+
+#: includes/class-norsani-order.php:879
+#, php-format
+msgid ""
+"Sorry, The preparation time set for %s&apos;s products is inappropriate."
+msgstr ""
+"Sorry, die für %s&apos;s Produkte eingestellte Vorbereitungszeit ist "
+"unangemessen."
+
+#: includes/class-norsani-order.php:883
+#, php-format
+msgid ""
+"Sorry, %s is closing in less than an hour, Please choose another date if you "
+"wish to make pre-orders."
+msgstr ""
+"Sorry, %s schließt in weniger als einer Stunde, Bitte wählen Sie ein anderes "
+"Datum, wenn Sie Vorbestellungen machen möchten."
+
+#: includes/class-norsani-order.php:888
+#, php-format
+msgid ""
+"Sorry, no time left to prepare %1$s&apos;s products. %1$s is closing in less "
+"than an hour. Please update your %2$s or choose another date for your order."
+msgstr ""
+"Sorry, keine Zeit mehr, um %1$s&apos;s Produkte vorzubereiten. %1$s schließt "
+"in weniger als einer Stunde. Bitte aktualisieren Sie Ihre %2$s oder wählen "
+"Sie ein anderes Datum für Ihre Bestellung."
+
+#: includes/class-norsani-order.php:1135
+msgid "Your Details"
+msgstr "Ihre persönlichen Angaben"
+
+#: includes/class-norsani-order.php:1137
+msgid "Your Address"
+msgstr "Ihre Adresse"
+
+#: includes/class-norsani-order.php:1149
+msgid "Customer address"
+msgstr "Kundenadresse"
+
+#: includes/class-norsani-scripts.php:354
+msgid "Something is not right :("
+msgstr "Etwas stimmt nicht :("
+
+#: includes/class-norsani-scripts.php:355
+msgid "No Messages"
+msgstr "Keine Nachrichten"
+
+#: includes/class-norsani-scripts.php:356
+msgid ""
+"it looks as though you&#8217;ve already sent that question, please suggest "
+"another question."
+msgstr ""
+"es sieht so aus, als ob Sie diese Frage bereits gesendet haben, schlagen Sie "
+"bitte eine andere Frage vor."
+
+#: includes/class-norsani-scripts.php:357
+msgid "Installing demo data. This may take several minutes..."
+msgstr "Installation der Demo-Daten. Dies kann einige Minuten dauern...."
+
+#: includes/class-norsani-scripts.php:385
+msgid "Are you sure you want to delete this product permanently?"
+msgstr "Sind Sie sicher, dass Sie dieses Produkt dauerhaft löschen möchten?"
+
+#: includes/class-norsani-scripts.php:386
+msgid "Are you sure you want to delete this withdrawal request?"
+msgstr ""
+"Sind Sie sicher, dass Sie diese Auszahlungsanforderung löschen möchten?"
+
+#: includes/class-norsani-scripts.php:387
+msgid "Are you sure you want to cancel this Payout?"
+msgstr "Sind Sie sicher, dass Sie diese Auszahlung stornieren wollen?"
+
+#: includes/class-norsani-scripts.php:388
+msgid "Are you sure you want to pay this withdrawal request?"
+msgstr "Sind Sie sicher, dass Sie diese Auszahlungsanfrage bezahlen wollen?"
+
+#: includes/class-norsani-scripts.php:392
+msgid "Are you sure you want to delete this coupon?"
+msgstr "Sind Sie sicher, dass Sie diesen Gutschein löschen möchten?"
+
+#: includes/class-norsani-scripts.php:396
+msgid "Are you sure?"
+msgstr "Sind Sie sicher?"
+
+#: includes/class-norsani-scripts.php:399
+msgid "You did not do any changes to this form"
+msgstr "Du hast keine Änderungen an diesem Formular vorgenommen."
+
+#: includes/class-norsani-scripts.php:400
+msgid "Product Category field is not set!"
+msgstr "Das Feld Produktkategorie ist nicht gesetzt!"
+
+#: includes/class-norsani-sellers.php:80
+#: includes/emails/class-norsani-email-vendor-message.php:107
+msgid "Invitation"
+msgstr "Einladung"
+
+#: includes/class-norsani-sellers.php:85
+#: templates/views/html-dashboard-items-nav.php:19
+#, php-format
+msgid "All (%d)"
+msgstr "Alle (%d)"
+
+#: includes/class-norsani-sellers.php:88
+#, php-format
+msgid "Active Vendors (%d)"
+msgstr "Aktive Lieferanten (%d)"
+
+#: includes/class-norsani-sellers.php:91
+#, php-format
+msgid "Inactive Vendors (%d)"
+msgstr "Inaktive Lieferanten (%d)"
+
+#: includes/class-norsani-sellers.php:94
+msgid "Top Sellers"
+msgstr "Meistverkaufte Produkte"
+
+#: includes/class-norsani-sellers.php:111
+msgid "Send Invitation"
+msgstr "Einladung senden"
+
+#: includes/class-norsani-sellers.php:113
+msgid "Send an invitation to a vendor to join your website."
+msgstr ""
+"Senden Sie eine Einladung an einen Anbieter, sich Ihrer Website "
+"anzuschließen."
+
+#: includes/class-norsani-sellers.php:118
+#: includes/class-norsani-sellers.php:153
+#: templates/vendors-registration.php:118
+#: templates/views/html-vendor-store_email_form.php:32
+msgid "Email"
+msgstr "E-Mail"
+
+#: includes/class-norsani-sellers.php:119
+msgid "Email of recipient"
+msgstr "E-Mail des Empfängers"
+
+#: includes/class-norsani-sellers.php:123
+#: templates/views/html-vendor-store_email_form.php:39
+msgid "Subject"
+msgstr "Betreff"
+
+#: includes/class-norsani-sellers.php:124
+msgid "Invitation Subject"
+msgstr "Thema der Einladung"
+
+#: includes/class-norsani-sellers.php:127
+#: templates/views/html-vendor-store_email_form.php:45
+msgid "Message"
+msgstr "Nachricht"
+
+#: includes/class-norsani-sellers.php:128
+msgid "Invitation Message"
+msgstr "Einladungsnachricht"
+
+#: includes/class-norsani-sellers.php:131 norsani-options.php:134
+msgid "Send"
+msgstr "Senden"
+
+#: includes/class-norsani-sellers.php:152
+#: templates/views/html-vendor-store_email_form.php:26
+msgid "Name"
+msgstr "Name"
+
+#: includes/class-norsani-sellers.php:154
+msgid "Active Seller"
+msgstr "Aktiver Verkäufer"
+
+#: includes/class-norsani-sellers.php:155
+msgid "Balance"
+msgstr "Saldo"
+
+#: includes/class-norsani-sellers.php:156
+msgid "Phone & Address"
+msgstr "Telefon & Adresse"
+
+#: includes/class-norsani-sellers.php:205
+msgid "Vendors listed by highest number of completed orders."
+msgstr "Lieferanten nach der höchsten Anzahl abgeschlossener Aufträge."
+
+#: includes/class-norsani-sellers.php:220
+msgid "Sorry, no vendors found!"
+msgstr "Leider wurden keine Anbieter gefunden!"
+
+#: includes/class-norsani-sellers.php:239
+msgid "&larr; Previous"
+msgstr "&larr; Zurück"
+
+#: includes/class-norsani-sellers.php:240
+msgid "Next &rarr;"
+msgstr "Nächste &rarr;"
+
+#: includes/class-norsani-sellers.php:276
+#, php-format
+msgid "Balance: %s"
+msgstr "Saldo: %s"
+
+#: includes/class-norsani-sellers.php:285
+msgid "Processing:"
+msgstr "Verarbeitung:"
+
+#: includes/class-norsani-sellers.php:285
+msgid "Completed:"
+msgstr "Abgeschlossen:"
+
+#: includes/class-norsani-sellers.php:308
+msgid "Activate selling"
+msgstr "Verkaufen aktivieren"
+
+#: includes/class-norsani-sellers.php:310
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/class-norsani-sellers.php:313
+msgid "No"
+msgstr "Nein"
+
+#: includes/class-norsani-sellers.php:322
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: includes/class-norsani-vendor.php:199
+msgid "No Ratings Yet!"
+msgstr "Aktuell keine Bewertungen!"
+
+#: includes/class-norsani-vendor.php:216
+#, php-format
+msgid "%1$s Based on"
+msgstr "%1$s Basierend auf"
+
+#: includes/class-norsani-vendor.php:216
+#, php-format
+msgid "%2$s Rating"
+msgid_plural "%2$s Ratings"
+msgstr[0] "%2$s Bewertung"
+msgstr[1] "%2$s Bewertungen"
+
+#: includes/class-norsani-vendor.php:233 includes/main-functions.php:976
+msgid "No Rating Yet!"
+msgstr "Noch keine Bewertung!"
+
+#: includes/class-norsani-vendor.php:324 includes/class-norsani-vendor.php:327
+#: includes/class-norsani-vendor.php:333
+msgid "at"
+msgstr "um"
+
+#: includes/class-norsani-vendor.php:325 includes/class-norsani-vendor.php:1140
+msgid "tomorrow"
+msgstr "morgen"
+
+#: includes/class-norsani-vendor.php:326
+msgid "another day"
+msgstr "ein anderer Tag"
+
+#: includes/class-norsani-vendor.php:329
+msgid "Open till"
+msgstr "Geöffnet bis"
+
+#: includes/class-norsani-vendor.php:330
+msgid "Opens at"
+msgstr "Öffnet um"
+
+#: includes/class-norsani-vendor.php:331
+msgid "Opens Tomorrow"
+msgstr "Öffnet morgen"
+
+#: includes/class-norsani-vendor.php:332 includes/class-norsani-vendor.php:457
+#: includes/class-norsani-vendor.php:474 includes/class-norsani-vendor.php:491
+msgid "Closed"
+msgstr "Geschlossen"
+
+#: includes/class-norsani-vendor.php:449 includes/class-norsani-vendor.php:483
+#, php-format
+msgid "Open for %s minute"
+msgid_plural "Open for %s minutes"
+msgstr[0] "Offen für %s Minute"
+msgstr[1] "Offen für %s Minuten"
+
+#: includes/class-norsani-vendor.php:466
+#, php-format
+msgid "Closed for %s minute"
+msgid_plural "Closed for %s minutes"
+msgstr[0] "Geschlossen für %s Minute"
+msgstr[1] "Geschlossen für %s Minuten"
+
+#: includes/class-norsani-vendor.php:682 templates/vendors-registration.php:29
+msgid ""
+"Click on the map to start drawing the path for a polygon representing the "
+"area that you can provide delivery service."
+msgstr ""
+"Klicken Sie auf die Karte, um den Pfad für ein Polygon zu zeichnen, das das "
+"Gebiet darstellt, das Sie als Lieferservice anbieten können."
+
+#: includes/class-norsani-vendor.php:710
+msgid ""
+"Road/Street names. Type first two/three letters and choose from list, if the "
+"list doesn't appear, then complete typing and hit the comma button."
+msgstr ""
+"Straßen- und Straßennamen. Geben Sie die ersten zwei/drei Buchstaben ein und "
+"wählen Sie aus der Liste, wenn die Liste nicht angezeigt wird, dann "
+"schließen Sie die Eingabe ab und drücken Sie die Komma-Taste."
+
+#: includes/class-norsani-vendor.php:722 templates/vendors-registration.php:292
+msgid "Saturday"
+msgstr "Samstag"
+
+#: includes/class-norsani-vendor.php:723 templates/vendors-registration.php:293
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: includes/class-norsani-vendor.php:724 templates/vendors-registration.php:294
+msgid "Monday"
+msgstr "Montag"
+
+#: includes/class-norsani-vendor.php:725 templates/vendors-registration.php:295
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: includes/class-norsani-vendor.php:726 templates/vendors-registration.php:296
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: includes/class-norsani-vendor.php:727 templates/vendors-registration.php:297
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: includes/class-norsani-vendor.php:728 templates/vendors-registration.php:298
+msgid "Friday"
+msgstr "Freitag"
+
+#: includes/class-norsani-vendor.php:809
+msgid "km."
+msgstr "km."
+
+#: includes/class-norsani-vendor.php:809
+msgid "mi."
+msgstr "mi."
+
+#: includes/class-norsani-vendor.php:1135
+msgid "on"
+msgstr "am"
+
+#: includes/class-norsani-vendor.php:1183
+msgid "to"
+msgstr "bis"
+
+#: includes/class-norsani-vendor.php:1213
+msgid "online"
+msgstr "Online"
+
+#: includes/class-norsani-vendor.php:1214
+msgid "offline"
+msgstr "Offline"
+
+#: includes/class-norsani-vendor.php:1240
+msgid "Your first shift will start"
+msgstr "Ihre erste Schicht beginnt"
+
+#: includes/class-norsani-vendor.php:1242
+msgid "Your timing for today is"
+msgstr "Dein Timing für heute ist"
+
+#: includes/class-norsani-vendor.php:1247
+msgid "Your second shift starts"
+msgstr "Ihre zweite Schicht beginnt"
+
+#: includes/class-norsani-vendor.php:1251
+msgid "Your second shift timing is"
+msgstr "Ihr zweiter Schichtzeitpunkt ist"
+
+#: includes/class-norsani-vendor.php:1254
+#, php-format
+msgid "Your shop has closed today. You will open again %s"
+msgstr "Ihr Laden hat heute geschlossen. Sie öffnen wieder %s"
+
+#: includes/class-norsani-withdraw.php:59
+msgid "New Withdrawal Request"
+msgstr "Neuer Abhebungsantrag"
+
+#: includes/class-norsani-withdraw.php:67 norsani-options.php:621
+#: templates/views/html-dashboard-home-orders.php:27
+msgid "Completed"
+msgstr "Abgeschlossen"
+
+#: includes/class-norsani-withdraw.php:70
+#: includes/class-norsani-withdraw.php:317
+msgid "Canceled"
+msgstr "Abgebrochen"
+
+#: includes/class-norsani-withdraw.php:87
+msgid "Current Balance:"
+msgstr "Aktuelle Bilanz:"
+
+#: includes/class-norsani-withdraw.php:101
+msgid "Request"
+msgstr "Anfrage"
+
+#: includes/class-norsani-withdraw.php:102 includes/print-functions.php:121
+#: templates/views/html-dashboard-coupon-form.php:127
+#: templates/views/html-dashboard-coupon-list.php:23
+msgid "Amount"
+msgstr "Betrag"
+
+#: includes/class-norsani-withdraw.php:103
+#: templates/views/html-dashboard-orders-list-row.php:23
+#: templates/views/html-dashboard-orders-list-row.php:31
+msgid "Via"
+msgstr "Via"
+
+#: includes/class-norsani-withdraw.php:104
+#: templates/views/html-dashboard-orders-list.php:25
+msgid "Date"
+msgstr "Datum"
+
+#: includes/class-norsani-withdraw.php:105
+#: templates/views/html-dashboard-coupon-list.php:27
+msgid "Actions"
+msgstr "Aktionen"
+
+#: includes/class-norsani-withdraw.php:115 norsani-options.php:748
+#: templates/views/html-dashboard-coupon-list.php:80
+#: templates/views/html-dashboard-items-list-single_item.php:49
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: includes/class-norsani-withdraw.php:118
+#: templates/views/html-dashboard-items-list-single_item.php:51
+msgid "View"
+msgstr "Anzeigen"
+
+#: includes/class-norsani-withdraw.php:123
+#: templates/views/html-dashboard-orders-list-row.php:16
+msgid "More Details"
+msgstr "Mehr Details"
+
+#: includes/class-norsani-withdraw.php:123 includes/print-functions.php:317
+#, php-format
+msgid "Order %s"
+msgstr "Bestellung %s"
+
+#: includes/class-norsani-withdraw.php:129
+msgid "View Vendor Balance"
+msgstr "Lieferantensaldo anzeigen"
+
+#: includes/class-norsani-withdraw.php:129
+msgid "By"
+msgstr "Von"
+
+#: includes/class-norsani-withdraw.php:141
+#: includes/class-norsani-withdraw.php:145
+msgid "View Details"
+msgstr "Details anzeigen"
+
+#: includes/class-norsani-withdraw.php:150
+msgid "Pay"
+msgstr "Bezahlen"
+
+#: includes/class-norsani-withdraw.php:153
+msgid "Cancel Payout"
+msgstr "Auszahlung abbrechen"
+
+#: includes/class-norsani-withdraw.php:155 norsani-options.php:748
+#: templates/views/html-dashboard-coupon-list.php:81
+#: templates/views/html-dashboard-items-list-single_item.php:50
+msgid "Delete"
+msgstr "Löschen"
+
+#: includes/class-norsani-withdraw.php:168
+msgid "No withdrawal requests found"
+msgstr "Keine Auszahlungsanfragen gefunden"
+
+#: includes/class-norsani-withdraw.php:205
+msgid ""
+"You already have a pending withdrawal request. Until it's been canceled or "
+"completed, you can not submit a new request."
+msgstr ""
+"Sie haben bereits eine ausstehende Auszahlungsanfrage. Solange sie nicht "
+"storniert oder abgeschlossen ist, können Sie keinen neuen Antrag stellen."
+
+#: includes/class-norsani-withdraw.php:209
+msgid "You don't have sufficient balance for a withdrawal request!"
+msgstr "Sie haben nicht genügend Guthaben für eine Auszahlungsanfrage!"
+
+#: includes/class-norsani-withdraw.php:254
+msgid "Editing request #"
+msgstr "Auftrag bearbeiten #"
+
+#: includes/class-norsani-withdraw.php:256
+msgid "Viewing request #"
+msgstr "Besichtigungsanfrage #"
+
+#: includes/class-norsani-withdraw.php:270
+msgid "Make a withdrawal request."
+msgstr "Stellen Sie eine Auszahlungsanfrage."
+
+#: includes/class-norsani-withdraw.php:276
+msgid "Amount to withdraw"
+msgstr "Auszahlungsbetrag"
+
+#: includes/class-norsani-withdraw.php:280
+msgid "Payment method"
+msgstr "Zahlungsmethode"
+
+#: includes/class-norsani-withdraw.php:300
+msgid "Change Invoice Image"
+msgstr "Rechnungsbild ändern"
+
+#: includes/class-norsani-withdraw.php:304
+msgid "Upload Invoice Image"
+msgstr "Rechnungsbild hochladen"
+
+#: includes/class-norsani-withdraw.php:309
+msgid "Update status"
+msgstr "Status aktualisieren"
+
+#: includes/class-norsani-withdraw.php:320
+msgid "Paid"
+msgstr "Bezahlt"
+
+#: includes/class-norsani-withdraw.php:324
+msgid "Cancel note"
+msgstr "Notiz stornieren"
+
+#: includes/class-norsani-withdraw.php:325
+msgid "Few words on why you've canceled the withdrawal request"
+msgstr ""
+"Ein paar Worte darüber, warum Sie den Auszahlungsantrag storniert haben."
+
+#: includes/class-norsani-withdraw.php:325
+msgid "No Data"
+msgstr "Keine Daten"
+
+#: includes/class-norsani-withdraw.php:333
+msgid "Submit Request"
+msgstr "Anfrage senden"
+
+#: includes/class-norsani-withdraw.php:333
+msgid "Update Request"
+msgstr "Update-Anforderung"
+
+#: includes/class-norsani-withdraw.php:387
+#: includes/class-norsani-withdraw.php:451
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/class-norsani-withdraw.php:391
+#: includes/class-norsani-withdraw.php:497
+msgid "Bank Transfer"
+msgstr "Banküberweisung"
+
+#: includes/class-norsani-withdraw.php:395
+#: includes/class-norsani-withdraw.php:475
+msgid "Skrill"
+msgstr "Skrill"
+
+#: includes/class-norsani-withdraw.php:500
+msgid "Account Name"
+msgstr "Kontoinhaber"
+
+#: includes/class-norsani-withdraw.php:501
+msgid "Your bank account name"
+msgstr "Kontobezeichnung"
+
+#: includes/class-norsani-withdraw.php:504
+msgid "Account Number"
+msgstr "Kontonummer"
+
+#: includes/class-norsani-withdraw.php:505
+msgid "Your bank account number"
+msgstr "﻿Kontonummer"
+
+#: includes/class-norsani-withdraw.php:508
+msgid "Bank Name"
+msgstr "Name der Bank"
+
+#: includes/class-norsani-withdraw.php:509
+msgid "Name of bank"
+msgstr "Name der Bank"
+
+#: includes/class-norsani-withdraw.php:514
+#: includes/class-norsani-withdraw.php:515
+msgid "Bank Address"
+msgstr "Bankadresse"
+
+#: includes/class-norsani-withdraw.php:518
+#: includes/class-norsani-withdraw.php:519
+msgid "Swift code"
+msgstr "Swift Code"
+
+#: includes/class-norsani-withdraw.php:541
+msgid "The payment claiming instructions has been sent by email."
+msgstr "Die Zahlungsanweisungen wurden per E-Mail verschickt."
+
+#: includes/class-norsani-withdraw.php:543
+msgid "Sent to"
+msgstr "Gesendet an"
+
+#: includes/class-norsani-wp_init.php:56
+msgctxt "frozr-norsani"
+msgid "Ingredients"
+msgstr "Zutaten"
+
+#: includes/class-norsani-wp_init.php:57
+msgctxt "frozr-norsani"
+msgid "Ingredient"
+msgstr "Zutaten"
+
+#: includes/class-norsani-wp_init.php:58
+msgid "Search Ingredients"
+msgstr "Zutaten durchsuchen"
+
+#: includes/class-norsani-wp_init.php:59
+msgid "Popular Ingredients"
+msgstr "Beliebte Inhaltsstoffe"
+
+#: includes/class-norsani-wp_init.php:60
+msgid "All Ingredients"
+msgstr "Alle Zutaten"
+
+#: includes/class-norsani-wp_init.php:63
+msgid "Edit Ingredient"
+msgstr "Zutat bearbeiten"
+
+#: includes/class-norsani-wp_init.php:64
+msgid "Update Ingredient"
+msgstr "Aktualisiere Zutat"
+
+#: includes/class-norsani-wp_init.php:65
+msgid "Add New Ingredient"
+msgstr "Neuen Inhaltsstoff hinzufügen"
+
+#: includes/class-norsani-wp_init.php:66
+msgid "New Ingredient Name"
+msgstr "Neuer Name des Inhaltsstoffes"
+
+#: includes/class-norsani-wp_init.php:67
+msgid "Separate Ingredients with commas"
+msgstr "Zutaten mit Komma trennen"
+
+#: includes/class-norsani-wp_init.php:68
+msgid "Add or remove Ingredients"
+msgstr "Zutaten hinzufügen oder entfernen"
+
+#: includes/class-norsani-wp_init.php:69
+msgid "Choose from the most used Ingredients"
+msgstr "Wählen Sie aus den meistverwendeten Inhaltsstoffen"
+
+#: includes/class-norsani-wp_init.php:70
+msgid "No Ingredients found."
+msgstr "Keine Inhaltsstoffe gefunden."
+
+#: includes/class-norsani-wp_init.php:71
+#: templates/views/html-dashboard-items-form_data.php:72
+msgid "Ingredients"
+msgstr "Zutaten"
+
+#: includes/class-norsani-wp_init.php:95
+msgctxt "frozr-norsani"
+msgid "Delivery Locations"
+msgstr "Lieferorte"
+
+#: includes/class-norsani-wp_init.php:96
+msgctxt "frozr-norsani"
+msgid "Delivery Location"
+msgstr "Lieferort"
+
+#: includes/class-norsani-wp_init.php:97
+msgid "Search Locations"
+msgstr "Standorte durchsuchen"
+
+#: includes/class-norsani-wp_init.php:98
+msgid "Popular Locations"
+msgstr "Beliebte Standorte"
+
+#: includes/class-norsani-wp_init.php:99
+msgid "All Locations"
+msgstr "Alle Standorte"
+
+#: includes/class-norsani-wp_init.php:102
+msgid "Edit Location"
+msgstr "Standort bearbeiten"
+
+#: includes/class-norsani-wp_init.php:103
+msgid "Update Location"
+msgstr "Standort aktualisieren"
+
+#: includes/class-norsani-wp_init.php:104
+msgid "Add New Location"
+msgstr "Neuen Standort hinzufügen"
+
+#: includes/class-norsani-wp_init.php:105
+msgid "New Location Name"
+msgstr "Neuer Ortsname"
+
+#: includes/class-norsani-wp_init.php:106
+msgid "Separate Locations with commas"
+msgstr "Standorte mit Kommas separieren"
+
+#: includes/class-norsani-wp_init.php:107
+msgid "Add or remove Locations"
+msgstr "Ort hinzufügen oder Löschen"
+
+#: includes/class-norsani-wp_init.php:108
+msgid "Choose from the most used Locations"
+msgstr "Aus den meist genutzten Orten wählen"
+
+#: includes/class-norsani-wp_init.php:109
+msgid "No Locations found"
+msgstr "Keine Standorte vorhanden"
+
+#: includes/class-norsani-wp_init.php:110 norsani-options.php:17
+msgid "Delivery Locations"
+msgstr "Lieferorte"
+
+#: includes/class-norsani-wp_init.php:136
+msgctxt "frozr-norsani"
+msgid "Vendor Addresses"
+msgstr "Lieferantenadressen"
+
+#: includes/class-norsani-wp_init.php:137
+msgctxt "frozr-norsani"
+msgid "Vendor Address"
+msgstr "Händleranschrift"
+
+#: includes/class-norsani-wp_init.php:138
+msgid "Search Vendor Addresses"
+msgstr "Lieferantenadressen suchen"
+
+#: includes/class-norsani-wp_init.php:139
+msgid "Popular Addresses"
+msgstr "Beliebte Adressen"
+
+#: includes/class-norsani-wp_init.php:140
+msgid "All Addresses of Vendors"
+msgstr "Alle Adressen der Lieferanten"
+
+#: includes/class-norsani-wp_init.php:143
+msgid "Edit Address"
+msgstr "Adresse bearbeiten"
+
+#: includes/class-norsani-wp_init.php:144
+msgid "Update Address"
+msgstr "Adresse aktualisieren"
+
+#: includes/class-norsani-wp_init.php:145
+msgid "Add New Address"
+msgstr "Neue Adresse hinzufügen"
+
+#: includes/class-norsani-wp_init.php:146
+msgid "New Address"
+msgstr "Neue Adresse"
+
+#: includes/class-norsani-wp_init.php:147
+msgid "Separate Addresses with commas"
+msgstr "Getrennte Adressen mit Kommas"
+
+#: includes/class-norsani-wp_init.php:148
+msgid "Add or remove Addresses"
+msgstr "Adressen hinzufügen oder entfernen"
+
+#: includes/class-norsani-wp_init.php:149
+msgid "Choose from the most used Addresses"
+msgstr "Wählen Sie aus den meistgenutzten Adressen aus"
+
+#: includes/class-norsani-wp_init.php:150
+msgid "No Addresses found"
+msgstr "Keine Adressen gefunden"
+
+#: includes/class-norsani-wp_init.php:151
+msgid "Vendor Addresses"
+msgstr "Lieferantenadressen"
+
+#: includes/class-norsani-wp_init.php:177
+msgctxt "frozr-norsani"
+msgid "Vendor Tags"
+msgstr "Hersteller-Tags"
+
+#: includes/class-norsani-wp_init.php:178
+msgctxt "frozr-norsani"
+msgid "Vendor Tag"
+msgstr "Lieferanten-Tag"
+
+#: includes/class-norsani-wp_init.php:179
+#: includes/class-norsani-wp_init.php:192
+msgid "Vendor Tags"
+msgstr "Hersteller-Tags"
+
+#: includes/class-norsani-wp_init.php:180
+msgid "Popular Vendor Tags"
+msgstr "Beliebte Hersteller-Tags"
+
+#: includes/class-norsani-wp_init.php:181
+msgid "All Tags"
+msgstr "Alle Tags"
+
+#: includes/class-norsani-wp_init.php:184
+msgid "Edit Tag"
+msgstr "Schlagwort bearbeiten"
+
+#: includes/class-norsani-wp_init.php:185
+msgid "Update Tag"
+msgstr "Schlagwort aktualisieren"
+
+#: includes/class-norsani-wp_init.php:186
+msgid "Add New Tag"
+msgstr "Neues Schlagwort hinzufügen"
+
+#: includes/class-norsani-wp_init.php:187
+msgid "New Tag Name"
+msgstr "Neuer Tag-Name"
+
+#: includes/class-norsani-wp_init.php:188
+msgid "Separate Tags with commas"
+msgstr "Schlagwörter durch Kommas trennen"
+
+#: includes/class-norsani-wp_init.php:189
+msgid "Add or remove Tags"
+msgstr "Hinzufügen oder Entfernen von Stichworte"
+
+#: includes/class-norsani-wp_init.php:190
+msgid "Choose from the most used Tags"
+msgstr "Wählen Sie aus den meistgenutzten Tags"
+
+#: includes/class-norsani-wp_init.php:191
+msgid "No vendor Tag found."
+msgstr "Kein Hersteller-Tag gefunden."
+
+#: includes/class-norsani-wp_init.php:216
+msgctxt "post"
+msgid "Offline"
+msgstr "Offline"
+
+#: includes/class-norsani-wp_init.php:221
+#, php-format
+msgid "Offline (%s)"
+msgid_plural "Offline (%s)"
+msgstr[0] "Offline (%s)"
+msgstr[1] "Offline (%s)"
+
+#: includes/class-norsani-wp_init.php:238
+msgid "Withdrawal Requests Post Types"
+msgstr "Auszahlungsanordnungen Buchungsarten"
+
+#: includes/class-norsani-wp_init.php:263
+msgctxt "Status General Name"
+msgid "Completed"
+msgstr "Abgeschlossen"
+
+#: includes/class-norsani-wp_init.php:264
+#, php-format
+msgid "Completed (%s)"
+msgid_plural "Completed (%s)"
+msgstr[0] "Beendet (%s)"
+msgstr[1] "Beendet (%s)"
+
+#: includes/class-norsani.php:126
+msgid "Cloning is forbidden."
+msgstr "Das Klonen ist verboten."
+
+#: includes/class-norsani.php:135
+msgid "Unserializing instances of this class is forbidden."
+msgstr "Unserialisierte Instanzen dieser Klasse sind verboten."
+
+#: includes/emails/class-norsani-email-vendor-message.php:66
+msgid "Vendor Email"
+msgstr "Verkäufer E-Mail-Adresse"
+
+#: includes/emails/class-norsani-email-vendor-message.php:67
+msgid ""
+"An email sent to the vendor via his shop page contact form or by website "
+"admin from sellers dashboard page."
+msgstr ""
+"Eine E-Mail, die an den Verkäufer über sein Kontaktformular auf der Shop-"
+"Seite oder durch den Website-Administrator von der Dashboard-Seite des "
+"Verkäufers gesendet wird."
+
+#: includes/emails/class-norsani-email-vendor-message.php:92
+msgid "[{site_title}]: Invitation letter"
+msgstr "[{site_title}]]: Einladungsschreiben"
+
+#: includes/emails/class-norsani-email-vendor-message.php:94
+msgid "[{site_title}]: You recieved a new message"
+msgstr "[{site_title}]]: Du hast eine neue Nachricht erhalten."
+
+#: includes/emails/class-norsani-email-vendor-message.php:109
+msgid "New message"
+msgstr "Neue Nachricht"
+
+#: includes/emails/class-norsani-email-vendor-order-refund.php:73
+msgid "Order refund"
+msgstr "Rückerstattung der Bestellung"
+
+#: includes/emails/class-norsani-email-vendor-order-refund.php:74
+msgid ""
+"An email sent to the vendor informing him on a refund for one of his orders."
+msgstr ""
+"Eine E-Mail an den Verkäufer, die ihn über eine Rückerstattung einer seiner "
+"Bestellungen informiert."
+
+#: includes/emails/class-norsani-email-vendor-order-refund.php:96
+msgid "[{site_title}]: Order Refunded"
+msgstr "[{site_title}]]: Rückerstattung der Bestellung"
+
+#: includes/emails/class-norsani-email-vendor-order-refund.php:106
+msgid "Order #{order_id} Refunded"
+msgstr "Bestellung #{order_id} Erstattungen"
+
+#: includes/emails/class-norsani-email-vendor-rating.php:66
+msgid "Vendor rating request"
+msgstr "Anfrage zur Lieferantenbewertung"
+
+#: includes/emails/class-norsani-email-vendor-rating.php:67
+msgid "An email sent to the customer asking him to rating a vendor."
+msgstr ""
+"Eine E-Mail, die an den Kunden gesendet wird und ihn auffordert, einen "
+"Lieferanten zu bewerten."
+
+#: includes/emails/class-norsani-email-vendor-rating.php:89
+msgid "[{site_title}]: Make your rating on {vendor_name}"
+msgstr "[{site_title}]]: Bewerten Sie {Vendor_name} mit Ihrer Bewertung."
+
+#: includes/emails/class-norsani-email-vendor-rating.php:99
+msgid "Rate our service"
+msgstr "Bewerten diesen Service"
+
+#: includes/emails/class-norsani-email-vendor-status.php:87
+msgid "Vendor Status Update"
+msgstr "Aktualisierung des Lieferantenstatus"
+
+#: includes/emails/class-norsani-email-vendor-status.php:88
+msgid "An email sent to the vendor to inform him about his selling status."
+msgstr ""
+"Eine E-Mail an den Lieferanten, um ihn über seinen Verkaufsstatus zu "
+"informieren."
+
+#: includes/emails/class-norsani-email-vendor-status.php:115
+msgid "[{site_title}]: Thank you for registering"
+msgstr "[{site_title}]]: Vielen Dank für Ihre Anmeldung"
+
+#: includes/emails/class-norsani-email-vendor-status.php:117
+msgid "[{site_title}]: Status Update"
+msgstr "[{site_title}]]: Statusaktualisierung"
+
+#: includes/emails/class-norsani-email-vendor-status.php:119
+msgid "[{site_title}]: New Vendor Registration"
+msgstr "[{site_title}]]: Registrierung eines neuen Verkäufers"
+
+#: includes/emails/class-norsani-email-vendor-status.php:132
+msgid "Welcome to {site_title}"
+msgstr "Willkommen bei {site_title}"
+
+#: includes/emails/class-norsani-email-vendor-status.php:134
+msgid "Status Update"
+msgstr "Statusaktualisierung"
+
+#: includes/emails/class-norsani-email-vendor-status.php:136
+msgid "New Vendor"
+msgstr "Neuer Lieferant"
+
+#: includes/emails/class-norsani-email-withdraw-status.php:73
+msgid "Withdrawal Request Status"
+msgstr "Status der Rücknahme"
+
+#: includes/emails/class-norsani-email-withdraw-status.php:74
+msgid "An email sent to the vendor about his withdrawal request status."
+msgstr ""
+"Eine E-Mail an den Verkäufer über den Status seiner Auszahlungsanfrage."
+
+#: includes/emails/class-norsani-email-withdraw-status.php:96
+msgid "[{site_title}]: Status of your withdrawal request #{withdraw_id}"
+msgstr "[{site_title}]]: Status Ihrer Auszahlungsanfrage #{withdraw_id}"
+
+#: includes/emails/class-norsani-email-withdraw-status.php:106
+msgid "Your withdrawal request: #{withdraw_id}"
+msgstr "Ihre Auszahlungsanfrage: #{withdraw_id}"
+
+#: includes/main-functions.php:94
+msgid ""
+"Selling privileges of this vendor has been disabled. You are viewing this "
+"because you are an administrator."
+msgstr ""
+"Die Verkaufsprivilegien dieses Anbieters wurden deaktiviert. Sie sehen dies, "
+"weil Sie ein Administrator sind."
+
+#: includes/main-functions.php:349
+msgid "Total Delivery Fee"
+msgstr "Gesamte Liefergebühr"
+
+#: includes/main-functions.php:390
+msgid "Unset"
+msgstr "Zuordnung entfernen"
+
+#: includes/main-functions.php:396
+msgid "Change your location"
+msgstr "Ändern Sie Ihren Standort"
+
+#: includes/main-functions.php:396
+msgid "Set your location"
+msgstr "Stellen Sie Ihren Standort ein"
+
+#: includes/main-functions.php:398
+msgid "Start typing your location."
+msgstr "Beginnen Sie mit der Eingabe Ihres Standortes."
+
+#: includes/main-functions.php:408
+msgid "Type the first three letters and choose from the list."
+msgstr "Geben Sie die ersten drei Buchstaben ein und wählen Sie aus der Liste."
+
+#: includes/main-functions.php:421
+msgid "Your Current location is: "
+msgstr "Ihr aktueller Standort ist:"
+
+#: includes/main-functions.php:453
+msgid "will not accept orders at this time."
+msgstr "nimmt zur Zeit keine Bestellungen an."
+
+#: includes/main-functions.php:457
+msgid "will not accept orders at this time please come back later"
+msgstr ""
+"Bestellungen werden zu diesem Zeitpunkt nicht angenommen, bitte kommen Sie "
+"später wieder."
+
+#: includes/main-functions.php:482
+msgid "How about.."
+msgstr "Wie wär's mit..."
+
+#. translators: %s template
+#: includes/main-functions.php:603
+#, php-format
+msgid "%s does not exist."
+msgstr "%s existiert nicht."
+
+#: includes/main-functions.php:829
+msgid "Next Page"
+msgstr "Nächste Seite"
+
+#: includes/main-functions.php:989 installer.php:222
+msgid "Chefs"
+msgstr "Restaurant"
+
+#: includes/main-functions.php:989 installer.php:222
+msgid "Restaurants"
+msgstr "Restaurants"
+
+#: includes/main-functions.php:989 installer.php:222
+msgid "Groceries"
+msgstr "Lebensmittel"
+
+#: includes/main-functions.php:989 installer.php:222
+msgid "Food Trucks"
+msgstr "Lebensmittelwagen"
+
+#: includes/main-functions.php:1046
+msgid "plus"
+msgstr "plus"
+
+#: includes/main-functions.php:1050
+msgid ""
+"Here you can get statistics info on your sales. The results table is set by "
+"default to show sales for today, but you can see results for different "
+"periods as well. You can also click the print button if you wish to print "
+"current results."
+msgstr ""
+"Hier können Sie Statistiken über Ihre Verkäufe abrufen. Die Ergebnistabelle "
+"ist standardmäßig so eingestellt, dass der Umsatz für heute angezeigt wird, "
+"aber Sie können auch Ergebnisse für verschiedene Perioden sehen. Sie können "
+"auch auf die Schaltfläche Drucken klicken, wenn Sie die aktuellen Ergebnisse "
+"drucken möchten."
+
+#: includes/main-functions.php:1051
+#, php-format
+msgid ""
+"Whenever a customer makes an online payment for your products, we deduct %s "
+"from the order's total and save the remaining amount here in your account "
+"balance after the order status is changed to completed. Click the withdraw "
+"button if you wish to submit a withdrawal request."
+msgstr ""
+"Wann immer ein Kunde eine Online-Zahlung für Ihre Produkte tätigt, ziehen "
+"wir %s vom Gesamtbetrag der Bestellung ab und speichern den verbleibenden "
+"Betrag hier in Ihrem Kontostand, nachdem der Bestellstatus auf erledigt "
+"geändert wurde. Klicken Sie auf die Schaltfläche Abheben, wenn Sie einen "
+"Abhebungsantrag stellen möchten."
+
+#: includes/main-functions.php:1052
+msgid ""
+"This will show you a general count of your orders grouped by order status. "
+"You can click on the status title to navigate to the respective orders page."
+msgstr ""
+"Hier sehen Sie eine allgemeine Zählung Ihrer Bestellungen, gruppiert nach "
+"Bestellstatus. Sie können auf den Status-Titel klicken, um zur jeweiligen "
+"Bestellseite zu navigieren."
+
+#: includes/main-functions.php:1053
+msgid ""
+"Here you can get information on products having the most sales. This will "
+"help you in either improving or promoting other products that have low sales."
+msgstr ""
+"Hier können Sie sich über die umsatzstärksten Produkte informieren. Dies "
+"hilft Ihnen entweder bei der Verbesserung oder Förderung anderer Produkte, "
+"die einen geringen Umsatz haben."
+
+#: includes/main-functions.php:1054
+msgid ""
+"Here you can get information on top spending customers. This is only based "
+"on completed orders. This could be helpful if you wish to reward or provide "
+"them with special service."
+msgstr ""
+"Hier können Sie sich über die umsatzstärksten Kunden informieren. Diese "
+"basiert nur auf abgeschlossenen Aufträgen. Dies kann hilfreich sein, wenn "
+"Sie sie belohnen oder mit einem besonderen Service versehen möchten."
+
+#: includes/main-functions.php:1055
+msgid ""
+"This is the main page to view and manage your incoming orders. Orders are "
+"listed from oldest to newest. Whenever your shop is open, and you are in "
+"this page, the system will automatically update your orders list every "
+"minute. Click on \"Quick view\" to see the products list or click on the "
+"order number to view full details. Click on the action button to process the "
+"order by changing its status. You should only manage the orders that are in "
+"the \"processing\" list. The Orders that are in the \"On-hold\" or \"Pending"
+"\" status are still not paid, so please wait until they are moved to the "
+"processing orders list."
+msgstr ""
+"Dies ist die Hauptseite, auf der Sie Ihre eingehenden Bestellungen einsehen "
+"und verwalten können. Die Bestellungen werden von ältesten bis zu den "
+"neuesten aufgelistet. Wann immer Ihr Shop geöffnet ist und Sie sich auf "
+"dieser Seite befinden, wird das System Ihre Bestellliste automatisch jede "
+"Minute aktualisieren. Klicken Sie auf \"Schnellansicht\", um die "
+"Produktliste zu sehen, oder klicken Sie auf die Bestellnummer, um alle "
+"Details anzuzeigen. Klicken Sie auf die Aktionsschaltfläche, um den Auftrag "
+"zu bearbeiten, indem Sie seinen Status ändern. Sie sollten nur die Aufträge "
+"verwalten, die sich in der Liste \"Bearbeitung\" befinden. Die Aufträge, die "
+"sich im Status \"Zurückgestellt\" oder \"Ausstehend\" befinden, sind noch "
+"nicht bezahlt, also warten Sie bitte, bis sie in die Liste der "
+"Bearbeitungsaufträge aufgenommen werden."
+
+#: includes/main-functions.php:1056
+msgid "This is the total discount. Discounts are defined per line item."
+msgstr ""
+"Das ist der Gesamtrabatt. Einzelne Rabattbeträge sind pro Position pro Zeile "
+"angegeben."
+
+#: includes/main-functions.php:1057
+msgid ""
+"Add a note for your reference, or add a customer note (the customer will be "
+"notified)"
+msgstr ""
+"Fügen Sie eine Notiz zu Ihrer Referenz hinzu, oder fügen Sie eine "
+"Kundennotiz hinzu (der Kunde wird benachrichtigt)."
+
+#: includes/main-functions.php:1058
+msgid ""
+"Here you can add discount coupons on your products to encourage customers to "
+"make orders from your shop. You can also create discount coupons for only "
+"one specific loyal customer by setting the usage limit to 1 and disabling "
+"the \"Go public\" option, then you can send the code to the customer by "
+"email with a thank you message."
+msgstr ""
+"Hier können Sie Rabatt-Coupons für Ihre Produkte hinzufügen, um Kunden zu "
+"ermutigen, in Ihrem Shop zu bestellen. Sie können auch Rabattcoupons für nur "
+"einen bestimmten treuen Kunden erstellen, indem Sie das Nutzungslimit auf 1 "
+"setzen und die Option \"Go public\" deaktivieren, dann können Sie den Code "
+"per E-Mail mit einer Dankesnachricht an den Kunden senden."
+
+#: includes/main-functions.php:1059
+msgid ""
+"Customers will need the \"coupon code\" to benefit from the discount when "
+"they are in the cart or the checkout page. This \"coupon code\" will not "
+"appear to customers by default, you need to include it in the \"Coupon text "
+"to show\" field."
+msgstr ""
+"Kunden benötigen den \"Gutscheincode\", um von dem Rabatt zu profitieren, "
+"wenn sie sich im Warenkorb oder an der Kasse befinden. Dieser \"Gutscheincode"
+"\" wird den Kunden standardmäßig nicht angezeigt, Sie müssen ihn in das Feld "
+"\"Gutscheintext anzeigen\" einfügen."
+
+#: includes/main-functions.php:1060
+msgid "Type few lines about this coupon, describing why are you offering it."
+msgstr ""
+"Geben Sie einige Zeilen über diesen Gutschein ein und beschreiben Sie, warum "
+"Sie ihn anbieten."
+
+#: includes/main-functions.php:1061
+msgid ""
+"Set the amount or percentage to discount (depending on the discount type)."
+msgstr ""
+"Setzen Sie den Betrag oder Prozentsatz auf Rabatt (abhängig von der "
+"Rabattart)."
+
+#: includes/main-functions.php:1062
+msgid ""
+"White-list of customers emails to check against when an order is placed. "
+"Separate email addresses with commas. You can also use an asterisk (*) to "
+"match parts of an email. For example &quot;*@gmail.com&quot; would match all "
+"gmail addresses.."
+msgstr ""
+"Whitelist der Kunden-E-Mails, gegen die bei einer Bestellung geprüft werden "
+"kann. Trennen Sie E-Mail-Adressen durch Kommas. Sie können auch einen Stern "
+"(*) verwenden, um Teile einer E-Mail abzugleichen. Zum Beispiel &quot;"
+"*@gmail.com&quot; würde mit allen gmail-Adressen übereinstimmen...."
+
+#: includes/main-functions.php:1063
+msgid "How many times this coupon can be used before it becomes void?"
+msgstr ""
+"Wie oft kann dieser Gutschein verwendet werden, bevor er ungültig wird?"
+
+#: includes/main-functions.php:1064
+msgid ""
+"The maximum number of individual products that this coupon can apply to when "
+"using products discount. Leave it blank to apply to all qualifying products "
+"in cart."
+msgstr ""
+"Die maximale Anzahl der einzelnen Produkte, für die dieser Gutschein gelten "
+"kann, wenn Sie den Produktrabatt nutzen. Lassen Sie das Feld leer, um es auf "
+"alle qualifizierten Produkte im Warenkorb anzuwenden."
+
+#: includes/main-functions.php:1065
+msgid "How many times this coupon can be used by each individual user?"
+msgstr ""
+"Wie oft kann dieser Gutschein von jedem einzelnen Benutzer verwendet werden?"
+
+#: includes/main-functions.php:1066
+msgid ""
+"Products that the coupon will be applied to, or that need to be in the cart "
+"in order for the &quot;Fixed cart discount&quot; to be applied.."
+msgstr ""
+"Produkte, auf die der Gutschein angewendet wird oder die sich im Warenkorb "
+"befinden müssen, damit der &quot;Fixed Cart Discount&quot; angewendet werden "
+"kann...."
+
+#: includes/main-functions.php:1067
+msgid "Check this box if the coupon grants free delivery."
+msgstr ""
+"Markieren Sie dieses Feld, wenn der Gutschein eine kostenlose Lieferung "
+"ermöglicht."
+
+#: includes/main-functions.php:1068
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr ""
+"Aktivieren, wenn dieser Gutschein nicht zusammen mit anderen Gutscheinen "
+"verwendet werden darf."
+
+#: includes/main-functions.php:1069
+msgid ""
+"Check this box if the coupon should not apply to products with discounted "
+"price. Per-product coupons will only work if the product is not on it's "
+"discount price. Per-cart coupons will only work if there are no discounted "
+"products in the cart."
+msgstr ""
+"Markieren Sie dieses Feld, wenn der Gutschein nicht für Produkte mit Rabatt "
+"gelten soll. Gutscheine pro Produkt funktionieren nur, wenn das Produkt "
+"nicht auf dem Rabattpreis steht. Gutscheine pro Warenkorb funktionieren nur, "
+"wenn sich keine ermäßigten Produkte im Warenkorb befinden."
+
+#: includes/main-functions.php:1070
+msgid ""
+"This field allows you to set the minimum spend (subtotal) allowed to use the "
+"coupon."
+msgstr ""
+"Dieses Feld erlaubt Ihnen, die minimale Bestellsumme (Zwischensumme, "
+"inklusive Steuer) festzulegen, mit der dieser Coupon benutzt werden darf."
+
+#: includes/main-functions.php:1071
+msgid ""
+"This field allows you to set the maximum spend (subtotal) allowed when using "
+"the coupon."
+msgstr ""
+"Dieses Feld erlaubt Ihnen, die maximale Bestellsumme (Zwischensumme, "
+"inklusive Steuer) festzulegen, mit der dieser Coupon benutzt werden darf."
+
+#: includes/main-functions.php:1072
+msgid "Show the Coupon in your shop page?"
+msgstr "Gutschein in Ihrem Shop anzeigen?"
+
+#: includes/main-functions.php:1073
+msgid "Text to show in the coupon box on your shop page."
+msgstr "Text, der in der Gutschein-Box auf Ihrer Shop-Seite angezeigt wird."
+
+#: includes/main-functions.php:1074
+#, php-format
+msgid ""
+"From this page, you can submit money withdrawal requests and view your "
+"previous requests. Whenever an order status is changed to completed, the "
+"system will automatically create a withdrawal request for you. Before it has "
+"been Processed by the website admin you can manually cancel your request. If "
+"you have at least %1$s%2$s in your current balance you can make a withdrawal "
+"request."
+msgstr ""
+"Auf dieser Seite können Sie Geldabhebungsanträge stellen und Ihre früheren "
+"Anträge einsehen. Wann immer ein Bestellstatus auf abgeschlossen geändert "
+"wird, erstellt das System automatisch eine Auszahlungsanforderung für Sie. "
+"Bevor es vom Webmaster bearbeitet wurde, können Sie Ihre Anfrage manuell "
+"stornieren. Wenn Sie mindestens %1$s%2$s auf Ihrem aktuellen Kontostand "
+"haben, können Sie eine Auszahlungsanforderung stellen."
+
+#: includes/main-functions.php:1074
+#, php-format
+msgid ""
+"From this page, you can submit money withdrawal requests and view your "
+"previous requests. If you have at least %1$s%2$s in your account balance you "
+"can submit a withdrawal request."
+msgstr ""
+"Auf dieser Seite können Sie Geldabhebungsanträge stellen und Ihre früheren "
+"Anträge einsehen. Wenn Sie mindestens %1$s%2$s auf Ihrem Konto haben, können "
+"Sie eine Auszahlungsanfrage stellen."
+
+#: includes/main-functions.php:1075
+msgid ""
+"This is used to classify your shop type. You cannot change this option after "
+"registration."
+msgstr ""
+"Diese dient der Klassifizierung Ihres Shoptyps. Sie können diese Option nach "
+"der Registrierung nicht mehr ändern."
+
+#: includes/main-functions.php:1076
+msgid ""
+"This is your shop name which will appear in the vendor lists and in your "
+"shop's page."
+msgstr ""
+"Dies ist Ihr Shopname, der in den Verkäuferlisten und auf der Seite Ihres "
+"Shops erscheint."
+
+#: includes/main-functions.php:1077
+msgid "This is the phone number which will appear on your shop's contact form."
+msgstr ""
+"Dies ist die Telefonnummer, die auf dem Kontaktformular Ihres Shops "
+"erscheint."
+
+#: includes/main-functions.php:1078
+msgid ""
+"This is the shop's address which will appear in your shop's contact form and "
+"whenever customers choose to make 'Pickup', 'Dine-in', or 'Curbside' orders."
+msgstr ""
+"Dies ist die Adresse des Shops, die im Kontaktformular Ihres Shops angezeigt "
+"wird und immer dann, wenn der Kunde eine Bestellung über'Pickup','Dine-in' "
+"oder'Curbside' macht."
+
+#: includes/main-functions.php:1079
+msgid ""
+"Click on the map to set the exact location to your shop. This will allow "
+"customers to quickly get directions to your shop with Google Maps. In "
+"addition, this will be used to calculate delivery fees if you offer delivery "
+"service."
+msgstr ""
+"Klicken Sie auf die Karte, um den genauen Standort Ihres Shops festzulegen. "
+"So können Kunden mit Google Maps schnell den Weg zu Ihrem Shop finden. "
+"Darüber hinaus werden die Versandkosten berechnet, wenn Sie einen "
+"Lieferservice anbieten."
+
+#: includes/main-functions.php:1080
+msgid ""
+"Type services/foods that you provide separated with a comma or click on "
+"value if appeared in the predictions list. Values here are used in vendors "
+"searching tools. i.e: Indian, Chinese, Thai, barbecue, meats, fish, "
+"seafoods, pet-foods, snack-foods."
+msgstr ""
+"Geben Sie Services/Lebensmittel ein, die Sie getrennt durch ein Komma "
+"angeben, oder klicken Sie auf den Wert, wenn er in der Prognoseliste "
+"erscheint. Die Werte hier werden bei der Lieferantensuche verwendet. z.B.: "
+"Indisch, Chinesisch, Thailändisch, Grillen, Fleisch, Fisch, Meeresfrüchte, "
+"Tiernahrung, Snack-Foods."
+
+#: includes/main-functions.php:1081
+msgid "Select food types available in your shop."
+msgstr "Wählen Sie die in Ihrem Shop erhältlichen Lebensmittel aus."
+
+#: includes/main-functions.php:1082
+msgid ""
+"When this is selected, customers will be able to send you email messages "
+"from your shop page."
+msgstr ""
+"Wenn diese Option ausgewählt ist, können Kunden Ihnen E-Mail-Nachrichten von "
+"Ihrer Shop-Seite aus senden."
+
+#: includes/main-functions.php:1083
+msgid ""
+"If you offer products/foods on specific timings, then you should use menus "
+"to avoid customers from ordering products at the time that you do not offer "
+"them. After you create menus here, a new option called \"Linked Menus\" will "
+"appear in the products add/edit form where you can link the product to a "
+"specific menu or multiple menus."
+msgstr ""
+"Wenn Sie Produkte/Lebensmittel zu bestimmten Zeiten anbieten, sollten Sie "
+"Menüs verwenden, um zu vermeiden, dass Kunden Produkte zu dem Zeitpunkt "
+"bestellen, zu dem Sie sie nicht anbieten. Nachdem Sie hier Menüs erstellt "
+"haben, erscheint eine neue Option namens \"Verknüpfte Menüs\" im Formular "
+"Produkte hinzufügen/bearbeiten, wo Sie das Produkt mit einem bestimmten Menü "
+"oder mehreren Menüs verknüpfen können."
+
+#: includes/main-functions.php:1084
+msgid ""
+"Select a name for this menu. This will appear in your shop page with timings "
+"below."
+msgstr ""
+"Wählen Sie einen Namen für dieses Menü. Dieser erscheint auf Ihrer Shop-"
+"Seite mit den folgenden Zeitangaben."
+
+#: includes/main-functions.php:1085
+msgid ""
+"When do you start offering products linked to this menu? if your browser "
+"does not support time inputs please enter the time in 24 hour format like: "
+"16:30"
+msgstr ""
+"Wenn Ihr Browser keine Zeiteingabe unterstützt, geben Sie bitte die Uhrzeit "
+"im 24-Stunden-Format ein: 16:30"
+
+#: includes/main-functions.php:1086
+msgid ""
+"When do you end offering products linked to this menu? if your browser does "
+"not support time inputs please enter the time in 24 hour format like: 18:50"
+msgstr ""
+"Wenn Ihr Browser keine Zeiteingaben unterstützt, geben Sie bitte die Uhrzeit "
+"im 24-Stunden-Format ein: 18:50"
+
+#: includes/main-functions.php:1087
+msgid "What are the order types you accept when your shop is open (online)?"
+msgstr ""
+"Welche Bestellarten akzeptieren Sie, wenn Ihr Shop geöffnet ist (online)?"
+
+#: includes/main-functions.php:1088
+msgid ""
+"Selecting this option will allow customers to create pre-orders to be "
+"processed when your shop is open."
+msgstr ""
+"Wenn Sie diese Option wählen, können Kunden Vorbestellungen erstellen, die "
+"bei geöffnetem Shop bearbeitet werden."
+
+#: includes/main-functions.php:1089
+msgid "What are the order types you accept when your shop is closed (offline)?"
+msgstr ""
+"Welche Bestellarten akzeptieren Sie, wenn Ihr Shop geschlossen ist (offline)?"
+
+#: includes/main-functions.php:1090
+msgid ""
+"If you offer delivery service click on the map to start drawing a polygon "
+"that covers the area where you can offer delivery service. Click on the X "
+"button on the right to clear the drawing."
+msgstr ""
+"Wenn Sie einen Lieferservice anbieten, klicken Sie auf die Karte, um ein "
+"Polygon zu zeichnen, das den Bereich abdeckt, in dem Sie den Lieferservice "
+"anbieten können. Klicken Sie auf die Schaltfläche X auf der rechten Seite, "
+"um die Zeichnung zu löschen."
+
+#: includes/main-functions.php:1091
+msgid ""
+"Do you want to calculate the delivery fee separately for each individual "
+"product or as per order?"
+msgstr ""
+"Möchten Sie die Versandkosten für jedes einzelne Produkt einzeln oder "
+"auftragsbezogen berechnen?"
+
+#: includes/main-functions.php:1092
+#, php-format
+msgid ""
+"Enter your delivery fee per %s. The system will use this to calculate the "
+"delivery fee depending on the distance from your shop to customer location."
+msgstr ""
+"Geben Sie Ihre Versandkosten pro %s ein. Das System berechnet daraus die "
+"Versandkosten in Abhängigkeit von der Entfernung von Ihrem Geschäft zum "
+"Kunden."
+
+#: includes/main-functions.php:1093
+msgid "Delivery fee per additional product after the first product."
+msgstr "Versandkosten pro zusätzliches Produkt nach dem ersten Produkt."
+
+#: includes/main-functions.php:1094
+msgid ""
+"What is the minimum order amount to allow customers to make delivery orders?"
+msgstr ""
+"Wie hoch ist der Mindestbestellwert, damit die Kunden Lieferaufträge "
+"ausführen können?"
+
+#: includes/main-functions.php:1095
+msgid ""
+"Enter values below if you wish to set different delivery fees whenever you "
+"are having a number of processing orders, or set \"Processing Orders\" to 0 "
+"if you do not wish to use different delivery fees."
+msgstr ""
+"Geben Sie untenstehende Werte ein, wenn Sie bei mehreren "
+"Bearbeitungsaufträgen unterschiedliche Versandkosten festlegen möchten, oder "
+"setzen Sie \"Bearbeitungsaufträge\" auf 0, wenn Sie keine unterschiedlichen "
+"Versandkosten verwenden möchten."
+
+#: includes/main-functions.php:1096
+msgid ""
+"How many processing orders you should be having before using these delivery "
+"fees on new orders?"
+msgstr ""
+"Wie viele Bearbeitungsaufträge sollten Sie haben, bevor Sie diese "
+"Liefergebühren für neue Bestellungen verwenden?"
+
+#: includes/main-functions.php:1097
+msgid "Add a notice or announcement on your shop page."
+msgstr ""
+"Fügen Sie einen Hinweis oder eine Ankündigung auf Ihrer Shop-Seite hinzu."
+
+#: includes/main-functions.php:1098
+msgid ""
+"If you have accounts on social media you can add their links here. Social "
+"icons will appear on your shop page header."
+msgstr ""
+"Wenn Sie Konten auf Social Media haben, können Sie hier ihre Links "
+"hinzufügen. Soziale Symbole werden auf Ihrer Shopseite angezeigt."
+
+#: includes/main-functions.php:1099
+msgid ""
+"The system will use these timing settings to open or close your shop "
+"automatically every day. However, you can at any time manually set your shop "
+"to opened (online) or closed (offline) by clicking on the shop icon in the "
+"top bar."
+msgstr ""
+"Das System verwendet diese Zeiteinstellungen, um Ihren Shop jeden Tag "
+"automatisch zu öffnen oder zu schließen. Sie können Ihren Shop jedoch "
+"jederzeit manuell auf geöffnet (online) oder geschlossen (offline) setzen, "
+"indem Sie auf das Shop-Icon in der oberen Leiste klicken."
+
+#: includes/main-functions.php:1100
+msgid ""
+"Click open if your shop will open in this day, and enter the opening and "
+"closing timings. Please note here that the opening and closing timings must "
+"be within the same day. i.e if your shop will open from (08:00 pm) till "
+"(02:00 am) which means it will close at the next day, you should set the "
+"timing for today from 08:00 pm (20:00) till 11:59 pm (23:59) and set the "
+"remaining two hours in the \"First Shift\" timing fields of the next day."
+msgstr ""
+"Klicken Sie auf Öffnen, wenn Ihr Shop an diesem Tag geöffnet wird, und geben "
+"Sie die Öffnungs- und Schließzeiten ein. Bitte beachten Sie, dass die "
+"Öffnungs- und Schließzeiten innerhalb desselben Tages liegen müssen, d.h. "
+"wenn Ihr Shop von 20:00 Uhr bis 02:00 Uhr geöffnet wird, d.h. am nächsten "
+"Tag schließt, sollten Sie die Zeit für heute von 20:00 Uhr bis 23:59 Uhr "
+"einstellen und die restlichen zwei Stunden in den Zeitfeldern \"Erste Schicht"
+"\" des nächsten Tages einstellen."
+
+#: includes/main-functions.php:1101 includes/main-functions.php:1247
+msgid ""
+"If your browser does not support the \"time\" inputs please enter the time "
+"in 24 hour format like: 16:20"
+msgstr ""
+"Falls Ihr Browser die \"time\"-Eingaben nicht unterstützt, geben Sie bitte "
+"die Uhrzeit im 24-Stunden-Format ein: 16:20"
+
+#: includes/main-functions.php:1102
+msgid ""
+"Do you close on national holidays or some special events? if yes, please "
+"enter days when you will not be available."
+msgstr ""
+"Schließen Sie an Feiertagen oder an besonderen Anlässen? Wenn ja, geben Sie "
+"bitte Tage ein, an denen Sie nicht erreichbar sind."
+
+#: includes/main-functions.php:1103
+msgid "Details here are used in withdrawal requests."
+msgstr "Details hier werden in Auszahlungsanfragen verwendet."
+
+#: includes/main-functions.php:1104
+msgid ""
+"All products available on your online shop are listed here. By default, "
+"products are marked as \"online\" after posting them which means they are "
+"visible on your shop page."
+msgstr ""
+"Alle in Ihrem Online-Shop erhältlichen Produkte sind hier aufgelistet. "
+"Standardmäßig werden Produkte nach der Veröffentlichung als \"online\" "
+"gekennzeichnet, d.h. sie sind auf Ihrer Shop-Seite sichtbar."
+
+#: includes/main-functions.php:1105
+msgid ""
+"Describe this product in few words. This will appear in the product full "
+"page."
+msgstr ""
+"Beschreiben Sie dieses Produkt in wenigen Worten. Diese wird auf der ganzen "
+"Seite des Produkts angezeigt."
+
+#: includes/main-functions.php:1106
+msgid ""
+"Type the categories this product belongs to, hit the comma button on your "
+"keyboard after typing each category name or click on the category name if "
+"appeared in the predictions list. The system will use the products "
+"categories to group products on your shop page."
+msgstr ""
+"Geben Sie die Kategorien ein, zu denen dieses Produkt gehört, drücken Sie "
+"die Komma-Schaltfläche auf Ihrer Tastatur, nachdem Sie jeden Kategorienamen "
+"eingegeben haben, oder klicken Sie auf den Kategorienamen, wenn er in der "
+"Liste der Vorhersagen erscheint. Das System verwendet die Produktkategorien, "
+"um Produkte auf Ihrer Shop-Seite zu gruppieren."
+
+#: includes/main-functions.php:1107
+msgid ""
+"Select the menu that includes this product. press ‘ctrl’ on your keyboard "
+"and click to select multiple menus."
+msgstr ""
+"Wählen Sie das Menü, das dieses Produkt enthält. Drücken Sie auf Ihrer "
+"Tastatur die Taste \"Strg\" und klicken Sie, um mehrere Menüs auszuwählen."
+
+#: includes/main-functions.php:1108
+msgid ""
+"Type the main ingredients of the product so customers can see them before "
+"ordering. This information helps avoiding complains and bad reviews. Hit the "
+"comma button after typing each ingredient or select from the predictions "
+"list."
+msgstr ""
+"Geben Sie die Hauptbestandteile des Produkts ein, damit der Kunde sie vor "
+"der Bestellung sehen kann. Diese Informationen helfen, Beschwerden und "
+"schlechte Bewertungen zu vermeiden. Drücken Sie die Komma-Schaltfläche, "
+"nachdem Sie jeden Inhaltsstoff eingegeben haben, oder wählen Sie aus der "
+"Liste der Vorhersagen."
+
+#: includes/main-functions.php:1109
+msgid ""
+"Enter the time required to prepare/handle this product for delivery, pickup, "
+"dine-in, and curbside. Leave 0 for immediately."
+msgstr ""
+"Geben Sie die Zeit ein, die benötigt wird, um dieses Produkt für die "
+"Lieferung, Abholung, das Abendessen und den Bordstein vorzubereiten/zu "
+"bearbeiten. Lassen Sie 0 sofort stehen."
+
+#: includes/main-functions.php:1110
+msgid ""
+"The maximum numbers of orders that can be made for this product each day. "
+"leave 0 for unlimited number of orders."
+msgstr ""
+"Die maximale Anzahl von Bestellungen, die für dieses Produkt jeden Tag "
+"gemacht werden können. Lassen Sie 0 für eine unbegrenzte Anzahl von "
+"Bestellungen übrig."
+
+#: includes/main-functions.php:1111
+msgid ""
+"A complete description on the product. This will appear in the product's "
+"full page."
+msgstr ""
+"Eine vollständige Beschreibung des Produkts. Diese wird auf der ganzen Seite "
+"des Produkts angezeigt."
+
+#: includes/main-functions.php:1112
+msgid ""
+"Check this box if the product is available in different sizes, flavors ..."
+"etc or comes with different add-ons, drinks or side items."
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn das Produkt in verschiedenen "
+"Größen, Geschmacksrichtungen usw. erhältlich ist oder mit verschiedenen Add-"
+"ons, Getränken oder Beilagen geliefert wird."
+
+#: includes/main-functions.php:1113
+msgid "This variation can be edited from the admin side only."
+msgstr "Diese Variante kann nur von der Admin-Seite aus bearbeitet werden."
+
+#: includes/main-functions.php:1114
+msgid ""
+"Name of the variation family. i.e: Select Size, Choose Flavor, Choose a "
+"Drink, ...etc"
+msgstr ""
+"Name der Variationsfamilie, d.h.: Größe auswählen, Geschmack auswählen, "
+"Getränk auswählen, ...etc."
+
+#: includes/main-functions.php:1115
+msgid ""
+"Values of the variation family. i.e: if \"choose of protein\" was the "
+"variation name, then the values could be: pork | beef | chicken. Please "
+"separate the values by |"
+msgstr ""
+"Werte der Variationsfamilie, d.h.: wenn \"choose of protein\" der "
+"Variationsname war, dann könnten die Werte sein: Schweinefleisch | "
+"Rindfleisch | Huhn. Bitte trennen Sie die Werte durch |"
+
+#: includes/main-functions.php:1116
+msgid ""
+"Describe this variation in few words. i.e: Explain what the customer will "
+"get when choosing this option or how this option is different from other "
+"options."
+msgstr ""
+"Beschreiben Sie diese Variante in wenigen Worten. z.B.: Erklären Sie, was "
+"der Kunde bei der Auswahl dieser Option erhält oder wie sich diese Option "
+"von anderen Optionen unterscheidet."
+
+#: includes/main-functions.php:1117
+msgid ""
+"Specify the quantity the customer MUST buy to benefit from this promotion. "
+"Please note here that the customer must buy the exact quantity, no more, no "
+"less."
+msgstr ""
+"Geben Sie die Menge an, die der Kunde kaufen MUSS, um von dieser Aktion zu "
+"profitieren. Bitte beachten Sie, dass der Kunde die genaue Menge kaufen "
+"muss, nicht mehr und nicht weniger."
+
+#: includes/main-functions.php:1118
+msgid ""
+"This indicates the promotion type. If a free product is selected the product "
+"will be added as a detail under the main product after the customer make a "
+"purchase and not as a separated cart product."
+msgstr ""
+"Dies gibt die Aktionsart an. Wenn ein freies Produkt ausgewählt wird, wird "
+"das Produkt als Detail unter dem Hauptprodukt hinzugefügt, nachdem der Kunde "
+"einen Kauf getätigt hat und nicht als separates Warenkorb-Produkt."
+
+#: includes/main-functions.php:1119
+msgid ""
+"Specify the discount amount in percentage to deduct from the main product "
+"price."
+msgstr ""
+"Geben Sie den Rabattbetrag in Prozent an, der vom Hauptproduktpreis "
+"abgezogen werden soll."
+
+#: includes/main-functions.php:1120
+msgid "Select the free product the customer will get from this promotion."
+msgstr ""
+"Wählen Sie das kostenlose Produkt, das der Kunde von dieser Aktion erhält."
+
+#: includes/main-functions.php:1121
+msgid ""
+"The \"Up-sell Products\" are those products that you recommend to the "
+"customer instead of the currently viewed product. i.e: You can select some "
+"products that have a discount price or newly added products or products that "
+"have promotions. This is useful to convince your customers to test other "
+"products that have low sales."
+msgstr ""
+"Die \"Up-Sell-Produkte\" sind die Produkte, die Sie dem Kunden anstelle des "
+"aktuell betrachteten Produkts empfehlen. d.h. Sie können einige Produkte mit "
+"einem Rabattpreis oder neu hinzugefügte Produkte oder Produkte mit "
+"Werbeaktionen auswählen. Dies ist nützlich, um Ihre Kunden davon zu "
+"überzeugen, andere Produkte mit geringem Umsatz zu testen."
+
+#: includes/main-functions.php:1122
+msgid ""
+"The \"Cross-sell Products\" are those products that you promote to customers "
+"when they are viewing their shopping cart. You can add products that you "
+"would wish your customers to buy when they have bought this product."
+msgstr ""
+"Die \"Cross-Sell-Produkte\" sind die Produkte, die Sie Ihren Kunden "
+"anbieten, wenn sie ihren Warenkorb ansehen. Sie können Produkte hinzufügen, "
+"die Ihre Kunden kaufen sollen, wenn sie dieses Produkt gekauft haben."
+
+#: includes/main-functions.php:1123
+msgid ""
+"All users registered as \"seller\" are listed and managed from this page. "
+"This is the main page to activate or deactivate selling privileges for newly "
+"registered vendors unless you have chosen to automatically activate them "
+"from the admin settings. You can also click on the vendor email address to "
+"send them an email message directly from here."
+msgstr ""
+"Alle als \"Verkäufer\" registrierten Benutzer werden auf dieser Seite "
+"aufgelistet und verwaltet. Dies ist die Hauptseite zum Aktivieren oder "
+"Deaktivieren von Verkaufsprivilegien für neu registrierte Anbieter, es sei "
+"denn, Sie haben diese automatisch in den Admin-Einstellungen aktiviert. Sie "
+"können auch auf die E-Mail-Adresse des Anbieters klicken, um ihm direkt von "
+"hier aus eine E-Mail zu senden."
+
+#: includes/main-functions.php:1124
+msgid ""
+"When a vendor selling privileges is deactivated, their shop page and "
+"products will be hidden from customers but not deleted. Yet previous and "
+"current orders will still appear to customers but the vendor will no longer "
+"be able to manage or process them. To completely remove a vendor and his "
+"products, delete the vendor (user) from the \"users page\" in the WordPress "
+"admin."
+msgstr ""
+"Wenn ein Verkäufer seine Verkaufsprivilegien deaktiviert, werden seine Shop-"
+"Seite und seine Produkte vor den Kunden versteckt, aber nicht gelöscht. "
+"Bisherige und aktuelle Bestellungen werden den Kunden zwar noch angezeigt, "
+"aber der Lieferant kann sie nicht mehr verwalten oder bearbeiten. Um einen "
+"Anbieter und seine Produkte vollständig zu entfernen, löschen Sie den "
+"Anbieter (Benutzer) von der \"Benutzerseite\" im WordPress-Administrator."
+
+#: includes/main-functions.php:1125
+msgid ""
+"This will send an email message using your admin email address as sender."
+msgstr ""
+"Dadurch wird eine E-Mail-Nachricht mit Ihrer Admin-E-Mail-Adresse als "
+"Absender gesendet."
+
+#: includes/main-functions.php:1126
+msgid "The minimum amount of the order to make a delivery order."
+msgstr "Der Mindestbestellwert für einen Lieferauftrag."
+
+#: includes/main-functions.php:1127
+msgid ""
+"When customer adds more than one of your products to cart, the system will "
+"calculate the preparation time for the order by getting the longest product "
+"preparation time multiplied by a percentage of the preparation time of other "
+"products. i.e. if you set 25, and customer has added two of your products, "
+"one has 15 mins and the second have 7 mins preparation time, the total "
+"preparation time for the order will be 17 mins"
+msgstr ""
+"Wenn der Kunde mehr als eines seiner Produkte in den Warenkorb legt, "
+"berechnet das System die Vorbereitungszeit für die Bestellung, indem es die "
+"längste Produktvorbereitungszeit multipliziert mit einem Prozentsatz der "
+"Vorbereitungszeit anderer Produkte erhält. Wenn Sie also 25 einstellen und "
+"der Kunde zwei Ihrer Produkte hinzugefügt hat, hat eines 15 Minuten und das "
+"andere 7 Minuten Vorbereitungszeit, beträgt die gesamte Vorbereitungszeit "
+"für die Bestellung 17 Minuten."
+
+#: includes/main-functions.php:1130
+msgid ""
+"Here you can get statistics info of your vendors sales. By default, you will "
+"see results for all vendors, but you can select to see results for an "
+"individual vendor as well. The results table is set by default to show sales "
+"for today, but you can see results for different periods as well. You can "
+"also click the print button if you wish to print the current results."
+msgstr ""
+"Hier können Sie Statistiken über die Verkäufe Ihrer Lieferanten abrufen. "
+"Standardmäßig werden Ergebnisse für alle Lieferanten angezeigt, aber Sie "
+"können auch die Ergebnisse für einen einzelnen Lieferanten auswählen. Die "
+"Ergebnistabelle ist standardmäßig so eingestellt, dass der Umsatz für heute "
+"angezeigt wird, aber Sie können auch Ergebnisse für verschiedene Perioden "
+"sehen. Sie können auch auf die Schaltfläche Drucken klicken, wenn Sie die "
+"aktuellen Ergebnisse drucken möchten."
+
+#: includes/main-functions.php:1131
+msgid ""
+"This will show you a general count of all orders made on your website "
+"grouped by order status. You can click on the status title to navigate to "
+"the respective orders page."
+msgstr ""
+"Dies zeigt Ihnen eine allgemeine Zählung aller auf Ihrer Website getätigten "
+"Bestellungen, gruppiert nach Bestellstatus. Sie können auf den Status-Titel "
+"klicken, um zur jeweiligen Bestellseite zu navigieren."
+
+#: includes/main-functions.php:1132
+msgid ""
+"Here you can get information on products having the most sales on your "
+"website."
+msgstr ""
+"Hier können Sie sich über die umsatzstärksten Produkte auf Ihrer Website "
+"informieren."
+
+#: includes/main-functions.php:1133
+msgid ""
+"This is the main page to monitor your vendors incoming orders. Orders are "
+"listed from oldest to newest. Whenever you are in this page, the system will "
+"automatically update the orders list every minute. By default, you are only "
+"supposed to monitor and remind your vendors if some orders are taking too "
+"long to process. In addition of managing \"on-hold orders\" which are still "
+"not paid."
+msgstr ""
+"Dies ist die Hauptseite, um den Auftragseingang Ihrer Lieferanten zu "
+"überwachen. Die Bestellungen werden von ältesten bis zu den neuesten "
+"aufgelistet. Wenn Sie sich auf dieser Seite befinden, aktualisiert das "
+"System automatisch jede Minute die Auftragsliste. Standardmäßig sollten Sie "
+"Ihre Lieferanten nur dann überwachen und daran erinnern, wenn die "
+"Bearbeitung einiger Bestellungen zu lange dauert. Zusätzlich zur Verwaltung "
+"von \"Warteaufträgen\", die noch nicht bezahlt sind."
+
+#: includes/main-functions.php:1134
+msgid ""
+"Vendors can create discount coupons to increase sales and drive traffic on "
+"their products or reward some customers. As an admin you will not be able to "
+"add coupons but only view existing ones and edit or delete them."
+msgstr ""
+"Anbieter können Rabattcoupons erstellen, um den Umsatz zu steigern und den "
+"Traffic ihrer Produkte zu steigern oder einige Kunden zu belohnen. Als Admin "
+"können Sie keine Coupons hinzufügen, sondern nur bestehende ansehen, "
+"bearbeiten oder löschen."
+
+#: includes/main-functions.php:1139 includes/main-functions.php:1332
+msgid "Click for more info..."
+msgstr "Klicken Sie hier für weitere Informationen...."
+
+#: includes/main-functions.php:1184
+msgid "ERROR:"
+msgstr "Fehler:"
+
+#: includes/main-functions.php:1186
+msgid "Something went wrong"
+msgstr "Leider ist ein Fehler aufgetreten"
+
+#: includes/main-functions.php:1201
+msgid "Vendors"
+msgstr "Verkäufer"
+
+#: includes/main-functions.php:1245
+msgid "Choose a time between"
+msgstr "Wählen Sie eine Zeit zwischen"
+
+#: includes/main-functions.php:1247
+msgid "Select the time to start preparing/handling this order."
+msgstr ""
+"Wählen Sie die Zeit, zu der Sie mit der Vorbereitung/Bearbeitung dieses "
+"Auftrags beginnen möchten."
+
+#: includes/print-functions.php:39
+msgid ""
+"Net profit from completed orders after all sellers commissions are paid."
+msgstr ""
+"Nettogewinn aus abgeschlossenen Aufträgen nach Auszahlung aller "
+"Verkäuferprovisionen."
+
+#: includes/print-functions.php:39
+msgid "Net of any withdrawals made during this period."
+msgstr "Nach Abzug der in diesem Zeitraum getätigten Abhebungen."
+
+#: includes/print-functions.php:43
+msgid "All Time:"
+msgstr "Die ganze Zeit:"
+
+#: includes/print-functions.php:46
+msgid "Today:"
+msgstr "Heute:"
+
+#: includes/print-functions.php:49
+msgid "This Week:"
+msgstr "Diese Woche:"
+
+#: includes/print-functions.php:52
+msgid "This Month:"
+msgstr "Diesen Monat:"
+
+#: includes/print-functions.php:58
+msgid "This Year:"
+msgstr "Dieses Jahr:"
+
+#: includes/print-functions.php:73
+msgid "General Summary Report"
+msgstr "Allgemeiner zusammenfassender Bericht"
+
+#: includes/print-functions.php:73
+msgid "Beta"
+msgstr "Beta"
+
+#: includes/print-functions.php:79
+msgid "Vendor:"
+msgstr "Verkäufer:"
+
+#: includes/print-functions.php:80
+#: templates/views/html-dashboard-orders-single-customer_details.php:35
+msgid "Address:"
+msgstr "Anschrift:"
+
+#: includes/print-functions.php:99
+msgid "This seller has not set up this type of address yet."
+msgstr "Dieser Verkäufer hat diese Art von Adresse noch nicht eingerichtet."
+
+#: includes/print-functions.php:101
+msgid "You have not set up this type of address yet."
+msgstr "Sie haben bisher keine Adresse dieser Art erstellt."
+
+#: includes/print-functions.php:108
+msgid "The Report is based on all sellers activity."
+msgstr "Der Bericht basiert auf den Aktivitäten aller Verkäufer."
+
+#: includes/print-functions.php:111
+msgid "Period:"
+msgstr "Zeitraum:"
+
+#: includes/print-functions.php:120
+msgid "Income Summary to Earnings Account"
+msgstr "Ertragsübersicht zur Ertragsrechnung"
+
+#: includes/print-functions.php:127
+msgid "Total Orders:"
+msgstr "Aufträge gesamt:"
+
+#: includes/print-functions.php:132
+msgid "Total \"Pending\" Orders:"
+msgstr "Total \"Schwebende\" Aufträge:"
+
+#: includes/print-functions.php:136
+msgid "Total \"Processing\" Orders:"
+msgstr "Total \"Bearbeitung\" Aufträge:"
+
+#: includes/print-functions.php:140
+msgid "Total \"on-hold\" Orders:"
+msgstr "Total \"in der Warteschleife\" Aufträge:"
+
+#: includes/print-functions.php:144
+msgid "Total \"Cancelled\" Orders:"
+msgstr "Total \"Stornierte\" Aufträge:"
+
+#: includes/print-functions.php:148
+msgid "Total refunded Orders:"
+msgstr "Total erstattete Bestellungen:"
+
+#: includes/print-functions.php:153
+msgid "Total Coupons Usage:"
+msgstr "Gesamte Nutzung der Coupons:"
+
+#: includes/print-functions.php:165
+#: templates/views/html-dashboard-orders-list.php:20
+#: templates/views/html-dashboard-orders-single-items.php:21
+msgid "Total"
+msgstr "Gesamt"
+
+#: includes/print-functions.php:165
+#: templates/views/html-dashboard-home-totals-table.php:27
+msgid "Fees"
+msgstr "Gebühren"
+
+#: includes/print-functions.php:165
+#: templates/views/html-dashboard-home-totals-table.php:27
+msgid "Seller Fees"
+msgstr "Verkäufer Gebühren"
+
+#: includes/print-functions.php:173
+msgid "Total:"
+msgstr "Gesamt:"
+
+#: includes/print-functions.php:176
+msgid "Total Withdrawals:"
+msgstr "Total Auszahlungen:"
+
+#: includes/print-functions.php:177
+msgid "Actual Balance in Account:"
+msgstr "Tatsächlicher Saldo auf dem Konto:"
+
+#: includes/print-functions.php:177
+msgid "- Exclusive of Tax"
+msgstr "- Exklusive Steuern"
+
+#: includes/print-functions.php:187
+msgid "Profits are only gained from completed orders."
+msgstr "Gewinne werden nur aus abgeschlossenen Aufträgen erzielt."
+
+#: includes/print-functions.php:196
+msgid "Summary Sales Report."
+msgstr "Zusammenfassender Umsatzbericht."
+
+#: includes/print-functions.php:328
+#: templates/views/html-dashboard-orders-list-row_actions.php:28
+msgid "Print"
+msgstr "Drucken"
+
+#: installer.php:71
+msgid "Seller"
+msgstr "Verkäufer"
+
+#: installer.php:168 installer.php:200
+msgid ""
+"Norsani highly depends on WooCommrce plugin which could not be automatically "
+"activated. Please activate WooCommerce manually and try again."
+msgstr ""
+"Norsani ist stark abhängig vom WooCommrce-Plugin, das nicht automatisch "
+"aktiviert werden konnte. Bitte aktivieren Sie WooCommerce manuell und "
+"versuchen Sie es erneut."
+
+#: installer.php:169 installer.php:180 installer.php:194 installer.php:201
+msgid "Norsani Install Error"
+msgstr "Norsani Installationsfehler"
+
+#: installer.php:179
+msgid ""
+"Norsani highly depends on the 'WooCommrce' plugin which we couldn't "
+"automatically install and activate. Please install and activate "
+"'WooCommerce' manually and try again."
+msgstr ""
+"Norsani hängt sehr stark vom'WooCommrce'-Plugin ab, das wir nicht "
+"automatisch installieren und aktivieren konnten. Bitte installieren und "
+"aktivieren Sie'WooCommerce' manuell und versuchen Sie es erneut."
+
+#: installer.php:193
+msgid ""
+"Norsani highly depends on WooCommrce plugin which could not be automatically "
+"installed and activated. Please install and actiavte WooCommerce manually "
+"and try again."
+msgstr ""
+"Norsani ist stark abhängig vom WooCommrce-Plugin, das nicht automatisch "
+"installiert und aktiviert werden konnte. Bitte installieren und aktivieren "
+"Sie WooCommerce manuell und versuchen Sie es erneut."
+
+#: installer.php:256 installer.php:272 installer.php:289
+msgid ""
+"This page is used by Norsani. You can freely change this text but please do "
+"NOT delete the page."
+msgstr ""
+"Diese Seite wird von Norsani verwendet. Sie können diesen Text frei ändern, "
+"aber bitte löschen Sie die Seite NICHT."
+
+#: norsani-options.php:14 norsani-options.php:15 norsani-options.php:38
+msgid "Norsani Settings"
+msgstr "Norsani Einstellungen"
+
+#: norsani-options.php:19
+msgid "Vendors Addresses"
+msgstr "Lieferantenadressen"
+
+#: norsani-options.php:20
+msgid "Vendors Tags"
+msgstr "Verkäufer-Tags"
+
+#: norsani-options.php:21
+msgid "Help"
+msgstr "Hilfe"
+
+#: norsani-options.php:21 norsani-options.php:42
+msgid "Norsani Help Center"
+msgstr "Norsani Hilfe-Center"
+
+#: norsani-options.php:32
+msgid "Thank you for activating a Norsani theme."
+msgstr "Vielen Dank, dass Sie ein Norsani-Thema aktiviert haben."
+
+#: norsani-options.php:34
+msgid "Thank you for installing a Norsani theme."
+msgstr "Vielen Dank, dass Sie ein Norsani-Thema installiert haben."
+
+#: norsani-options.php:38
+#, php-format
+msgid ""
+"Norsani was installed successfully. You are almost ready to start your "
+"business. To completely become ready, please go through %1$s, and if you "
+"have not yet setup WooCommerce, please run the %2$s"
+msgstr ""
+"Norsani wurde erfolgreich installiert. Sie sind fast bereit, Ihr Unternehmen "
+"zu gründen. Um vollständig bereit zu werden, gehen Sie bitte %1$s durch, und "
+"wenn Sie WooCommerce noch nicht eingerichtet haben, führen Sie bitte die "
+"%2$s aus."
+
+#: norsani-options.php:38
+msgid "WooCommerce setup wizard"
+msgstr "WooCommerce Einrichtungsassistent"
+
+#: norsani-options.php:47
+msgid "Questions & Answers."
+msgstr "Fragen & Antworten."
+
+#: norsani-options.php:49
+msgid "Suggest a Question"
+msgstr "Eine Frage vorschlagen"
+
+#: norsani-options.php:50
+msgid "Didn't find your question? Send it to us as a suggestion to add it."
+msgstr ""
+"Sie haben Ihre Frage nicht gefunden? Senden Sie es uns als Vorschlag, es "
+"hinzuzufügen."
+
+#: norsani-options.php:53
+msgid "Type Question Here .."
+msgstr "Geben Sie hier eine Frage ein...."
+
+#: norsani-options.php:54 templates/vendors-registration.php:388
+#: templates/views/html-vendor-store_rating.php:42
+msgid "Submit"
+msgstr "Senden"
+
+#: norsani-options.php:66
+msgid "Vendor registration page was not found"
+msgstr "Die Seite zur Herstellerregistrierung wurde nicht gefunden."
+
+#: norsani-options.php:67
+msgid "Vendors list page was not found"
+msgstr "Die Seite mit der Lieferantenliste wurde nicht gefunden."
+
+#: norsani-options.php:68
+msgid "Sellers page in Admin's dashboard was not found"
+msgstr "Die Verkäuferseite im Dashboard des Admin wurde nicht gefunden."
+
+#: norsani-options.php:84
+msgid ""
+"Your current theme dose not support Norsani. Please Install and Activate a "
+"theme that support Norsani."
+msgstr ""
+"Deine aktuelle Themendosis unterstützt Norsani nicht. Bitte installieren und "
+"aktivieren Sie ein Design, das Norsani unterstützt."
+
+#: norsani-options.php:90
+msgid "Please enter your Google API Key"
+msgstr "Bitte geben Sie Ihren Google API-Schlüssel ein"
+
+#: norsani-options.php:97
+msgid "Set Key"
+msgstr "Schlüssel setzen"
+
+#: norsani-options.php:97
+msgid "Fix"
+msgstr "Fix"
+
+#: norsani-options.php:102
+msgid "No errors found"
+msgstr "Keine Fehler gefunden"
+
+#: norsani-options.php:112
+msgid "Install the demo data with just one click."
+msgstr "Installieren Sie die Demo-Daten mit nur einem Klick."
+
+#: norsani-options.php:113
+msgid "Install Demo Data"
+msgstr "Demo Daten installieren"
+
+#: norsani-options.php:119
+msgid "Contact Support"
+msgstr "Support kontaktieren"
+
+#: norsani-options.php:119
+msgid ""
+"Contact our support team and get replies to your questions right from here."
+msgstr ""
+"Kontaktieren Sie unser Support-Team und erhalten Sie Antworten auf Ihre "
+"Fragen direkt von hier aus."
+
+#: norsani-options.php:120
+msgid ""
+"If you are reporting a problem please answer the following questions in your "
+"message to help us address your problem as quickly as possible."
+msgstr ""
+"Wenn Sie ein Problem melden, beantworten Sie bitte die folgenden Fragen in "
+"Ihrer Nachricht, damit wir Ihr Problem so schnell wie möglich beheben können."
+
+#: norsani-options.php:122
+msgid "What is your question or concern?"
+msgstr "Was ist Ihre Frage oder Ihr Anliegen?"
+
+#: norsani-options.php:123
+msgid "What steps can we take to reproduce the problem you are experiencing?"
+msgstr ""
+"Welche Schritte können wir unternehmen, um Ihr Problem zu reproduzieren?"
+
+#: norsani-options.php:124
+msgid "What is the result you are experiencing when you follow these steps?"
+msgstr ""
+"Was ist das Ergebnis, das Sie erleben, wenn Sie diesen Schritten folgen?"
+
+#: norsani-options.php:125
+msgid "What is the result you are expecting?"
+msgstr "Was ist das Ergebnis, das Sie erwarten?"
+
+#: norsani-options.php:126
+msgid "How does this problem affect your business?"
+msgstr "Wie wirkt sich dieses Problem auf Ihr Unternehmen aus?"
+
+#: norsani-options.php:128
+msgid ""
+"Please do not include any sensitive information in this form or in any "
+"subsequent case communications. (e.g. Password, credit card number, Social "
+"Security Number)"
+msgstr ""
+"Bitte geben Sie keine sensiblen Informationen in diesem Formular oder in "
+"späteren Mitteilungen an. (z.B. Passwort, Kreditkartennummer, "
+"Sozialversicherungsnummer)"
+
+#: norsani-options.php:133
+msgid "Type message here .."
+msgstr "Geben Sie hier eine Nachricht ein."
+
+#: norsani-options.php:232
+msgid "Please check your internet connection."
+msgstr "Bitte überprüfen Sie Ihre Internetverbindung."
+
+#: norsani-options.php:262
+#: templates/views/html-dashboard-vendor-settings_form.php:49
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: norsani-options.php:268
+#: templates/views/html-dashboard-vendor-settings_form.php:53
+msgid "Orders Settings"
+msgstr "Aufträge Einstellungen"
+
+#: norsani-options.php:274
+msgid "Distances calculation"
+msgstr "Entfernungsberechnung"
+
+#: norsani-options.php:280
+msgid "Vendor Money Withdrawals Settings"
+msgstr "Einstellungen für Geldabhebungen von Lieferanten"
+
+#: norsani-options.php:286
+msgid "General options"
+msgstr "Allgemeine Optionen"
+
+#: norsani-options.php:292
+msgid "Vendor Fees"
+msgstr "Verkäufergebühren"
+
+#: norsani-options.php:298
+msgid "Terms & Conditions"
+msgstr "Allgemeine Geschäftsbedingungen"
+
+#: norsani-options.php:305
+msgid "Google API Key"
+msgstr "Google API-Key"
+
+#: norsani-options.php:312
+msgid "Active Vendor Types"
+msgstr "Aktive Lieferantentypen"
+
+#: norsani-options.php:319
+msgid "Selling privileges"
+msgstr "Verkaufsprivilegien"
+
+#: norsani-options.php:326
+msgid "Vendor store timing"
+msgstr "Timing der Lieferantenfiliale"
+
+#: norsani-options.php:340
+msgid "Featured Products."
+msgstr "Ausgewählte Produkte."
+
+#: norsani-options.php:347
+msgid "Featured Vendors."
+msgstr "Ausgewählte Anbieter."
+
+#: norsani-options.php:355 templates/vendors-registration.php:201
+#: templates/views/html-dashboard-vendor-settings_form.php:169
+msgid "Accepted orders"
+msgstr "Akzeptierte Aufträge"
+
+#: norsani-options.php:361
+msgid "Accepted orders when vendor's store is closed"
+msgstr ""
+"Akzeptierte Bestellungen, wenn die Filiale des Lieferanten geschlossen ist."
+
+#: norsani-options.php:369
+msgid "The mode of transport to use when calculating delivery timing."
+msgstr ""
+"Das Transportmittel, das bei der Berechnung des Lieferzeitpunkts verwendet "
+"werden soll."
+
+#: norsani-options.php:375
+msgid "The unit system to use when displaying delivery timing."
+msgstr ""
+"Das Einheitensystem, das bei der Anzeige der Lieferzeit verwendet werden "
+"soll."
+
+#: norsani-options.php:381
+msgid "Avoid highways"
+msgstr "Vermeiden Sie Autobahnen"
+
+#: norsani-options.php:387
+msgid "Non-toll routes"
+msgstr "Nicht mautpflichtige Strecken"
+
+#: norsani-options.php:395
+msgid "Automatic Withdrawals"
+msgstr "Automatische Abhebungen"
+
+#: norsani-options.php:401
+msgid "Paypal REST API App Client ID"
+msgstr "Paypal REST API Anwendung Client ID"
+
+#: norsani-options.php:407
+msgid "Paypal REST API App Secret."
+msgstr "Paypal REST API App Secret."
+
+#: norsani-options.php:413
+msgid "The minimum vendor balance to make a withdrawal request."
+msgstr ""
+"Der Mindestlieferantensaldo, um eine Auszahlungsanforderung zu stellen."
+
+#: norsani-options.php:419
+msgid "Withdrawal Methods."
+msgstr "Auszahlungsmethoden."
+
+#: norsani-options.php:425
+msgid "Withdrawal Requests Status."
+msgstr "Auszahlungsanfragen Status."
+
+#: norsani-options.php:433
+msgid "Cash on delivery fees"
+msgstr "Nachnahmegebühren"
+
+#: norsani-options.php:448
+msgid "Terms of Service for Sellers"
+msgstr "Allgemeine Geschäftsbedingungen für Verkäufer"
+
+#: norsani-options.php:492
+msgid "Automatically enable selling after vendor registration?"
+msgstr ""
+"Automatisches Aktivieren des Verkaufs nach der Lieferantenregistrierung?"
+
+#: norsani-options.php:503
+msgid "Use manual status change?"
+msgstr "Manuelle Statusänderung verwenden?"
+
+#: norsani-options.php:510
+msgid "Time to wait when no activity"
+msgstr "Zeit zum Warten, wenn keine Aktivität stattfindet"
+
+#: norsani-options.php:575
+msgid "Automatically create withdrawal requests"
+msgstr "Automatische Erstellung von Auszahlungsanträgen"
+
+#: norsani-options.php:630 norsani-options.php:643
+msgid "Pick-up"
+msgstr "Abholung"
+
+#: norsani-options.php:658
+msgid "Driving"
+msgstr "Fahren"
+
+#: norsani-options.php:659
+msgid "Bicycling"
+msgstr "Fahrrad"
+
+#: norsani-options.php:660
+msgid "Walking"
+msgstr "Gehen"
+
+#: norsani-options.php:669
+msgid "Kilometers"
+msgstr "Kilometer"
+
+#: norsani-options.php:670
+msgid "Miles"
+msgstr "Meilen"
+
+#: norsani-options.php:680
+msgid "Calculate driving timing with avoiding highways where possible."
+msgstr ""
+"Berechnen Sie die Fahrzeit unter Vermeidung von Autobahnen, wenn möglich."
+
+#: norsani-options.php:689
+msgid ""
+"Calculate delivery timing between points using non-toll routes, wherever "
+"possible."
+msgstr ""
+"Berechnen Sie, wo immer möglich, den Liefertermin zwischen den Punkten auf "
+"nicht gebührenpflichtigen Routen."
+
+#: norsani-options.php:698
+msgid "Do not deduct fees from vendor balance"
+msgstr "Gebühren nicht vom Lieferantensaldo abziehen"
+
+#: norsani-options.php:700
+msgid ""
+"ONLY check this if you will be responsible of the delivery service and "
+"reciving the total order amount."
+msgstr ""
+"Überprüfen Sie dies NUR, wenn Sie für den Lieferservice verantwortlich sind "
+"und den Gesamtbetrag der Bestellung erhalten."
+
+#: norsani-options.php:709
+msgid "Order total and delivery"
+msgstr "Auftragssumme und Lieferung"
+
+#: norsani-options.php:710
+msgid "Only on order total"
+msgstr "Nur auf Bestellung gesamt"
+
+#: norsani-options.php:711
+msgid "Only on order delivery"
+msgstr "Nur bei Bestellung Lieferung"
+
+#: norsani-options.php:719 norsani-options.php:790
+msgid "Fee&nbsp;Name"
+msgstr "Gebühr&nbsp;Name"
+
+#: norsani-options.php:720
+msgid "Customers Effected"
+msgstr "Betroffene Kunden"
+
+#: norsani-options.php:721
+msgid "Vendors Effected"
+msgstr "Betroffene Lieferanten"
+
+#: norsani-options.php:722
+msgid "Fee Rate"
+msgstr "Gebührensatz"
+
+#: norsani-options.php:723 norsani-options.php:789
+msgid "Payment Method"
+msgstr "Zahlungsart"
+
+#: norsani-options.php:724
+msgid "Applied on"
+msgstr "Angewandt auf"
+
+#: norsani-options.php:725
+msgid "Action"
+msgstr "Aktion"
+
+#: norsani-options.php:758
+msgid "You do not charge sellers any fees."
+msgstr "Sie berechnen den Verkäufern keine Gebühren."
+
+#: norsani-options.php:759
+msgid "Add New Rule"
+msgstr "Neue Regel erstellen"
+
+#: norsani-options.php:767
+msgid "Any payment gateway"
+msgstr "Beliebige Zahlungs-Gateways"
+
+#: norsani-options.php:782 norsani-options.php:784
+msgid "Apply this fee on"
+msgstr "Diese Gebühr wird erhoben auf"
+
+#: norsani-options.php:783 norsani-options.php:797
+msgid "Select Customers"
+msgstr "Kunden auswählen"
+
+#: norsani-options.php:785 norsani-options.php:802
+msgid "Select Vendors"
+msgstr "Wähle Verkäufer aus"
+
+#: norsani-options.php:786
+msgid "Order Sub-Total"
+msgstr "Auftrag Zwischensumme"
+
+#: norsani-options.php:787
+msgid "Apply this rule on"
+msgstr "Diese Regel anwenden auf"
+
+#: norsani-options.php:788
+msgid "Rate&nbsp;%"
+msgstr "Satz&nbsp;%"
+
+#: norsani-options.php:791
+msgid "Fee Description"
+msgstr "Gebühr Beschreibung"
+
+#: norsani-options.php:795
+msgid "All Customers"
+msgstr "Alle Kunden"
+
+#: norsani-options.php:796
+msgid "All Customers, Except..."
+msgstr "Alle Kunden, außer...."
+
+#: norsani-options.php:800
+msgid "All Vendors"
+msgstr "Alle Verkäufer"
+
+#: norsani-options.php:801
+msgid "All Vendors, Except..."
+msgstr "Alle Anbieter, außer...."
+
+#: norsani-options.php:805
+msgid "Order Total and Delivery"
+msgstr "Auftragssumme und Lieferung"
+
+#: norsani-options.php:806
+msgid "Only on Order Total"
+msgstr "Nur auf Bestellung Gesamt"
+
+#: norsani-options.php:807
+msgid "Only on Order Delivery"
+msgstr "Nur bei Bestellung Lieferung"
+
+#: norsani-options.php:810
+msgid "Plus"
+msgstr "Plus"
+
+#: norsani-options.php:811
+msgid "Minus"
+msgstr "Minus"
+
+#: norsani-options.php:812
+msgid "Multiply"
+msgstr "Multiplizieren"
+
+#: norsani-options.php:841 templates/vendors-registration.php:386
+msgid "Back"
+msgstr "Zurück"
+
+#: norsani-options.php:895 templates/vendors-registration.php:73
+msgid "General"
+msgstr "Allgemein"
+
+#: norsani-options.php:897
+msgid "Withdrawals"
+msgstr "Abhebungen"
+
+#: norsani-options.php:898
+msgid "Distances"
+msgstr "Entfernungen"
+
+#: norsani-options.php:899
+msgid "Fees/Commission"
+msgstr "Gebühren/Kommission"
+
+#: norsani-options.php:900
+msgid "Terms of Service"
+msgstr "Nutzungsbedingungen"
+
+#: templates/emails/plain/vendor-message.php:18
+#: templates/emails/vendor-message.php:17
+msgid "Sender Name"
+msgstr "Absender Name"
+
+#: templates/emails/plain/vendor-message.php:21
+#: templates/emails/vendor-message.php:20
+msgid "Sender Email"
+msgstr "Absender E-Mail"
+
+#: templates/emails/plain/vendor-order-refund.php:18
+#: templates/emails/plain/vendor-rating.php:17
+#: templates/emails/vendor-order-refund.php:17
+#: templates/emails/vendor-rating.php:17
+#, php-format
+msgid "Hello %1$s,"
+msgstr "Hallo %1$s,"
+
+#: templates/emails/plain/vendor-order-refund.php:20
+#: templates/emails/vendor-order-refund.php:19
+#, php-format
+msgid ""
+"The order id %1$s, dated %2$s, status has been changed from completed to "
+"%3$s. The order total amount is %4$s."
+msgstr ""
+"Die Auftrags-ID %1$s, datiert %2$s, Status wurde von abgeschlossen auf %3$s "
+"geändert. Der Gesamtbetrag der Bestellung beträgt %4$s."
+
+#: templates/emails/plain/vendor-order-refund.php:22
+#: templates/emails/vendor-order-refund.php:20
+#, php-format
+msgid ""
+"Your new balance is %1$s. Please contact us via %2$s if you might need any "
+"clarification."
+msgstr ""
+"Dein neues Guthaben beträgt %1$s. Bitte kontaktieren Sie uns über %2$s, wenn "
+"Sie eine Klärung wünschen."
+
+#: templates/emails/plain/vendor-rating.php:19
+#, php-format
+msgid ""
+"Your order number %1$s, dated %2$s, has been marked as completed. Please "
+"take few moments and make a review on %3$s by clicking on the following link"
+msgstr ""
+"Deine Bestellnummer %1$s, datiert %2$s, wurde als erledigt markiert. Bitte "
+"nehmen Sie sich ein paar Minuten Zeit und machen Sie eine Bewertung von "
+"%3$s, indem Sie auf den folgenden Link klicken."
+
+#: templates/emails/plain/vendor-status.php:23
+#: templates/emails/vendor-status.php:23
+msgid ""
+"Congratulations of been a part of our community. You can start selling by "
+"posting your products from your dashboard"
+msgstr ""
+"Herzlichen Glückwunsch, dass du ein Teil unserer Gemeinschaft warst. Sie "
+"können mit dem Verkauf beginnen, indem Sie Ihre Produkte über Ihr Dashboard "
+"veröffentlichen."
+
+#: templates/emails/plain/vendor-status.php:27
+#: templates/emails/vendor-status.php:27
+msgid ""
+"Your selling privileges status will be activated shortly by one of our "
+"website editors. You will be notified on any updates."
+msgstr ""
+"Ihr Verkaufsstatus wird in Kürze von einem unserer Website-Redakteure "
+"aktiviert. Sie werden über alle Updates informiert."
+
+#: templates/emails/plain/vendor-status.php:30
+#: templates/emails/vendor-status.php:30
+msgid "Vendor details:"
+msgstr "Lieferantendetails:"
+
+#: templates/emails/plain/vendor-status.php:31
+#: templates/emails/vendor-status.php:31
+#: templates/views/html-dashboard-orders-single-customer_details.php:27
+msgid "Email:"
+msgstr "E-Mail:"
+
+#: templates/emails/plain/vendor-status.php:32
+#: templates/emails/vendor-status.php:32
+msgid "First Name:"
+msgstr "Vorname:"
+
+#: templates/emails/plain/vendor-status.php:33
+#: templates/emails/vendor-status.php:33
+msgid "Last Name:"
+msgstr "Nachname:"
+
+#: templates/emails/plain/vendor-status.php:34
+#: templates/emails/vendor-status.php:34
+msgid "Shop Name:"
+msgstr "Shop Name:"
+
+#: templates/emails/plain/vendor-status.php:35
+#: templates/emails/vendor-status.php:35
+msgid "Shop URL:"
+msgstr "Shop-URL:"
+
+#: templates/emails/plain/vendor-status.php:36
+#: templates/emails/vendor-status.php:36
+msgid "Contact Number:"
+msgstr "Kontaktnummer:"
+
+#: templates/emails/plain/vendor-status.php:38
+#: templates/emails/vendor-status.php:38
+#, php-format
+msgid "Manage all vendors from your dashboard sellers page %s"
+msgstr "Verwalten Sie alle Anbieter von Ihrer Dashboard-Verkäuferseite %s aus."
+
+#: templates/emails/plain/vendor-status.php:40
+#: templates/emails/vendor-status.php:40
+#, php-format
+msgid "Activate this vendor&apos;s selling privileges from %s"
+msgstr "Aktivieren Sie die Verkaufsrechte dieses Anbieters von %s."
+
+#: templates/emails/plain/vendor-status.php:44
+#: templates/emails/vendor-status.php:45
+msgid ""
+"Your selling privileges has been activated. You can start selling by posting "
+"your products from your dashboard."
+msgstr ""
+"Deine Verkaufsprivilegien wurden aktiviert. Sie können mit dem Verkauf "
+"beginnen, indem Sie Ihre Produkte über Ihr Dashboard veröffentlichen."
+
+#: templates/emails/plain/vendor-status.php:46
+#: templates/emails/vendor-status.php:47
+msgid "Your selling privileges has been deactivated"
+msgstr "Deine Verkaufsprivilegien wurden deaktiviert."
+
+#: templates/emails/plain/withdraw-status.php:17
+#: templates/emails/withdraw_status.php:17
+#, php-format
+msgid "Hi %1$s,"
+msgstr "Hallo %1$s,"
+
+#: templates/emails/plain/withdraw-status.php:21
+#: templates/emails/withdraw_status.php:20
+#, php-format
+msgid ""
+"Your withdrawal request #%1$s, with total amount of %2$s, via %3$s, has been "
+"approved. We will transfer this amount to your preferred destination shortly."
+msgstr ""
+"Ihre Auszahlungsanfrage #%1$s, mit einem Gesamtbetrag von %2$s, über %3$s, "
+"wurde genehmigt. Wir werden diesen Betrag in Kürze an Ihr Wunschziel "
+"überweisen."
+
+#: templates/emails/plain/withdraw-status.php:25
+#: templates/emails/withdraw_status.php:22
+#, php-format
+msgid ""
+"Your withdrawal request #%1$s, with total amount of %2$s, via %3$s, has been "
+"rejected with the following reason: %4$s."
+msgstr ""
+"Ihre Auszahlungsanfrage #%1$s, mit einem Gesamtbetrag von %2$s, über %3$s, "
+"wurde mit folgendem Grund abgelehnt: %4$s."
+
+#: templates/emails/plain/withdraw-status.php:29
+#: templates/emails/withdraw_status.php:24
+#, php-format
+msgid ""
+"We received your withdrawal request #%1$s, with total amount of %2$s, via "
+"%3$s. We will review your request as soon as possible and get back to you."
+msgstr ""
+"Wir haben Ihre Auszahlungsanfrage #%1$s, mit einem Gesamtbetrag von %2$s, "
+"über %3$s erhalten. Wir werden Ihre Anfrage so schnell wie möglich "
+"bearbeiten und uns mit Ihnen in Verbindung setzen."
+
+#: templates/emails/plain/withdraw-status.php:33
+#: templates/emails/withdraw_status.php:27
+msgid "Thank you."
+msgstr "Danke."
+
+#: templates/emails/vendor-rating.php:19
+#, php-format
+msgid ""
+"Your order number %1$s, dated %2$s, has been marked as completed. Please "
+"take few moments and make a rating on %3$s by clicking on the following link"
+msgstr ""
+"Deine Bestellnummer %1$s, datiert %2$s, wurde als erledigt markiert. Bitte "
+"nehmen Sie sich einen Moment Zeit und bewerten Sie %3$s, indem Sie auf den "
+"folgenden Link klicken."
+
+#: templates/emails/vendor-status.php:43
+#, php-format
+msgid "Hello %s"
+msgstr "Hallo %s"
+
+#: templates/orders/html-order-fee.php:18
+msgid "Fee"
+msgstr "Gebühr"
+
+#: templates/orders/html-order-item-quick.php:21
+#: templates/orders/html-order-item.php:30
+msgid "Product ID:"
+msgstr "Produkt-ID:"
+
+#: templates/orders/html-order-item-quick.php:24
+#: templates/orders/html-order-item-quick.php:26
+#: templates/orders/html-order-item.php:33
+#: templates/orders/html-order-item.php:35
+msgid "Variation ID:"
+msgstr "ID der Variante:"
+
+#: templates/orders/html-order-item-quick.php:26
+#: templates/orders/html-order-item.php:35
+msgid "No longer exists"
+msgstr "Nicht mehr vorhanden"
+
+#: templates/orders/html-order-item-quick.php:30
+#: templates/orders/html-order-item.php:39
+msgid "Product SKU:"
+msgstr "Art.-Nr. des Produkts:"
+
+#: templates/orders/html-order-refund.php:27
+msgid "Refund"
+msgstr "Rückerstattung"
+
+#: templates/orders/html-order-refund.php:30
+msgctxt "Ex: Refund - $date >by< $username"
+msgid "by"
+msgstr "von"
+
+#: templates/orders/html-order-refund.php:30
+msgid "ID: "
+msgstr "ID: "
+
+#: templates/orders/order-details.php:17
+msgid "This is not yours, I swear!"
+msgstr "Dies ist nicht dein, das schwöre ich!"
+
+#: templates/orders/order-details.php:25
+msgid "Order items"
+msgstr "Auftragspositionen"
+
+#: templates/orders/order-details.php:31
+msgid "Customer Details"
+msgstr "Kundendetails"
+
+#: templates/orders/order-details.php:35
+msgid "General Details"
+msgstr "Allgemeine Details"
+
+#: templates/orders/order-details.php:41
+msgid "Order Notes"
+msgstr "Anmerkungen zur Bestellung"
+
+#: templates/orders/order-details.php:72
+#, php-format
+msgid "added on %1$s at %2$s"
+msgstr "hinzugefügt am %1$s um %2$s"
+
+#: templates/orders/order-details.php:73
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: templates/orders/order-details.php:73
+#, php-format
+msgid "by %1$s"
+msgstr "von %1$s"
+
+#: templates/orders/order-details.php:80
+msgid "There are no notes yet."
+msgstr "Es gibt noch keine Anmerkungen."
+
+#: templates/orders/order-details.php:86
+msgid "Add note"
+msgstr "Notiz hinzufügen"
+
+#: templates/orders/order-details.php:92
+msgid "Private note"
+msgstr "Private Anmerkung"
+
+#: templates/orders/order-details.php:93
+msgid "Note to customer"
+msgstr "Notiz für den Kunden"
+
+#: templates/orders/order-details.php:95
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: templates/vendors-registration.php:30
+msgid ""
+"Type first two/three letters and choose from list, if you don't find the "
+"addresses in list or the list does not appear, make sure of the address "
+"spelling."
+msgstr ""
+"Geben Sie die ersten zwei/drei Buchstaben ein und wählen Sie aus der Liste, "
+"wenn Sie die Adressen in der Liste nicht finden oder die Liste nicht "
+"erscheint, achten Sie auf die Schreibweise der Adresse."
+
+#: templates/vendors-registration.php:42
+msgid ""
+"Road/Street names. Type first two/three letters and choose from list, if the "
+"list doesn't appear then complete typing and hit the comma button."
+msgstr ""
+"Straßen- und Straßennamen. Geben Sie die ersten zwei/drei Buchstaben ein und "
+"wählen Sie aus der Liste, wenn die Liste nicht angezeigt wird, schließen Sie "
+"die Eingabe ab und drücken Sie die Komma-Taste."
+
+#: templates/vendors-registration.php:43
+msgid ""
+"Type first two/three letters and choose from list, if the list doesn't "
+"appear, then complete typing normally."
+msgstr ""
+"Geben Sie die ersten zwei/drei Buchstaben ein und wählen Sie aus der Liste, "
+"wenn die Liste nicht angezeigt wird, dann schließen Sie die Eingabe normal "
+"ab."
+
+#: templates/vendors-registration.php:75 templates/vendors-registration.php:224
+#: templates/views/html-dashboard-vendor-settings_form.php:51
+#: templates/views/html-dashboard-vendor-settings_form.php:127
+msgid "Menus"
+msgstr "Menüs"
+
+#: templates/vendors-registration.php:79
+msgid "Timing"
+msgstr "Zeitliche"
+
+#: templates/vendors-registration.php:95
+#, php-format
+msgid "I Accept %1$s vendor terms of service."
+msgstr "Ich akzeptiere die Allgemeinen Geschäftsbedingungen von %1$s."
+
+#: templates/vendors-registration.php:100
+msgid ""
+"Your registration form is under review. You will recieve updates via email."
+msgstr ""
+"Ihr Anmeldeformular wird derzeit überprüft. Sie erhalten Updates per E-Mail."
+
+#: templates/vendors-registration.php:103
+#, php-format
+msgid "You are currently logged in as (%1$s)"
+msgstr "Du bist derzeit eingeloggt als (%1$s)"
+
+#: templates/vendors-registration.php:107
+msgid "Thanks"
+msgstr "Danke"
+
+#: templates/vendors-registration.php:108
+msgid ""
+"We will review your registration information as soon as possible and contact "
+"you via email."
+msgstr ""
+"Wir werden Ihre Registrierungsinformationen so schnell wie möglich "
+"überprüfen und Sie per E-Mail kontaktieren."
+
+#: templates/vendors-registration.php:114
+msgid "Let's start"
+msgstr "Fangen wir an"
+
+#: templates/vendors-registration.php:114
+msgid ""
+"Fill out the general information fields here and click next. Keep in mind "
+"that all form fields are important ot fill for a good start, so make sure "
+"you don't miss any one."
+msgstr ""
+"Füllen Sie hier die allgemeinen Informationsfelder aus und klicken Sie auf "
+"Weiter. Beachten Sie, dass alle Formularfelder für einen guten Start wichtig "
+"sind, also verpassen Sie keine."
+
+#: templates/vendors-registration.php:124
+#: templates/vendors-registration.php:128
+#: templates/views/html-vendor-store_rating.php:24
+msgid "Password"
+msgstr "Passwort"
+
+#: templates/vendors-registration.php:125
+msgid "Type a strong password"
+msgstr "Geben Sie ein sicheres Passwort ein"
+
+#: templates/vendors-registration.php:129
+msgid ""
+"Your password will be automatically generated and sent to your email address."
+msgstr ""
+"Ihr Passwort wird automatisch generiert und an Ihre E-Mail-Adresse gesendet."
+
+#: templates/vendors-registration.php:135
+msgid "First Name"
+msgstr "Vorname"
+
+#: templates/vendors-registration.php:136
+msgid "Type your first name"
+msgstr "Geben Sie Ihren Vornamen ein"
+
+#: templates/vendors-registration.php:140
+msgid "Last Name"
+msgstr "Nachname"
+
+#: templates/vendors-registration.php:141
+msgid "Type your Last name"
+msgstr "Geben Sie Ihren Nachnamen ein"
+
+#: templates/vendors-registration.php:146
+msgid "Shop Type"
+msgstr "Shop-Typ"
+
+#: templates/vendors-registration.php:155
+msgid "Shop Name"
+msgstr "Shopname"
+
+#: templates/vendors-registration.php:156
+#: templates/views/html-dashboard-vendor-settings_form.php:75
+msgid "e.g. BOB's Pizza"
+msgstr "z.B. BOB's Pizza"
+
+#: templates/vendors-registration.php:160
+#: templates/views/html-dashboard-vendor-settings_form.php:79
+msgid "Contact number"
+msgstr "Kontaktnummer"
+
+#: templates/vendors-registration.php:161
+#: templates/views/html-dashboard-vendor-settings_form.php:80
+msgid "e.g. +123 456 789"
+msgstr "z.B. +123 456 789"
+
+#: templates/vendors-registration.php:165
+#: templates/views/html-dashboard-vendor-settings_form.php:84
+msgid "Shop address"
+msgstr "Ladengeschäft"
+
+#: templates/vendors-registration.php:167
+msgid "e.g. Seasons Mall, Town Mall"
+msgstr "z.B. Seasons Mall, Town Mall"
+
+#: templates/vendors-registration.php:172
+#: templates/views/html-dashboard-vendor-settings_form.php:91
+msgid "Shop's location on map"
+msgstr "Lage des Shops auf der Karte"
+
+#: templates/vendors-registration.php:179
+#: templates/views/html-dashboard-vendor-settings_form.php:98
+msgid "Shop's tags"
+msgstr "Shop-Tags"
+
+#: templates/vendors-registration.php:181
+msgid "Separate tags with commas"
+msgstr "Schlagwörter durch Kommas trennen"
+
+#: templates/vendors-registration.php:212
+#: templates/views/html-dashboard-vendor-settings_form.php:185
+msgid "Accepted orders when closed"
+msgstr "Akzeptierte Aufträge im geschlossenen Zustand"
+
+#: templates/vendors-registration.php:230
+#: templates/views/html-dashboard-vendor-settings_form.php:133
+#: templates/views/html-dashboard-vendor-settings_form.php:146
+msgid "Menu title"
+msgstr "Menü Titel"
+
+#: templates/vendors-registration.php:231
+#: templates/views/html-dashboard-vendor-settings_form.php:134
+#: templates/views/html-dashboard-vendor-settings_form.php:147
+msgid "Meal Type. ie. Breakfast, Lunch & Dinner"
+msgstr "Mahlzeit Typ. dh. Frühstück, Mittagessen & Abendessen"
+
+#: templates/vendors-registration.php:233
+#: templates/views/html-dashboard-vendor-settings_form.php:136
+#: templates/views/html-dashboard-vendor-settings_form.php:149
+msgid "Start time"
+msgstr "Startzeit"
+
+#: templates/vendors-registration.php:234
+#: templates/vendors-registration.php:323
+#: templates/vendors-registration.php:333
+#: templates/views/html-dashboard-vendor-settings_form.php:336
+#: templates/views/html-dashboard-vendor-settings_form.php:346
+msgid "Start time (24 hour format 00:00)"
+msgstr "Startzeit (24-Stunden-Format 00:00)"
+
+#: templates/vendors-registration.php:236
+#: templates/views/html-dashboard-vendor-settings_form.php:139
+#: templates/views/html-dashboard-vendor-settings_form.php:152
+msgid "End time"
+msgstr "Endzeit"
+
+#: templates/vendors-registration.php:237
+#: templates/vendors-registration.php:327
+#: templates/vendors-registration.php:337
+#: templates/views/html-dashboard-vendor-settings_form.php:340
+#: templates/views/html-dashboard-vendor-settings_form.php:350
+msgid "End time (24 hour format 00:00)"
+msgstr "Endzeit (24-Stunden-Format 00:00)"
+
+#: templates/vendors-registration.php:242
+#: templates/views/html-dashboard-vendor-settings_form.php:159
+msgid "Add new menu"
+msgstr "Neues Menü hinzufügen"
+
+#: templates/vendors-registration.php:248
+#: templates/views/html-dashboard-vendor-settings_form.php:54
+msgid "Delivery Settings"
+msgstr "Liefereinstellungen"
+
+#: templates/vendors-registration.php:250
+msgid "You have more options to set in your settings page after registration."
+msgstr ""
+"Sie haben weitere Optionen, die Sie nach der Registrierung auf Ihrer "
+"Einstellungsseite einstellen können."
+
+#: templates/vendors-registration.php:252
+msgid "Calculate delivery by"
+msgstr "Berechnen Sie die Lieferung per"
+
+#: templates/vendors-registration.php:256
+#: templates/views/html-dashboard-orders-list.php:19
+#: templates/views/html-dashboard-vendor-settings_form.php:221
+#: templates/views/html-dashboard-vendor-settings_form.php:253
+msgid "Order"
+msgstr "Bestellung"
+
+#: templates/vendors-registration.php:260
+#: templates/views/html-dashboard-home-top_items.php:19
+#: templates/views/html-dashboard-orders-list-row.php:92
+#: templates/views/html-dashboard-orders-single-items.php:17
+#: templates/views/html-dashboard-vendor-settings_form.php:225
+#: templates/views/html-dashboard-vendor-settings_form.php:257
+msgid "Product"
+msgstr "Produkt"
+
+#: templates/vendors-registration.php:265
+#: templates/views/html-dashboard-vendor-settings_form.php:230
+#: templates/views/html-dashboard-vendor-settings_form.php:262
+msgid "Delivery fee"
+msgstr "Versandgebühr"
+
+#: templates/vendors-registration.php:269
+#: templates/views/html-dashboard-vendor-settings_form.php:234
+#: templates/views/html-dashboard-vendor-settings_form.php:266
+msgid "Fee per additional product"
+msgstr "Gebühr pro zusätzliches Produkt"
+
+#: templates/vendors-registration.php:273
+#: templates/views/html-dashboard-vendor-settings_form.php:238
+#: templates/views/html-dashboard-vendor-settings_form.php:270
+msgid "Minimum order amount for delivery"
+msgstr "Mindestbestellmenge für die Lieferung"
+
+#: templates/vendors-registration.php:277
+#: templates/views/html-dashboard-vendor-settings_form.php:210
+msgid "Delivery zone"
+msgstr "Lieferzone"
+
+#: templates/vendors-registration.php:280
+#: templates/views/html-dashboard-vendor-settings_form.php:213
+msgid "Erase drawing"
+msgstr "Zeichnung löschen"
+
+#: templates/vendors-registration.php:282
+msgid "Type & select from predictions and separate by commas."
+msgstr ""
+"Geben Sie & wählen Sie aus den Vorhersagen und trennen Sie diese durch "
+"Kommas."
+
+#: templates/vendors-registration.php:288
+msgid "Working timing"
+msgstr "Arbeitszeiten"
+
+#: templates/vendors-registration.php:309
+#: templates/views/html-dashboard-vendor-settings_form.php:322
+msgid "Open"
+msgstr "Offen"
+
+#: templates/vendors-registration.php:313
+msgid "Two Shifts"
+msgstr "Zwei Schichten"
+
+#: templates/vendors-registration.php:322
+#: templates/views/html-dashboard-vendor-settings_form.php:335
+msgid "Opening time for first shift"
+msgstr "Öffnungszeit für die erste Schicht"
+
+#: templates/vendors-registration.php:326
+#: templates/views/html-dashboard-vendor-settings_form.php:339
+msgid "Closing time for first shift"
+msgstr "Schließzeit für die erste Schicht"
+
+#: templates/vendors-registration.php:332
+#: templates/views/html-dashboard-vendor-settings_form.php:345
+msgid "Opening time for second shift"
+msgstr "Öffnungszeit für die zweite Schicht"
+
+#: templates/vendors-registration.php:336
+#: templates/views/html-dashboard-vendor-settings_form.php:349
+msgid "Closing time for second shift"
+msgstr "Schließzeit für die zweite Schicht"
+
+#: templates/vendors-registration.php:346
+#: templates/views/html-dashboard-vendor-settings_form.php:359
+msgid "Unavailable Dates (mm/dd/yyyy)"
+msgstr "Nicht verfügbare Termine (mm/tt/jjjjjj)"
+
+#: templates/vendors-registration.php:351
+#: templates/views/html-dashboard-vendor-settings_form.php:365
+#: templates/views/html-dashboard-vendor-settings_form.php:379
+msgid "Starting date"
+msgstr "Startdatum"
+
+#: templates/vendors-registration.php:352
+#: templates/views/html-dashboard-vendor-settings_form.php:366
+#: templates/views/html-dashboard-vendor-settings_form.php:380
+msgid "Start Date YYYY/MM/DD"
+msgstr "Startdatum JJJJJ/MM/TT"
+
+#: templates/vendors-registration.php:356
+#: templates/views/html-dashboard-vendor-settings_form.php:370
+#: templates/views/html-dashboard-vendor-settings_form.php:384
+msgid "Ending date"
+msgstr "Enddatum"
+
+#: templates/vendors-registration.php:357
+#: templates/views/html-dashboard-vendor-settings_form.php:371
+#: templates/views/html-dashboard-vendor-settings_form.php:385
+msgid "End Date YYYY/MM/DD"
+msgstr "Endedatum JJJJJ/MM/TT"
+
+#: templates/vendors-registration.php:363
+#: templates/views/html-dashboard-vendor-settings_form.php:392
+msgid "Add new date"
+msgstr "Neues Datum hinzufügen"
+
+#: templates/vendors-registration.php:369
+msgid "Withdrawal Settings"
+msgstr "Auszahlungseinstellungen"
+
+#: templates/vendors-registration.php:387
+msgid "Next"
+msgstr "Weiter"
+
+#: templates/vendors-registration.php:444
+msgid "Geo-location was not successful for the following reason:"
+msgstr "Die Geolokalisierung war aus folgenden Gründen nicht erfolgreich:"
+
+#: templates/vendors-registration.php:518
+msgid "Error: The Geo-location service failed."
+msgstr "Fehler: Der Geolokalisierungsdienst ist fehlgeschlagen."
+
+#: templates/views/html-dashboard-coupon-form.php:14
+msgid "Create Coupon"
+msgstr "Gutschein erstellen"
+
+#: templates/views/html-dashboard-coupon-form.php:19
+msgid "Are you cheating?"
+msgstr "Betrügst du?"
+
+#: templates/views/html-dashboard-coupon-form.php:23
+msgid "Update Coupon"
+msgstr "Gutschein aktualisieren"
+
+#: templates/views/html-dashboard-coupon-form.php:108
+msgid "Coupon Code"
+msgstr "Gutscheincode"
+
+#: templates/views/html-dashboard-coupon-form.php:118
+msgid "Discount Type"
+msgstr "Rabattart"
+
+#: templates/views/html-dashboard-coupon-form.php:121
+msgid "Fixed amount"
+msgstr "Feste Gebühr"
+
+#: templates/views/html-dashboard-coupon-form.php:122
+msgid "% Discount"
+msgstr "% Rabatt"
+
+#: templates/views/html-dashboard-coupon-form.php:134
+#: templates/views/html-dashboard-coupon-form.php:135
+msgid "Email Restrictions"
+msgstr "E-Mail Einschränkungen"
+
+#: templates/views/html-dashboard-coupon-form.php:138
+msgid "Usage Limit per coupon"
+msgstr "Verwendungslimit pro Gutschein"
+
+#: templates/views/html-dashboard-coupon-form.php:139
+#: templates/views/html-dashboard-coupon-form.php:147
+msgid "Unlimited usage"
+msgstr "Unbegrenzte Nutzung"
+
+#: templates/views/html-dashboard-coupon-form.php:142
+msgid "Limit usage to X products"
+msgstr "Verwendung auf X-Produkte beschränken"
+
+#: templates/views/html-dashboard-coupon-form.php:143
+msgid "Apply to all qualifying products in cart"
+msgstr "Auf alle qualifizierten Produkte im Warenkorb anwenden"
+
+#: templates/views/html-dashboard-coupon-form.php:146
+msgid "Usage limit per user"
+msgstr "Anwendungsbeschränkung pro Benutzer"
+
+#: templates/views/html-dashboard-coupon-form.php:150
+#: templates/views/html-dashboard-coupon-form.php:151
+msgid "Expire Date"
+msgstr "Ablaufdatum"
+
+#: templates/views/html-dashboard-coupon-form.php:182
+msgid "Minimum spend"
+msgstr "Mindestbestellwert"
+
+#: templates/views/html-dashboard-coupon-form.php:183
+msgid "No Minimum"
+msgstr "Kein Minimum"
+
+#: templates/views/html-dashboard-coupon-form.php:186
+msgid "Maximum spend"
+msgstr "Maximalbestellwert"
+
+#: templates/views/html-dashboard-coupon-form.php:187
+msgid "No Maximum"
+msgstr "Kein Maximum"
+
+#: templates/views/html-dashboard-coupon-form.php:193
+msgid "Enable free delivery"
+msgstr "Kostenlose Lieferung ermöglichen"
+
+#: templates/views/html-dashboard-coupon-form.php:200
+msgid "Individual use only"
+msgstr "Nur einzeln anwendbar"
+
+#: templates/views/html-dashboard-coupon-form.php:207
+msgid "Exclude discounted products"
+msgstr "Ermäßigte Produkte ausschließen"
+
+#: templates/views/html-dashboard-coupon-form.php:214
+msgid "Go public"
+msgstr "An die Börse gehen"
+
+#: templates/views/html-dashboard-coupon-form.php:218
+msgid "Coupon text to show"
+msgstr "Gutscheintext zum Anzeigen"
+
+#: templates/views/html-dashboard-coupon-form.php:219
+msgid ""
+"i.e: Use (enter coupon code) coupon before checkout to get (10%) discount."
+msgstr ""
+"d.h.: Verwenden Sie den Gutschein vor der Kasse, um (10%) Rabatt zu erhalten."
+
+#: templates/views/html-dashboard-coupon-header.php:19
+msgid "&larr; Coupons"
+msgstr "&larr; Gutscheine"
+
+#: templates/views/html-dashboard-coupon-header.php:24
+msgid "New Coupon"
+msgstr "Neuer Gutschein"
+
+#: templates/views/html-dashboard-coupon-list.php:21
+msgid "Code"
+msgstr "Code"
+
+#: templates/views/html-dashboard-coupon-list.php:22
+msgid "Type"
+msgstr "Typ"
+
+#: templates/views/html-dashboard-coupon-list.php:24
+msgid "Product IDs"
+msgstr "Produkt-IDs"
+
+#: templates/views/html-dashboard-coupon-list.php:25
+msgid "Usage / Limit"
+msgstr "Verwendung / Limit"
+
+#: templates/views/html-dashboard-coupon-list.php:26
+msgid "Expiry date"
+msgstr "Ablaufdatum"
+
+#: templates/views/html-dashboard-coupon-list.php:43
+msgid "Expiry:"
+msgstr "Ablauf:"
+
+#: templates/views/html-dashboard-coupon-list.php:81
+msgid "delete"
+msgstr "löschen"
+
+#: templates/views/html-dashboard-coupon-list.php:86
+msgid "Visit Store"
+msgstr "Zum Shop"
+
+#: templates/views/html-dashboard-coupon-list.php:101
+msgid "Sorry, no coupons found!"
+msgstr "Leider wurden keine Gutscheine gefunden!"
+
+#: templates/views/html-dashboard-home-orders.php:19
+#: templates/views/html-dashboard-orders-list.php:22
+msgid "Status"
+msgstr "Status"
+
+#: templates/views/html-dashboard-home-orders.php:20
+msgid "Count"
+msgstr "Anzahl"
+
+#: templates/views/html-dashboard-home-orders.php:36
+msgid "Pending Payment"
+msgstr "Ausstehende Zahlung"
+
+#: templates/views/html-dashboard-home-orders.php:54
+#: templates/views/html-dashboard-orders-list-row_actions.php:20
+msgid "Cancelled"
+msgstr "Abgebrochen"
+
+#: templates/views/html-dashboard-home-orders.php:63
+#: templates/views/html-dashboard-orders-list-row_actions.php:22
+#: templates/views/html-dashboard-orders-single-items.php:116
+msgid "Refunded"
+msgstr "Rückerstattet"
+
+#: templates/views/html-dashboard-home-orders.php:72
+msgid "On-hold"
+msgstr "In Wartestellung"
+
+#: templates/views/html-dashboard-home-top_clients.php:14
+msgid "Top Customers"
+msgstr "Top-Kunden"
+
+#: templates/views/html-dashboard-home-top_clients.php:19
+#: templates/views/html-dashboard-orders-list.php:24
+msgid "Customer"
+msgstr "Kunde"
+
+#: templates/views/html-dashboard-home-top_clients.php:20
+msgid "Money Spent"
+msgstr "Geld ausgegeben"
+
+#: templates/views/html-dashboard-home-top_clients.php:42
+msgid "Your top 10 clients will be listed here."
+msgstr "Ihre Top 10 Kunden werden hier aufgelistet."
+
+#: templates/views/html-dashboard-home-top_items.php:14
+msgid "Top Selling Products"
+msgstr "Meistverkaufte Produkte"
+
+#: templates/views/html-dashboard-home-top_items.php:20
+#: templates/views/html-dashboard-home-totals.php:14
+#: templates/views/html-dashboard-items-list-single_item.php:26
+msgid "Sales"
+msgstr "Verkäufe"
+
+#: templates/views/html-dashboard-home-top_items.php:30
+#, php-format
+msgid "Permalink to %1$s"
+msgstr "Permalink zu %1$s"
+
+#: templates/views/html-dashboard-home-top_items.php:43
+msgid "Your top 10 selling products will be listed here."
+msgstr "Ihre 10 meistverkauften Produkte werden hier aufgelistet."
+
+#: templates/views/html-dashboard-home-totals-table.php:17
+msgid "Gross"
+msgstr "Brutto"
+
+#: templates/views/html-dashboard-home-totals-table.php:18
+msgid "Total Coupon Usage"
+msgstr "Gesamte Gutscheinverwendung"
+
+#: templates/views/html-dashboard-home-totals-table.php:20
+msgid "Taxes"
+msgstr "Steuern"
+
+#: templates/views/html-dashboard-home-totals-table.php:21
+msgid "Taxes Refunded"
+msgstr "Erstattete Steuern"
+
+#: templates/views/html-dashboard-home-totals-table.php:24
+msgid "Uncompleted Orders"
+msgstr "Unvollendete Aufträge"
+
+#: templates/views/html-dashboard-home-totals-table.php:25
+msgid "Refunded Orders"
+msgstr "Rückerstattete Bestellungen"
+
+#: templates/views/html-dashboard-home-totals-table.php:29
+msgid "Net Profit"
+msgstr "Reingewinn"
+
+#: templates/views/html-dashboard-home-totals.php:14
+msgid "Print table"
+msgstr "Tabelle drucken"
+
+#: templates/views/html-dashboard-home-totals.php:14
+msgid "From all sellers"
+msgstr "Von allen Verkäufern"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "All Time"
+msgstr "Jederzeit"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Year"
+msgstr "Jahr"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Last Month"
+msgstr "Letzter Monat"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Month"
+msgstr "Monat"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Week"
+msgstr "Woche"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Today"
+msgstr "Heute"
+
+#: templates/views/html-dashboard-home-totals.php:17
+msgid "Start Date, i.e:"
+msgstr "Startdatum, d.h:"
+
+#: templates/views/html-dashboard-home-totals.php:20
+msgid "End Date, i.e:"
+msgstr "Enddatum, d.h:"
+
+#: templates/views/html-dashboard-home-totals.php:23
+#: templates/views/html-dashboard-vendor-status_menu.php:15
+msgid "Go"
+msgstr "Los"
+
+#: templates/views/html-dashboard-home-vendor_balance.php:14
+msgid "Account Balance"
+msgstr "Kontostand"
+
+#: templates/views/html-dashboard-home-vendor_balance.php:18
+msgid "Withdraw Money"
+msgstr "Geld abheben"
+
+#: templates/views/html-dashboard-items-form.php:21
+#: templates/views/html-dashboard-orders-list.php:26
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: templates/views/html-dashboard-items-form.php:24
+msgid "Post"
+msgstr "Beitrag"
+
+#: templates/views/html-dashboard-items-form.php:25
+msgid "Post & Add New"
+msgstr "Post & Add New"
+
+#: templates/views/html-dashboard-items-form_data.php:20
+msgid "Upload Cover"
+msgstr "Cover hochladen"
+
+#: templates/views/html-dashboard-items-form_data.php:20
+msgid "Upload cover image"
+msgstr "Coverbild hochladen"
+
+#: templates/views/html-dashboard-items-form_data.php:24
+msgid "Remove Image"
+msgstr "Bild entfernen"
+
+#: templates/views/html-dashboard-items-form_data.php:36
+msgid "Product Name"
+msgstr "Produktname"
+
+#: templates/views/html-dashboard-items-form_data.php:37
+msgid "Type name including brand name if available."
+msgstr "Typenname einschließlich Markenname, falls vorhanden."
+
+#: templates/views/html-dashboard-items-form_data.php:43
+msgid "General fields"
+msgstr "Allgemeine Felder"
+
+#: templates/views/html-dashboard-items-form_data.php:46
+msgid "Short Description"
+msgstr "Kurzbeschreibung"
+
+#: templates/views/html-dashboard-items-form_data.php:47
+msgid "Few words about the product..."
+msgstr "Ein paar Worte zum Produkt....."
+
+#: templates/views/html-dashboard-items-form_data.php:50
+msgid "Full Description"
+msgstr "Beschreibung"
+
+#: templates/views/html-dashboard-items-form_data.php:54
+msgid "Category"
+msgstr "Kategorie"
+
+#: templates/views/html-dashboard-items-form_data.php:59
+msgid "Menu"
+msgstr "Menü"
+
+#: templates/views/html-dashboard-items-form_data.php:67
+#, php-format
+msgid "You must set your %1$s before you can use this option"
+msgstr ""
+"Du musst deine %1$s einstellen, bevor du diese Option verwenden kannst."
+
+#: templates/views/html-dashboard-items-form_data.php:67
+msgid "meal types"
+msgstr "Mahlzeitenarten"
+
+#: templates/views/html-dashboard-items-form_data.php:76
+msgid "Preparation/Handling time (in minutes)"
+msgstr "Vorbereitungs-/Bearbeitungszeit (in Minuten)"
+
+#: templates/views/html-dashboard-items-form_data.php:80
+msgid "Maximum orders per day"
+msgstr "Maximale Bestellungen pro Tag"
+
+#: templates/views/html-dashboard-items-form_data.php:137
+#: templates/views/html-dashboard-items-form_data.php:166
+#: templates/views/html-dashboard-items-form_data.php:204
+msgid "Variations"
+msgstr "Variationen"
+
+#: templates/views/html-dashboard-items-form_data.php:140
+msgid "The product has variations?"
+msgstr "Das Produkt hat Variationen?"
+
+#: templates/views/html-dashboard-items-form_data.php:158
+#: templates/views/html-dashboard-items-form_data.php:200
+msgid "Variation title"
+msgstr "Variationstitel"
+
+#: templates/views/html-dashboard-items-form_data.php:161
+msgid "variation title"
+msgstr "Variationstitel"
+
+#: templates/views/html-dashboard-items-form_data.php:170
+msgid "Update product after selecting to see changes on options below."
+msgstr ""
+"Aktualisieren Sie das Produkt, nachdem Sie es ausgewählt haben, um "
+"Änderungen an den Optionen unten zu sehen."
+
+#: templates/views/html-dashboard-items-form_data.php:171
+msgid "Select terms"
+msgstr "Werte auswählen"
+
+#: templates/views/html-dashboard-items-form_data.php:189
+#: templates/views/html-dashboard-items-form_data.php:192
+#: templates/views/html-dashboard-items-form_data.php:205
+#, php-format
+msgid "Enter variations by \"%1$s\" separating values."
+msgstr "Geben Sie Abweichungen durch \"%1$s\" Trennwerte ein."
+
+#: templates/views/html-dashboard-items-form_data.php:211
+msgid "+ Add Option Group"
+msgstr "Optionsgruppe hinzufügen"
+
+#: templates/views/html-dashboard-items-form_data.php:215
+msgid "Add new option"
+msgstr "Neue Option hinzufügen"
+
+#: templates/views/html-dashboard-items-form_data.php:220
+msgid "Promotions"
+msgstr "Aktionen"
+
+#: templates/views/html-dashboard-items-form_data.php:238
+#: templates/views/html-dashboard-items-form_data.php:239
+#: templates/views/html-dashboard-items-form_data.php:267
+#: templates/views/html-dashboard-items-form_data.php:268
+msgid "Discount %"
+msgstr "Rabatt %"
+
+#: templates/views/html-dashboard-items-form_data.php:283
+msgid "Add new promotion rule"
+msgstr "Neue Aktionsregel hinzufügen"
+
+#: templates/views/html-dashboard-items-form_data.php:287
+msgid "Link products"
+msgstr "Produkte verlinken"
+
+#: templates/views/html-dashboard-items-form_data.php:292
+msgid "Up-Sells"
+msgstr "Upselling (Zusatzverkäufe)"
+
+#: templates/views/html-dashboard-items-form_data.php:302
+msgid "Cross-Sells"
+msgstr "Cross-Sells (Querverkäufe)"
+
+#: templates/views/html-dashboard-items-form_data.php:314
+msgid "Other options"
+msgstr "Andere Optionen"
+
+#: templates/views/html-dashboard-items-form_data.php:317
+msgid "Purchase Note"
+msgstr "Hinweis zum Kauf"
+
+#: templates/views/html-dashboard-items-form_data.php:319
+msgid "Enter an optional note to send the customer after purchase."
+msgstr ""
+"Geben Sie einen optionalen Hinweis ein, der dem Kunden nach dem Kauf "
+"gesendet wird."
+
+#: templates/views/html-dashboard-items-form_variation.php:35
+#, php-format
+msgid "Any %1$s&hellip;"
+msgstr "Jeder %1$s&hellip;"
+
+#: templates/views/html-dashboard-items-form_variation.php:52
+msgid "Few words about this variation..."
+msgstr "Ein paar Worte zu dieser Variante...."
+
+#: templates/views/html-dashboard-items-list-single_item.php:17
+msgid "edit product"
+msgstr "Produkt bearbeiten"
+
+#: templates/views/html-dashboard-items-list-single_item.php:27
+msgid "Views"
+msgstr "Ansichten"
+
+#: templates/views/html-dashboard-items-list-single_item.php:52
+msgid "Add this product to today's special products list."
+msgstr "Fügen Sie dieses Produkt zur heutigen Liste der Spezialprodukte hinzu."
+
+#: templates/views/html-dashboard-items-list-single_item.php:52
+msgid "Today's Special Product"
+msgstr "Das heutige Spezialprodukt"
+
+#: templates/views/html-dashboard-items-nav.php:15
+msgid "New product"
+msgstr "Neues Produkt"
+
+#: templates/views/html-dashboard-items-nav.php:22
+#, php-format
+msgid "Online (%d)"
+msgstr "Online (%d)"
+
+#: templates/views/html-dashboard-items-nav.php:25
+#, php-format
+msgid "Offline (%d)"
+msgstr "Offline (%d)"
+
+#: templates/views/html-dashboard-menu.php:14
+#, php-format
+msgid "%1$s Dashboard"
+msgstr "%1$s Dashboard"
+
+#: templates/views/html-dashboard-orders-list-row.php:16
+#, php-format
+msgid "Order %1$s"
+msgstr "Bestellung %1$s"
+
+#: templates/views/html-dashboard-orders-list-row.php:17
+msgid "Quick View"
+msgstr "Schnellansicht"
+
+#: templates/views/html-dashboard-orders-list-row.php:43
+msgid "Billing:"
+msgstr "Rechnung:"
+
+#: templates/views/html-dashboard-orders-list-row.php:46
+msgid "Tel:"
+msgstr "Tel:"
+
+#: templates/views/html-dashboard-orders-list-row.php:61
+msgid "Guest"
+msgstr "Gast"
+
+#: templates/views/html-dashboard-orders-list-row.php:93
+msgid "Options"
+msgstr "Optionen"
+
+#: templates/views/html-dashboard-orders-list-row.php:94
+msgid "Quantity"
+msgstr "Menge"
+
+#: templates/views/html-dashboard-orders-list-row_actions.php:19
+msgid "Complete"
+msgstr "Abgeschlossen"
+
+#: templates/views/html-dashboard-orders-list-row_actions.php:26
+msgid "Failed"
+msgstr "Fehlgeschlagen"
+
+#: templates/views/html-dashboard-orders-list_no_results.php:17
+msgid "No orders found"
+msgstr "Keine Bestellungen gefunden"
+
+#: templates/views/html-dashboard-orders-nav.php:17
+#, php-format
+msgid "Processing (%d)"
+msgstr "In Bearbeitung (%d)"
+
+#: templates/views/html-dashboard-orders-nav.php:22
+#, php-format
+msgid "Completed (%d)"
+msgstr "Abgeschlossene (%d)"
+
+#: templates/views/html-dashboard-orders-nav.php:27
+#, php-format
+msgid "On-hold (%d)"
+msgstr "In Wartestellung (%d)"
+
+#: templates/views/html-dashboard-orders-nav.php:32
+#, php-format
+msgid "Pending Payment (%d)"
+msgstr "Ausstehende Zahlungen (%d)"
+
+#: templates/views/html-dashboard-orders-nav.php:37
+#, php-format
+msgid "Cancelled (%d)"
+msgstr "Storniert (%d)"
+
+#: templates/views/html-dashboard-orders-nav.php:42
+#, php-format
+msgid "Refunded (%d)"
+msgstr "Erstattet (%d)"
+
+#: templates/views/html-dashboard-orders-nav.php:47
+#, php-format
+msgid "failed (%d)"
+msgstr "gescheitert (%d)"
+
+#: templates/views/html-dashboard-orders-single-customer_details.php:17
+msgid "Customer:"
+msgstr "Kunde:"
+
+#: templates/views/html-dashboard-orders-single-customer_details.php:31
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: templates/views/html-dashboard-orders-single-customer_details.php:46
+msgid "Customer Note:"
+msgstr "Kundenhinweis:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:17
+msgid "Order Status:"
+msgstr "Auftragsstatus:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:21
+msgid "Payment Method:"
+msgstr "Zahlungsmethode:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:25
+msgid "Created Date:"
+msgstr "Anmelde Datum:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:29
+msgid "Website Fee:"
+msgstr "Website-Gebühr:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:33
+msgid "Vendor's Net:"
+msgstr "Lieferantennetz:"
+
+#: templates/views/html-dashboard-orders-single-items.php:19
+msgid "Cost"
+msgstr "Kosten"
+
+#: templates/views/html-dashboard-orders-single-items.php:20
+msgid "Qty"
+msgstr "Menge"
+
+#: templates/views/html-dashboard-orders-single-items.php:25
+#: templates/views/html-dashboard-orders-single-items.php:26
+msgid "Tax"
+msgstr "Steuer"
+
+#: templates/views/html-dashboard-orders-single-items.php:71
+msgid "Coupon(s) Used"
+msgstr "Gutschein(e) genutzt"
+
+#: templates/views/html-dashboard-orders-single-items.php:108
+msgid "Order Total"
+msgstr "Gesamtsumme"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:21
+#: templates/views/html-dashboard-vendor-settings_form.php:36
+msgid "Change"
+msgstr "Ändern"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:26
+msgid "Select your shop's banner"
+msgstr "Wählen Sie das Banner Ihres Shops aus"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:26
+msgid "Select Image"
+msgstr "Bild auswählen"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:26
+msgid "Upload banner"
+msgstr "Banner Hochladen"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:27
+msgid "Upload a banner for your shop. Banner size is (1125x190) pixel."
+msgstr ""
+"Laden Sie ein Banner für Ihren Shop hoch. Die Bannergröße beträgt (1125x190) "
+"Pixel."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:40
+msgid "Upload Logo"
+msgstr "Logo hochladen"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:55
+msgid "Shop Notice"
+msgstr "Shop Hinweis"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:56
+msgid "Social Settings"
+msgstr "Sozial Media Einstellungen"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:58
+msgid "Open/Close Timings"
+msgstr "Öffnungs-/Schließzeiten"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:60
+msgid "Withdrawal Methods"
+msgstr "Auszahlungsmethoden"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:65
+msgid "General Info"
+msgstr "Allgemeine Information"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:69
+msgid "Shop type"
+msgstr "Ladentyp"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:74
+msgid "Shop name"
+msgstr "Shopname"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:86
+msgid "e.g. In front of cinema, Fourth floor, Seasons mall"
+msgstr "z.B. vor dem Kino, Vierter Stock, Seasons Mall"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:99
+msgid "i.e Italian, Indian, Fast Food, Fine Dining .. etc."
+msgstr "z.B. Italienisch, Indisch, Fast Food, Fine Dining etc."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:120
+msgid "Allow receiving emails from the shop page."
+msgstr "Erlaubt den Empfang von E-Mails von der Shop-Seite."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:137
+#: templates/views/html-dashboard-vendor-settings_form.php:150
+msgid "Start time (24 hours format 00:00)"
+msgstr "Startzeit (24 Stunden Format 00:00)"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:140
+#: templates/views/html-dashboard-vendor-settings_form.php:153
+msgid "End time (24 hours format 00:00)"
+msgstr "Endzeit (24 Stunden Format 00:00)"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:182
+msgid "Allow orders even when your shop is closed?"
+msgstr "Erlauben Sie Bestellungen, auch wenn Ihr Shop geschlossen ist?"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:196
+msgid "Calculate order preparation time percentage"
+msgstr "Berechnung des Zeitprozentsatzes für die Auftragsvorbereitung"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:203
+msgid "Delivery settings."
+msgstr "Auslieferungseinstellungen."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:206
+msgid ""
+"You have chosen not to provide delivery service. You can change that from "
+"your orders settings."
+msgstr ""
+"Sie haben sich dafür entschieden, keinen Lieferservice anzubieten. Sie "
+"können das von Ihren Auftragseinstellungen aus ändern."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:217
+#: templates/views/html-dashboard-vendor-settings_form.php:249
+msgid "Calculate delivery fee by"
+msgstr "Berechnen Sie die Versandkosten durch"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:242
+msgid "Delivery on peak times"
+msgstr "Lieferung zu Spitzenzeiten"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:245
+msgid "Processing orders"
+msgstr "Bearbeitung von Aufträgen"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:279
+msgid "Shop page notification"
+msgstr "Shop-Seite Benachrichtigung"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:282
+msgid "Add message"
+msgstr "Nachricht hinzufügen"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:283
+msgid "Type your note..."
+msgstr "Schreiben Sie Ihre Notiz...."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:288
+msgid "Social accounts"
+msgstr "Social Media Accounts"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:292
+msgid "Facebook"
+msgstr "Facebook"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:296
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:300
+msgid "Youtube"
+msgstr "Youtube"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:304
+msgid "Instagram"
+msgstr "Instagram"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:312
+msgid "Shop's timings"
+msgstr "Shop-Timings"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:326
+msgid "Two shifts"
+msgstr "Zwei Schichten"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:400
+msgid "Withdrawal settings"
+msgstr "Auszahlungseinstellungen"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:415
+msgid "Update Settings"
+msgstr "Einstellungen aktualisieren"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:498
+msgid "Geocode was not successful for the following reason:"
+msgstr "Die Geocodierung war aus dem folgenden Grund nicht erfolgreich:"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:580
+msgid "Error: The Geolocation service failed."
+msgstr "Fehler: Der Geolokalisierungsdienst ist fehlgeschlagen."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:15
+msgid "Status:"
+msgstr "Status: "
+
+#: templates/views/html-dashboard-vendor-status_menu.php:15
+msgid "Change Status?"
+msgstr "Status ändern?"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:16
+msgid "Play tune on new orders"
+msgstr "Melodie auf neue Aufträge spielen"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:16
+msgid "Turn on notifications"
+msgstr "Benachrichtigungen einschalten"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:16
+msgid "Active"
+msgstr "Aktiv"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:16
+msgid "Turn off notifications"
+msgstr "Benachrichtigungen ausschalten"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:17
+#, php-format
+msgid "Website time: %1$s"
+msgstr "Zeit der Website: %1$s"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:18
+msgid "Set your status to online if you wish to receive orders."
+msgstr ""
+"Setzen Sie Ihren Status auf Online, wenn Sie Bestellungen erhalten möchten."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:19
+#, php-format
+msgid ""
+"Your status will be automatically set to \"offline\" if you closed or "
+"navigated away from the website for %1$s minutes."
+msgstr ""
+"Dein Status wird automatisch auf \"offline\" gesetzt, wenn du die Website "
+"für %1$s Minuten geschlossen oder von ihr weg navigiert hast."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:20
+#, php-format
+msgid "%1$s from %2$s to %3$s."
+msgstr "%1$s von %2$s bis %3$s."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:22
+#, php-format
+msgid "No %1$s timings for today."
+msgstr "Keine %1$s Timings für heute."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:22
+msgid "set timing"
+msgstr "festgelegtes Timing"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:22
+msgid "opeining and closing"
+msgstr "Betrieb und Schließung"
+
+#: templates/views/html-items-atc.php:57
+msgid "Clear"
+msgstr "Zurücksetzen"
+
+#: templates/views/html-vendor-store_email_form.php:16
+msgid "Send Message to"
+msgstr "Nachricht senden"
+
+#: templates/views/html-vendor-store_email_form.php:27
+msgid "Your Name"
+msgstr "Ihr Name"
+
+#: templates/views/html-vendor-store_email_form.php:33
+msgid "you@example.com"
+msgstr "adresse@beispiel.com"
+
+#: templates/views/html-vendor-store_email_form.php:40
+msgid "Email Subject"
+msgstr "E-Mail Betreff"
+
+#: templates/views/html-vendor-store_email_form.php:46
+msgid "Type your message..."
+msgstr "Deine Nachricht…"
+
+#: templates/views/html-vendor-store_email_form.php:55
+msgid "Send Message"
+msgstr "Nachricht senden"
+
+#: templates/views/html-vendor-store_rating.php:17
+msgid "Login to make your rating on"
+msgstr "Melden Sie sich an, um Ihre Bewertung auf"
+
+#: templates/views/html-vendor-store_rating.php:20
+msgid "Email address"
+msgstr "E-Mail-Adresse"
+
+#: templates/views/html-vendor-store_rating.php:28
+msgid "Login"
+msgstr "Anmelden"
+
+#: templates/views/html-vendor-store_rating.php:35
+msgid "Rate"
+msgstr "Bewerten"
+
+#: templates/views/html-vendor-store_rating.php:39
+msgid "Star"
+msgstr "Stern"
+
+#. Plugin Name of the plugin/theme
+msgid "Norsani, The Multi-Vendor online Food Ordering System."
+msgstr "Norsani, das Multi-Vendor-Online-Bestellsystem für Lebensmittel."
+
+#. Plugin URI of the plugin/theme
+msgid "http://norsani.mahmudhamid.com/"
+msgstr "http://norsani.mahmudhamid.com/"
+
+#. Description of the plugin/theme
+msgid "Multi-vendor online food ordering system."
+msgstr "Multi-Vendor-Online-Bestellsystem für Lebensmittel."
+
+#. Author of the plugin/theme
+msgid "Mahmud Hamid"
+msgstr "Mahmud Hamid"
+
+#. Author URI of the plugin/theme
+msgid "https://mahmudhamid.com"
+msgstr "https://mahmudhamid.com"
+
+#~ msgid ""
+#~ "You cannot add that amount of &quot;%s&quot; to the cart because there is "
+#~ "not enough stock (%s remaining)."
+#~ msgstr ""
+#~ "Sie können die Menge von „%s“ nicht dem Warenkorb hinzufügen, weil diese "
+#~ "nicht vorrätig ist (%s vorrätig)."
+
+#~ msgid "Visit our website for docs"
+#~ msgstr "Besuchen Sie unsere Website für Dokumente"
+
+#~ msgid "Documentation"
+#~ msgstr "Dokumentation"
+
+#~ msgid "Update Location?"
+#~ msgstr "Standort aktualisieren?"
+
+#~ msgid "Updating PayPal Payouts statuses..."
+#~ msgstr "Aktualisieren des PayPal-Auszahlungsstatus...."
+
+#~ msgid "This option has been disabled because the product has variations."
+#~ msgstr ""
+#~ "Diese Option wurde deaktiviert, da das Produkt Variationen aufweist."
+
+#~ msgid ""
+#~ "Something went wrong, please check your browser console for more info."
+#~ msgstr ""
+#~ "Etwas ging schief, bitte überprüfen Sie Ihre Browserkonsole für weitere "
+#~ "Informationen."
+
+#~ msgid "Available"
+#~ msgstr "Verfügbar"
+
+#~ msgid "Not Available"
+#~ msgstr "Verfügbar"
+
+#~ msgid "Sorry, no products matched your selection."
+#~ msgstr "Leider passen keine Produkte zu Ihrer Auswahl."
+
+#~ msgid ""
+#~ "Please select some product options before adding this product to your "
+#~ "cart."
+#~ msgstr ""
+#~ "Bitte wählen Sie die Produktoptionen, bevor Sie den Artikel in den "
+#~ "Warenkorb legen."
+
+#~ msgid "Sorry, this product is unavailable."
+#~ msgstr "Dieses Produkt ist leider nicht verfügbar."
+
+#~ msgid "No address found for your location."
+#~ msgstr "Keine Adresse für Ihren Standort gefunden."
+
+#~ msgid "No results found. Please review your input."
+#~ msgstr "Keine Ergebnisse gefunden. Bitte überprüfen Sie Ihre Eingaben."
+
+#~ msgid "Geocoding Query limit reached. Please try again later."
+#~ msgstr ""
+#~ "Geokodierung Abfragegrenze erreicht. Bitte versuchen Sie es später noch "
+#~ "einmal."
+
+#~ msgid ""
+#~ "We could not set your location due to query limit. Please try setting it "
+#~ "manually."
+#~ msgstr ""
+#~ "Wir konnten Ihren Standort aufgrund von Abfragelimits nicht festlegen. "
+#~ "Bitte versuchen Sie es manuell."
+
+#~ msgid ""
+#~ "We could not load the predictions list due to a denied request. Please "
+#~ "try again later."
+#~ msgstr ""
+#~ "Wir konnten die Prognoseliste aufgrund einer abgelehnten Anfrage nicht "
+#~ "laden. Bitte versuchen Sie es später noch einmal."
+
+#~ msgid ""
+#~ "We could not load the predictions list due to a invalid request. Please "
+#~ "try again later."
+#~ msgstr ""
+#~ "Die Prognoseliste konnte aufgrund einer ungültigen Anfrage nicht geladen "
+#~ "werden. Bitte versuchen Sie es später noch einmal."
+
+#~ msgid ""
+#~ "We could not load the predictions list due to an unknown error. Please "
+#~ "try again later."
+#~ msgstr ""
+#~ "Wir konnten die Prognoseliste aufgrund eines unbekannten Fehlers nicht "
+#~ "laden. Bitte versuchen Sie es später noch einmal."
+
+#~ msgid ""
+#~ "The location was not set due to invalid request. Please try again later."
+#~ msgstr ""
+#~ "Der Standort wurde aufgrund einer ungültigen Anfrage nicht festgelegt. "
+#~ "Bitte versuchen Sie es später noch einmal."
+
+#~ msgid ""
+#~ "The location was not set due to denied request. Please try again later."
+#~ msgstr ""
+#~ "Der Standort wurde aufgrund einer abgelehnten Anfrage nicht festgelegt. "
+#~ "Bitte versuchen Sie es später noch einmal."
+
+#~ msgid ""
+#~ "Geolocation Access Denied. Please enable the geolocation service on your "
+#~ "device."
+#~ msgstr ""
+#~ "Geolokalisierung Zugriff verweigert. Bitte aktivieren Sie den "
+#~ "Geolokalisierungsdienst auf Ihrem Gerät."
+
+#~ msgid "Your location information is unavailable! Please review your input."
+#~ msgstr ""
+#~ "Ihre Standortinformationen sind nicht verfügbar! Bitte überprüfen Sie "
+#~ "Ihre Eingaben."
+
+#~ msgid "Your location information is unavailable!"
+#~ msgstr "Ihre Standortinformationen sind nicht verfügbar!"
+
+#~ msgid "Geolocation failed, maybe due to a slow internet connection."
+#~ msgstr ""
+#~ "Die Geolokalisierung ist fehlgeschlagen, vielleicht wegen einer langsamen "
+#~ "Internetverbindung."
+
+#~ msgid "Geolocation failed due to an unknown error. Please try again later."
+#~ msgstr ""
+#~ "Die Geolokalisierung ist aufgrund eines unbekannten Fehlers "
+#~ "fehlgeschlagen. Bitte versuchen Sie es später noch einmal."
+
+#~ msgid ""
+#~ "Could not set your address due to an unknown error. Please try again "
+#~ "later."
+#~ msgstr ""
+#~ "Ihre Adresse konnte aufgrund eines unbekannten Fehlers nicht eingestellt "
+#~ "werden. Bitte versuchen Sie es später noch einmal."
+
+#~ msgid "Error: Your browser doesn't support geolocation."
+#~ msgstr "Ihr Browser unterstützt keine Ortung."
+
+#~ msgid "Please check your internet connection and try again."
+#~ msgstr ""
+#~ "Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut."
+
+#~ msgid "Unsupported location"
+#~ msgstr "Nicht unterstützter Standort"
+
+#~ msgid "Server error"
+#~ msgstr "Serverfehler"
+
+#~ msgid ""
+#~ "We couldn't calculate the delivery duration between your location and "
+#~ "this vendor due to a server or internet connection error."
+#~ msgstr ""
+#~ "Wir konnten die Lieferzeit zwischen Ihrem Standort und diesem Anbieter "
+#~ "aufgrund eines Server- oder Internetverbindungsfehlers nicht berechnen."
+
+#~ msgid ""
+#~ "We couldn't calculate the delivery fee of this vendor due to a server or "
+#~ "internet connection error."
+#~ msgstr ""
+#~ "Wir konnten die Versandkosten dieses Anbieters aufgrund eines Server- "
+#~ "oder Internetverbindungsfehlers nicht berechnen."
+
+#~ msgid "Free Delivery"
+#~ msgstr "Kostenlose Lieferung"
+
+#~ msgid "per"
+#~ msgstr "pro"
+
+#~ msgid "No Connection!"
+#~ msgstr "Keine Verbindung!"
+
+#~ msgid "Our service is not supported in your country"
+#~ msgstr "Unser Service wird in Ihrem Land nicht unterstützt."
+
+#~ msgid "Your location has been set to"
+#~ msgstr "Ihr Standort wurde auf"
+
+#~ msgid ""
+#~ "This is an estimate calculation for the delivery duration to your location"
+#~ msgstr ""
+#~ "Dies ist eine Schätzkalkulation für die Lieferzeit zu Ihrem Standort."
+
+#~ msgid "Your location is not within the delivery zone of this vendor."
+#~ msgstr "Ihr Standort liegt nicht in der Lieferzone dieses Lieferanten."
+
+#~ msgid "This vendor provides free delivery service."
+#~ msgstr "Dieser Anbieter bietet einen kostenlosen Lieferservice an."
+
+#~ msgid ""
+#~ "The delivery fee multiplied with the total distance to your location."
+#~ msgstr ""
+#~ "Die Versandkosten multiplizieren sich mit der gesamten Entfernung zu "
+#~ "Ihrem Standort."
+
+#~ msgid "Out of range"
+#~ msgstr "Außerhalb des Bereichs"
+
+#~ msgid ""
+#~ "Your current location is out of range of this vendor's delivery service."
+#~ msgstr ""
+#~ "Ihr aktueller Standort liegt außerhalb des Bereichs des Lieferservices "
+#~ "dieses Lieferanten."
+
+#~ msgid "Start Date, mm/dd/yyyy"
+#~ msgstr "Startdatum, mm/tt/jjjjjjj"
+
+#~ msgid "End Date, mm/dd/yyyy"
+#~ msgstr "Endedatum, mm/tt/jjjjjjj"
+
+#~ msgid "Product:"
+#~ msgstr "Produkt:"
+
+#~ msgid "Class:"
+#~ msgstr "Klasse:"
+
+#~ msgid "Spicy:"
+#~ msgstr "Würzig:"
+
+#~ msgid "Fat:"
+#~ msgstr "Fett:"
+
+#~ msgid " Grams"
+#~ msgstr " Gramm"
+
+#~ msgid "Message from"
+#~ msgstr "Nachricht von"
+
+#~ msgid "\"%s\"! \"%s\" sent you a message from your \"%s\" vendor page."
+#~ msgstr ""
+#~ "\"%s\"! \"%s\" hat Ihnen eine Nachricht von Ihrer \"%s\"-Händlerseite "
+#~ "geschickt."
+
+#~ msgid "Invitation Letter from %s."
+#~ msgstr "Einladungsschreiben von %s."
+
+#~ msgid "Withdrawal Request #"
+#~ msgstr "Auszahlungsanfrage #"
+
+#~ msgid "New Customer Registration at"
+#~ msgstr "Neukunden-Registrierung bei"
+
+#~ msgid "Your"
+#~ msgstr "Ihr Kommentar wartet auf Freischaltung"
+
+#~ msgid "Balance Updated."
+#~ msgstr "Saldo aktualisiert."
+
+#~ msgid ""
+#~ "Hello Admin,\n"
+#~ "\n"
+#~ "Your Payout trasaction for order number: %s to vendor: %s has failed due "
+#~ "to the following error:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hallo Admin,\n"
+#~ "\n"
+#~ "Ihre Auszahlungstransaktion für die Bestellnummer: %s an den Lieferanten: "
+#~ "%s ist aufgrund des folgenden Fehlers fehlgeschlagen:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Mit freundlichen Grüßen\n"
+#~ "%s\n"
+#~ "%s"
+
+#~ msgid ""
+#~ "Hello %s,\n"
+#~ "\n"
+#~ "Someone requested through our mobile app that the password be reset for "
+#~ "the following account:\n"
+#~ "Username:%s\n"
+#~ "\n"
+#~ "If this was a mistake, just ignore this email and nothing will happen.\n"
+#~ "To reset your password, enter the following key in the password reset "
+#~ "verification field:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hallo %s,\n"
+#~ "\n"
+#~ "Jemand hat über unsere mobile App beantragt, dass das Passwort für das "
+#~ "folgende Konto zurückgesetzt wird:\n"
+#~ "Benutzername:%s\n"
+#~ "\n"
+#~ "Wenn dies ein Fehler war, ignorieren Sie einfach diese E-Mail und nichts "
+#~ "wird passieren.\n"
+#~ "Um Ihr Passwort zurückzusetzen, geben Sie den folgenden Schlüssel in das "
+#~ "Feld \"Passwort zurücksetzen\" ein:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Mit freundlichen Grüßen\n"
+#~ "%s\n"
+#~ "%s"
+
+#~ msgid ""
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "------------------------------\n"
+#~ "Sent from %s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "------------------------------\n"
+#~ "Gesendet von %s\n"
+#~ "%s"
+
+#~ msgid ""
+#~ "From: %s\n"
+#~ "IP: %s\n"
+#~ "User Agent: %s\n"
+#~ "------------------------------\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "------------------------------\n"
+#~ "Sent from %s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Von: %s\n"
+#~ "IP: %s\n"
+#~ "Benutzer-Agent: %s\n"
+#~ "------------------------------\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "------------------------------\n"
+#~ "Gesendet von %s\n"
+#~ "%s"
+
+#~ msgid ""
+#~ "Hello %s Admin,\n"
+#~ "\n"
+#~ "A New Customer has registered in your site.\n"
+#~ "User details:\n"
+#~ "Email : %s\n"
+#~ "\n"
+#~ "View all users list at %s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hallo %s Admin,\n"
+#~ "\n"
+#~ "Ein neuer Kunde hat sich auf Ihrer Website registriert.\n"
+#~ "Benutzerdetails:\n"
+#~ "E-Mail: %s\n"
+#~ "\n"
+#~ "Alle Benutzer anzeigen unter %s\n"
+#~ "\n"
+#~ "Mit freundlichen Grüßen\n"
+#~ "%s\n"
+#~ "%s"
+
+#~ msgid ""
+#~ "Hello %s Admin,\n"
+#~ "\n"
+#~ "A New Vendor has registered in your site.\n"
+#~ "Vendor details:\n"
+#~ "Email : %s\n"
+#~ "First Name : %s\n"
+#~ "Last Name : %s\n"
+#~ "Shop Name : %s\n"
+#~ "Shop URL : %s\n"
+#~ "Shop Phone : %s\n"
+#~ "\n"
+#~ "View all stores at %s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hallo %s Admin,\n"
+#~ "\n"
+#~ "Ein neuer Anbieter hat sich auf Ihrer Website registriert.\n"
+#~ "Lieferantendetails:\n"
+#~ "E-Mail: %s\n"
+#~ "Vorname: %s\n"
+#~ "Nachname: %s\n"
+#~ "Shop-Name: %s\n"
+#~ "Shop-URL: %s\n"
+#~ "Shop-Telefon: %s\n"
+#~ "\n"
+#~ "Alle Läden in %s anzeigen\n"
+#~ "\n"
+#~ "Mit freundlichen Grüßen\n"
+#~ "%s\n"
+#~ "%s"
+
+#~ msgid ""
+#~ "Hello %s,\n"
+#~ "\n"
+#~ "Your selling privileges status has been changed to: %s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hallo %s,\n"
+#~ "\n"
+#~ "Der Status Ihrer Verkaufsprivilegien wurde geändert in: %s\n"
+#~ "\n"
+#~ "Mit freundlichen Grüßen\n"
+#~ "%s\n"
+#~ "%s"
+
+#~ msgid ""
+#~ "Hello %s,\n"
+#~ "\n"
+#~ "The order id %s status has been changed from completed to %s. The order "
+#~ "total amount is %s.\n"
+#~ "Your new balance is %s. Please contact the website Admin if you might "
+#~ "need any clarification.\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hallo %s,\n"
+#~ "\n"
+#~ "Der Status der Auftragskennung %s wurde von abgeschlossen auf %s "
+#~ "geändert. Der Gesamtbetrag der Bestellung beträgt %s.\n"
+#~ "Ihr neuer Saldo ist %s. Bitte kontaktieren Sie die Website Admin, wenn "
+#~ "Sie weitere Informationen benötigen.\n"
+#~ "\n"
+#~ "Mit freundlichen Grüßen\n"
+#~ "%s\n"
+#~ "%s"
+
+#~ msgid "e.g. Indian, Italian, Chinese ..."
+#~ msgstr "z.B. Indisch, Italienisch, Chinesisch ...."
+
+#~ msgid "e.g. Beef, Chicken, Onion ..."
+#~ msgstr "z.B. Rindfleisch, Huhn, Zwiebel...."
+
+#~ msgid "e.g. Road One, Road Two, Road Three ..."
+#~ msgstr "z.B. Straße Eins, Straße Zwei, Straße Drei ...."
+
+#~ msgid "next"
+#~ msgstr "Weiter"
+
+#~ msgid ""
+#~ "Sorry, The preparation date set for %s&apos;s products is inappropriate."
+#~ msgstr ""
+#~ "Sorry, das für %s&apos;s Produkte festgelegte Vorbereitungsdatum ist "
+#~ "unangemessen."
+
+#~ msgid "Sub Orders"
+#~ msgstr "Teilaufträge"
+
+#~ msgid "Note:"
+#~ msgstr "Hinweis:"
+
+#~ msgid ""
+#~ "This order has products from multiple vendors. So we have divided the "
+#~ "main order into multiple sub-orders, each will be handled by its "
+#~ "respective vendor independently."
+#~ msgstr ""
+#~ "Dieser Auftrag hat Produkte von mehreren Lieferanten. Deshalb haben wir "
+#~ "den Hauptauftrag in mehrere Unteraufträge aufgeteilt, die jeweils von den "
+#~ "jeweiligen Lieferanten eigenständig bearbeitet werden."
+
+#~ msgid "%s for %s product"
+#~ msgid_plural "%s for %s products"
+#~ msgstr[0] "%s für %s Produkt"
+#~ msgstr[1] "%s für %s Produkte"
+
+#~ msgid "N/A"
+#~ msgstr "N/A"
+
+#~ msgid "Account Name: %s"
+#~ msgstr "Konto Name: %s"
+
+#~ msgid "Account Number: %s"
+#~ msgstr "﻿Kontonummer:  %s"
+
+#~ msgid "Bank Name: %s"
+#~ msgstr "Bank Name: %s"
+
+#~ msgid "Address: %s"
+#~ msgstr "Adresse: %s"
+
+#~ msgid "SWIFT: %s"
+#~ msgstr "SWIFT: %s"
+
+#~ msgid "the vendor balance is Insufficient."
+#~ msgstr "der Lieferantensaldo ist ungenügend."
+
+#~ msgid "Sub Order of"
+#~ msgstr "Unterordnung von"
+
+#~ msgid "Unpublished"
+#~ msgstr "Unveröffentlicht"
+
+#~ msgid "Update the Product"
+#~ msgstr "Produkt aktualisieren"
+
+#~ msgid "list"
+#~ msgstr "Liste"
+
+#~ msgid "Please select the types of vendors that you allow to register."
+#~ msgstr ""
+#~ "Bitte wählen Sie die Typen von Anbietern aus, die Sie zur Registrierung "
+#~ "zulassen."
+
+#~ msgid "Post the Product"
+#~ msgstr "Buchen Sie das Produkt"
+
+#~ msgid "Post the product & add a new one"
+#~ msgstr "Post das Produkt & ein neues hinzufügen"
+
+#~ msgid "This product cannot be purchased."
+#~ msgstr "Das Produkt kann nicht bestellt werden."
+
+#~ msgid "Available food types"
+#~ msgstr "Verfügbare Lebensmittel"
+
+#~ msgid "Veg."
+#~ msgstr "Veg."
+
+#~ msgid "Non-Veg."
+#~ msgstr "Nicht-Veg."
+
+#~ msgid "Sea Food."
+#~ msgstr "Meeresfrüchte"
+
+#~ msgid "Food Truck"
+#~ msgstr "Lebensmittelwagen"
+
+#~ msgid "Chefs list page was not found."
+#~ msgstr "Chefs Liste Seite wurde nicht gefunden."
+
+#~ msgid "Restaurants list page was not found."
+#~ msgstr "Restaurantlistenseite wurde nicht gefunden."
+
+#~ msgid "Groceries list page was not found."
+#~ msgstr "Lebensmittel-Listenseite wurde nicht gefunden."
+
+#~ msgid "Food Trucks list page was not found."
+#~ msgstr "Food Trucks-Listenseite wurde nicht gefunden."
+
+#~ msgid "Chef"
+#~ msgstr "Küchenchef"
+
+#~ msgid "Restaurant"
+#~ msgstr "Restaurant"
+
+#~ msgid "Grocery"
+#~ msgstr "Lebensmittel"
+
+#~ msgid "Browse Restaurants"
+#~ msgstr "Stöbern Sie in Restaurants"
+
+#~ msgid "Browse Groceries"
+#~ msgstr "Stöbern Sie in Lebensmitteln"
+
+#~ msgid "Browse Food Trucks"
+#~ msgstr "Stöbern Sie in Food Trucks"
+
+#~ msgid "Foodtrucks"
+#~ msgstr "Lebensmitteltransporter"
+
+#~ msgid "Net"
+#~ msgstr "Netto"

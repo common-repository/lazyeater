@@ -1,0 +1,5653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Norsani, The Multi-Vendor online Food Ordering System.\n"
+"POT-Creation-Date: 2018-11-16 14:52+0300\n"
+"PO-Revision-Date: 2018-11-16 15:07+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && "
+"n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: frozr-norsani.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-norsani-admin.php:164
+msgid "Activate the Norsani's default childtheme"
+msgstr "تفعيل الطفل الافتراضي نورساني"
+
+#: includes/class-norsani-admin.php:164
+msgid "Install the Norsani's default theme"
+msgstr "قم بتثبيت النسق الافتراضي الخاص بـ Norsani"
+
+#: includes/class-norsani-admin.php:167
+msgid ""
+"Your current theme dose not support Norsani. Please install and activate a "
+"supported theme or"
+msgstr "القالب الحالية لا يدعم Norsani. يرجى تثبيت وتنشيط قالب مدعوم أو"
+
+#: includes/class-norsani-admin.php:172
+msgid ""
+"You have not yet set a fee/commission on your vendors sales. Vendors will get "
+"%100 of their sales. Set your fee/commission now from the&nbsp;"
+msgstr ""
+"لم تقم بعد بتعيين رسوم / عمولة على مبيعات البائعين. سيحصل الباعة على٪ 100 من "
+"مبيعاتهم. حدد رسوم / عمولة الآن من"
+
+#: includes/class-norsani-admin.php:172
+msgid "Fees/Commission Settings"
+msgstr "اعدادات الرسوم / العمولات"
+
+#: includes/class-norsani-admin.php:178
+msgid ""
+"Norsani highly depends on WooCommerce plugin which was uninstalled. Norsani "
+"will stop working untill you install and activate WooCommerce."
+msgstr ""
+"نورساني يعتمد إلى حد كبير على البرنامج المساعد WooCommerce الذي تم إلغاء "
+"تثبيته. نورساني سوف يتوقف عن العمل حتى يتم تثبيت وتنشيط WooCommerce مجددا."
+
+#: includes/class-norsani-admin.php:182
+msgid ""
+"Norsani highly depends on WooCommerce plugin which was deactivated. Norsani "
+"will stop working untill you reactivate WooCommerce."
+msgstr ""
+"نورساني يعتمد إلى حد كبير على البرنامج المساعد WooCommerce الذي تم تعطيلة. "
+"نورساني سوف يتوقف عن العمل حتى يتم تنشيط WooCommerce مجددا."
+
+#: includes/class-norsani-admin.php:1120 installer.php:215
+msgid "Norsani's Demo Menu"
+msgstr "Norsani&#39;s Demo Menu"
+
+#: includes/class-norsani-admin.php:1134 installer.php:226
+msgid "Browse"
+msgstr "تصفح"
+
+#: includes/class-norsani-admin.php:1147 includes/class-norsani-admin.php:1180
+#: installer.php:237
+msgid "Vendor Registration"
+msgstr "تسجيل البائع"
+
+#: includes/class-norsani-admin.php:1168
+#, php-format
+msgid ""
+"Please use the following password to login to the accounts of the newly added "
+"users: %1$s"
+msgstr ""
+"يرجى استخدام كلمة المرور التالية لتسجيل الدخول إلى حسابات المستخدمين الجدد: "
+"%1$s"
+
+#: includes/class-norsani-admin.php:1170
+#, php-format
+msgid "Demo data was installed successfully. %1$s"
+msgstr "تم تثبيت البيانات التجريبية بنجاح. %1$s"
+
+#: includes/class-norsani-admin.php:1181
+msgid "Vendors list"
+msgstr "قائمة البائعين"
+
+#: includes/class-norsani-admin.php:1182
+msgid "Sellers list."
+msgstr "قائمة البائعين."
+
+#: includes/class-norsani-admin.php:1190
+msgid ""
+"This page is used by Norsani. You can freely change this text but please do "
+"NOT delete it."
+msgstr ""
+"يتم استخدام هذه الصفحة من قبل Norsani. يمكنك تغيير هذا النص بحرية ، لكن لا "
+"تحذف الصفحة."
+
+#: includes/class-norsani-admin.php:1212 includes/class-norsani-admin.php:1213
+msgid "here"
+msgstr "هنا"
+
+#: includes/class-norsani-admin.php:1214
+msgid "Learn how payments are processed"
+msgstr "التعرف على كيفية معالجة المدفوعات"
+
+#: includes/class-norsani-admin.php:1215
+msgid "PayPal Payouts FAQ"
+msgstr "أسئلة شائعة حول دفوعات باي بال"
+
+#: includes/class-norsani-admin.php:1216
+msgid "Advance"
+msgstr "متقدم"
+
+#: includes/class-norsani-admin.php:1217 includes/class-norsani-dashboard.php:74
+msgid "Sellers"
+msgstr "الباعة"
+
+#: includes/class-norsani-admin.php:1218 includes/class-norsani-dashboard.php:66
+#: includes/class-norsani-wp_init.php:237 templates/vendors-registration.php:81
+#: templates/views/html-dashboard-home-vendor_balance.php:18
+msgid "Withdraw"
+msgstr "سحب"
+
+#: includes/class-norsani-admin.php:1221
+#, php-format
+msgid ""
+"You must enter your Google API key to enable Norsani's user location based "
+"services such as Geolocation, Delivery orders and vendor addresses. Click %s "
+"for instruction on how to get an API key."
+msgstr ""
+"يجب عليك إدخال مفتاح Google API الخاص بك لتمكين خدمات Norsani الخاصة بمواقع "
+"المستخدم مثل تحديد الموقع الجغرافي وأوامر التسليم وعناوين الموردين. انقر على "
+"%s للحصول على تعليمات حول كيفية الحصول على مفتاح واجهة برمجة التطبيقات."
+
+#: includes/class-norsani-admin.php:1222
+msgid ""
+"Enter the type of vendors you allow to register separated with commas. If you "
+"remove a vendor type, it will be removed from the vendor registration form but "
+"vendors holding that type are still going to be available until you manually "
+"delete them."
+msgstr ""
+"أدخل نوع الموردين الذين تسمح لهم بالتسجيل مفصولين بفواصل. إذا أزلت نوع مورد ، "
+"فستتم إزالته من نموذج تسجيل المورد ، ولكن سيظل الموردون الذين لديهم هذا النوع "
+"متاحًا حتى تحذفهم يدويًا."
+
+#: includes/class-norsani-admin.php:1223
+#, php-format
+msgid ""
+"If you selected this, vendors will be able to post their products immediately "
+"after registeration. You can manually activate/deactivate selling privileges "
+"for a vendor from the %s page."
+msgstr ""
+"إذا حددت هذا ، فسيتمكن البائعون من نشر منتجاتهم فورًا بعد التسجيل. يمكنك "
+"تنشيط / إلغاء تنشيط امتيازات البيع يدويًا لمورد من صفحة %s."
+
+#: includes/class-norsani-admin.php:1224
+msgid ""
+"If this field is selected, the vendor shop's open/close timing options will "
+"not be available and vendors will have to manually change their status to "
+"'online' to receive orders. This will insure that vendors are available to "
+"process orders once they are received. However, vendors can also change their "
+"status manually even if this option is not selected."
+msgstr ""
+"إذا تم تحديد هذا الحقل ، فلن تكون خيارات توقيت فتح / إغلاق متجر البائع متوفرة "
+"وسيتعين على البائعين تغيير حالتها يدويًا إلى &quot;عبر الإنترنت&quot; لتلقي "
+"الطلبات. هذا سيضمن أن البائعين متاحين لمعالجة الطلبات بمجرد استلامها. ومع "
+"ذلك ، يمكن للموردين أيضًا تغيير حالتها يدويًا حتى إذا لم يتم تحديد هذا الخيار."
+
+#: includes/class-norsani-admin.php:1225
+msgid ""
+"If the above option is selected, the system will ignore the vendor's shop "
+"timing data and make the vendor's original status to 'offline' until they "
+"manually change it to 'online'. However, vendors can manually change their "
+"original status for a specific time. In that case, enter the time the system "
+"should wait before returning the vendor status to its original status if the "
+"vendor has closed or navigated away from your website. This is helpful when "
+"you wish to make sure that the vendor is really online to receive and process "
+"orders."
+msgstr ""
+"في حالة تحديد الخيار أعلاه ، سيتجاهل النظام بيانات توقيت متجر البائع ويجعل "
+"الحالة الأصلية للمورد &quot;غير متصلة&quot; حتى يتم تغييرها يدويًا إلى &quot;"
+"عبر الإنترنت&quot;. ومع ذلك ، يمكن للموردين تغيير حالتها الأصلية يدويًا لفترة "
+"زمنية محددة. في هذه الحالة ، أدخل الوقت الذي يجب أن ينتظره النظام قبل إرجاع "
+"حالة البائع إلى حالته الأصلية إذا كان البائع قد أغلق أو ابتعد عن موقع الويب "
+"الخاص بك. يعد ذلك مفيدًا عندما ترغب في التأكد من أن البائع متصل حقًا لاستلام "
+"الطلبات ومعالجتها."
+
+#: includes/class-norsani-admin.php:1226
+msgid ""
+"Featured products will appear to users when they click the main search button."
+msgstr "ستظهر المنتجات المميزة للمستخدمين عند النقر على زر البحث الرئيسي."
+
+#: includes/class-norsani-admin.php:1227
+msgid ""
+"Featured vendors will appear to users when they click the main search button."
+msgstr "سيظهر الموردون المميزون للمستخدمين عند النقر على زر البحث الرئيسي."
+
+#: includes/class-norsani-admin.php:1228
+msgid ""
+"Select this field to automatically create withdrawal requests for vendors "
+"after their orders statuses change to completed."
+msgstr ""
+"حدد هذا الحقل لإنشاء طلبات السحب للموردين تلقائيًا بعد تغيير حالات طلباتهم إلى "
+"حالتها."
+
+#: includes/class-norsani-admin.php:1229
+#, php-format
+msgid ""
+"If you wish to pay a withdrawal request directly from the %1$s page with one "
+"click using \"PayPal\" Payouts, please enter your \"PayPal App ClientId\". "
+"Click %2$s if you need instructions on creating a \"PayPal REST App\"."
+msgstr ""
+"إذا كنت ترغب في دفع طلب سحب مباشرة من صفحة %1$s بنقرة واحدة باستخدام دفعات "
+"&quot;PayPal&quot; ، فالرجاء إدخال &quot;PayPal App ClientId&quot; الخاص بك. "
+"انقر على %2$s إذا كنت تحتاج إلى تعليمات حول إنشاء &quot;تطبيق PayPal "
+"REST&quot;."
+
+#: includes/class-norsani-admin.php:1230
+#, php-format
+msgid ""
+"If you wish to pay a withdrawal request directly from the %1$s page with one "
+"click using \"PayPal\" Payouts, please enter your \"PayPal App ClientSecret\". "
+"Click %2$s if you need instructions on creating a \"PayPal REST App\"."
+msgstr ""
+"إذا كنت ترغب في دفع طلب سحب مباشرة من صفحة %1$s بنقرة واحدة باستخدام دفعات "
+"&quot;PayPal&quot; ، يرجى إدخال &quot;PayPal App ClientSecret&quot; الخاص بك. "
+"انقر على %2$s إذا كنت تحتاج إلى تعليمات حول إنشاء &quot;تطبيق PayPal "
+"REST&quot;."
+
+#: includes/class-norsani-admin.php:1231
+msgid ""
+"When vendors manually create withdrawal requests, what is the minimum amount a "
+"vendor can ask for?"
+msgstr ""
+"عندما يقوم البائعين بإنشاء طلبات السحب يدويًا ، ما هو الحد الأدنى للمبلغ الذي "
+"يمكن أن يطلبه البائع؟"
+
+#: includes/class-norsani-admin.php:1232
+msgid ""
+"Select your preferred methods to pay vendors. Each selected method will add "
+"new fields to the vendors settings page, vendors will use those settings to "
+"provide you with the required information to pay them."
+msgstr ""
+"اختر طرقك المفضلة لدفع البائعين. ستضيف كل طريقة محددة حقولًا جديدة إلى صفحة "
+"إعدادات الموردين ، وسيستخدم الموردون تلك الإعدادات لتزويدك بالمعلومات المطلوبة "
+"لدفعها."
+
+#: includes/class-norsani-admin.php:1233
+msgid ""
+"Select the default withdrawal request status when vendors submit them. The "
+"default status of an automatically created withdrawal request is \"pending\"."
+msgstr ""
+"حدد حالة طلب السحب الافتراضية عندما يقدمها الموردون. الحالة الافتراضية لطلب "
+"السحب الذي تم إنشاؤه تلقائيًا هي &quot;معلقة&quot;."
+
+#: includes/class-norsani-admin.php:1234
+msgid ""
+"These settings are used to calculate the delivery cost and distance between "
+"vendors and customers."
+msgstr ""
+"يتم استخدام هذه الإعدادات لحساب تكلفة التسليم والمسافة بين البائعين والعملاء."
+
+#: includes/class-norsani-admin.php:1235
+msgid ""
+"These fees are only applied on vendors. This means customers will not be "
+"affected and will only pay the original total amount of the order. To add fees "
+"on customers, please use the WooCommerce Tax settings."
+msgstr ""
+"يتم تطبيق هذه الرسوم فقط على البائعين. وهذا يعني أن العملاء لن يتأثروا ولن "
+"يدفعوا إلا المبلغ الإجمالي الأصلي للطلب. لإضافة رسوم على العملاء ، يرجى "
+"استخدام إعدادات ضريبة WooCommerce."
+
+#: includes/class-norsani-admin.php:1236
+msgid ""
+"With 'Cash on Delivery' orders, customers will pay the order total amount "
+"including your fees to the delivery person and thus you will not receive any "
+"payment. In that case, the system by default deducts your fees from the vendor "
+"account's balance on your website."
+msgstr ""
+"من خلال أوامر &quot;الدفع عند التسليم&quot; ، سيدفع العملاء المبلغ الإجمالي "
+"للطلب بما في ذلك الرسوم الخاصة بك إلى الشخص الذي يقوم بالتوصيل وبالتالي لن "
+"تتلقى أي مدفوعات. في هذه الحالة ، يقوم النظام بشكل افتراضي بخصم الرسوم من رصيد "
+"حساب البائع على موقع الويب الخاص بك."
+
+#: includes/class-norsani-admin.php:1237
+#, php-format
+msgid ""
+"Enter terms and conditions for vendors, this will be used in the vendor "
+"registration form. To add terms for customers go to WooCommerce %s settings."
+msgstr ""
+"أدخل الشروط والأحكام للبائعين ، وسيتم استخدام هذا في نموذج تسجيل البائع. "
+"لإضافة مصطلحات للعملاء ، انتقل إلى إعدادات WooCommerce %s."
+
+#: includes/class-norsani-admin.php:1238
+msgid ""
+"Apply this fee on vendors when they receive orders from all, some or selected "
+"customers."
+msgstr ""
+"قم بتطبيق هذا الرسم على البائعين عندما يتلقون طلبات من الجميع ، أو بعضهم أو "
+"عملاء محددين."
+
+#: includes/class-norsani-admin.php:1239
+msgid "Select vendors who will be effected by this fee."
+msgstr "حدد البائعين الذين سيتم تأثرهم بهذه الرسوم."
+
+#: includes/class-norsani-admin.php:1240
+msgid ""
+"A float value which if the sub-total amount of the order exceeds, this rule "
+"will be applied."
+msgstr ""
+"قيمة عائمة إذا تم تجاوز المبلغ الإجمالي الفرعي للطلب ، فسيتم تطبيق هذه القاعدة."
+
+#: includes/class-norsani-admin.php:1241
+msgid ""
+"Whether to apply this rule on the order total including delivery fee or only "
+"on the order delivery fee."
+msgstr ""
+"ما إذا كان سيتم تطبيق هذه القاعدة على إجمالي الطلب بما في ذلك رسوم التوصيل أو "
+"فقط على رسوم تسليم الطلب."
+
+#: includes/class-norsani-admin.php:1242
+msgid ""
+"The amount to deduct from orders. The first field is a percentage which is "
+"multiplied by the total order or delivery fee. i.e: if order total is $10 and "
+"you have entered 2.9 in first field and selected \"Plus\" and entered 3 in the "
+"last field, the total fee applied will be: ($10 x 2.9 / 100) + 3 = $3.29"
+msgstr ""
+"المبلغ المطلوب خصمه من الطلبات. الحقل الأول عبارة عن نسبة مضروبة في إجمالي "
+"الطلب أو رسوم التسليم. بمعنى: إذا كان إجمالي الطلب هو $ 10 وكنت قد دخلت 2.9 في "
+"الحقل الأول وحددت &quot;Plus&quot; ودخلت 3 في الحقل الأخير ، فسيكون إجمالي "
+"الرسوم المطبقة: (10 دولارات × 2.9 / 100) + 3 = 3.29 دولار"
+
+#: includes/class-norsani-admin.php:1243
+msgid ""
+"This rule will only be applied if the order was paid with the selected payment "
+"method."
+msgstr ""
+"لن يتم تطبيق هذه القاعدة إلا إذا تم سداد الطلب باستخدام طريقة الدفع المحددة."
+
+#: includes/class-norsani-admin.php:1244
+msgid "Enter a name for this fee. i.e: Website Fee"
+msgstr "أدخل اسمًا لهذه الرسوم. أي: رسوم الموقع"
+
+#: includes/class-norsani-admin.php:1245
+msgid "Let the vendor know why are you applying this fee."
+msgstr "دع البائع يعرف لماذا تطبق هذه الرسوم."
+
+#: includes/class-norsani-admin.php:1246
+msgid ""
+"Select the order types allowed on your website. Vendors will be restricted to "
+"select their accepted order types from your selection here."
+msgstr ""
+"حدد أنواع الطلبات المسموح بها على الموقع. سيتم تقييد البائعين لتحديد أنواع "
+"الطلبات المقبولة من اختيارك هنا."
+
+#: includes/class-norsani-admin.php:1247
+msgid ""
+"Vendors can also allow receiving pre-orders from their stores while closed. "
+"Select the order types that are allowed for vendors to allow while their "
+"stores are closed."
+msgstr ""
+"يمكن للبائعين أيضًا السماح باستلام الطلبات المسبقة من متاجرهم خلال إغلاقها. حدد "
+"أنواع الطلبات المسموح للموردين بالسماح بها أثناء ما تكون متاجرهم مغلقة."
+
+#: includes/class-norsani-admin.php:1311
+msgid ""
+"We could not complete the theme installation process due to restricted write "
+"permissions."
+msgstr "لم نتمكن من إكمال عملية تثبيت المظهر بسبب أذونات الكتابة المقيدة."
+
+#: includes/class-norsani-admin.php:1330 includes/class-norsani-dashboard.php:94
+#: includes/class-norsani-vendor.php:990
+#: templates/views/html-dashboard-coupon-list.php:29
+#: templates/views/html-dashboard-orders-list.php:28
+msgid "Vendor"
+msgstr "البائع"
+
+#: includes/class-norsani-admin.php:1331
+msgid "Sub Order"
+msgstr "طلب فرعي"
+
+#: includes/class-norsani-admin.php:1332
+msgid "Preparation Time"
+msgstr "وقت التحضير"
+
+#: includes/class-norsani-admin.php:1333
+msgid "Receive Date"
+msgstr "تاريخ الإستلام"
+
+#: includes/class-norsani-admin.php:1360
+msgid "In Queue"
+msgstr "في قائمة الانتظار"
+
+#: includes/class-norsani-admin.php:1367
+msgid "Show Sub-Orders"
+msgstr "عرض الطلبات الفرعية"
+
+#: includes/class-norsani-admin.php:1367
+msgid "Hide Sub-Orders"
+msgstr "إخفاء الطلبات الفرعية"
+
+#: includes/class-norsani-admin.php:1379
+msgid "Multiple"
+msgstr "متعدد"
+
+#: includes/class-norsani-admin.php:1493
+msgid "Toggle Sub-orders"
+msgstr "عرض/إخفاء الطلبات الفرعية"
+
+#: includes/class-norsani-admin.php:1514
+msgid "Norsani Options"
+msgstr "خيارات نورساني"
+
+#: includes/class-norsani-admin.php:1518
+msgid "Selling"
+msgstr "البيع"
+
+#: includes/class-norsani-admin.php:1523
+msgid "Enable Selling"
+msgstr "تمكين البيع"
+
+#: includes/class-norsani-admin.php:1526
+msgid "Enable or disable the product selling capability"
+msgstr "تمكين أو تعطيل قدرة بيع المنتج"
+
+#: includes/class-norsani-admin.php:1570
+msgid "Author"
+msgstr "الكاتب"
+
+#: includes/class-norsani-ajax.php:168
+msgid "The payout was canceled"
+msgstr "تم إلغاء العائد"
+
+#: includes/class-norsani-ajax.php:222
+msgid "Something went wrong."
+msgstr "حدث خطأ."
+
+#: includes/class-norsani-ajax.php:227
+msgid ""
+"Please enter your 'PayPal App clientId' and 'Secret' in Norsani's admin "
+"Withdrawals Requests Settings."
+msgstr ""
+"الرجاء إدخال &quot;تطبيق PayPal clientId&quot; و &quot;Secret&quot; في إعدادات "
+"طلبات السحب الخاصة بإدارة Norsani."
+
+#: includes/class-norsani-ajax.php:232
+msgid "Payment is already processing. Please refresh page to see status."
+msgstr "عملية الدفع تتم معالجتها بالفعل. يرجى تحديث الصفحة لمعرفة الحالة."
+
+#: includes/class-norsani-ajax.php:247 includes/class-norsani-withdraw.php:577
+msgid "Payment for order: #"
+msgstr "الدفع للطلب: #"
+
+#: includes/class-norsani-ajax.php:252
+msgid ""
+"The available funds in the vendor's account is lower than the minimum amount "
+"to make a withdraw request."
+msgstr ""
+"الأموال المتاحة في حساب البائع هي أقل من الحد الأدنى للمبلغ المطلوب لتقديم طلب "
+"السحب."
+
+#: includes/class-norsani-ajax.php:257
+msgid "The amount of withdraw is 0"
+msgstr "مقدار السحب هو 0"
+
+#: includes/class-norsani-ajax.php:262
+msgid "Insufficient funds in the vendor's account."
+msgstr "أموال غير كافية في حساب البائع."
+
+#: includes/class-norsani-ajax.php:267
+msgid "Order Payment"
+msgstr "دفع الطلب"
+
+#: includes/class-norsani-ajax.php:335
+msgid ""
+"The payment is currently processing. Please refresh the page to see status."
+msgstr "تتم معالجة الدفعة حاليًا. يرجى تحديث الصفحة لمعرفة الحالة."
+
+#: includes/class-norsani-ajax.php:464 includes/class-norsani-ajax.php:468
+#: includes/class-norsani-ajax.php:505 includes/class-norsani-ajax.php:1410
+#: includes/class-norsani-ajax.php:1427 includes/class-norsani-ajax.php:1828
+#: includes/class-norsani-ajax.php:2169 includes/class-norsani-item.php:558
+#: includes/class-norsani-item.php:669
+msgid "Something went wrong!"
+msgstr "حدث خطأ ما!"
+
+#: includes/class-norsani-ajax.php:472
+msgid "Payout was canceled and moved to the \"canceled list\"."
+msgstr "تم إلغاء العائد وتم نقله إلى &quot;القائمة الملغاة&quot;."
+
+#: includes/class-norsani-ajax.php:486
+msgid "Payout was canceled by Admin"
+msgstr "تم إلغاء العائد من قِبل المسؤول"
+
+#: includes/class-norsani-ajax.php:494
+msgid "Payout already completed and cannot be canceled."
+msgstr "تم الدفع بالفعل ولا يمكن إلغاؤه."
+
+#: includes/class-norsani-ajax.php:545 includes/class-norsani-withdraw.php:122
+msgid "pending"
+msgstr "قيد الانتظار"
+
+#: includes/class-norsani-ajax.php:573
+msgid "The order should be refunded. Customer, please send a message to"
+msgstr "يجب رد الطلب. العميل ، يرجى إرسال رسالة إلى"
+
+#: includes/class-norsani-ajax.php:573
+msgid ""
+"in reference to this order ID and your payment account details and method to "
+"complete refund."
+msgstr ""
+"في إشارة إلى معرّف الطلب هذا وتفاصيل حساب الدفع وطريقتك لاستكمال عملية رد "
+"الأموال."
+
+#: includes/class-norsani-ajax.php:575
+msgid "The order has been cancelled."
+msgstr "تم إلغاء الطلب."
+
+#: includes/class-norsani-ajax.php:577
+msgid "The order is being prepared."
+msgstr "يتم تحضير الطلب."
+
+#: includes/class-norsani-ajax.php:579
+msgid "The order is on its way to customer."
+msgstr "الطلب في طريقه إلى الزبون."
+
+#: includes/class-norsani-ajax.php:581
+msgid "Customer has received the order."
+msgstr "لقد تلقى العميل الطلب."
+
+#: includes/class-norsani-ajax.php:583
+msgid "The order was failed to process."
+msgstr "فشل الطلب في المعالجة."
+
+#: includes/class-norsani-ajax.php:638 templates/orders/order-details.php:74
+msgid "Delete note"
+msgstr "حذف الملاحظة"
+
+#: includes/class-norsani-ajax.php:653 includes/class-norsani-ajax.php:671
+#: includes/class-norsani-ajax.php:717 includes/class-norsani-ajax.php:734
+#: includes/class-norsani-ajax.php:1489 includes/class-norsani-ajax.php:1614
+#: includes/class-norsani-ajax.php:1812
+msgid "Something Went Wrong!"
+msgstr "هناك خطأ ما!"
+
+#: includes/class-norsani-ajax.php:660
+msgid "Coupon has been deleted successfully!"
+msgstr "تم حذف الكوبون بنجاح!"
+
+#: includes/class-norsani-ajax.php:688
+msgid "You are not allowed to edit/create coupons for the selected products!"
+msgstr "غير مسموح لك بتحرير / إنشاء كوبونات للمنتجات المختارة!"
+
+#: includes/class-norsani-ajax.php:698
+msgid "You're the site admin, you cant post coupons!"
+msgstr "أنت مسؤول الموقع ، لا يمكنك نشر القسائم!"
+
+#: includes/class-norsani-ajax.php:712
+msgid "Coupon has been saved successfully!"
+msgstr "تم حفظ قسيمة الكوبون بنجاح!"
+
+#: includes/class-norsani-ajax.php:730
+msgid "Coupon has been updated successfully!"
+msgstr "تم تحديث الكوبون بنجاح!"
+
+#: includes/class-norsani-ajax.php:868 includes/class-norsani-ajax.php:893
+msgid "You're not authorized to do this step."
+msgstr "لست مخولًا للقيام بهذه الخطوة."
+
+#: includes/class-norsani-ajax.php:878
+msgid ""
+"Success: The product will show in the special products list only for today and "
+"only while your store is open."
+msgstr ""
+"النجاح: سيظهر المنتج في قائمة المنتجات الخاصة فقط لهذا اليوم وفقط عندما يكون "
+"متجرك مفتوحًا."
+
+#: includes/class-norsani-ajax.php:880
+msgid ""
+"Success: The product has been removed from today's specials products list."
+msgstr "النجاح: تمت إزالة المنتج من قائمة المنتجات الخاصة اليوم."
+
+#: includes/class-norsani-ajax.php:919
+msgid "Error while checking for new orders"
+msgstr "خطأ أثناء التحقق من الطلبات الجديدة"
+
+#: includes/class-norsani-ajax.php:955 includes/class-norsani-ajax.php:989
+msgid "You do not have permissions to perform this."
+msgstr "لا يوجد لديك صلاحية لتنفيذ هذا الأجراء"
+
+#: includes/class-norsani-ajax.php:1228 templates/views/html-items-atc.php:48
+#: templates/views/html-items-atc.php:74
+msgid "This product is currently unavailable."
+msgstr "هذا المنتج غير متوفر حاليا."
+
+#: includes/class-norsani-ajax.php:1358
+msgid "Variation"
+msgstr "التوع"
+
+#: includes/class-norsani-ajax.php:1363
+#: templates/views/html-dashboard-items-form_variation.php:33
+msgid "Option"
+msgstr "خيار"
+
+#: includes/class-norsani-ajax.php:1365 includes/class-norsani-scripts.php:398
+msgid "Any"
+msgstr "أي"
+
+#: includes/class-norsani-ajax.php:1374
+#: templates/views/html-dashboard-items-form_variation.php:51
+msgid "Variation Description"
+msgstr "وصف التباين"
+
+#: includes/class-norsani-ajax.php:1375
+msgid "Few words about this variation"
+msgstr "كلمات قليلة عن هذا الاختلاف"
+
+#: includes/class-norsani-ajax.php:1379
+#: templates/views/html-dashboard-items-form_data.php:111
+#: templates/views/html-dashboard-items-form_variation.php:56
+msgid "Regular Price"
+msgstr "السعر العادي"
+
+#: includes/class-norsani-ajax.php:1382
+#: templates/views/html-dashboard-items-form_data.php:114
+#: templates/views/html-dashboard-items-form_variation.php:59
+msgid "Sale Price"
+msgstr "سعر البيع"
+
+#: includes/class-norsani-ajax.php:1382
+#: templates/views/html-dashboard-items-form_data.php:114
+#: templates/views/html-dashboard-items-form_variation.php:59
+msgid "Schedule"
+msgstr "جدول"
+
+#: includes/class-norsani-ajax.php:1387 includes/class-norsani-ajax.php:1388
+#: templates/views/html-dashboard-items-form_data.php:120
+#: templates/views/html-dashboard-items-form_data.php:121
+#: templates/views/html-dashboard-items-form_variation.php:64
+#: templates/views/html-dashboard-items-form_variation.php:65
+msgid "Sale price start date"
+msgstr "تاريخ بدء سعر البيع"
+
+#: includes/class-norsani-ajax.php:1391 includes/class-norsani-ajax.php:1392
+#: templates/views/html-dashboard-items-form_data.php:124
+#: templates/views/html-dashboard-items-form_data.php:125
+#: templates/views/html-dashboard-items-form_variation.php:68
+#: templates/views/html-dashboard-items-form_variation.php:69
+msgid "Sale price end date"
+msgstr "تاريخ انتهاء سعر البيع"
+
+#: includes/class-norsani-ajax.php:1395
+#: templates/views/html-dashboard-items-form_data.php:128
+#: templates/views/html-dashboard-items-form_variation.php:72
+msgid "The sale will end at the beginning of the set date."
+msgstr "سعر الخصم سوف ينتهي في بداية التاريخ المحدد."
+
+#: includes/class-norsani-ajax.php:1395
+#: templates/views/html-dashboard-items-form_data.php:128
+#: templates/views/html-dashboard-items-form_variation.php:72
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: includes/class-norsani-ajax.php:1440 includes/class-norsani-ajax.php:2187
+msgid "Email sent successfully!"
+msgstr "تم إرسال البريد الإلكتروني بنجاح!"
+
+#: includes/class-norsani-ajax.php:1473
+msgid "Sorry you cannot order from this vendor"
+msgstr "عذرا لا يمكنك طلب من هذا البائع"
+
+#: includes/class-norsani-ajax.php:1478
+msgid "Sorry you cannot order this product at this time!"
+msgstr "آسف لا يمكنك طلب هذا المنتج في هذا الوقت!"
+
+#: includes/class-norsani-ajax.php:1483
+msgid ""
+"Sorry, we cannot receive any more orders for this product today, please come "
+"back another day."
+msgstr ""
+"عذرًا ، لا يمكننا تلقي أي طلبات أخرى لهذا المنتج اليوم ، يرجى العودة في يوم آخر."
+
+#: includes/class-norsani-ajax.php:1493 includes/class-norsani-ajax.php:1537
+#: includes/class-norsani-ajax.php:1688
+msgid "View Cart"
+msgstr "عرض السلة"
+
+#: includes/class-norsani-ajax.php:1493
+#, php-format
+msgid "You cannot add another &quot;%s&quot; to your cart."
+msgstr "ليس من الممكن إضافة &quot;%s&quot; إلى عربة مشترياتك."
+
+#: includes/class-norsani-ajax.php:1499 includes/class-norsani-ajax.php:1667
+msgid "Sorry, this product cannot be purchased."
+msgstr "المعذرة، ولكن هذا العرض غير قابل للشراء."
+
+#: includes/class-norsani-ajax.php:1506 includes/class-norsani-ajax.php:1672
+#, php-format
+msgid ""
+"You cannot add &quot;%s&quot; to the cart because the product is out of stock."
+msgstr "لا يمكن إضافة &quot;%s&quot; لسلة مشترياتك لأن العرض أصبح غير متوفر."
+
+#. translators: 1: product name 2: quantity in stock
+#: includes/class-norsani-ajax.php:1511 includes/class-norsani-ajax.php:1677
+#, php-format
+msgid ""
+"You cannot add that amount of &quot;%1$s&quot; to the cart because there is "
+"not enough stock (%2$s remaining)."
+msgstr ""
+"لا يمكنك إضافة هذا المبلغ من &quot;%1$s&quot; إلى السلة نظرًا لعدم وجود مخزون "
+"كافٍ (%2$s متبقٍ)."
+
+#: includes/class-norsani-ajax.php:1516 includes/class-norsani-item.php:1010
+#: includes/class-norsani-item.php:1020
+msgid ""
+"The Vendor will not deliver to your location, please choose another option."
+msgstr "لن يسلم البائع موقعك ، يرجى اختيار خيار آخر."
+
+#: includes/class-norsani-ajax.php:1538
+#, php-format
+msgid ""
+"You cannot add that amount to the cart &mdash; we have %s in stock and you "
+"already have %s in your cart."
+msgstr ""
+"لا يمكنك إضافة هذه الكمية إلى السلة &mdash; لدينا %s في المخزن ولديك %s في "
+"سلتك."
+
+#: includes/class-norsani-ajax.php:1574
+#, php-format
+msgid "Invalid value posted for %s"
+msgstr "تم نشر قيمة غير صالحة لـ %s"
+
+#: includes/class-norsani-ajax.php:1584
+#, php-format
+msgid "%s is a required field"
+msgid_plural "%s are required fields"
+msgstr[0] "%s هو حقل مطلوب"
+msgstr[1] "%s هو حقل مطلوب"
+msgstr[2] "%s هي حقول مطلوب"
+msgstr[3] "%s هي حقول مطلوب"
+msgstr[4] "%s هي حقول مطلوب"
+msgstr[5] "%s هي حقول مطلوب"
+
+#: includes/class-norsani-ajax.php:1588
+msgid "Please choose product options&hellip;"
+msgstr "رجاء حدد خصائص المنتج&hellip;"
+
+#. translators: %s: product name
+#: includes/class-norsani-ajax.php:1661
+msgid "View cart"
+msgstr "عرض سلة التسوق"
+
+#: includes/class-norsani-ajax.php:1661
+#, php-format
+msgid "You cannot add another \"%s\" to your cart."
+msgstr "لا يمكنك إضافة \"%s\" آخر إلى حجوزاتك ."
+
+#: includes/class-norsani-ajax.php:1689
+#, php-format
+msgid ""
+"You cannot add that amount to the cart &mdash; we have %1$s in stock and you "
+"already have %2$s in your cart."
+msgstr ""
+"لا يمكنك إضافة هذا المبلغ إلى سلة التسوق - لدين %1$s في المخزون ولديك بالفعل "
+"%2$s في سلة التسوق الخاصة بك."
+
+#: includes/class-norsani-ajax.php:1766
+msgid "was added to cart."
+msgstr "تمت إضافته إلى سلة التسوق."
+
+#: includes/class-norsani-ajax.php:1767
+msgid "We also recommend these products with"
+msgstr "ونوصي أيضًا باستخدام هذه المنتجات"
+
+#: includes/class-norsani-ajax.php:1846 includes/class-norsani-ajax.php:2058
+msgid "Settings Saved!"
+msgstr "تم حفظ الاعدادات!"
+
+#: includes/class-norsani-ajax.php:1876
+msgid "Location set successfully"
+msgstr "تم تعيين الموقع بنجاح"
+
+#: includes/class-norsani-ajax.php:1881
+msgid "Your location is out the range of our delivery service."
+msgstr "موقعك خارج نطاق خدمة التوصيل الخاصة بنا."
+
+#: includes/class-norsani-ajax.php:1886
+msgid "You did not change your location!"
+msgstr "أنت لم تغير موقعك!"
+
+#: includes/class-norsani-ajax.php:1895
+msgid ""
+"You will not be able to use the delivery service due to Geolocation access "
+"denied error."
+msgstr "لن تتمكن من استخدام خدمة التسليم بسبب رفض الوصول إلى الموقع الجغرافي."
+
+#: includes/class-norsani-ajax.php:1934
+msgid "Product was deleted!"
+msgstr "تم حذف المنتج!"
+
+#: includes/class-norsani-ajax.php:2086
+msgid "Product was updated successfully!"
+msgstr "تم تحديث المنتج بنجاح!"
+
+#: includes/class-norsani-ajax.php:2102
+msgid "Product was created successfully!"
+msgstr "تم إنشاء المنتج بنجاح!"
+
+#: includes/class-norsani-ajax.php:2199
+msgid "Please fill the email and password fields."
+msgstr "يرجى ملء حقول البريد الإلكتروني وكلمة المرور."
+
+#: includes/class-norsani-ajax.php:2207
+msgid "Incorrect email address, please try again."
+msgstr "عنوان بريد إلكتروني غير صحيح ، يرجى المحاولة مرة أخرى."
+
+#: includes/class-norsani-ajax.php:2218
+msgid "Incorrect password, please try again."
+msgstr "كلمة السر غير صحيحة. من فضلك حاول مرة اخري."
+
+#: includes/class-norsani-ajax.php:2234
+msgid "Sorry, you cant rate this vendor."
+msgstr "عذرا ، لا يمكنك تقييم هذا البائع."
+
+#: includes/class-norsani-ajax.php:2238
+msgid "Sorry, you cant rate your self."
+msgstr "آسف ، لا يمكنك تقييم نفسك."
+
+#: includes/class-norsani-ajax.php:2249
+msgid "You have already made your rating."
+msgstr "لقد قمت بالفعل بتصنيفك."
+
+#: includes/class-norsani-ajax.php:2255
+msgid "Thank you for rating this vendor."
+msgstr "شكرا لتصنيف هذا البائع."
+
+#: includes/class-norsani-dashboard.php:50
+msgid "Dashboard"
+msgstr "لوحة التحكم"
+
+#: includes/class-norsani-dashboard.php:54 includes/class-norsani-sellers.php:157
+#: templates/views/html-dashboard-coupon-form.php:167
+msgid "Products"
+msgstr "المنتجات"
+
+#: includes/class-norsani-dashboard.php:58 includes/class-norsani-sellers.php:158
+#: norsani-options.php:896 templates/views/html-dashboard-home-orders.php:15
+#: templates/views/html-dashboard-vendor-settings_form.php:165
+msgid "Orders"
+msgstr "الطلبات"
+
+#: includes/class-norsani-dashboard.php:62 includes/class-norsani-sellers.php:159
+#: templates/views/html-vendor-store_coupon.php:15
+msgid "Coupons"
+msgstr "الكوبونات"
+
+#: includes/class-norsani-dashboard.php:70 norsani-options.php:15
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: includes/class-norsani-dashboard.php:94
+msgid "Admin"
+msgstr "مشرف"
+
+#: includes/class-norsani-dashboard.php:232
+msgid "(Refunded)"
+msgstr "ردها"
+
+#: includes/class-norsani-item.php:80
+msgid "Online"
+msgstr "متواجد"
+
+#: includes/class-norsani-item.php:84
+msgid "Draft"
+msgstr "مسودة"
+
+#: includes/class-norsani-item.php:88 includes/class-norsani-withdraw.php:64
+#: includes/class-norsani-withdraw.php:313 norsani-options.php:623
+#: templates/views/html-dashboard-orders-list-row_actions.php:24
+msgid "Pending"
+msgstr "قيد الانتظار"
+
+#: includes/class-norsani-item.php:92
+msgid "Offline"
+msgstr "غير متصل"
+
+#: includes/class-norsani-item.php:109
+msgid "Make offline"
+msgstr "جعل متواجد حاليا"
+
+#: includes/class-norsani-item.php:109
+msgid "Make online"
+msgstr "جعل على الانترنت"
+
+#: includes/class-norsani-item.php:140
+msgid "Access Denied"
+msgstr "تم الرفض"
+
+#: includes/class-norsani-item.php:269 includes/class-norsani-item.php:1098
+#: includes/class-norsani-item.php:1191 includes/class-norsani-item.php:1252
+#: templates/views/html-dashboard-orders-single-items.php:84
+msgid "Discount"
+msgstr "الخصم"
+
+#: includes/class-norsani-item.php:270
+#: templates/views/html-dashboard-items-form_data.php:242
+#: templates/views/html-dashboard-items-form_data.php:271
+msgid "Free Product"
+msgstr "منتج مجاني"
+
+#: includes/class-norsani-item.php:609 includes/class-norsani-item.php:626
+#, php-format
+msgid "Variation #%1$s of %2$s"
+msgstr "التباين #%1$s من %2$s"
+
+#: includes/class-norsani-item.php:860
+msgid "Preparation/Handling Duration:"
+msgstr "مدة التحضير / المناولة:"
+
+#: includes/class-norsani-item.php:860
+msgid "Minutes"
+msgstr "دقائق"
+
+#: includes/class-norsani-item.php:877 includes/main-functions.php:467
+msgid "Ingredients:"
+msgstr "المكونات"
+
+#: includes/class-norsani-item.php:895
+#: templates/views/html-dashboard-coupon-form.php:112
+msgid "Description"
+msgstr "الوصف"
+
+#: includes/class-norsani-item.php:925
+msgid ""
+"Maximum orders per day has reached for this product, please come back another "
+"day."
+msgstr "وصلت الحد الأقصى للطلبات في اليوم لهذا المنتج ، يرجى العودة في يوم آخر."
+
+#: includes/class-norsani-item.php:930
+msgid "Remaining orders for today:"
+msgstr "الطلبات المتبقية لهذا اليوم:"
+
+#: includes/class-norsani-item.php:930
+msgid "Maximum orders per day:"
+msgstr "الحد الأقصى للطلبات في اليوم الواحد:"
+
+#: includes/class-norsani-item.php:977 norsani-options.php:630
+#: norsani-options.php:643 templates/vendors-registration.php:77
+msgid "Delivery"
+msgstr "التسليم"
+
+#: includes/class-norsani-item.php:977
+msgid "Pickup"
+msgstr "الإستلام يدويا"
+
+#: includes/class-norsani-item.php:977 norsani-options.php:630
+#: norsani-options.php:643
+msgid "Dine-in"
+msgstr "تناول الطعام في"
+
+#: includes/class-norsani-item.php:977 norsani-options.php:630
+#: norsani-options.php:643
+msgid "Curbside"
+msgstr "رصيف السيارات"
+
+#: includes/class-norsani-item.php:996
+msgid "The order will be processed"
+msgstr "ستتم معالجة الطلب"
+
+#: includes/class-norsani-item.php:998
+msgid "Addresses:"
+msgstr "عناوين:"
+
+#: includes/class-norsani-item.php:999
+msgid "Please set your location to make a delivery order."
+msgstr "يرجى تحديد موقعك لتقديم طلب تسليم."
+
+#: includes/class-norsani-item.php:1000 includes/main-functions.php:441
+msgid "This vendor"
+msgstr "هئا البائع:"
+
+#: includes/class-norsani-item.php:1012
+msgid "This Vendor is in your neighbourhood."
+msgstr "هذا البائع في منطقتك."
+
+#: includes/class-norsani-item.php:1036
+msgid "Number of People invited?"
+msgstr "عدد الأشخاص المدعوين؟"
+
+#: includes/class-norsani-item.php:1046
+msgid "Car Information"
+msgstr "معلومات السيارة"
+
+#: includes/class-norsani-item.php:1046
+msgid "Car's make, model & color"
+msgstr "صنع السيارة والطراز واللون"
+
+#: includes/class-norsani-item.php:1058
+msgid "Add special comments or a person name."
+msgstr "أضف تعليقات خاصة أو اسم شخص."
+
+#: includes/class-norsani-item.php:1058
+msgid ""
+"Don't add products names, that have separate prices, Just add instructions for "
+"your current product like \"add extra sauces or toppings\" ..etc."
+msgstr ""
+"لا تضف أسماء منتجات ، لها أسعار منفصلة ، فقط أضف تعليمات لمنتجك الحالي مثل "
+"&quot;إضافة صلصة أو طبقة إضافية&quot; ..الخ."
+
+#: includes/class-norsani-item.php:1098 includes/class-norsani-item.php:1100
+#: includes/class-norsani-item.php:1191 includes/class-norsani-item.php:1193
+#: includes/class-norsani-item.php:1252 includes/class-norsani-item.php:1254
+#: templates/views/html-dashboard-items-form_data.php:226
+#: templates/views/html-dashboard-items-form_data.php:227
+#: templates/views/html-dashboard-items-form_data.php:255
+#: templates/views/html-dashboard-items-form_data.php:256
+msgid "Buy"
+msgstr "شراء"
+
+#: includes/class-norsani-item.php:1098 includes/class-norsani-item.php:1191
+#: includes/class-norsani-item.php:1252
+#: templates/views/html-dashboard-items-form_data.php:230
+#: templates/views/html-dashboard-items-form_data.php:259
+msgid "Get"
+msgstr "أخذ"
+
+#: includes/class-norsani-item.php:1100 includes/class-norsani-item.php:1193
+#: includes/class-norsani-item.php:1254
+msgid "Get a free"
+msgstr "إحصل مجانا"
+
+#: includes/class-norsani-order.php:374 norsani-options.php:622
+#: templates/views/html-dashboard-home-orders.php:45
+#: templates/views/html-dashboard-orders-list-row_actions.php:17
+msgid "Processing"
+msgstr "معالجة"
+
+#: includes/class-norsani-order.php:377
+msgid "day"
+msgid_plural "days"
+msgstr[0] "يوم"
+msgstr[1] "يوم"
+msgstr[2] "يومان"
+msgstr[3] "أيام"
+msgstr[4] "أيام"
+msgstr[5] "أيام"
+
+#: includes/class-norsani-order.php:378
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "ساعة"
+msgstr[1] "ساعة"
+msgstr[2] "ساعتان"
+msgstr[3] "ساعات"
+msgstr[4] "ساعات"
+msgstr[5] "ساعات"
+
+#: includes/class-norsani-order.php:379
+msgid "min"
+msgid_plural "mins"
+msgstr[0] "دقيقة"
+msgstr[1] "مشرف"
+msgstr[2] "مشرف"
+msgstr[3] "مشرف"
+msgstr[4] "مشرف"
+msgstr[5] "مشرف"
+
+#: includes/class-norsani-order.php:380
+msgid "In queue"
+msgstr "في قائمة الانتظار"
+
+#: includes/class-norsani-order.php:380
+msgid "After"
+msgstr "بعد"
+
+#. translators: %s: human-readable time difference
+#: includes/class-norsani-order.php:384
+#, php-format
+msgctxt "%2$s = human-readable time difference"
+msgid "%1$s %2$s ago"
+msgstr "%1$s منذ %2$s"
+
+#. translators: %s: human-readable time difference
+#: includes/class-norsani-order.php:414
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "منذ %s"
+
+#: includes/class-norsani-order.php:447 includes/class-norsani-order.php:500
+msgid "Standard"
+msgstr "قياسي"
+
+#: includes/class-norsani-order.php:550
+msgid ""
+"Note: The website fees of this order will be deducted from the current vendor "
+"balance. If the balance is insufficient, it will go in minus."
+msgstr ""
+"ملاحظة: سيتم خصم رسوم الموقع الإلكتروني لهذا الطلب من رصيد البائع الحالي. إذا "
+"كان الرصيد غير كافٍ ، فسيتم طرحه في سالب."
+
+#: includes/class-norsani-order.php:630
+msgid ""
+"The parent order was marked as \"completed\" because all child orders ware "
+"completed."
+msgstr ""
+"تم وضع علامة على الطلب الأصلي على أنه &quot;مكتمل&quot; نظرًا لإنتهاء جميع "
+"طلبات أوامر الأطفال."
+
+#: includes/class-norsani-order.php:792
+#, php-format
+msgid "Sorry you cannot order from %s"
+msgstr "عذرًا ، لا يمكنك طلب من %s"
+
+#: includes/class-norsani-order.php:813
+#, php-format
+msgid ""
+"Sorry, You cannot make a %1$s order for %2$s at this time. Please update your "
+"%3$s."
+msgstr "عذرًا ، لا يمكنك إجراء أمر %1$s لـ%2$s في هذا الوقت. يرجى تحديث %3$s"
+
+#: includes/class-norsani-order.php:813 includes/class-norsani-order.php:821
+#: includes/class-norsani-order.php:888
+msgid "Cart"
+msgstr "سلة التسوق"
+
+#: includes/class-norsani-order.php:817
+#, php-format
+msgid ""
+"Sorry, The preparation timing set for %1$s&apos;s products is inappropriate. "
+"Please choose a time between %2$s"
+msgstr ""
+"عذرًا ، إعداد توقيت مجموعة منتجات %1$s غير مناسب. يرجى اختيار وقت بين %2$s"
+
+#: includes/class-norsani-order.php:817 includes/class-norsani-vendor.php:1156
+#: includes/main-functions.php:1244
+msgid "or"
+msgstr "أو"
+
+#: includes/class-norsani-order.php:821
+#, php-format
+msgid ""
+"Sorry, we cannot receive any more orders for %1$s today. Please update your "
+"%2$s."
+msgstr "عذرًا ، لا يمكننا تلقي أي طلبات أخرى لـ %1$s اليوم. يرجى تحديث %2$s"
+
+#: includes/class-norsani-order.php:827
+#, php-format
+msgid "Sorry, the minimum order amount for delivery service from %1$s is %2$s"
+msgstr "عذرًا ، الحد الأدنى لمبلغ الطلب لخدمة التوصيل من %1$s هو %2$s"
+
+#: includes/class-norsani-order.php:872
+#, php-format
+msgid ""
+"Sorry, %1$s will be closed at the selected time. %1$s&apos;s timing at %2$s is "
+"%3$s to %4$s & %5$s to %6$s"
+msgstr ""
+"عذرًا ، سيتم إغلاق %1$s في الوقت المحدد. توقيت %1$s عند %2$s هو %3$s إلى %4$s و "
+"%5$s إلى %6$s"
+
+#: includes/class-norsani-order.php:872
+#, php-format
+msgid ""
+"Sorry, %1$s will be closed at the selected time. %1$s&apos;s timing at %2$s is "
+"%3$s to %4$s"
+msgstr ""
+"عذرًا ، سيتم إغلاق %1$s في الوقت المحدد. توقيت %1$s عند %2$s هو %3$s إلى %4$s"
+
+#: includes/class-norsani-order.php:879
+#, php-format
+msgid "Sorry, The preparation time set for %s&apos;s products is inappropriate."
+msgstr "عذرًا ، يعتبر وقت الإعداد المحدد لمنتج %s غير مناسب."
+
+#: includes/class-norsani-order.php:883
+#, php-format
+msgid ""
+"Sorry, %s is closing in less than an hour, Please choose another date if you "
+"wish to make pre-orders."
+msgstr ""
+"عذرًا ، %s ستغلق في أقل من ساعة ، الرجاء اختيار تاريخ آخر إذا كنت ترغب في تقديم "
+"طلبات مسبقة."
+
+#: includes/class-norsani-order.php:888
+#, php-format
+msgid ""
+"Sorry, no time left to prepare %1$s&apos;s products. %1$s is closing in less "
+"than an hour. Please update your %2$s or choose another date for your order."
+msgstr ""
+"عذرًا ، لم يتبقى وقت لإعداد منتجات %1$s يتم إغلاق %1$s في أقل من ساعة. يرجى "
+"تحديث %2$s أو اختيار تاريخ آخر لطلبك."
+
+#: includes/class-norsani-order.php:1135
+msgid "Your Details"
+msgstr "تفاصيلك"
+
+#: includes/class-norsani-order.php:1137
+msgid "Your Address"
+msgstr "العنوان"
+
+#: includes/class-norsani-order.php:1149
+msgid "Customer address"
+msgstr "عنوان العميل"
+
+#: includes/class-norsani-scripts.php:354
+msgid "Something is not right :("
+msgstr "هناك أمر غير صحيح ."
+
+#: includes/class-norsani-scripts.php:355
+msgid "No Messages"
+msgstr "لا رسائل"
+
+#: includes/class-norsani-scripts.php:356
+msgid ""
+"it looks as though you&#8217;ve already sent that question, please suggest "
+"another question."
+msgstr "يبدو أنك أرسلت هذا السؤال بالفعل ، يرجى اقتراح سؤال آخر."
+
+#: includes/class-norsani-scripts.php:357
+msgid "Installing demo data. This may take several minutes..."
+msgstr "تثبيت البيانات التجريبية. هذا قد يستغرق عدة دقائق..."
+
+#: includes/class-norsani-scripts.php:385
+msgid "Are you sure you want to delete this product permanently?"
+msgstr "هل أنت متأكد من أنك تريد حذف هذا المنتج نهائيًا؟"
+
+#: includes/class-norsani-scripts.php:386
+msgid "Are you sure you want to delete this withdrawal request?"
+msgstr "هل أنت متأكد من أنك تريد حذف طلب السحب هذا؟"
+
+#: includes/class-norsani-scripts.php:387
+msgid "Are you sure you want to cancel this Payout?"
+msgstr "هل أنت متأكد من أنك تريد الغاء هذا الدفع؟"
+
+#: includes/class-norsani-scripts.php:388
+msgid "Are you sure you want to pay this withdrawal request?"
+msgstr "هل أنت متأكد من أنك تريد دفع طلب السحب هذا؟"
+
+#: includes/class-norsani-scripts.php:392
+msgid "Are you sure you want to delete this coupon?"
+msgstr "هل أنت متأكد من أنك تريد حذف هذه القسيمة؟"
+
+#: includes/class-norsani-scripts.php:396
+msgid "Are you sure?"
+msgstr "هل أنت متأكد؟"
+
+#: includes/class-norsani-scripts.php:399
+msgid "You did not do any changes to this form"
+msgstr "لم تقم بإجراء أي تغييرات على هذا النموذج"
+
+#: includes/class-norsani-scripts.php:400
+msgid "Product Category field is not set!"
+msgstr "لم يتم تعيين حقل فئة المنتج!"
+
+#: includes/class-norsani-sellers.php:80
+#: includes/emails/class-norsani-email-vendor-message.php:107
+msgid "Invitation"
+msgstr "دعوة"
+
+#: includes/class-norsani-sellers.php:85
+#: templates/views/html-dashboard-items-nav.php:19
+#, php-format
+msgid "All (%d)"
+msgstr "الكل (%d)"
+
+#: includes/class-norsani-sellers.php:88
+#, php-format
+msgid "Active Vendors (%d)"
+msgstr "الموردون النشطون (%d)"
+
+#: includes/class-norsani-sellers.php:91
+#, php-format
+msgid "Inactive Vendors (%d)"
+msgstr "الموردون غير النشطين (%d)"
+
+#: includes/class-norsani-sellers.php:94
+msgid "Top Sellers"
+msgstr "أفضل البائعين"
+
+#: includes/class-norsani-sellers.php:111
+msgid "Send Invitation"
+msgstr "إرسال دعوة"
+
+#: includes/class-norsani-sellers.php:113
+msgid "Send an invitation to a vendor to join your website."
+msgstr "أرسل دعوة إلى بائع للانضمام إلى موقع الويب الخاص بك."
+
+#: includes/class-norsani-sellers.php:118 includes/class-norsani-sellers.php:153
+#: templates/vendors-registration.php:118
+#: templates/views/html-vendor-store_email_form.php:32
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: includes/class-norsani-sellers.php:119
+msgid "Email of recipient"
+msgstr "البريد الإلكتروني للمستلم"
+
+#: includes/class-norsani-sellers.php:123
+#: templates/views/html-vendor-store_email_form.php:39
+msgid "Subject"
+msgstr "الموضوع"
+
+#: includes/class-norsani-sellers.php:124
+msgid "Invitation Subject"
+msgstr "دعوة موضوع"
+
+#: includes/class-norsani-sellers.php:127
+#: templates/views/html-vendor-store_email_form.php:45
+msgid "Message"
+msgstr "الرسالة"
+
+#: includes/class-norsani-sellers.php:128
+msgid "Invitation Message"
+msgstr "رسالة الدعوة"
+
+#: includes/class-norsani-sellers.php:131 norsani-options.php:134
+msgid "Send"
+msgstr "إرسال"
+
+#: includes/class-norsani-sellers.php:152
+#: templates/views/html-vendor-store_email_form.php:26
+msgid "Name"
+msgstr "الاسم"
+
+#: includes/class-norsani-sellers.php:154
+msgid "Active Seller"
+msgstr "البائع النشط"
+
+#: includes/class-norsani-sellers.php:155
+msgid "Balance"
+msgstr "الرصيد"
+
+#: includes/class-norsani-sellers.php:156
+msgid "Phone & Address"
+msgstr "التلفون/ العنوان"
+
+#: includes/class-norsani-sellers.php:205
+msgid "Vendors listed by highest number of completed orders."
+msgstr "الباعة المدرجة أعلى عدد من الطلبات المكتملة."
+
+#: includes/class-norsani-sellers.php:220
+msgid "Sorry, no vendors found!"
+msgstr "عذرا ، لا يوجد بائعون!"
+
+#: includes/class-norsani-sellers.php:239
+msgid "&larr; Previous"
+msgstr "&rarr; السابق"
+
+#: includes/class-norsani-sellers.php:240
+msgid "Next &rarr;"
+msgstr "التالي &rarr;"
+
+#: includes/class-norsani-sellers.php:276
+#, php-format
+msgid "Balance: %s"
+msgstr "الرصيد: %s"
+
+#: includes/class-norsani-sellers.php:285
+msgid "Processing:"
+msgstr "التحضير:"
+
+#: includes/class-norsani-sellers.php:285
+msgid "Completed:"
+msgstr "منجز:"
+
+#: includes/class-norsani-sellers.php:308
+msgid "Activate selling"
+msgstr "تفعيل البيع"
+
+#: includes/class-norsani-sellers.php:310
+msgid "Yes"
+msgstr "نعم"
+
+#: includes/class-norsani-sellers.php:313
+msgid "No"
+msgstr "لا"
+
+#: includes/class-norsani-sellers.php:322
+msgid "Save Settings"
+msgstr "حفظ الإعدادات"
+
+#: includes/class-norsani-vendor.php:199
+msgid "No Ratings Yet!"
+msgstr "لايوجد تقييم"
+
+#: includes/class-norsani-vendor.php:216
+#, php-format
+msgid "%1$s Based on"
+msgstr "%1$s بناءً على"
+
+#: includes/class-norsani-vendor.php:216
+#, php-format
+msgid "%2$s Rating"
+msgid_plural "%2$s Ratings"
+msgstr[0] "%2$s تصنيف"
+msgstr[1] "%2$s تصنيف"
+msgstr[2] "%2$s تصنيف"
+msgstr[3] "%2$s تصنيف"
+msgstr[4] "%2$s تصنيف"
+msgstr[5] "%2$s تصنيف"
+
+#: includes/class-norsani-vendor.php:233 includes/main-functions.php:976
+msgid "No Rating Yet!"
+msgstr "لا تقييمات بعد"
+
+#: includes/class-norsani-vendor.php:324 includes/class-norsani-vendor.php:327
+#: includes/class-norsani-vendor.php:333
+msgid "at"
+msgstr "في"
+
+#: includes/class-norsani-vendor.php:325 includes/class-norsani-vendor.php:1140
+msgid "tomorrow"
+msgstr "غداً"
+
+#: includes/class-norsani-vendor.php:326
+msgid "another day"
+msgstr "يوم آخر"
+
+#: includes/class-norsani-vendor.php:329
+msgid "Open till"
+msgstr "مفتوح حتى"
+
+#: includes/class-norsani-vendor.php:330
+msgid "Opens at"
+msgstr "یفتح عن"
+
+#: includes/class-norsani-vendor.php:331
+msgid "Opens Tomorrow"
+msgstr "يفتح غدا"
+
+#: includes/class-norsani-vendor.php:332 includes/class-norsani-vendor.php:457
+#: includes/class-norsani-vendor.php:474 includes/class-norsani-vendor.php:491
+msgid "Closed"
+msgstr "مغلق"
+
+#: includes/class-norsani-vendor.php:449 includes/class-norsani-vendor.php:483
+#, php-format
+msgid "Open for %s minute"
+msgid_plural "Open for %s minutes"
+msgstr[0] "مفتوح لمده %s دقيقه"
+msgstr[1] "مفتوح لمده %s دقيقه"
+msgstr[2] "مفتوح لمده %s دقائق"
+msgstr[3] "مفتوح لمده %s دقائق"
+msgstr[4] "مفتوح لمده %s دقائق"
+msgstr[5] "مفتوح لمده %s دقائق"
+
+#: includes/class-norsani-vendor.php:466
+#, php-format
+msgid "Closed for %s minute"
+msgid_plural "Closed for %s minutes"
+msgstr[0] "مغلق لمده %s دقيقه"
+msgstr[1] "مغلق لمده %s دقيقه"
+msgstr[2] "مغلق لمده %s دقائق"
+msgstr[3] "مغلق لمده %s دقائق"
+msgstr[4] "مغلق لمده %s دقائق"
+msgstr[5] "مغلق لمده %s دقائق"
+
+#: includes/class-norsani-vendor.php:682 templates/vendors-registration.php:29
+msgid ""
+"Click on the map to start drawing the path for a polygon representing the area "
+"that you can provide delivery service."
+msgstr ""
+"انقر على الخريطة لبدء رسم مسار لمضلع يمثل المنطقة التي يمكنك تقديم خدمة توصيل."
+
+#: includes/class-norsani-vendor.php:710
+msgid ""
+"Road/Street names. Type first two/three letters and choose from list, if the "
+"list doesn't appear, then complete typing and hit the comma button."
+msgstr ""
+"أسماء الطرق / الشوارع. اكتب أول حرفين / ثلاثة واختار من القائمة ، إذا لم تظهر "
+"القائمة ، ثم أكمل الكتابة واضغط على زر الفاصلة."
+
+#: includes/class-norsani-vendor.php:722 templates/vendors-registration.php:292
+msgid "Saturday"
+msgstr "السبت"
+
+#: includes/class-norsani-vendor.php:723 templates/vendors-registration.php:293
+msgid "Sunday"
+msgstr "الأحد"
+
+#: includes/class-norsani-vendor.php:724 templates/vendors-registration.php:294
+msgid "Monday"
+msgstr "الإثنين"
+
+#: includes/class-norsani-vendor.php:725 templates/vendors-registration.php:295
+msgid "Tuesday"
+msgstr "الثلاثاء"
+
+#: includes/class-norsani-vendor.php:726 templates/vendors-registration.php:296
+msgid "Wednesday"
+msgstr "الأربعاء"
+
+#: includes/class-norsani-vendor.php:727 templates/vendors-registration.php:297
+msgid "Thursday"
+msgstr "الخميس"
+
+#: includes/class-norsani-vendor.php:728 templates/vendors-registration.php:298
+msgid "Friday"
+msgstr "الجمعة"
+
+#: includes/class-norsani-vendor.php:809
+msgid "km."
+msgstr "كم."
+
+#: includes/class-norsani-vendor.php:809
+msgid "mi."
+msgstr "ميل"
+
+#: includes/class-norsani-vendor.php:1135
+msgid "on"
+msgstr "في"
+
+#: includes/class-norsani-vendor.php:1183
+msgid "to"
+msgstr "إلى"
+
+#: includes/class-norsani-vendor.php:1213
+msgid "online"
+msgstr "متصل"
+
+#: includes/class-norsani-vendor.php:1214
+msgid "offline"
+msgstr "غير متصل على الانترنت"
+
+#: includes/class-norsani-vendor.php:1240
+msgid "Your first shift will start"
+msgstr "سوف تبدأ أول نوبة لديك"
+
+#: includes/class-norsani-vendor.php:1242
+msgid "Your timing for today is"
+msgstr "توقيتك لهذا اليوم هو"
+
+#: includes/class-norsani-vendor.php:1247
+msgid "Your second shift starts"
+msgstr "يبدأ التحول الثاني الخاص بك"
+
+#: includes/class-norsani-vendor.php:1251
+msgid "Your second shift timing is"
+msgstr "توقيت التحول الثاني الخاص بك هو"
+
+#: includes/class-norsani-vendor.php:1254
+#, php-format
+msgid "Your shop has closed today. You will open again %s"
+msgstr "تم إغلاق متجرك اليوم. ستفتح مرة أخرى %s"
+
+#: includes/class-norsani-withdraw.php:59
+msgid "New Withdrawal Request"
+msgstr "طلب سحب جديد"
+
+#: includes/class-norsani-withdraw.php:67 norsani-options.php:621
+#: templates/views/html-dashboard-home-orders.php:27
+msgid "Completed"
+msgstr "مكتمل"
+
+#: includes/class-norsani-withdraw.php:70 includes/class-norsani-withdraw.php:317
+msgid "Canceled"
+msgstr "ملغى"
+
+#: includes/class-norsani-withdraw.php:87
+msgid "Current Balance:"
+msgstr "الرصيد الحالي:"
+
+#: includes/class-norsani-withdraw.php:101
+msgid "Request"
+msgstr "طلب"
+
+#: includes/class-norsani-withdraw.php:102 includes/print-functions.php:121
+#: templates/views/html-dashboard-coupon-form.php:127
+#: templates/views/html-dashboard-coupon-list.php:23
+msgid "Amount"
+msgstr "الكمية"
+
+#: includes/class-norsani-withdraw.php:103
+#: templates/views/html-dashboard-orders-list-row.php:23
+#: templates/views/html-dashboard-orders-list-row.php:31
+msgid "Via"
+msgstr "عبر"
+
+#: includes/class-norsani-withdraw.php:104
+#: templates/views/html-dashboard-orders-list.php:25
+msgid "Date"
+msgstr "التاريخ"
+
+#: includes/class-norsani-withdraw.php:105
+#: templates/views/html-dashboard-coupon-list.php:27
+msgid "Actions"
+msgstr "الإجراءات"
+
+#: includes/class-norsani-withdraw.php:115 norsani-options.php:748
+#: templates/views/html-dashboard-coupon-list.php:80
+#: templates/views/html-dashboard-items-list-single_item.php:49
+msgid "Edit"
+msgstr "تعديل"
+
+#: includes/class-norsani-withdraw.php:118
+#: templates/views/html-dashboard-items-list-single_item.php:51
+msgid "View"
+msgstr "عرض"
+
+#: includes/class-norsani-withdraw.php:123
+#: templates/views/html-dashboard-orders-list-row.php:16
+msgid "More Details"
+msgstr "مزيد من التفاصيل"
+
+#: includes/class-norsani-withdraw.php:123 includes/print-functions.php:317
+#, php-format
+msgid "Order %s"
+msgstr "طلب %s"
+
+#: includes/class-norsani-withdraw.php:129
+msgid "View Vendor Balance"
+msgstr "عرض رصيد البائع"
+
+#: includes/class-norsani-withdraw.php:129
+msgid "By"
+msgstr "بواسطة"
+
+#: includes/class-norsani-withdraw.php:141
+#: includes/class-norsani-withdraw.php:145
+msgid "View Details"
+msgstr "عرض التفاصيل"
+
+#: includes/class-norsani-withdraw.php:150
+msgid "Pay"
+msgstr "دفع"
+
+#: includes/class-norsani-withdraw.php:153
+msgid "Cancel Payout"
+msgstr "إلغاء العائد"
+
+#: includes/class-norsani-withdraw.php:155 norsani-options.php:748
+#: templates/views/html-dashboard-coupon-list.php:81
+#: templates/views/html-dashboard-items-list-single_item.php:50
+msgid "Delete"
+msgstr "حذف"
+
+#: includes/class-norsani-withdraw.php:168
+msgid "No withdrawal requests found"
+msgstr "لم يتم العثور على طلبات السحب"
+
+#: includes/class-norsani-withdraw.php:205
+msgid ""
+"You already have a pending withdrawal request. Until it's been canceled or "
+"completed, you can not submit a new request."
+msgstr ""
+"لديك بالفعل طلب سحب معلق. حتى يتم إلغاؤه أو إكماله ، لا يمكنك إرسال طلب جديد."
+
+#: includes/class-norsani-withdraw.php:209
+msgid "You don't have sufficient balance for a withdrawal request!"
+msgstr "ليس لديك رصيد كافي لطلب السحب!"
+
+#: includes/class-norsani-withdraw.php:254
+msgid "Editing request #"
+msgstr "طلب التعديل #"
+
+#: includes/class-norsani-withdraw.php:256
+msgid "Viewing request #"
+msgstr "عرض الطلب #"
+
+#: includes/class-norsani-withdraw.php:270
+msgid "Make a withdrawal request."
+msgstr "تقديم طلب السحب."
+
+#: includes/class-norsani-withdraw.php:276
+msgid "Amount to withdraw"
+msgstr "مبلغ للسحب"
+
+#: includes/class-norsani-withdraw.php:280
+msgid "Payment method"
+msgstr "طريقة الدفع"
+
+#: includes/class-norsani-withdraw.php:300
+msgid "Change Invoice Image"
+msgstr "تغيير صورة الفاتورة"
+
+#: includes/class-norsani-withdraw.php:304
+msgid "Upload Invoice Image"
+msgstr "تحميل صورة الفاتورة"
+
+#: includes/class-norsani-withdraw.php:309
+msgid "Update status"
+msgstr "تحديث الحالة"
+
+#: includes/class-norsani-withdraw.php:320
+msgid "Paid"
+msgstr "مدفوع"
+
+#: includes/class-norsani-withdraw.php:324
+msgid "Cancel note"
+msgstr "إلغاء ملاحظة"
+
+#: includes/class-norsani-withdraw.php:325
+msgid "Few words on why you've canceled the withdrawal request"
+msgstr "بعض الكلمات حول سبب إلغاء طلب السحب"
+
+#: includes/class-norsani-withdraw.php:325
+msgid "No Data"
+msgstr "لايوجد بيانات"
+
+#: includes/class-norsani-withdraw.php:333
+msgid "Submit Request"
+msgstr "ارسال الطلب"
+
+#: includes/class-norsani-withdraw.php:333
+msgid "Update Request"
+msgstr "تحديث الطلب"
+
+#: includes/class-norsani-withdraw.php:387
+#: includes/class-norsani-withdraw.php:451
+msgid "PayPal"
+msgstr "باي بال"
+
+#: includes/class-norsani-withdraw.php:391
+#: includes/class-norsani-withdraw.php:497
+msgid "Bank Transfer"
+msgstr "تحويل بنكي"
+
+#: includes/class-norsani-withdraw.php:395
+#: includes/class-norsani-withdraw.php:475
+msgid "Skrill"
+msgstr "سكريل"
+
+#: includes/class-norsani-withdraw.php:500
+msgid "Account Name"
+msgstr "أسم الحساب"
+
+#: includes/class-norsani-withdraw.php:501
+msgid "Your bank account name"
+msgstr "اسم الحساب البنكي الخاص بك"
+
+#: includes/class-norsani-withdraw.php:504
+msgid "Account Number"
+msgstr "رقم الحساب"
+
+#: includes/class-norsani-withdraw.php:505
+msgid "Your bank account number"
+msgstr "رقم الحساب البنكي الخاص بك"
+
+#: includes/class-norsani-withdraw.php:508
+msgid "Bank Name"
+msgstr "اسم البنك"
+
+#: includes/class-norsani-withdraw.php:509
+msgid "Name of bank"
+msgstr "اسم البنك"
+
+#: includes/class-norsani-withdraw.php:514
+#: includes/class-norsani-withdraw.php:515
+msgid "Bank Address"
+msgstr "عنوان البنك"
+
+#: includes/class-norsani-withdraw.php:518
+#: includes/class-norsani-withdraw.php:519
+msgid "Swift code"
+msgstr "رمز سويفت (SWIFT)"
+
+#: includes/class-norsani-withdraw.php:541
+msgid "The payment claiming instructions has been sent by email."
+msgstr "تم إرسال تعليمات المطالبة بالدفع عن طريق البريد الإلكتروني."
+
+#: includes/class-norsani-withdraw.php:543
+msgid "Sent to"
+msgstr "إرسال إلى"
+
+#: includes/class-norsani-wp_init.php:56
+msgctxt "frozr-norsani"
+msgid "Ingredients"
+msgstr "المكونات"
+
+#: includes/class-norsani-wp_init.php:57
+msgctxt "frozr-norsani"
+msgid "Ingredient"
+msgstr "المكون"
+
+#: includes/class-norsani-wp_init.php:58
+msgid "Search Ingredients"
+msgstr "بحث فى المكونات"
+
+#: includes/class-norsani-wp_init.php:59
+msgid "Popular Ingredients"
+msgstr "المكونات الأكثر إستخداما"
+
+#: includes/class-norsani-wp_init.php:60
+msgid "All Ingredients"
+msgstr "كل المكونات"
+
+#: includes/class-norsani-wp_init.php:63
+msgid "Edit Ingredient"
+msgstr "تحرير المكونات"
+
+#: includes/class-norsani-wp_init.php:64
+msgid "Update Ingredient"
+msgstr "تحديث المكونات"
+
+#: includes/class-norsani-wp_init.php:65
+msgid "Add New Ingredient"
+msgstr "أضف مكون جديد"
+
+#: includes/class-norsani-wp_init.php:66
+msgid "New Ingredient Name"
+msgstr "اسم المكون الجديد"
+
+#: includes/class-norsani-wp_init.php:67
+msgid "Separate Ingredients with commas"
+msgstr "مكونات منفصلة بفواصل"
+
+#: includes/class-norsani-wp_init.php:68
+msgid "Add or remove Ingredients"
+msgstr "إضافة أو إزالة المكونات"
+
+#: includes/class-norsani-wp_init.php:69
+msgid "Choose from the most used Ingredients"
+msgstr "اختر من المكونات الأكثر استخدامًا"
+
+#: includes/class-norsani-wp_init.php:70
+msgid "No Ingredients found."
+msgstr "لم يتم العثور على مكونات"
+
+#: includes/class-norsani-wp_init.php:71
+#: templates/views/html-dashboard-items-form_data.php:72
+msgid "Ingredients"
+msgstr "المكونات"
+
+#: includes/class-norsani-wp_init.php:95
+msgctxt "frozr-norsani"
+msgid "Delivery Locations"
+msgstr "مواقع التسليم"
+
+#: includes/class-norsani-wp_init.php:96
+msgctxt "frozr-norsani"
+msgid "Delivery Location"
+msgstr "موقع التسليم"
+
+#: includes/class-norsani-wp_init.php:97
+msgid "Search Locations"
+msgstr "البحث في المواقع"
+
+#: includes/class-norsani-wp_init.php:98
+msgid "Popular Locations"
+msgstr "الاماكن الأكثر شعبية"
+
+#: includes/class-norsani-wp_init.php:99
+msgid "All Locations"
+msgstr "جميع المواقع"
+
+#: includes/class-norsani-wp_init.php:102
+msgid "Edit Location"
+msgstr "تعديل العنوان"
+
+#: includes/class-norsani-wp_init.php:103
+msgid "Update Location"
+msgstr "تحديث الموقع"
+
+#: includes/class-norsani-wp_init.php:104
+msgid "Add New Location"
+msgstr "إضافة مكان جديد"
+
+#: includes/class-norsani-wp_init.php:105
+msgid "New Location Name"
+msgstr "اسم مكان جديد"
+
+#: includes/class-norsani-wp_init.php:106
+msgid "Separate Locations with commas"
+msgstr "افصل المواقع بفواصل"
+
+#: includes/class-norsani-wp_init.php:107
+msgid "Add or remove Locations"
+msgstr "إضافة المواقع أو إزالتها"
+
+#: includes/class-norsani-wp_init.php:108
+msgid "Choose from the most used Locations"
+msgstr "اختر من المواقع الأكثر استخدامًا"
+
+#: includes/class-norsani-wp_init.php:109
+msgid "No Locations found"
+msgstr "لم يتم العثور على مواقع"
+
+#: includes/class-norsani-wp_init.php:110 norsani-options.php:17
+msgid "Delivery Locations"
+msgstr "مواقع التسليم"
+
+#: includes/class-norsani-wp_init.php:136
+msgctxt "frozr-norsani"
+msgid "Vendor Addresses"
+msgstr "عناوين البائعين"
+
+#: includes/class-norsani-wp_init.php:137
+msgctxt "frozr-norsani"
+msgid "Vendor Address"
+msgstr "عنوان البائع"
+
+#: includes/class-norsani-wp_init.php:138
+msgid "Search Vendor Addresses"
+msgstr "بحث عناوين البائع"
+
+#: includes/class-norsani-wp_init.php:139
+msgid "Popular Addresses"
+msgstr "عناوين شعبية"
+
+#: includes/class-norsani-wp_init.php:140
+msgid "All Addresses of Vendors"
+msgstr "جميع عناوين البائعين"
+
+#: includes/class-norsani-wp_init.php:143
+msgid "Edit Address"
+msgstr "تعديل العنوان"
+
+#: includes/class-norsani-wp_init.php:144
+msgid "Update Address"
+msgstr "تحديث العنوان"
+
+#: includes/class-norsani-wp_init.php:145
+msgid "Add New Address"
+msgstr "إضافة عنوان جديد"
+
+#: includes/class-norsani-wp_init.php:146
+msgid "New Address"
+msgstr "العنوان الجديد"
+
+#: includes/class-norsani-wp_init.php:147
+msgid "Separate Addresses with commas"
+msgstr "افصل بين العناوين بفواصل"
+
+#: includes/class-norsani-wp_init.php:148
+msgid "Add or remove Addresses"
+msgstr "إضافة أو إزالة العناوين"
+
+#: includes/class-norsani-wp_init.php:149
+msgid "Choose from the most used Addresses"
+msgstr "اختر من العناوين الأكثر استخدامًا"
+
+#: includes/class-norsani-wp_init.php:150
+msgid "No Addresses found"
+msgstr "لم يتم العثور على عناوين"
+
+#: includes/class-norsani-wp_init.php:151
+msgid "Vendor Addresses"
+msgstr "عناوين البائعين"
+
+#: includes/class-norsani-wp_init.php:177
+msgctxt "frozr-norsani"
+msgid "Vendor Tags"
+msgstr "علامات البائع"
+
+#: includes/class-norsani-wp_init.php:178
+msgctxt "frozr-norsani"
+msgid "Vendor Tag"
+msgstr "علامة البائع"
+
+#: includes/class-norsani-wp_init.php:179 includes/class-norsani-wp_init.php:192
+msgid "Vendor Tags"
+msgstr "علامات البائع"
+
+#: includes/class-norsani-wp_init.php:180
+msgid "Popular Vendor Tags"
+msgstr "علامات البائعين الشعبية"
+
+#: includes/class-norsani-wp_init.php:181
+msgid "All Tags"
+msgstr "جميع الشعارات"
+
+#: includes/class-norsani-wp_init.php:184
+msgid "Edit Tag"
+msgstr "تعديل الكلمة الدلالية"
+
+#: includes/class-norsani-wp_init.php:185
+msgid "Update Tag"
+msgstr "تحديث الوسم"
+
+#: includes/class-norsani-wp_init.php:186
+msgid "Add New Tag"
+msgstr "أضف وسما جديدا"
+
+#: includes/class-norsani-wp_init.php:187
+msgid "New Tag Name"
+msgstr "اسم الوسم الجديد"
+
+#: includes/class-norsani-wp_init.php:188
+msgid "Separate Tags with commas"
+msgstr "افصل بين الوسوم بفاصلة"
+
+#: includes/class-norsani-wp_init.php:189
+msgid "Add or remove Tags"
+msgstr "اضافة او حذف وسوم"
+
+#: includes/class-norsani-wp_init.php:190
+msgid "Choose from the most used Tags"
+msgstr "اختر من العلامات الأكثر استخدامًا"
+
+#: includes/class-norsani-wp_init.php:191
+msgid "No vendor Tag found."
+msgstr "لم يتم العثور على علامة بائعي."
+
+#: includes/class-norsani-wp_init.php:216
+msgctxt "post"
+msgid "Offline"
+msgstr "غير متصل"
+
+#: includes/class-norsani-wp_init.php:221
+#, php-format
+msgid "Offline (%s)"
+msgid_plural "Offline (%s)"
+msgstr[0] "غير اتصال (%s)"
+msgstr[1] "غير اتصال (%s)"
+msgstr[2] "غير اتصال (%s)"
+msgstr[3] "غير اتصال (%s)"
+msgstr[4] "غير اتصال (%s)"
+msgstr[5] "غير اتصال (%s)"
+
+#: includes/class-norsani-wp_init.php:238
+msgid "Withdrawal Requests Post Types"
+msgstr "طلب سحب طلبات البريد"
+
+#: includes/class-norsani-wp_init.php:263
+msgctxt "Status General Name"
+msgid "Completed"
+msgstr "مكتمل"
+
+#: includes/class-norsani-wp_init.php:264
+#, php-format
+msgid "Completed (%s)"
+msgid_plural "Completed (%s)"
+msgstr[0] "اكتمل (%s)"
+msgstr[1] "اكتمل (%s)"
+msgstr[2] "اكتمل (%s)"
+msgstr[3] "اكتمل (%s)"
+msgstr[4] "اكتمل (%s)"
+msgstr[5] "اكتمل (%s)"
+
+#: includes/class-norsani.php:126
+msgid "Cloning is forbidden."
+msgstr "الاستنساخ محظور."
+
+#: includes/class-norsani.php:135
+msgid "Unserializing instances of this class is forbidden."
+msgstr "يحظر نسخ unserializing من هذه الفئة."
+
+#: includes/emails/class-norsani-email-vendor-message.php:66
+msgid "Vendor Email"
+msgstr "البريد الإلكتروني للبائع"
+
+#: includes/emails/class-norsani-email-vendor-message.php:67
+msgid ""
+"An email sent to the vendor via his shop page contact form or by website admin "
+"from sellers dashboard page."
+msgstr ""
+"بريد إلكتروني يتم إرساله إلى البائع عبر نموذج جهة اتصال صفحة متجره أو بواسطة "
+"مسؤول موقع الويب من صفحة لوحة بيانات البائعين."
+
+#: includes/emails/class-norsani-email-vendor-message.php:92
+msgid "[{site_title}]: Invitation letter"
+msgstr "[{site_title}]: خطاب دعوة"
+
+#: includes/emails/class-norsani-email-vendor-message.php:94
+msgid "[{site_title}]: You recieved a new message"
+msgstr "[{site_title}]: لقد تلقيت رسالة جديدة"
+
+#: includes/emails/class-norsani-email-vendor-message.php:109
+msgid "New message"
+msgstr "رسالة جديدة"
+
+#: includes/emails/class-norsani-email-vendor-order-refund.php:73
+msgid "Order refund"
+msgstr "اعادة الاموال"
+
+#: includes/emails/class-norsani-email-vendor-order-refund.php:74
+msgid ""
+"An email sent to the vendor informing him on a refund for one of his orders."
+msgstr "بريد إلكتروني يتم إرساله إلى البائع لإبلاغه برده لأحد طلباته."
+
+#: includes/emails/class-norsani-email-vendor-order-refund.php:96
+msgid "[{site_title}]: Order Refunded"
+msgstr "[{site_title}]: طلب مسترجع"
+
+#: includes/emails/class-norsani-email-vendor-order-refund.php:106
+msgid "Order #{order_id} Refunded"
+msgstr "الطلب رقم {order_id} تم رد الأموال"
+
+#: includes/emails/class-norsani-email-vendor-rating.php:66
+msgid "Vendor rating request"
+msgstr "طلب تقييم البائع"
+
+#: includes/emails/class-norsani-email-vendor-rating.php:67
+msgid "An email sent to the customer asking him to rating a vendor."
+msgstr "تم إرسال بريد إلكتروني إلى العميل يطلب منه تصنيف أحد الموردين."
+
+#: includes/emails/class-norsani-email-vendor-rating.php:89
+msgid "[{site_title}]: Make your rating on {vendor_name}"
+msgstr "[{site_title}]: أجرِ تقييمك على {vendor_name}"
+
+#: includes/emails/class-norsani-email-vendor-rating.php:99
+msgid "Rate our service"
+msgstr "قيم خدمتنا"
+
+#: includes/emails/class-norsani-email-vendor-status.php:87
+msgid "Vendor Status Update"
+msgstr "تحديث حالة البائع"
+
+#: includes/emails/class-norsani-email-vendor-status.php:88
+msgid "An email sent to the vendor to inform him about his selling status."
+msgstr "بريد إلكتروني يتم إرساله إلى البائع لإبلاغه بحالة البيع الخاصة به."
+
+#: includes/emails/class-norsani-email-vendor-status.php:115
+msgid "[{site_title}]: Thank you for registering"
+msgstr "[{site_title}]: شكرًا لك على التسجيل"
+
+#: includes/emails/class-norsani-email-vendor-status.php:117
+msgid "[{site_title}]: Status Update"
+msgstr "[{site_title}]: تحديث الحالة"
+
+#: includes/emails/class-norsani-email-vendor-status.php:119
+msgid "[{site_title}]: New Vendor Registration"
+msgstr "[{site_title}]: تسجيل بائع جديد"
+
+#: includes/emails/class-norsani-email-vendor-status.php:132
+msgid "Welcome to {site_title}"
+msgstr "مرحبا بكم في {site_title}!"
+
+#: includes/emails/class-norsani-email-vendor-status.php:134
+msgid "Status Update"
+msgstr "تحديث الحالة"
+
+#: includes/emails/class-norsani-email-vendor-status.php:136
+msgid "New Vendor"
+msgstr "بائع جديد"
+
+#: includes/emails/class-norsani-email-withdraw-status.php:73
+msgid "Withdrawal Request Status"
+msgstr "حالة طلب السحب"
+
+#: includes/emails/class-norsani-email-withdraw-status.php:74
+msgid "An email sent to the vendor about his withdrawal request status."
+msgstr "بريد إلكتروني يتم إرساله إلى البائع لإبلاغه بحالة البيع الخاصة به."
+
+#: includes/emails/class-norsani-email-withdraw-status.php:96
+msgid "[{site_title}]: Status of your withdrawal request #{withdraw_id}"
+msgstr "[{site_title}]: حالة طلب السحب # {withdraw_id}"
+
+#: includes/emails/class-norsani-email-withdraw-status.php:106
+msgid "Your withdrawal request: #{withdraw_id}"
+msgstr "طلب السحب الخاص بك: # {withdraw_id}"
+
+#: includes/main-functions.php:94
+msgid ""
+"Selling privileges of this vendor has been disabled. You are viewing this "
+"because you are an administrator."
+msgstr "تم تعطيل امتيازات البيع لهذا البائع. أنت تشاهد هذا لأنك مسؤول."
+
+#: includes/main-functions.php:349
+msgid "Total Delivery Fee"
+msgstr "اجمالي رسوم التوصيل"
+
+#: includes/main-functions.php:390
+msgid "Unset"
+msgstr "إلغاء تعيين"
+
+#: includes/main-functions.php:396
+msgid "Change your location"
+msgstr "تغيير موقعك الحالي"
+
+#: includes/main-functions.php:396
+msgid "Set your location"
+msgstr "حدد موقعك"
+
+#: includes/main-functions.php:398
+msgid "Start typing your location."
+msgstr "ابدأ في كتابة موقعك."
+
+#: includes/main-functions.php:408
+msgid "Type the first three letters and choose from the list."
+msgstr "اكتب الأحرف الثلاثة الأولى واختر من القائمة."
+
+#: includes/main-functions.php:421
+msgid "Your Current location is: "
+msgstr "موقعك الحالى هو:"
+
+#: includes/main-functions.php:453
+msgid "will not accept orders at this time."
+msgstr "لن نقبل الطلبات في هذا الوقت."
+
+#: includes/main-functions.php:457
+msgid "will not accept orders at this time please come back later"
+msgstr "لن نقبل الطلبات في هذا الوقت ، يرجى العودة لاحقًا"
+
+#: includes/main-functions.php:482
+msgid "How about.."
+msgstr "كيف حول.."
+
+#. translators: %s template
+#: includes/main-functions.php:603
+#, php-format
+msgid "%s does not exist."
+msgstr "%s غير موجود."
+
+#: includes/main-functions.php:829
+msgid "Next Page"
+msgstr "الصفحة التالية"
+
+#: includes/main-functions.php:989 installer.php:222
+msgid "Chefs"
+msgstr "الطهاة"
+
+#: includes/main-functions.php:989 installer.php:222
+msgid "Restaurants"
+msgstr "المطاعم"
+
+#: includes/main-functions.php:989 installer.php:222
+msgid "Groceries"
+msgstr "محلات البقالة"
+
+#: includes/main-functions.php:989 installer.php:222
+msgid "Food Trucks"
+msgstr "شاحنات طعام؟"
+
+#: includes/main-functions.php:1046
+msgid "plus"
+msgstr "زائد"
+
+#: includes/main-functions.php:1050
+msgid ""
+"Here you can get statistics info on your sales. The results table is set by "
+"default to show sales for today, but you can see results for different periods "
+"as well. You can also click the print button if you wish to print current "
+"results."
+msgstr ""
+"هنا يمكنك الحصول على معلومات إحصائية عن مبيعاتك. يتم تعيين جدول النتائج بشكل "
+"افتراضي لعرض المبيعات لهذا اليوم ، ولكن يمكنك مشاهدة النتائج لفترات مختلفة "
+"أيضًا. يمكنك أيضًا النقر فوق زر الطباعة إذا كنت ترغب في طباعة النتائج الحالية."
+
+#: includes/main-functions.php:1051
+#, php-format
+msgid ""
+"Whenever a customer makes an online payment for your products, we deduct %s "
+"from the order's total and save the remaining amount here in your account "
+"balance after the order status is changed to completed. Click the withdraw "
+"button if you wish to submit a withdrawal request."
+msgstr ""
+"عندما يجري أحد العملاء دفعة عبر الإنترنت لمنتجاتك ، فإننا نخصم %s من إجمالي "
+"الطلب ونحفظ المبلغ المتبقي هنا في رصيد حسابك بعد تغيير حالة الطلب إلى "
+"اكتمالها. انقر فوق زر السحب إذا كنت ترغب في إرسال طلب السحب."
+
+#: includes/main-functions.php:1052
+msgid ""
+"This will show you a general count of your orders grouped by order status. You "
+"can click on the status title to navigate to the respective orders page."
+msgstr ""
+"سيعرض لك هذا العدد العام لأوامرك مجمعة حسب حالة الطلب. يمكنك النقر على عنوان "
+"الحالة للتنقل إلى صفحة الطلبات المعنية."
+
+#: includes/main-functions.php:1053
+msgid ""
+"Here you can get information on products having the most sales. This will help "
+"you in either improving or promoting other products that have low sales."
+msgstr ""
+"هنا يمكنك الحصول على معلومات عن المنتجات التي لديها معظم المبيعات. سيساعدك هذا "
+"في تحسين أو ترويج المنتجات الأخرى ذات المبيعات المنخفضة."
+
+#: includes/main-functions.php:1054
+msgid ""
+"Here you can get information on top spending customers. This is only based on "
+"completed orders. This could be helpful if you wish to reward or provide them "
+"with special service."
+msgstr ""
+"هنا يمكنك الحصول على معلومات حول العملاء الذين ينفقون أعلى. هذا يعتمد فقط على "
+"الطلبات المكتملة. قد يكون هذا مفيدًا إذا كنت ترغب في مكافأة أو تقديم خدمة خاصة "
+"لهم."
+
+#: includes/main-functions.php:1055
+msgid ""
+"This is the main page to view and manage your incoming orders. Orders are "
+"listed from oldest to newest. Whenever your shop is open, and you are in this "
+"page, the system will automatically update your orders list every minute. "
+"Click on \"Quick view\" to see the products list or click on the order number "
+"to view full details. Click on the action button to process the order by "
+"changing its status. You should only manage the orders that are in the "
+"\"processing\" list. The Orders that are in the \"On-hold\" or \"Pending\" "
+"status are still not paid, so please wait until they are moved to the "
+"processing orders list."
+msgstr ""
+"هذه هي الصفحة الرئيسية لعرض وإدارة الطلبات الواردة. يتم سرد الطلبات من الأقدم "
+"إلى الأحدث. عندما يكون متجرك مفتوحًا ، وأنت في هذه الصفحة ، سيقوم النظام "
+"تلقائيًا بتحديث قائمة الطلبات في كل دقيقة. انقر على &quot;عرض سريع&quot; لرؤية "
+"قائمة المنتجات أو انقر فوق رقم الطلب لعرض التفاصيل الكاملة. انقر على زر "
+"الإجراء لمعالجة الطلب عن طريق تغيير حالته. يجب عليك فقط إدارة الطلبات الموجودة "
+"في قائمة &quot;المعالجة&quot;. لا تزال الطلبات الموجودة في حالة &quot;قيد "
+"الانتظار&quot; أو &quot;معلق&quot; غير مدفوعة ، لذا يرجى الانتظار حتى يتم "
+"نقلها إلى قائمة أوامر المعالجة."
+
+#: includes/main-functions.php:1056
+msgid "This is the total discount. Discounts are defined per line item."
+msgstr "هذا هو إجمالي الخصم. خصومات المعرفة لكل نوع."
+
+#: includes/main-functions.php:1057
+msgid ""
+"Add a note for your reference, or add a customer note (the customer will be "
+"notified)"
+msgstr "إضافة ملاحظة للرجوع إليها ، أو إضافة ملاحظة العميل (سيتم إخطار العميل)"
+
+#: includes/main-functions.php:1058
+msgid ""
+"Here you can add discount coupons on your products to encourage customers to "
+"make orders from your shop. You can also create discount coupons for only one "
+"specific loyal customer by setting the usage limit to 1 and disabling the \"Go "
+"public\" option, then you can send the code to the customer by email with a "
+"thank you message."
+msgstr ""
+"هنا يمكنك إضافة كوبونات خصم على منتجاتك لتشجيع العملاء على إصدار أوامر من "
+"متجرك. يمكنك أيضًا إنشاء قسائم خصم لعمل عميل واحد فقط محدد من خلال تعيين حد "
+"الاستخدام إلى 1 وتعطيل خيار &quot;الذهاب عام&quot; ، ثم يمكنك إرسال الرمز إلى "
+"العميل عبر البريد الإلكتروني برسالة شكر."
+
+#: includes/main-functions.php:1059
+msgid ""
+"Customers will need the \"coupon code\" to benefit from the discount when they "
+"are in the cart or the checkout page. This \"coupon code\" will not appear to "
+"customers by default, you need to include it in the \"Coupon text to show\" "
+"field."
+msgstr ""
+"سيحتاج العملاء إلى &quot;رمز القسيمة&quot; للاستفادة من الخصم عندما يكونوا في "
+"سلة التسوق أو في صفحة الدفع. لن يظهر &quot;رمز القسيمة&quot; هذا للعملاء بشكل "
+"افتراضي ، ويجب عليك تضمينه في حقل &quot;عرض الكوبون لإظهاره&quot;."
+
+#: includes/main-functions.php:1060
+msgid "Type few lines about this coupon, describing why are you offering it."
+msgstr "اكتب سطور قليلة حول هذه القسيمة ، واصف لماذا تقدمها."
+
+#: includes/main-functions.php:1061
+msgid ""
+"Set the amount or percentage to discount (depending on the discount type)."
+msgstr "حدد المبلغ أو النسبة المئوية للخصم (حسب نوع الخصم)."
+
+#: includes/main-functions.php:1062
+msgid ""
+"White-list of customers emails to check against when an order is placed. "
+"Separate email addresses with commas. You can also use an asterisk (*) to "
+"match parts of an email. For example &quot;*@gmail.com&quot; would match all "
+"gmail addresses.."
+msgstr ""
+"قائمة بيضاء من رسائل البريد الإلكتروني للعملاء للتحقق عندما يتم تقديم طلب. قم "
+"بفصل عناوين البريد الالكتروني بفاصلة. يمكنك أيضًا استخدام علامة النجمة (*) "
+"لمطابقة أجزاء من البريد الإلكتروني. على سبيل المثال ، قد يتطابق &quot;*@gmail."
+"com&quot; مع جميع عناوين Gmail."
+
+#: includes/main-functions.php:1063
+msgid "How many times this coupon can be used before it becomes void?"
+msgstr "كم مرة يمكن استخدام هذه القسيمة."
+
+#: includes/main-functions.php:1064
+msgid ""
+"The maximum number of individual products that this coupon can apply to when "
+"using products discount. Leave it blank to apply to all qualifying products in "
+"cart."
+msgstr ""
+"الحد الأقصى لعدد المنتجات الفردية التي يمكن أن تنطبق عليها هذه الكوبون عند "
+"استخدام خصم المنتجات. اتركه فارغًا للتقديم على جميع المنتجات المؤهلة في سلة "
+"التسوق."
+
+#: includes/main-functions.php:1065
+msgid "How many times this coupon can be used by each individual user?"
+msgstr "كم مرة يمكن استخدام هذه القسيمة بواسطة كل مستخدم على حدة؟"
+
+#: includes/main-functions.php:1066
+msgid ""
+"Products that the coupon will be applied to, or that need to be in the cart in "
+"order for the &quot;Fixed cart discount&quot; to be applied.."
+msgstr ""
+"المنتجات التي سيتم تطبيق القسيمة عليها ، أو التي يجب أن تكون في سلة التسوق حتى "
+"يتم تطبيق &quot;خصم العربة الثابتة&quot;."
+
+#: includes/main-functions.php:1067
+msgid "Check this box if the coupon grants free delivery."
+msgstr "حدد هذا المربع إذا كانت القسيمة تمنح التسليم المجاني."
+
+#: includes/main-functions.php:1068
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other coupons."
+msgstr "حدد هذا الخيار لجعل الكوبون غير قابل للإستخدام مع كوبونات أخرى."
+
+#: includes/main-functions.php:1069
+msgid ""
+"Check this box if the coupon should not apply to products with discounted "
+"price. Per-product coupons will only work if the product is not on it's "
+"discount price. Per-cart coupons will only work if there are no discounted "
+"products in the cart."
+msgstr ""
+"حدد هذا المربع إذا كان لا ينبغي أن تنطبق القسيمة على المنتجات ذات الأسعار "
+"المخفضة. لن تعمل القسائم لكل منتج إلا إذا كان المنتج غير معروض بسعر الخصم. لن "
+"تعمل القسائم لكل سلة إلا في حالة عدم وجود منتجات مخفضة في سلة التسوق."
+
+#: includes/main-functions.php:1070
+msgid ""
+"This field allows you to set the minimum spend (subtotal) allowed to use the "
+"coupon."
+msgstr ""
+"يتيح لك هذا الحقل تعيين الحد الأدنى للإنفاق (الإجمالي الفرعي) المسموح به "
+"لاستخدام القسيمة."
+
+#: includes/main-functions.php:1071
+msgid ""
+"This field allows you to set the maximum spend (subtotal) allowed when using "
+"the coupon."
+msgstr ""
+"يسمح لك هذا الحقل بتعيين الحد الأقصى للانفاق (الإجمالي الفرعي) المسموح به عند "
+"استخدام الكوبون."
+
+#: includes/main-functions.php:1072
+msgid "Show the Coupon in your shop page?"
+msgstr "إظهار الكوبون في صفحة المتجر الخاص بك؟"
+
+#: includes/main-functions.php:1073
+msgid "Text to show in the coupon box on your shop page."
+msgstr "النص المراد إظهاره في مربع القسيمة في صفحة متجرك."
+
+#: includes/main-functions.php:1074
+#, php-format
+msgid ""
+"From this page, you can submit money withdrawal requests and view your "
+"previous requests. Whenever an order status is changed to completed, the "
+"system will automatically create a withdrawal request for you. Before it has "
+"been Processed by the website admin you can manually cancel your request. If "
+"you have at least %1$s%2$s in your current balance you can make a withdrawal "
+"request."
+msgstr ""
+"من هذه الصفحة ، يمكنك إرسال طلبات سحب الأموال وعرض طلباتك السابقة. عند تغيير "
+"حالة الطلب إلى اكتمالها ، سيقوم النظام تلقائيًا بإنشاء طلب سحب لك. قبل أن تتم "
+"معالجتها بواسطة مسؤول موقع الويب ، يمكنك إلغاء الطلب يدويًا. إذا كان لديك %1$s"
+"%2$s على الأقل في رصيدك الحالي ، يمكنك تقديم طلب سحب."
+
+#: includes/main-functions.php:1074
+#, php-format
+msgid ""
+"From this page, you can submit money withdrawal requests and view your "
+"previous requests. If you have at least %1$s%2$s in your account balance you "
+"can submit a withdrawal request."
+msgstr ""
+"من هذه الصفحة ، يمكنك إرسال طلبات سحب الأموال وعرض طلباتك السابقة. إذا كان "
+"لديك %1$s%2$s على الأقل في رصيد حسابك ، يمكنك إرسال طلب سحب."
+
+#: includes/main-functions.php:1075
+msgid ""
+"This is used to classify your shop type. You cannot change this option after "
+"registration."
+msgstr ""
+"يستخدم هذا لتصنيف نوع المحل الخاص بك. لا يمكنك تغيير هذا الخيار بعد التسجيل."
+
+#: includes/main-functions.php:1076
+msgid ""
+"This is your shop name which will appear in the vendor lists and in your "
+"shop's page."
+msgstr "هذا هو اسم المتجر الذي سيظهر في قوائم البائعين وفي صفحة متجرك."
+
+#: includes/main-functions.php:1077
+msgid "This is the phone number which will appear on your shop's contact form."
+msgstr "هذا هو رقم الهاتف الذي سيظهر في نموذج الاتصال الخاص بمتجرك."
+
+#: includes/main-functions.php:1078
+msgid ""
+"This is the shop's address which will appear in your shop's contact form and "
+"whenever customers choose to make 'Pickup', 'Dine-in', or 'Curbside' orders."
+msgstr ""
+"هذا هو عنوان المتجر الذي سيظهر في نموذج الاتصال الخاص بمتجرك وكلما اختار "
+"العملاء إجراء طلبات &quot;Pickup&quot; أو &quot;Dine-in&quot; أو &quot;"
+"Curbside&quot;."
+
+#: includes/main-functions.php:1079
+msgid ""
+"Click on the map to set the exact location to your shop. This will allow "
+"customers to quickly get directions to your shop with Google Maps. In "
+"addition, this will be used to calculate delivery fees if you offer delivery "
+"service."
+msgstr ""
+"انقر علي الخريطة لتعيين الموقع الدقيق لمتجرك. وهذا سيسمح للعملاء بسرعة الحصول "
+"علي الاتجاات إلى متجرك مع خرائط جوجل. الاضافه إلى ذلك ، سيتم استخدام هذا لحساب "
+"رسوم التوصيل إذا كنت تقدم خدمه الوصيل."
+
+#: includes/main-functions.php:1080
+msgid ""
+"Type services/foods that you provide separated with a comma or click on value "
+"if appeared in the predictions list. Values here are used in vendors searching "
+"tools. i.e: Indian, Chinese, Thai, barbecue, meats, fish, seafoods, pet-foods, "
+"snack-foods."
+msgstr ""
+"اكتب الخدمات / الأطعمة التي تقدمها بشكل منفصل بفاصلات أو انقر على القيمة إذا "
+"ظهرت في قائمة التوقعات. يتم استخدام القيم هنا في أدوات البحث عن الموردين. أي: "
+"الهندية والصينية والتايلاندية والشواء واللحوم والأسماك والمأكولات البحرية "
+"والحيوانات الأليفة الأطعمة ، الأطعمة الخفيفة."
+
+#: includes/main-functions.php:1081
+msgid "Select food types available in your shop."
+msgstr "حدد أنواع الطعام المتاحة في متجرك."
+
+#: includes/main-functions.php:1082
+msgid ""
+"When this is selected, customers will be able to send you email messages from "
+"your shop page."
+msgstr ""
+"عند تحديد ذلك ، سيتمكن العملاء من إرسال رسائل البريد الكتروني من صفحه متجرك."
+
+#: includes/main-functions.php:1083
+msgid ""
+"If you offer products/foods on specific timings, then you should use menus to "
+"avoid customers from ordering products at the time that you do not offer them. "
+"After you create menus here, a new option called \"Linked Menus\" will appear "
+"in the products add/edit form where you can link the product to a specific "
+"menu or multiple menus."
+msgstr ""
+"إذا كنت تقدم منتجات / أطعمة في أوقات محددة ، فيجب عليك استخدام القوائم لتجنب "
+"العملاء من طلب المنتجات في الوقت الذي لا تعرضه فيه. بعد إنشاء القوائم هنا ، "
+"سيظهر خيار جديد يسمى &quot;القوائم المرتبطة&quot; في نموذج إضافة / تحرير "
+"المنتجات حيث يمكنك ربط المنتج بقائمة محددة أو قوائم متعددة."
+
+#: includes/main-functions.php:1084
+msgid ""
+"Select a name for this menu. This will appear in your shop page with timings "
+"below."
+msgstr "اختر اسما لهذه القائمة. سوف يظهر هذا في صفحة متجرك مع التوقيت أدناه."
+
+#: includes/main-functions.php:1085
+msgid ""
+"When do you start offering products linked to this menu? if your browser does "
+"not support time inputs please enter the time in 24 hour format like: 16:30"
+msgstr ""
+"متى تبدأ بتقديم منتجات مرتبطة بهذه القائمة؟ إذا كان متصفحك لا يدعم إدخال "
+"الوقت ، يرجى إدخال الوقت بتنسيق 24 ساعة مثل: 16:30"
+
+#: includes/main-functions.php:1086
+msgid ""
+"When do you end offering products linked to this menu? if your browser does "
+"not support time inputs please enter the time in 24 hour format like: 18:50"
+msgstr ""
+"متى تنتهي بعرض منتجات مرتبطة بهذه القائمة؟ إذا كان متصفحك لا يدعم إدخال "
+"الوقت ، يرجى إدخال الوقت بتنسيق 24 ساعة مثل: 18:50"
+
+#: includes/main-functions.php:1087
+msgid "What are the order types you accept when your shop is open (online)?"
+msgstr "ما أنواع الطلبات التي تقبلها عندما يكون متجرك مفتوحًا (عبر الإنترنت)؟"
+
+#: includes/main-functions.php:1088
+msgid ""
+"Selecting this option will allow customers to create pre-orders to be "
+"processed when your shop is open."
+msgstr ""
+"سيسمح تحديد هذا الخيار للعملاء بإنشاء طلبات مسبقة ليتم معالجتها عندما يكون "
+"متجرك مفتوحًا."
+
+#: includes/main-functions.php:1089
+msgid "What are the order types you accept when your shop is closed (offline)?"
+msgstr "ما أنواع الطلبات التي تقبلها عندما يكون متجرك مغلقًا (غير متصل)؟"
+
+#: includes/main-functions.php:1090
+msgid ""
+"If you offer delivery service click on the map to start drawing a polygon that "
+"covers the area where you can offer delivery service. Click on the X button on "
+"the right to clear the drawing."
+msgstr ""
+"إذا كنت تقدم خدمة التوصيل ، فانقر على الخريطة لبدء رسم مضلع يغطي المنطقة التي "
+"يمكنك فيها تقديم خدمة التوصيل. انقر على زر X على اليمين لمسح الرسم."
+
+#: includes/main-functions.php:1091
+msgid ""
+"Do you want to calculate the delivery fee separately for each individual "
+"product or as per order?"
+msgstr "هل ترغب في حساب رسوم التسليم بشكل منفصل لكل منتج على حدة أو حسب الطلب؟"
+
+#: includes/main-functions.php:1092
+#, php-format
+msgid ""
+"Enter your delivery fee per %s. The system will use this to calculate the "
+"delivery fee depending on the distance from your shop to customer location."
+msgstr ""
+"أدخل رسوم التوصيل لكل %s سيستخدم النظام هذا لحساب رسوم التسليم حسب المسافة من "
+"متجرك إلى موقع العميل."
+
+#: includes/main-functions.php:1093
+msgid "Delivery fee per additional product after the first product."
+msgstr "رسوم التوصيل لكل منتج إضافي بعد المنتج الأول."
+
+#: includes/main-functions.php:1094
+msgid ""
+"What is the minimum order amount to allow customers to make delivery orders?"
+msgstr "ما هو الحد الأدنى لمبلغ الأمر الذي يسمح للعملاء بإصدار أوامر التسليم؟"
+
+#: includes/main-functions.php:1095
+msgid ""
+"Enter values below if you wish to set different delivery fees whenever you are "
+"having a number of processing orders, or set \"Processing Orders\" to 0 if you "
+"do not wish to use different delivery fees."
+msgstr ""
+"أدخل القيم أدناه إذا كنت ترغب في تحديد رسوم توصيل مختلفة عندما يكون لديك عدد "
+"من أوامر المعالجة ، أو قم بتعيين &quot;أوامر المعالجة&quot; إلى 0 إذا كنت لا "
+"ترغب في استخدام رسوم توصيل مختلفة."
+
+#: includes/main-functions.php:1096
+msgid ""
+"How many processing orders you should be having before using these delivery "
+"fees on new orders?"
+msgstr ""
+"ما عدد طلبات المعالجة التي يجب أن تكون لديك قبل استخدام رسوم التوصيل هذه على "
+"الطلبات الجديدة؟"
+
+#: includes/main-functions.php:1097
+msgid "Add a notice or announcement on your shop page."
+msgstr "أضف إشعارًا أو إعلانًا على صفحة متجرك."
+
+#: includes/main-functions.php:1098
+msgid ""
+"If you have accounts on social media you can add their links here. Social "
+"icons will appear on your shop page header."
+msgstr ""
+"إذا كان لديك حسابات على شبكات التواصل الاجتماعي ، يمكنك إضافة روابطها هنا. "
+"ستظهر الرموز الاجتماعية في رأس صفحة المتجر."
+
+#: includes/main-functions.php:1099
+msgid ""
+"The system will use these timing settings to open or close your shop "
+"automatically every day. However, you can at any time manually set your shop "
+"to opened (online) or closed (offline) by clicking on the shop icon in the top "
+"bar."
+msgstr ""
+"سيستخدم النظام إعدادات التوقيت هذه لفتح أو إغلاق متجرك تلقائيًا كل يوم. ومع "
+"ذلك ، يمكنك في أي وقت تعيين متجرك يدويًا لفتحه (عبر الإنترنت) أو مغلق (غير "
+"متصل) عن طريق النقر فوق رمز المحل في الشريط العلوي."
+
+#: includes/main-functions.php:1100
+msgid ""
+"Click open if your shop will open in this day, and enter the opening and "
+"closing timings. Please note here that the opening and closing timings must be "
+"within the same day. i.e if your shop will open from (08:00 pm) till (02:00 "
+"am) which means it will close at the next day, you should set the timing for "
+"today from 08:00 pm (20:00) till 11:59 pm (23:59) and set the remaining two "
+"hours in the \"First Shift\" timing fields of the next day."
+msgstr ""
+"انقر فوق فتح إذا كان متجرك سيفتح في هذا اليوم ، وأدخل توقيت الفتح والإغلاق. "
+"يرجى ملاحظة أن أوقات الافتتاح والغلق يجب أن تكون في نفس اليوم. بمعنى أنه في "
+"حالة فتح متجرك من (08:00 مساءً) حتى (02:00 صباحاً) مما يعني أنه سيتم إغلاقه في "
+"اليوم التالي ، يجب عليك تحديد التوقيت لهذا اليوم من الساعة 08:00 مساءً (20:00) "
+"وحتى 11:00: 59:00 (23:59) وتعيين ساعتين الباقيتين في حقول توقيت &quot;First "
+"Shift&quot; في اليوم التالي."
+
+#: includes/main-functions.php:1101 includes/main-functions.php:1247
+msgid ""
+"If your browser does not support the \"time\" inputs please enter the time in "
+"24 hour format like: 16:20"
+msgstr ""
+"إذا كان متصفحك لا يدعم مدخلات &quot;الوقت&quot; ، يرجى إدخال الوقت بتنسيق 24 "
+"ساعة مثل: 16:20"
+
+#: includes/main-functions.php:1102
+msgid ""
+"Do you close on national holidays or some special events? if yes, please enter "
+"days when you will not be available."
+msgstr ""
+"هل تغلق في الأعياد الوطنية أو بعض المناسبات الخاصة؟ إذا كانت الإجابة نعم ، "
+"يرجى إدخال الأيام التي لن تكون فيها متاحًا."
+
+#: includes/main-functions.php:1103
+msgid "Details here are used in withdrawal requests."
+msgstr "يتم استخدام التفاصيل هنا في طلبات السحب."
+
+#: includes/main-functions.php:1104
+msgid ""
+"All products available on your online shop are listed here. By default, "
+"products are marked as \"online\" after posting them which means they are "
+"visible on your shop page."
+msgstr ""
+"يتم سرد جميع المنتجات المتاحة على متجر على الانترنت هنا. بشكل افتراضي ، يتم "
+"تمييز المنتجات بأنها &quot;عبر الإنترنت&quot; بعد نشرها مما يعني أنها مرئية "
+"على صفحة متجرك."
+
+#: includes/main-functions.php:1105
+msgid ""
+"Describe this product in few words. This will appear in the product full page."
+msgstr "وصف هذا المنتج في بضع كلمات. سيظهر هذا في صفحة المنتج الكاملة."
+
+#: includes/main-functions.php:1106
+msgid ""
+"Type the categories this product belongs to, hit the comma button on your "
+"keyboard after typing each category name or click on the category name if "
+"appeared in the predictions list. The system will use the products categories "
+"to group products on your shop page."
+msgstr ""
+"اكتب الفئات التي ينتمي إليها هذا المنتج ، واضغط على زر الفاصلة على لوحة "
+"المفاتيح بعد كتابة كل اسم فئة أو انقر فوق اسم الفئة إذا ظهر في قائمة التوقعات. "
+"سيستخدم النظام فئات المنتجات لتجميع المنتجات في صفحة متجرك."
+
+#: includes/main-functions.php:1107
+msgid ""
+"Select the menu that includes this product. press ‘ctrl’ on your keyboard and "
+"click to select multiple menus."
+msgstr ""
+"حدد القائمة التي تتضمن هذا المنتج. اضغط على &quot;CTRL&quot; على لوحة المفاتيح "
+"الخاصة بك وانقر لتحديد قوائم متعددة."
+
+#: includes/main-functions.php:1108
+msgid ""
+"Type the main ingredients of the product so customers can see them before "
+"ordering. This information helps avoiding complains and bad reviews. Hit the "
+"comma button after typing each ingredient or select from the predictions list."
+msgstr ""
+"اكتب المكونات الرئيسية للمنتج بحيث يمكن للعملاء رؤيتها قبل الطلب. تساعد هذه "
+"المعلومات على تجنب الشكوى والمراجعات السيئة. اضغط على زر الفاصلة بعد كتابة كل "
+"مكون أو حدد من قائمة التوقعات."
+
+#: includes/main-functions.php:1109
+msgid ""
+"Enter the time required to prepare/handle this product for delivery, pickup, "
+"dine-in, and curbside. Leave 0 for immediately."
+msgstr ""
+"أدخل الوقت اللازم للتحضير / التعامل مع هذا المنتج للتسليم ، التوصيل ، تناول "
+"الطعام ، و الرصيف. اترك 0 على الفور."
+
+#: includes/main-functions.php:1110
+msgid ""
+"The maximum numbers of orders that can be made for this product each day. "
+"leave 0 for unlimited number of orders."
+msgstr ""
+"الحد الأقصى لعدد الطلبات التي يمكن إجراؤها لهذا المنتج كل يوم. اترك 0 لعدد غير "
+"محدود من الطلبات."
+
+#: includes/main-functions.php:1111
+msgid ""
+"A complete description on the product. This will appear in the product's full "
+"page."
+msgstr "وصف كامل على المنتج. سيظهر هذا في صفحة المنتج الكاملة."
+
+#: includes/main-functions.php:1112
+msgid ""
+"Check this box if the product is available in different sizes, flavors ...etc "
+"or comes with different add-ons, drinks or side items."
+msgstr ""
+"حدد هذا المربع إذا كان المنتج متاحًا بأحجام ونكهات مختلفة ... أو يأتي مع إضافات "
+"أو مشروبات أو عناصر جانبية مختلفة."
+
+#: includes/main-functions.php:1113
+msgid "This variation can be edited from the admin side only."
+msgstr "يمكن تعديل هذا الشكل من جانب المشرف فقط."
+
+#: includes/main-functions.php:1114
+msgid ""
+"Name of the variation family. i.e: Select Size, Choose Flavor, Choose a "
+"Drink, ...etc"
+msgstr "اسم عائلة التباين. أي: اختر الحجم ، اختر نكهة ، اختر شراب ، ... الخ"
+
+#: includes/main-functions.php:1115
+msgid ""
+"Values of the variation family. i.e: if \"choose of protein\" was the "
+"variation name, then the values could be: pork | beef | chicken. Please "
+"separate the values by |"
+msgstr ""
+"قيم عائلة التباين. بمعنى: إذا كان &quot;اختيار البروتين&quot; هو اسم التباين ، "
+"عندئذ يمكن أن تكون القيم: لحم الخنزير | لحم البقر دجاج. يرجى فصل القيم حسب |"
+
+#: includes/main-functions.php:1116
+msgid ""
+"Describe this variation in few words. i.e: Explain what the customer will get "
+"when choosing this option or how this option is different from other options."
+msgstr ""
+"صف هذا التباين في بضع كلمات. مثال: شرح ما سيحصل عليه العميل عند اختيار هذا "
+"الخيار أو كيفية اختلاف هذا الخيار عن الخيارات الأخرى."
+
+#: includes/main-functions.php:1117
+msgid ""
+"Specify the quantity the customer MUST buy to benefit from this promotion. "
+"Please note here that the customer must buy the exact quantity, no more, no "
+"less."
+msgstr ""
+"حدد الكمية التي يجب على العميل شراؤها للاستفادة من هذا العرض الترويجي. يرجى "
+"ملاحظة أن العميل يجب أن يشتري الكمية الدقيقة ، لا أكثر ولا أقل."
+
+#: includes/main-functions.php:1118
+msgid ""
+"This indicates the promotion type. If a free product is selected the product "
+"will be added as a detail under the main product after the customer make a "
+"purchase and not as a separated cart product."
+msgstr ""
+"هذا يدل على نوع الترويج. في حالة اختيار منتج مجاني ، ستتم إضافة المنتج كتفاصيل "
+"تحت المنتج الرئيسي بعد قيام العميل بعملية شراء وليس كمنتج سلة منفصل."
+
+#: includes/main-functions.php:1119
+msgid ""
+"Specify the discount amount in percentage to deduct from the main product "
+"price."
+msgstr "حدد مبلغ الخصم كنسبة مئوية من الخصم من سعر المنتج الرئيسي."
+
+#: includes/main-functions.php:1120
+msgid "Select the free product the customer will get from this promotion."
+msgstr "حدد المنتج المجاني الذي سيحصل عليه العميل من هذا العرض."
+
+#: includes/main-functions.php:1121
+msgid ""
+"The \"Up-sell Products\" are those products that you recommend to the customer "
+"instead of the currently viewed product. i.e: You can select some products "
+"that have a discount price or newly added products or products that have "
+"promotions. This is useful to convince your customers to test other products "
+"that have low sales."
+msgstr ""
+"&quot;منتجات Up-sell&quot; هي تلك المنتجات التي توصي بها العميل بدلاً من المنتج "
+"المعروض حاليًا. بمعنى: يمكنك اختيار بعض المنتجات التي لها سعر مخفض أو منتجات "
+"مضافة حديثًا أو منتجات لها إعلانات ترويجية. يفيد ذلك في إقناع عملائك باختبار "
+"منتجات أخرى ذات مبيعات منخفضة."
+
+#: includes/main-functions.php:1122
+msgid ""
+"The \"Cross-sell Products\" are those products that you promote to customers "
+"when they are viewing their shopping cart. You can add products that you would "
+"wish your customers to buy when they have bought this product."
+msgstr ""
+"&quot;منتجات البيع المتقاطع&quot; هي تلك المنتجات التي تروج لها للعملاء عندما "
+"يشاهدون سلة التسوق الخاصة بهم. يمكنك إضافة منتجات ترغب في أن يشتريها عملاؤك "
+"عندما يشترون هذا المنتج."
+
+#: includes/main-functions.php:1123
+msgid ""
+"All users registered as \"seller\" are listed and managed from this page. This "
+"is the main page to activate or deactivate selling privileges for newly "
+"registered vendors unless you have chosen to automatically activate them from "
+"the admin settings. You can also click on the vendor email address to send "
+"them an email message directly from here."
+msgstr ""
+"يتم تسجيل جميع المستخدمين المسجلين باسم &quot;البائع&quot; وإدارتها من هذه "
+"الصفحة. هذه هي الصفحة الرئيسية لتنشيط أو إلغاء تنشيط امتيازات البيع للبائعين "
+"الجدد ، إلا إذا اخترت تنشيطها تلقائيًا من إعدادات المسؤول. يمكنك أيضًا النقر على "
+"عنوان البريد الإلكتروني للمورد لإرسال رسالة بريد إلكتروني إليه مباشرةً من هنا."
+
+#: includes/main-functions.php:1124
+msgid ""
+"When a vendor selling privileges is deactivated, their shop page and products "
+"will be hidden from customers but not deleted. Yet previous and current orders "
+"will still appear to customers but the vendor will no longer be able to manage "
+"or process them. To completely remove a vendor and his products, delete the "
+"vendor (user) from the \"users page\" in the WordPress admin."
+msgstr ""
+"عندما يتم إلغاء تنشيط امتياز بيع البائع ، سيتم إخفاء صفحة متجره ومنتجاته من "
+"العملاء دون حذفها. ومع ذلك ، ستظل الطلبات السابقة والحالية تظهر للعملاء ولكن "
+"لن يتمكن البائع من إدارة هذه الطلبات أو معالجتها. لإزالة بائع ومنتجاته "
+"بالكامل ، احذف البائع (المستخدم) من &quot;صفحة المستخدمين&quot; في مسؤول "
+"WordPress."
+
+#: includes/main-functions.php:1125
+msgid "This will send an email message using your admin email address as sender."
+msgstr ""
+"سيؤدي هذا إلى إرسال رسالة بريد إلكتروني باستخدام عنوان البريد الإلكتروني "
+"للمشرف كمرسل."
+
+#: includes/main-functions.php:1126
+msgid "The minimum amount of the order to make a delivery order."
+msgstr "الحد الأدنى لمبلغ طلب تقديم طلب التسليم."
+
+#: includes/main-functions.php:1127
+msgid ""
+"When customer adds more than one of your products to cart, the system will "
+"calculate the preparation time for the order by getting the longest product "
+"preparation time multiplied by a percentage of the preparation time of other "
+"products. i.e. if you set 25, and customer has added two of your products, one "
+"has 15 mins and the second have 7 mins preparation time, the total preparation "
+"time for the order will be 17 mins"
+msgstr ""
+"عندما يضيف العميل أكثر من واحد من منتجاتك إلى سلة التسوق ، يقوم النظام بحساب "
+"وقت إعداد الطلب عن طريق الحصول على أطول وقت لإعداد المنتج مضروبًا بنسبة مئوية "
+"من وقت إعداد المنتجات الأخرى. على سبيل المثال ، إذا قمت بتعيين 25 ، وقام "
+"العميل بإضافة اثنين من المنتجات الخاصة بك ، واحد لديه 15 دقيقة والثانية بوقت "
+"إعداد 7 دقائق ، وسيكون إجمالي وقت التحضير للطلب 17 دقيقة"
+
+#: includes/main-functions.php:1130
+msgid ""
+"Here you can get statistics info of your vendors sales. By default, you will "
+"see results for all vendors, but you can select to see results for an "
+"individual vendor as well. The results table is set by default to show sales "
+"for today, but you can see results for different periods as well. You can also "
+"click the print button if you wish to print the current results."
+msgstr ""
+"هنا يمكنك الحصول على معلومات إحصائية عن مبيعات البائعين الخاصة بك. بشكل "
+"افتراضي ، سترى نتائج لجميع البائعين ، ولكن يمكنك تحديد رؤية النتائج للبائع "
+"الفردي أيضًا. يتم تعيين جدول النتائج بشكل افتراضي لعرض المبيعات لهذا اليوم ، "
+"ولكن يمكنك مشاهدة النتائج لفترات مختلفة أيضًا. يمكنك أيضًا النقر فوق زر الطباعة "
+"إذا كنت ترغب في طباعة النتائج الحالية."
+
+#: includes/main-functions.php:1131
+msgid ""
+"This will show you a general count of all orders made on your website grouped "
+"by order status. You can click on the status title to navigate to the "
+"respective orders page."
+msgstr ""
+"سيعرض لك هذا العدد العام لجميع الطلبات التي يتم إجراؤها على موقعك الإلكتروني "
+"مجمعة حسب حالة الطلب. يمكنك النقر على عنوان الحالة للتنقل إلى صفحة الطلبات "
+"المعنية."
+
+#: includes/main-functions.php:1132
+msgid ""
+"Here you can get information on products having the most sales on your website."
+msgstr ""
+"هنا يمكنك الحصول على معلومات عن المنتجات التي لها أكبر قدر من المبيعات على "
+"موقع الويب الخاص بك."
+
+#: includes/main-functions.php:1133
+msgid ""
+"This is the main page to monitor your vendors incoming orders. Orders are "
+"listed from oldest to newest. Whenever you are in this page, the system will "
+"automatically update the orders list every minute. By default, you are only "
+"supposed to monitor and remind your vendors if some orders are taking too long "
+"to process. In addition of managing \"on-hold orders\" which are still not "
+"paid."
+msgstr ""
+"هذه هي الصفحة الرئيسية لمراقبة طلبات البائعين الواردة. يتم سرد الطلبات من "
+"الأقدم إلى الأحدث. عندما تكون في هذه الصفحة ، سيقوم النظام تلقائيًا بتحديث "
+"قائمة الطلبات كل دقيقة. بشكل افتراضي ، من المفترض فقط أن تقوم بمراقبة وتذكير "
+"البائعين إذا كانت بعض الطلبات تستغرق وقتًا طويلاً جدًا في معالجتها. بالإضافة إلى "
+"إدارة &quot;الأوامر المعلقة&quot; التي لم يتم دفعها بعد."
+
+#: includes/main-functions.php:1134
+msgid ""
+"Vendors can create discount coupons to increase sales and drive traffic on "
+"their products or reward some customers. As an admin you will not be able to "
+"add coupons but only view existing ones and edit or delete them."
+msgstr ""
+"يمكن للبائعين إنشاء قسائم خصم لزيادة المبيعات وزيادة حركة المرور على منتجاتهم "
+"أو مكافأة بعض العملاء. بصفتك مشرفًا ، لن تتمكن من إضافة القسائم ، ولكن يمكنك "
+"فقط عرض القسائم الحالية وتعديلها أو حذفها."
+
+#: includes/main-functions.php:1139 includes/main-functions.php:1332
+msgid "Click for more info..."
+msgstr "انقر للمزيد من المعلومات"
+
+#: includes/main-functions.php:1184
+msgid "ERROR:"
+msgstr "خطأ:"
+
+#: includes/main-functions.php:1186
+msgid "Something went wrong"
+msgstr "حدث خطأ ما"
+
+#: includes/main-functions.php:1201
+msgid "Vendors"
+msgstr "الصالونات"
+
+#: includes/main-functions.php:1245
+msgid "Choose a time between"
+msgstr "اختر الوقت بين"
+
+#: includes/main-functions.php:1247
+msgid "Select the time to start preparing/handling this order."
+msgstr "حدد الوقت اللازم لبدء تحضير / التعامل مع هذا الطلب."
+
+#: includes/print-functions.php:39
+msgid "Net profit from completed orders after all sellers commissions are paid."
+msgstr "صافي الربح من الطلبات المكتملة بعد دفع عمولات البائعين."
+
+#: includes/print-functions.php:39
+msgid "Net of any withdrawals made during this period."
+msgstr "صافي أي عمليات سحب تمت خلال هذه الفترة."
+
+#: includes/print-functions.php:43
+msgid "All Time:"
+msgstr "كل الوقت"
+
+#: includes/print-functions.php:46
+msgid "Today:"
+msgstr "اليوم:"
+
+#: includes/print-functions.php:49
+msgid "This Week:"
+msgstr "هذا الاسبوع"
+
+#: includes/print-functions.php:52
+msgid "This Month:"
+msgstr "هذا الشهر:"
+
+#: includes/print-functions.php:58
+msgid "This Year:"
+msgstr "هذه السنة"
+
+#: includes/print-functions.php:73
+msgid "General Summary Report"
+msgstr "تقرير ملخص عام"
+
+#: includes/print-functions.php:73
+msgid "Beta"
+msgstr "بيتا"
+
+#: includes/print-functions.php:79
+msgid "Vendor:"
+msgstr "بائع:"
+
+#: includes/print-functions.php:80
+#: templates/views/html-dashboard-orders-single-customer_details.php:35
+msgid "Address:"
+msgstr "العنوان:"
+
+#: includes/print-functions.php:99
+msgid "This seller has not set up this type of address yet."
+msgstr "لم يقم هذا البائع بإعداد هذا النوع من العناوين حتى الآن."
+
+#: includes/print-functions.php:101
+msgid "You have not set up this type of address yet."
+msgstr "لم يتم إعداد هذا النوع من العناوين حتى الآن."
+
+#: includes/print-functions.php:108
+msgid "The Report is based on all sellers activity."
+msgstr "يستند التقرير إلى نشاط جميع البائعين."
+
+#: includes/print-functions.php:111
+msgid "Period:"
+msgstr "فترة:"
+
+#: includes/print-functions.php:120
+msgid "Income Summary to Earnings Account"
+msgstr "ملخص الدخل لحساب الأرباح"
+
+#: includes/print-functions.php:127
+msgid "Total Orders:"
+msgstr "مجموع الطلبات:"
+
+#: includes/print-functions.php:132
+msgid "Total \"Pending\" Orders:"
+msgstr "مجموع الطلبات &quot;المعلقة&quot;:"
+
+#: includes/print-functions.php:136
+msgid "Total \"Processing\" Orders:"
+msgstr "مجموع طلبات &quot;المعالجة&quot;:"
+
+#: includes/print-functions.php:140
+msgid "Total \"on-hold\" Orders:"
+msgstr "إجمالي الطلبات &quot;قيد الانتظار&quot;:"
+
+#: includes/print-functions.php:144
+msgid "Total \"Cancelled\" Orders:"
+msgstr "إجمالي الطلبات &quot;الملغاة&quot;:"
+
+#: includes/print-functions.php:148
+msgid "Total refunded Orders:"
+msgstr "إجمالي الطلبات المستردة"
+
+#: includes/print-functions.php:153
+msgid "Total Coupons Usage:"
+msgstr "مجموع الكوبونات"
+
+#: includes/print-functions.php:165
+#: templates/views/html-dashboard-orders-list.php:20
+#: templates/views/html-dashboard-orders-single-items.php:21
+msgid "Total"
+msgstr "المجموع"
+
+#: includes/print-functions.php:165
+#: templates/views/html-dashboard-home-totals-table.php:27
+msgid "Fees"
+msgstr "الرسوم"
+
+#: includes/print-functions.php:165
+#: templates/views/html-dashboard-home-totals-table.php:27
+msgid "Seller Fees"
+msgstr "رسوم البائع"
+
+#: includes/print-functions.php:173
+msgid "Total:"
+msgstr "المجموع:"
+
+#: includes/print-functions.php:176
+msgid "Total Withdrawals:"
+msgstr "مجموع السحوبات:"
+
+#: includes/print-functions.php:177
+msgid "Actual Balance in Account:"
+msgstr "الرصيد الفعلي في الحساب:"
+
+#: includes/print-functions.php:177
+msgid "- Exclusive of Tax"
+msgstr "- باستثناء الضرائب"
+
+#: includes/print-functions.php:187
+msgid "Profits are only gained from completed orders."
+msgstr "يتم اكتساب الأرباح فقط من الطلبات المكتملة."
+
+#: includes/print-functions.php:196
+msgid "Summary Sales Report."
+msgstr "تقرير مبيعات موجز."
+
+#: includes/print-functions.php:328
+#: templates/views/html-dashboard-orders-list-row_actions.php:28
+msgid "Print"
+msgstr "طباعة"
+
+#: installer.php:71
+msgid "Seller"
+msgstr "البائع"
+
+#: installer.php:168 installer.php:200
+msgid ""
+"Norsani highly depends on WooCommrce plugin which could not be automatically "
+"activated. Please activate WooCommerce manually and try again."
+msgstr ""
+"يعتمد Norsani بشكل كبير على البرنامج المساعد WooCommrce الذي لا يمكن تفعيله "
+"تلقائيًا. يرجى تفعيل WooCommerce يدويًا وإعادة المحاولة."
+
+#: installer.php:169 installer.php:180 installer.php:194 installer.php:201
+msgid "Norsani Install Error"
+msgstr "تثبيت برنامج نورسي"
+
+#: installer.php:179
+msgid ""
+"Norsani highly depends on the 'WooCommrce' plugin which we couldn't "
+"automatically install and activate. Please install and activate 'WooCommerce' "
+"manually and try again."
+msgstr ""
+"يعتمد Norsani بشكل كبير على المكوّن الإضافي &quot;WooCommrce&quot; الذي لم "
+"نتمكن من تثبيته وتنشيطه تلقائيًا. الرجاء تثبيت وتنشيط &quot;WooCommerce&quot; "
+"يدويًا وإعادة المحاولة."
+
+#: installer.php:193
+msgid ""
+"Norsani highly depends on WooCommrce plugin which could not be automatically "
+"installed and activated. Please install and actiavte WooCommerce manually and "
+"try again."
+msgstr ""
+"يعتمد Norsani بشكل كبير على البرنامج المساعد WooCommrce الذي لا يمكن تثبيته "
+"وتنشيطه تلقائيًا. الرجاء تثبيت و actiavte WooCommerce يدوياً وحاول مرة أخرى."
+
+#: installer.php:256 installer.php:272 installer.php:289
+msgid ""
+"This page is used by Norsani. You can freely change this text but please do "
+"NOT delete the page."
+msgstr ""
+"تستخدم هذه الصفحة من قبل نورساني. يمكنك بحرية تغيير هذا النص، لكن الرجاء عدم "
+"حذف الصفحة."
+
+#: norsani-options.php:14 norsani-options.php:15 norsani-options.php:38
+msgid "Norsani Settings"
+msgstr "إعدادات نورساني"
+
+#: norsani-options.php:19
+msgid "Vendors Addresses"
+msgstr "عناوين البائعين"
+
+#: norsani-options.php:20
+msgid "Vendors Tags"
+msgstr "علامات الباعة"
+
+#: norsani-options.php:21
+msgid "Help"
+msgstr "مساعدة"
+
+#: norsani-options.php:21 norsani-options.php:42
+msgid "Norsani Help Center"
+msgstr "مركز نورساني للمساعدة"
+
+#: norsani-options.php:32
+msgid "Thank you for activating a Norsani theme."
+msgstr "شكرا لك على تفعيل قالب Norsani."
+
+#: norsani-options.php:34
+msgid "Thank you for installing a Norsani theme."
+msgstr "شكرا لتركيب قالب Norsani."
+
+#: norsani-options.php:38
+#, php-format
+msgid ""
+"Norsani was installed successfully. You are almost ready to start your "
+"business. To completely become ready, please go through %1$s, and if you have "
+"not yet setup WooCommerce, please run the %2$s"
+msgstr ""
+"تم تثبيت Norsani بنجاح. أنت جاهز تقريبًا لبدء نشاطك التجاري. لكي تصبح جاهزًا "
+"تمامًا ، يرجى الانتقال إلى%1$s ، وإذا لم تكن قد قمت بإعداد WooCommerce بعد ، "
+"فالرجاء تشغيل %2$s"
+
+#: norsani-options.php:38
+msgid "WooCommerce setup wizard"
+msgstr "معالج تثبيت إعدادات WooCommerce"
+
+#: norsani-options.php:47
+msgid "Questions & Answers."
+msgstr "أسئلة و إجابات"
+
+#: norsani-options.php:49
+msgid "Suggest a Question"
+msgstr "اقتراح سؤال"
+
+#: norsani-options.php:50
+msgid "Didn't find your question? Send it to us as a suggestion to add it."
+msgstr "لم تجد سؤالك؟ أرسل إلينا السؤال كاقتراح لإضافته."
+
+#: norsani-options.php:53
+msgid "Type Question Here .."
+msgstr "اكتب السؤال هنا .."
+
+#: norsani-options.php:54 templates/vendors-registration.php:388
+#: templates/views/html-vendor-store_rating.php:42
+msgid "Submit"
+msgstr "إرسال"
+
+#: norsani-options.php:66
+msgid "Vendor registration page was not found"
+msgstr "لم يتم العثور على صفحة تسجيل البائع"
+
+#: norsani-options.php:67
+msgid "Vendors list page was not found"
+msgstr "لم يتم العثور على صفحة قائمة البائعين"
+
+#: norsani-options.php:68
+msgid "Sellers page in Admin's dashboard was not found"
+msgstr "لم يتم العثور على صفحة البائعين في لوحة تحكم المسؤول"
+
+#: norsani-options.php:84
+msgid ""
+"Your current theme dose not support Norsani. Please Install and Activate a "
+"theme that support Norsani."
+msgstr "القالب الحالي لا يدعم نورساني. الرجاء تثبيت وتنشيط قالب يدعم نورساني."
+
+#: norsani-options.php:90
+msgid "Please enter your Google API Key"
+msgstr "الرجاء إدخال \"مفتاح API جوجل\""
+
+#: norsani-options.php:97
+msgid "Set Key"
+msgstr "تعيين مفتاح"
+
+#: norsani-options.php:97
+msgid "Fix"
+msgstr "أصلح"
+
+#: norsani-options.php:102
+msgid "No errors found"
+msgstr "لم يتم العثور على أخطاء"
+
+#: norsani-options.php:112
+msgid "Install the demo data with just one click."
+msgstr "قم بتثبيت البيانات التجريبية بنقرة واحدة فقط."
+
+#: norsani-options.php:113
+msgid "Install Demo Data"
+msgstr "تثبيت البيانات التجريبية"
+
+#: norsani-options.php:119
+msgid "Contact Support"
+msgstr "اتصل بالدعم"
+
+#: norsani-options.php:119
+msgid ""
+"Contact our support team and get replies to your questions right from here."
+msgstr ""
+"الاتصال بفريق الدعم والحصول على ردود على الأسئلة الخاصة بك مباشرة من هنا."
+
+#: norsani-options.php:120
+msgid ""
+"If you are reporting a problem please answer the following questions in your "
+"message to help us address your problem as quickly as possible."
+msgstr ""
+"إذا كنت تبلغ عن مشكلة ، فالرجاء الإجابة عن الأسئلة التالية في رسالتك لمساعدتنا "
+"في معالجة مشكلتك بأسرع ما يمكن."
+
+#: norsani-options.php:122
+msgid "What is your question or concern?"
+msgstr "ما هو سؤالك أو إستفسارك؟"
+
+#: norsani-options.php:123
+msgid "What steps can we take to reproduce the problem you are experiencing?"
+msgstr "ما هي الخطوات التي يمكن أن نتخذها لإعادة إنشاء هذه المشكلة التي تواجهك؟"
+
+#: norsani-options.php:124
+msgid "What is the result you are experiencing when you follow these steps?"
+msgstr "ما هي النتيجة التي تواجهك عند اتباع هذه الخطوات؟"
+
+#: norsani-options.php:125
+msgid "What is the result you are expecting?"
+msgstr "هل هذه النهاية التي كنت تتوقعها؟"
+
+#: norsani-options.php:126
+msgid "How does this problem affect your business?"
+msgstr "كيف تؤثر هذه المشكلة على الأعمال التجارية الخاصة بك؟"
+
+#: norsani-options.php:128
+msgid ""
+"Please do not include any sensitive information in this form or in any "
+"subsequent case communications. (e.g. Password, credit card number, Social "
+"Security Number)"
+msgstr ""
+"من فضلك لا تشمل أية معلومات حساسة في هذا النموذج أو في أي رسائل سواء الحالة او "
+"اللاحقة. (مثل كلمة السر، رقم بطاقة الائتمان، رقم الضمان الاجتماعي)"
+
+#: norsani-options.php:133
+msgid "Type message here .."
+msgstr "اكتب رسالتك هنا"
+
+#: norsani-options.php:232
+msgid "Please check your internet connection."
+msgstr "الرجاء التحقق من اتصال الانترنت الخاص بك."
+
+#: norsani-options.php:262
+#: templates/views/html-dashboard-vendor-settings_form.php:49
+msgid "General Settings"
+msgstr "الاعدادات العامة"
+
+#: norsani-options.php:268
+#: templates/views/html-dashboard-vendor-settings_form.php:53
+msgid "Orders Settings"
+msgstr "إعدادات الطلبات"
+
+#: norsani-options.php:274
+msgid "Distances calculation"
+msgstr "حساب المسافات"
+
+#: norsani-options.php:280
+msgid "Vendor Money Withdrawals Settings"
+msgstr "إعدادات سحب أموال البائعين"
+
+#: norsani-options.php:286
+msgid "General options"
+msgstr "الخصائص العامة"
+
+#: norsani-options.php:292
+msgid "Vendor Fees"
+msgstr "رسوم البائع"
+
+#: norsani-options.php:298
+msgid "Terms & Conditions"
+msgstr "الشروط وسياسة الاستخدام"
+
+#: norsani-options.php:305
+msgid "Google API Key"
+msgstr "مفتاح جوجل API"
+
+#: norsani-options.php:312
+msgid "Active Vendor Types"
+msgstr "انواع البائعين المفعلة"
+
+#: norsani-options.php:319
+msgid "Selling privileges"
+msgstr "امتيازات البيع"
+
+#: norsani-options.php:326
+msgid "Vendor store timing"
+msgstr "اوقات دوام البائع"
+
+#: norsani-options.php:340
+msgid "Featured Products."
+msgstr "منتجات مميزة."
+
+#: norsani-options.php:347
+msgid "Featured Vendors."
+msgstr "البائعين الموصى بهم."
+
+#: norsani-options.php:355 templates/vendors-registration.php:201
+#: templates/views/html-dashboard-vendor-settings_form.php:169
+msgid "Accepted orders"
+msgstr "الطلبات المقبولة"
+
+#: norsani-options.php:361
+msgid "Accepted orders when vendor's store is closed"
+msgstr "الطلبات المقبولة عندما يكون متجر البائع مغلقا"
+
+#: norsani-options.php:369
+msgid "The mode of transport to use when calculating delivery timing."
+msgstr "طريقة النقل اللتي ستستخدام عند حساب مدة التسليم."
+
+#: norsani-options.php:375
+msgid "The unit system to use when displaying delivery timing."
+msgstr "نظام الوحدة التي يتستخدام عند عرض توقيت التسليم."
+
+#: norsani-options.php:381
+msgid "Avoid highways"
+msgstr "تجنب الطرق السريعة"
+
+#: norsani-options.php:387
+msgid "Non-toll routes"
+msgstr "طرق بدون رسوم"
+
+#: norsani-options.php:395
+msgid "Automatic Withdrawals"
+msgstr "طلبات سحب تلقائية"
+
+#: norsani-options.php:401
+msgid "Paypal REST API App Client ID"
+msgstr "Paypal REST API App Client ID"
+
+#: norsani-options.php:407
+msgid "Paypal REST API App Secret."
+msgstr "Paypal REST API App Secret."
+
+#: norsani-options.php:413
+msgid "The minimum vendor balance to make a withdrawal request."
+msgstr "الحد الأدنى من رصيد البائع لتقديم طلب السحب."
+
+#: norsani-options.php:419
+msgid "Withdrawal Methods."
+msgstr "طرق الانسحاب."
+
+#: norsani-options.php:425
+msgid "Withdrawal Requests Status."
+msgstr "حالة طلبات السحب."
+
+#: norsani-options.php:433
+msgid "Cash on delivery fees"
+msgstr "الدفع عن الإستلام"
+
+#: norsani-options.php:448
+msgid "Terms of Service for Sellers"
+msgstr "شروط الخدمة للبائعين"
+
+#: norsani-options.php:492
+msgid "Automatically enable selling after vendor registration?"
+msgstr "تمكين البائعين من البيع مباشرة بعد التسجيل؟"
+
+#: norsani-options.php:503
+msgid "Use manual status change?"
+msgstr "استخدم تغيير الوضع اليدوي؟"
+
+#: norsani-options.php:510
+msgid "Time to wait when no activity"
+msgstr "وقت الانتظار عند عدم رصد اي نشاط"
+
+#: norsani-options.php:575
+msgid "Automatically create withdrawal requests"
+msgstr "إنشاء طلبات السحب تلقائيًا"
+
+#: norsani-options.php:630 norsani-options.php:643
+msgid "Pick-up"
+msgstr "الإستلام يدويا"
+
+#: norsani-options.php:658
+msgid "Driving"
+msgstr "القيادة"
+
+#: norsani-options.php:659
+msgid "Bicycling"
+msgstr "دراجة هوائية"
+
+#: norsani-options.php:660
+msgid "Walking"
+msgstr "المشي"
+
+#: norsani-options.php:669
+msgid "Kilometers"
+msgstr "كيلومتر"
+
+#: norsani-options.php:670
+msgid "Miles"
+msgstr "اميال"
+
+#: norsani-options.php:680
+msgid "Calculate driving timing with avoiding highways where possible."
+msgstr "حساب توقيت القيادة مع تجنب الطرق السريعة حيثما أمكن ذلك."
+
+#: norsani-options.php:689
+msgid ""
+"Calculate delivery timing between points using non-toll routes, wherever "
+"possible."
+msgstr ""
+"حساب توقيت التسليم بين النقاط باستخدام طرق غير ذات رسوم ، حيثما كان ذلك ممكنًا."
+
+#: norsani-options.php:698
+msgid "Do not deduct fees from vendor balance"
+msgstr "لا تقتطع الرسوم من رصيد البائع"
+
+#: norsani-options.php:700
+msgid ""
+"ONLY check this if you will be responsible of the delivery service and "
+"reciving the total order amount."
+msgstr ""
+"تحقق فقط من هذا إذا كنت مسؤولاً عن خدمة التوصيل وتلقي المبلغ الإجمالي للطلب."
+
+#: norsani-options.php:709
+msgid "Order total and delivery"
+msgstr "إجمالي قيمة الطلب ورسوم التوصيل"
+
+#: norsani-options.php:710
+msgid "Only on order total"
+msgstr "فقط على قيمة الطلب"
+
+#: norsani-options.php:711
+msgid "Only on order delivery"
+msgstr "فقط على رسوم التوصيل"
+
+#: norsani-options.php:719 norsani-options.php:790
+msgid "Fee&nbsp;Name"
+msgstr "اسم الرسوم"
+
+#: norsani-options.php:720
+msgid "Customers Effected"
+msgstr "الزبائن المتاثرين"
+
+#: norsani-options.php:721
+msgid "Vendors Effected"
+msgstr "الباعة المتاثرين"
+
+#: norsani-options.php:722
+msgid "Fee Rate"
+msgstr "معدل الرسوم"
+
+#: norsani-options.php:723 norsani-options.php:789
+msgid "Payment Method"
+msgstr "طريقة الدفع"
+
+#: norsani-options.php:724
+msgid "Applied on"
+msgstr "مطبق على"
+
+#: norsani-options.php:725
+msgid "Action"
+msgstr "عمل"
+
+#: norsani-options.php:758
+msgid "You do not charge sellers any fees."
+msgstr "أنت لا تحمّل أي رسوم على البائعين."
+
+#: norsani-options.php:759
+msgid "Add New Rule"
+msgstr "أضف قاعدة جديدة"
+
+#: norsani-options.php:767
+msgid "Any payment gateway"
+msgstr "اي وسيلة الدفع"
+
+#: norsani-options.php:782 norsani-options.php:784
+msgid "Apply this fee on"
+msgstr "تطبيق هذه الرسوم على"
+
+#: norsani-options.php:783 norsani-options.php:797
+msgid "Select Customers"
+msgstr "حدد العملاء"
+
+#: norsani-options.php:785 norsani-options.php:802
+msgid "Select Vendors"
+msgstr "إختيار البائعين..."
+
+#: norsani-options.php:786
+msgid "Order Sub-Total"
+msgstr "المجموع الفرعي للطلب"
+
+#: norsani-options.php:787
+msgid "Apply this rule on"
+msgstr "قم بتطبيق هذه الرسوم على"
+
+#: norsani-options.php:788
+msgid "Rate&nbsp;%"
+msgstr "تقيم ٪"
+
+#: norsani-options.php:791
+msgid "Fee Description"
+msgstr "وصف الرسوم"
+
+#: norsani-options.php:795
+msgid "All Customers"
+msgstr "جميع العملاء"
+
+#: norsani-options.php:796
+msgid "All Customers, Except..."
+msgstr "جميع العملاء ، باستثناء ..."
+
+#: norsani-options.php:800
+msgid "All Vendors"
+msgstr "جميع البائعين"
+
+#: norsani-options.php:801
+msgid "All Vendors, Except..."
+msgstr "جميع البائعين ، باستثناء ..."
+
+#: norsani-options.php:805
+msgid "Order Total and Delivery"
+msgstr "قيمة الطلب + رسوم التوصيل"
+
+#: norsani-options.php:806
+msgid "Only on Order Total"
+msgstr "فقط على قيمة الطلب"
+
+#: norsani-options.php:807
+msgid "Only on Order Delivery"
+msgstr "فقط على رسوم الطلب"
+
+#: norsani-options.php:810
+msgid "Plus"
+msgstr "زائد"
+
+#: norsani-options.php:811
+msgid "Minus"
+msgstr "ناقص"
+
+#: norsani-options.php:812
+msgid "Multiply"
+msgstr "تتضاعف"
+
+#: norsani-options.php:841 templates/vendors-registration.php:386
+msgid "Back"
+msgstr "رجوع"
+
+#: norsani-options.php:895 templates/vendors-registration.php:73
+msgid "General"
+msgstr "عام"
+
+#: norsani-options.php:897
+msgid "Withdrawals"
+msgstr "السحوبات"
+
+#: norsani-options.php:898
+msgid "Distances"
+msgstr "المسافات"
+
+#: norsani-options.php:899
+msgid "Fees/Commission"
+msgstr "رسوم / عمولة"
+
+#: norsani-options.php:900
+msgid "Terms of Service"
+msgstr "شروط الخدمة"
+
+#: templates/emails/plain/vendor-message.php:18
+#: templates/emails/vendor-message.php:17
+msgid "Sender Name"
+msgstr "اسم المرسل"
+
+#: templates/emails/plain/vendor-message.php:21
+#: templates/emails/vendor-message.php:20
+msgid "Sender Email"
+msgstr "ايميل المرسل"
+
+#: templates/emails/plain/vendor-order-refund.php:18
+#: templates/emails/plain/vendor-rating.php:17
+#: templates/emails/vendor-order-refund.php:17
+#: templates/emails/vendor-rating.php:17
+#, php-format
+msgid "Hello %1$s,"
+msgstr "مرحبًا %1$s"
+
+#: templates/emails/plain/vendor-order-refund.php:20
+#: templates/emails/vendor-order-refund.php:19
+#, php-format
+msgid ""
+"The order id %1$s, dated %2$s, status has been changed from completed to %3$s. "
+"The order total amount is %4$s."
+msgstr ""
+"تم تغيير معرّف الطلب %1$s ، مؤرّخ %2$s ، الحالة من اكتمل إلى %3$s المبلغ "
+"الإجمالي للطلب هو %4$s"
+
+#: templates/emails/plain/vendor-order-refund.php:22
+#: templates/emails/vendor-order-refund.php:20
+#, php-format
+msgid ""
+"Your new balance is %1$s. Please contact us via %2$s if you might need any "
+"clarification."
+msgstr ""
+"رصيدك الجديد هو %1$s. يرجى الاتصال بنا عبر %2$s إذا كنت بحاجة إلى أي توضيح."
+
+#: templates/emails/plain/vendor-rating.php:19
+#, php-format
+msgid ""
+"Your order number %1$s, dated %2$s, has been marked as completed. Please take "
+"few moments and make a review on %3$s by clicking on the following link"
+msgstr ""
+"تم وضع علامة على رقم الطلب %1$s، مؤرّخ %2$s، على أنه مكتمل. يرجى قضاء لحظات "
+"قليلة وإجراء مراجعة على %3$s من خلال النقر على الرابط التالي"
+
+#: templates/emails/plain/vendor-status.php:23
+#: templates/emails/vendor-status.php:23
+msgid ""
+"Congratulations of been a part of our community. You can start selling by "
+"posting your products from your dashboard"
+msgstr ""
+"تهانينا لكونك جزءًا من مجتمعنا. يمكنك البدء في البيع عن طريق نشر منتجاتك من "
+"لوحة المعلومات"
+
+#: templates/emails/plain/vendor-status.php:27
+#: templates/emails/vendor-status.php:27
+msgid ""
+"Your selling privileges status will be activated shortly by one of our website "
+"editors. You will be notified on any updates."
+msgstr ""
+"سيتم تفعيل حالة امتيازات البيع الخاصة بك قريباً بواسطة أحد المحررين على موقعنا. "
+"سيتم إخطارك على أي تحديثات."
+
+#: templates/emails/plain/vendor-status.php:30
+#: templates/emails/vendor-status.php:30
+msgid "Vendor details:"
+msgstr "تفاصيل البائع:"
+
+#: templates/emails/plain/vendor-status.php:31
+#: templates/emails/vendor-status.php:31
+#: templates/views/html-dashboard-orders-single-customer_details.php:27
+msgid "Email:"
+msgstr "البريد الإلكتروني:"
+
+#: templates/emails/plain/vendor-status.php:32
+#: templates/emails/vendor-status.php:32
+msgid "First Name:"
+msgstr "الاسم الأول:"
+
+#: templates/emails/plain/vendor-status.php:33
+#: templates/emails/vendor-status.php:33
+msgid "Last Name:"
+msgstr "الاسم الأخير:"
+
+#: templates/emails/plain/vendor-status.php:34
+#: templates/emails/vendor-status.php:34
+msgid "Shop Name:"
+msgstr "اسم المحل:"
+
+#: templates/emails/plain/vendor-status.php:35
+#: templates/emails/vendor-status.php:35
+msgid "Shop URL:"
+msgstr "عنوان URL للمتجر:"
+
+#: templates/emails/plain/vendor-status.php:36
+#: templates/emails/vendor-status.php:36
+msgid "Contact Number:"
+msgstr "رقم الهاتف للتواصل:"
+
+#: templates/emails/plain/vendor-status.php:38
+#: templates/emails/vendor-status.php:38
+#, php-format
+msgid "Manage all vendors from your dashboard sellers page %s"
+msgstr "إدارة جميع الموردين من صفحة البائعين في لوحة المعلومات %s"
+
+#: templates/emails/plain/vendor-status.php:40
+#: templates/emails/vendor-status.php:40
+#, php-format
+msgid "Activate this vendor&apos;s selling privileges from %s"
+msgstr "تنشيط امتيازات البائع لهذا البائع من %s"
+
+#: templates/emails/plain/vendor-status.php:44
+#: templates/emails/vendor-status.php:45
+msgid ""
+"Your selling privileges has been activated. You can start selling by posting "
+"your products from your dashboard."
+msgstr ""
+"تم تفعيل امتيازات البيع الخاصة بك. يمكنك البدء في البيع عن طريق نشر منتجاتك من "
+"لوحة المعلومات."
+
+#: templates/emails/plain/vendor-status.php:46
+#: templates/emails/vendor-status.php:47
+msgid "Your selling privileges has been deactivated"
+msgstr "تم إلغاء امتيازات البيع الخاصة بك"
+
+#: templates/emails/plain/withdraw-status.php:17
+#: templates/emails/withdraw_status.php:17
+#, php-format
+msgid "Hi %1$s,"
+msgstr "مرحبًا %1$s"
+
+#: templates/emails/plain/withdraw-status.php:21
+#: templates/emails/withdraw_status.php:20
+#, php-format
+msgid ""
+"Your withdrawal request #%1$s, with total amount of %2$s, via %3$s, has been "
+"approved. We will transfer this amount to your preferred destination shortly."
+msgstr ""
+"تمت الموافقة على طلب السحب #%1$s، مع إجمالي مبلغ %2$s ، عب %3$s. سننقل هذا "
+"المبلغ إلى وجهتك المفضلة قريبًا."
+
+#: templates/emails/plain/withdraw-status.php:25
+#: templates/emails/withdraw_status.php:22
+#, php-format
+msgid ""
+"Your withdrawal request #%1$s, with total amount of %2$s, via %3$s, has been "
+"rejected with the following reason: %4$s."
+msgstr ""
+"تم رفض طلبك للسحب #%1$s، مع إجمالي مبلغ %2$s، عبر %3$s، للسبب التالي: %4$s."
+
+#: templates/emails/plain/withdraw-status.php:29
+#: templates/emails/withdraw_status.php:24
+#, php-format
+msgid ""
+"We received your withdrawal request #%1$s, with total amount of %2$s, via "
+"%3$s. We will review your request as soon as possible and get back to you."
+msgstr ""
+"لقد تلقينا طلبك للسحب #%1$s، بمجموع إجمالي %2$s، عبر %3$s سنراجع طلبك في أقرب "
+"وقت ممكن ونرد عليك."
+
+#: templates/emails/plain/withdraw-status.php:33
+#: templates/emails/withdraw_status.php:27
+msgid "Thank you."
+msgstr "شكرا لكم."
+
+#: templates/emails/vendor-rating.php:19
+#, php-format
+msgid ""
+"Your order number %1$s, dated %2$s, has been marked as completed. Please take "
+"few moments and make a rating on %3$s by clicking on the following link"
+msgstr ""
+"تم وضع علامة على رقم الطلب %1$s، مؤرّخ %2$s، على أنه مكتمل. يرجى قضاء لحظات "
+"قليلة وإجراء مراجعة على %3$s من خلال النقر على الرابط التالي"
+
+#: templates/emails/vendor-status.php:43
+#, php-format
+msgid "Hello %s"
+msgstr "مرحبا %s"
+
+#: templates/orders/html-order-fee.php:18
+msgid "Fee"
+msgstr "الرسوم"
+
+#: templates/orders/html-order-item-quick.php:21
+#: templates/orders/html-order-item.php:30
+msgid "Product ID:"
+msgstr "معرف المنتج:"
+
+#: templates/orders/html-order-item-quick.php:24
+#: templates/orders/html-order-item-quick.php:26
+#: templates/orders/html-order-item.php:33
+#: templates/orders/html-order-item.php:35
+msgid "Variation ID:"
+msgstr "معرف التباينID :"
+
+#: templates/orders/html-order-item-quick.php:26
+#: templates/orders/html-order-item.php:35
+msgid "No longer exists"
+msgstr "لم يعد موجود"
+
+#: templates/orders/html-order-item-quick.php:30
+#: templates/orders/html-order-item.php:39
+msgid "Product SKU:"
+msgstr "الرمز التعريفي الباركود :"
+
+#: templates/orders/html-order-refund.php:27
+msgid "Refund"
+msgstr "إعادة المبلغ"
+
+#: templates/orders/html-order-refund.php:30
+msgctxt "Ex: Refund - $date >by< $username"
+msgid "by"
+msgstr "بواسطة"
+
+#: templates/orders/html-order-refund.php:30
+msgid "ID: "
+msgstr "الهوية: "
+
+#: templates/orders/order-details.php:17
+msgid "This is not yours, I swear!"
+msgstr "هذه ليست لك!"
+
+#: templates/orders/order-details.php:25
+msgid "Order items"
+msgstr "طلب بضاعة"
+
+#: templates/orders/order-details.php:31
+msgid "Customer Details"
+msgstr "تفاصيل العميل"
+
+#: templates/orders/order-details.php:35
+msgid "General Details"
+msgstr "تفاصيل عامة"
+
+#: templates/orders/order-details.php:41
+msgid "Order Notes"
+msgstr "ملاحظات الطلب"
+
+#: templates/orders/order-details.php:72
+#, php-format
+msgid "added on %1$s at %2$s"
+msgstr "اضف على %1$s في %2$s"
+
+#: templates/orders/order-details.php:73
+msgid "WooCommerce"
+msgstr "ووكومرس"
+
+#: templates/orders/order-details.php:73
+#, php-format
+msgid "by %1$s"
+msgstr "بواسطة %1$s"
+
+#: templates/orders/order-details.php:80
+msgid "There are no notes yet."
+msgstr "لا توجد ملاحظات حتى الآن."
+
+#: templates/orders/order-details.php:86
+msgid "Add note"
+msgstr "إضافة ملاحظة"
+
+#: templates/orders/order-details.php:92
+msgid "Private note"
+msgstr "مذكرة خاصة"
+
+#: templates/orders/order-details.php:93
+msgid "Note to customer"
+msgstr "ملاحظة للعميل"
+
+#: templates/orders/order-details.php:95
+msgid "Add"
+msgstr "إضافة"
+
+#: templates/vendors-registration.php:30
+msgid ""
+"Type first two/three letters and choose from list, if you don't find the "
+"addresses in list or the list does not appear, make sure of the address "
+"spelling."
+msgstr ""
+"اكتب أول حرفين / ثلاثة واختار من القائمة ، إذا لم تجد العناوين في القائمة أو "
+"لم تظهر القائمة ، تأكد من هجاء العنوان."
+
+#: templates/vendors-registration.php:42
+msgid ""
+"Road/Street names. Type first two/three letters and choose from list, if the "
+"list doesn't appear then complete typing and hit the comma button."
+msgstr ""
+"أسماء الطرق / الشوارع. اكتب أول حرفين / ثلاثة واختار من القائمة ، إذا لم تظهر "
+"القائمة ، ثم أكمل الكتابة واضغط على زر الفاصلة."
+
+#: templates/vendors-registration.php:43
+msgid ""
+"Type first two/three letters and choose from list, if the list doesn't appear, "
+"then complete typing normally."
+msgstr ""
+"اكتب أول حرفين / ثلاثة واختار من القائمة ، إذا لم تظهر القائمة ، ثم أكمل "
+"الكتابة بشكل طبيعي."
+
+#: templates/vendors-registration.php:75 templates/vendors-registration.php:224
+#: templates/views/html-dashboard-vendor-settings_form.php:51
+#: templates/views/html-dashboard-vendor-settings_form.php:127
+msgid "Menus"
+msgstr "القوائم"
+
+#: templates/vendors-registration.php:79
+msgid "Timing"
+msgstr "اوقات الدوام"
+
+#: templates/vendors-registration.php:95
+#, php-format
+msgid "I Accept %1$s vendor terms of service."
+msgstr "أوافق على بنود خدمة البائع %1$s"
+
+#: templates/vendors-registration.php:100
+msgid ""
+"Your registration form is under review. You will recieve updates via email."
+msgstr ""
+"نموذج التسجيل الخاص بك قيد المراجعة. سوف تتلقى التحديثات عبر البريد الإلكتروني."
+
+#: templates/vendors-registration.php:103
+#, php-format
+msgid "You are currently logged in as (%1$s)"
+msgstr "لقد قمت بتسجيل الدخول حاليًا باسم (%1$s)"
+
+#: templates/vendors-registration.php:107
+msgid "Thanks"
+msgstr "شكراً"
+
+#: templates/vendors-registration.php:108
+msgid ""
+"We will review your registration information as soon as possible and contact "
+"you via email."
+msgstr ""
+"سنقوم بمراجعة معلومات التسجيل الخاصة بك في أقرب وقت ممكن والاتصال بك عبر "
+"البريد الإلكتروني."
+
+#: templates/vendors-registration.php:114
+msgid "Let's start"
+msgstr "لنبدأ"
+
+#: templates/vendors-registration.php:114
+msgid ""
+"Fill out the general information fields here and click next. Keep in mind that "
+"all form fields are important ot fill for a good start, so make sure you don't "
+"miss any one."
+msgstr ""
+"املأ حقول المعلومات العامة هنا وانقر فوق التالي. ضع في اعتبارك أن جميع حقول "
+"النموذج مهمة للغاية لبدء التشغيل جيدًا ، لذا تأكد من عدم تفويت أي حقل."
+
+#: templates/vendors-registration.php:124 templates/vendors-registration.php:128
+#: templates/views/html-vendor-store_rating.php:24
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: templates/vendors-registration.php:125
+msgid "Type a strong password"
+msgstr "اكتب كلمة مرور قوية"
+
+#: templates/vendors-registration.php:129
+msgid ""
+"Your password will be automatically generated and sent to your email address."
+msgstr ""
+"سيتم إنشاء كلمة المرور الخاصة بك تلقائيًا وإرسالها إلى عنوان بريدك الإلكتروني."
+
+#: templates/vendors-registration.php:135
+msgid "First Name"
+msgstr "الاسم الأول"
+
+#: templates/vendors-registration.php:136
+msgid "Type your first name"
+msgstr "اكتب اسمك الأول"
+
+#: templates/vendors-registration.php:140
+msgid "Last Name"
+msgstr "الاسم الأخير"
+
+#: templates/vendors-registration.php:141
+msgid "Type your Last name"
+msgstr "اكتب اسمك الأخير"
+
+#: templates/vendors-registration.php:146
+msgid "Shop Type"
+msgstr "نوع المحل"
+
+#: templates/vendors-registration.php:155
+msgid "Shop Name"
+msgstr "اسم المتجر"
+
+#: templates/vendors-registration.php:156
+#: templates/views/html-dashboard-vendor-settings_form.php:75
+msgid "e.g. BOB's Pizza"
+msgstr "على سبيل المثال بوبز بيتزا"
+
+#: templates/vendors-registration.php:160
+#: templates/views/html-dashboard-vendor-settings_form.php:79
+msgid "Contact number"
+msgstr "رقم الاتصال"
+
+#: templates/vendors-registration.php:161
+#: templates/views/html-dashboard-vendor-settings_form.php:80
+msgid "e.g. +123 456 789"
+msgstr "على سبيل المثال +453 456 789"
+
+#: templates/vendors-registration.php:165
+#: templates/views/html-dashboard-vendor-settings_form.php:84
+msgid "Shop address"
+msgstr "عنوان المحل"
+
+#: templates/vendors-registration.php:167
+msgid "e.g. Seasons Mall, Town Mall"
+msgstr "على سبيل المثال سيزونز مول ، تاون مول"
+
+#: templates/vendors-registration.php:172
+#: templates/views/html-dashboard-vendor-settings_form.php:91
+msgid "Shop's location on map"
+msgstr "موقع المحل على الخريطة"
+
+#: templates/vendors-registration.php:179
+#: templates/views/html-dashboard-vendor-settings_form.php:98
+msgid "Shop's tags"
+msgstr "علامات متجر"
+
+#: templates/vendors-registration.php:181
+msgid "Separate tags with commas"
+msgstr "إفصل بين الكلمات الدلالية بإستخدام الفاصلة ( ، )"
+
+#: templates/vendors-registration.php:212
+#: templates/views/html-dashboard-vendor-settings_form.php:185
+msgid "Accepted orders when closed"
+msgstr "أوامر المقبولة عند إغلاق"
+
+#: templates/vendors-registration.php:230
+#: templates/views/html-dashboard-vendor-settings_form.php:133
+#: templates/views/html-dashboard-vendor-settings_form.php:146
+msgid "Menu title"
+msgstr "عنوان القائمة"
+
+#: templates/vendors-registration.php:231
+#: templates/views/html-dashboard-vendor-settings_form.php:134
+#: templates/views/html-dashboard-vendor-settings_form.php:147
+msgid "Meal Type. ie. Breakfast, Lunch & Dinner"
+msgstr "نوع الوجبة. أي. فطور غداء عشاء"
+
+#: templates/vendors-registration.php:233
+#: templates/views/html-dashboard-vendor-settings_form.php:136
+#: templates/views/html-dashboard-vendor-settings_form.php:149
+msgid "Start time"
+msgstr "بدایة العمل"
+
+#: templates/vendors-registration.php:234 templates/vendors-registration.php:323
+#: templates/vendors-registration.php:333
+#: templates/views/html-dashboard-vendor-settings_form.php:336
+#: templates/views/html-dashboard-vendor-settings_form.php:346
+msgid "Start time (24 hour format 00:00)"
+msgstr "وقت البدء (تنسيق 24 ساعة 00:00)"
+
+#: templates/vendors-registration.php:236
+#: templates/views/html-dashboard-vendor-settings_form.php:139
+#: templates/views/html-dashboard-vendor-settings_form.php:152
+msgid "End time"
+msgstr "نهایة العمل"
+
+#: templates/vendors-registration.php:237 templates/vendors-registration.php:327
+#: templates/vendors-registration.php:337
+#: templates/views/html-dashboard-vendor-settings_form.php:340
+#: templates/views/html-dashboard-vendor-settings_form.php:350
+msgid "End time (24 hour format 00:00)"
+msgstr "وقت الانتهاء (تنسيق 24 ساعة 00:00)"
+
+#: templates/vendors-registration.php:242
+#: templates/views/html-dashboard-vendor-settings_form.php:159
+msgid "Add new menu"
+msgstr "إضافة قائمة جديدة"
+
+#: templates/vendors-registration.php:248
+#: templates/views/html-dashboard-vendor-settings_form.php:54
+msgid "Delivery Settings"
+msgstr "إعدادات التسليم"
+
+#: templates/vendors-registration.php:250
+msgid "You have more options to set in your settings page after registration."
+msgstr ""
+"لديك المزيد من الخيارات لتعيينها في صفحة الإعدادات الخاصة بك بعد التسجيل."
+
+#: templates/vendors-registration.php:252
+msgid "Calculate delivery by"
+msgstr "حساب التسليم بواسطة"
+
+#: templates/vendors-registration.php:256
+#: templates/views/html-dashboard-orders-list.php:19
+#: templates/views/html-dashboard-vendor-settings_form.php:221
+#: templates/views/html-dashboard-vendor-settings_form.php:253
+msgid "Order"
+msgstr "طلب"
+
+#: templates/vendors-registration.php:260
+#: templates/views/html-dashboard-home-top_items.php:19
+#: templates/views/html-dashboard-orders-list-row.php:92
+#: templates/views/html-dashboard-orders-single-items.php:17
+#: templates/views/html-dashboard-vendor-settings_form.php:225
+#: templates/views/html-dashboard-vendor-settings_form.php:257
+msgid "Product"
+msgstr "المنتج"
+
+#: templates/vendors-registration.php:265
+#: templates/views/html-dashboard-vendor-settings_form.php:230
+#: templates/views/html-dashboard-vendor-settings_form.php:262
+msgid "Delivery fee"
+msgstr "رسوم التوصيل"
+
+#: templates/vendors-registration.php:269
+#: templates/views/html-dashboard-vendor-settings_form.php:234
+#: templates/views/html-dashboard-vendor-settings_form.php:266
+msgid "Fee per additional product"
+msgstr "الرسوم لكل منتج إضافي"
+
+#: templates/vendors-registration.php:273
+#: templates/views/html-dashboard-vendor-settings_form.php:238
+#: templates/views/html-dashboard-vendor-settings_form.php:270
+msgid "Minimum order amount for delivery"
+msgstr "الحد الأدنى لمبلغ الطلب للتسليم"
+
+#: templates/vendors-registration.php:277
+#: templates/views/html-dashboard-vendor-settings_form.php:210
+msgid "Delivery zone"
+msgstr "منطقة التسليم"
+
+#: templates/vendors-registration.php:280
+#: templates/views/html-dashboard-vendor-settings_form.php:213
+msgid "Erase drawing"
+msgstr "مسح الرسم"
+
+#: templates/vendors-registration.php:282
+msgid "Type & select from predictions and separate by commas."
+msgstr "اكتب وحدد من التوقعات وفصل بينها بفواصل."
+
+#: templates/vendors-registration.php:288
+msgid "Working timing"
+msgstr "اوقات الدوام"
+
+#: templates/vendors-registration.php:309
+#: templates/views/html-dashboard-vendor-settings_form.php:322
+msgid "Open"
+msgstr "فتح"
+
+#: templates/vendors-registration.php:313
+msgid "Two Shifts"
+msgstr "نوبتين"
+
+#: templates/vendors-registration.php:322
+#: templates/views/html-dashboard-vendor-settings_form.php:335
+msgid "Opening time for first shift"
+msgstr "وقت الافتتاح للنوبة الأولى"
+
+#: templates/vendors-registration.php:326
+#: templates/views/html-dashboard-vendor-settings_form.php:339
+msgid "Closing time for first shift"
+msgstr "وقت الإغلاق للنوبة الأولى"
+
+#: templates/vendors-registration.php:332
+#: templates/views/html-dashboard-vendor-settings_form.php:345
+msgid "Opening time for second shift"
+msgstr "وقت الافتتاح للنوبة الثانية"
+
+#: templates/vendors-registration.php:336
+#: templates/views/html-dashboard-vendor-settings_form.php:349
+msgid "Closing time for second shift"
+msgstr "وقت الإغلاق للنوبة الثانية"
+
+#: templates/vendors-registration.php:346
+#: templates/views/html-dashboard-vendor-settings_form.php:359
+msgid "Unavailable Dates (mm/dd/yyyy)"
+msgstr "تواريخ غير متوفرة (شهر / يوم / سنة)"
+
+#: templates/vendors-registration.php:351
+#: templates/views/html-dashboard-vendor-settings_form.php:365
+#: templates/views/html-dashboard-vendor-settings_form.php:379
+msgid "Starting date"
+msgstr "تاريخ البدء"
+
+#: templates/vendors-registration.php:352
+#: templates/views/html-dashboard-vendor-settings_form.php:366
+#: templates/views/html-dashboard-vendor-settings_form.php:380
+msgid "Start Date YYYY/MM/DD"
+msgstr "تاريخ البدء YYYY / MM / DD"
+
+#: templates/vendors-registration.php:356
+#: templates/views/html-dashboard-vendor-settings_form.php:370
+#: templates/views/html-dashboard-vendor-settings_form.php:384
+msgid "Ending date"
+msgstr "تاريخ الانتهاء"
+
+#: templates/vendors-registration.php:357
+#: templates/views/html-dashboard-vendor-settings_form.php:371
+#: templates/views/html-dashboard-vendor-settings_form.php:385
+msgid "End Date YYYY/MM/DD"
+msgstr "تاريخ الانتهاء YYYY / MM / DD"
+
+#: templates/vendors-registration.php:363
+#: templates/views/html-dashboard-vendor-settings_form.php:392
+msgid "Add new date"
+msgstr "أضف تاريخ جديد"
+
+#: templates/vendors-registration.php:369
+msgid "Withdrawal Settings"
+msgstr "إعدادات السحب"
+
+#: templates/vendors-registration.php:387
+msgid "Next"
+msgstr "التالي"
+
+#: templates/vendors-registration.php:444
+msgid "Geo-location was not successful for the following reason:"
+msgstr "لم يكن الموقع الجغرافي ناجحًا للأسباب التالية:"
+
+#: templates/vendors-registration.php:518
+msgid "Error: The Geo-location service failed."
+msgstr "خطأ: فشلت خدمة الموقع الجغرافي."
+
+#: templates/views/html-dashboard-coupon-form.php:14
+msgid "Create Coupon"
+msgstr "إنشاء كوبون"
+
+#: templates/views/html-dashboard-coupon-form.php:19
+msgid "Are you cheating?"
+msgstr "﻿هل تحاول الغش؟"
+
+#: templates/views/html-dashboard-coupon-form.php:23
+msgid "Update Coupon"
+msgstr "تحديث الكوبون"
+
+#: templates/views/html-dashboard-coupon-form.php:108
+msgid "Coupon Code"
+msgstr "رمز القسيمة"
+
+#: templates/views/html-dashboard-coupon-form.php:118
+msgid "Discount Type"
+msgstr "نوع الخصم"
+
+#: templates/views/html-dashboard-coupon-form.php:121
+msgid "Fixed amount"
+msgstr "مبلغ ثابت"
+
+#: templates/views/html-dashboard-coupon-form.php:122
+msgid "% Discount"
+msgstr "% الخصم"
+
+#: templates/views/html-dashboard-coupon-form.php:134
+#: templates/views/html-dashboard-coupon-form.php:135
+msgid "Email Restrictions"
+msgstr "القيود البريد الإلكتروني"
+
+#: templates/views/html-dashboard-coupon-form.php:138
+msgid "Usage Limit per coupon"
+msgstr "حد الاستخدام لكل قسيمة"
+
+#: templates/views/html-dashboard-coupon-form.php:139
+#: templates/views/html-dashboard-coupon-form.php:147
+msgid "Unlimited usage"
+msgstr "استخدام غير محدود"
+
+#: templates/views/html-dashboard-coupon-form.php:142
+msgid "Limit usage to X products"
+msgstr "الحد من الاستخدام لمنتجات X"
+
+#: templates/views/html-dashboard-coupon-form.php:143
+msgid "Apply to all qualifying products in cart"
+msgstr "تنطبق على جميع المنتجات المؤهلة في عربة التسوق"
+
+#: templates/views/html-dashboard-coupon-form.php:146
+msgid "Usage limit per user"
+msgstr "حد الاستخدام لكل مستخدم"
+
+#: templates/views/html-dashboard-coupon-form.php:150
+#: templates/views/html-dashboard-coupon-form.php:151
+msgid "Expire Date"
+msgstr "تاريخ الانتهاء "
+
+#: templates/views/html-dashboard-coupon-form.php:182
+msgid "Minimum spend"
+msgstr "الحد الأدنى من الإنفاق"
+
+#: templates/views/html-dashboard-coupon-form.php:183
+msgid "No Minimum"
+msgstr "لا يوجد حد أدنى"
+
+#: templates/views/html-dashboard-coupon-form.php:186
+msgid "Maximum spend"
+msgstr "الحد الأقصى للإنفاق"
+
+#: templates/views/html-dashboard-coupon-form.php:187
+msgid "No Maximum"
+msgstr "لا الحد الأقصى"
+
+#: templates/views/html-dashboard-coupon-form.php:193
+msgid "Enable free delivery"
+msgstr "تمكين التوصيل المجاني"
+
+#: templates/views/html-dashboard-coupon-form.php:200
+msgid "Individual use only"
+msgstr "الاستخدام الفردي فقط"
+
+#: templates/views/html-dashboard-coupon-form.php:207
+msgid "Exclude discounted products"
+msgstr "استبعاد المنتجات المخفضة"
+
+#: templates/views/html-dashboard-coupon-form.php:214
+msgid "Go public"
+msgstr "الذهاب العامة"
+
+#: templates/views/html-dashboard-coupon-form.php:218
+msgid "Coupon text to show"
+msgstr "نص القسيمة لتظهر"
+
+#: templates/views/html-dashboard-coupon-form.php:219
+msgid ""
+"i.e: Use (enter coupon code) coupon before checkout to get (10%) discount."
+msgstr "أي: استخدم (أدخل رمز القسيمة) القسيمة قبل الخروج للحصول على خصم (10٪)."
+
+#: templates/views/html-dashboard-coupon-header.php:19
+msgid "&larr; Coupons"
+msgstr "← كوبونات"
+
+#: templates/views/html-dashboard-coupon-header.php:24
+msgid "New Coupon"
+msgstr "كوبون جديد"
+
+#: templates/views/html-dashboard-coupon-list.php:21
+msgid "Code"
+msgstr "كود"
+
+#: templates/views/html-dashboard-coupon-list.php:22
+msgid "Type"
+msgstr "النوع"
+
+#: templates/views/html-dashboard-coupon-list.php:24
+msgid "Product IDs"
+msgstr "المنتج  IDs"
+
+#: templates/views/html-dashboard-coupon-list.php:25
+msgid "Usage / Limit"
+msgstr "حد / الاستخدام"
+
+#: templates/views/html-dashboard-coupon-list.php:26
+msgid "Expiry date"
+msgstr "تاريخ الانتهاء"
+
+#: templates/views/html-dashboard-coupon-list.php:43
+msgid "Expiry:"
+msgstr "تاريخ الصلاحية"
+
+#: templates/views/html-dashboard-coupon-list.php:81
+msgid "delete"
+msgstr "حذف"
+
+#: templates/views/html-dashboard-coupon-list.php:86
+msgid "Visit Store"
+msgstr "زيارة المتجر"
+
+#: templates/views/html-dashboard-coupon-list.php:101
+msgid "Sorry, no coupons found!"
+msgstr "عذرا ، لا توجد كوبونات!"
+
+#: templates/views/html-dashboard-home-orders.php:19
+#: templates/views/html-dashboard-orders-list.php:22
+msgid "Status"
+msgstr "الحالة"
+
+#: templates/views/html-dashboard-home-orders.php:20
+msgid "Count"
+msgstr "عد"
+
+#: templates/views/html-dashboard-home-orders.php:36
+msgid "Pending Payment"
+msgstr "في انتظار الدفع"
+
+#: templates/views/html-dashboard-home-orders.php:54
+#: templates/views/html-dashboard-orders-list-row_actions.php:20
+msgid "Cancelled"
+msgstr "ملغى"
+
+#: templates/views/html-dashboard-home-orders.php:63
+#: templates/views/html-dashboard-orders-list-row_actions.php:22
+#: templates/views/html-dashboard-orders-single-items.php:116
+msgid "Refunded"
+msgstr "ردها"
+
+#: templates/views/html-dashboard-home-orders.php:72
+msgid "On-hold"
+msgstr "قيد الانتظار"
+
+#: templates/views/html-dashboard-home-top_clients.php:14
+msgid "Top Customers"
+msgstr "أفضل العملاء"
+
+#: templates/views/html-dashboard-home-top_clients.php:19
+#: templates/views/html-dashboard-orders-list.php:24
+msgid "Customer"
+msgstr "العميل"
+
+#: templates/views/html-dashboard-home-top_clients.php:20
+msgid "Money Spent"
+msgstr "صرف النقود"
+
+#: templates/views/html-dashboard-home-top_clients.php:42
+msgid "Your top 10 clients will be listed here."
+msgstr "سيتم إدراج أفضل 10 عملاء لديك هنا."
+
+#: templates/views/html-dashboard-home-top_items.php:14
+msgid "Top Selling Products"
+msgstr "أكثر السلع مبيعًا"
+
+#: templates/views/html-dashboard-home-top_items.php:20
+#: templates/views/html-dashboard-home-totals.php:14
+#: templates/views/html-dashboard-items-list-single_item.php:26
+msgid "Sales"
+msgstr "المبيعات"
+
+#: templates/views/html-dashboard-home-top_items.php:30
+#, php-format
+msgid "Permalink to %1$s"
+msgstr "الرابط الثابت إلى %1$s"
+
+#: templates/views/html-dashboard-home-top_items.php:43
+msgid "Your top 10 selling products will be listed here."
+msgstr "سيتم إدراج أفضل 10 منتجات مبيعة هنا."
+
+#: templates/views/html-dashboard-home-totals-table.php:17
+msgid "Gross"
+msgstr "مجمل ربح"
+
+#: templates/views/html-dashboard-home-totals-table.php:18
+msgid "Total Coupon Usage"
+msgstr "إجمالي استخدام القسيمة"
+
+#: templates/views/html-dashboard-home-totals-table.php:20
+msgid "Taxes"
+msgstr "الضرائب"
+
+#: templates/views/html-dashboard-home-totals-table.php:21
+msgid "Taxes Refunded"
+msgstr "الضرائب المستردة"
+
+#: templates/views/html-dashboard-home-totals-table.php:24
+msgid "Uncompleted Orders"
+msgstr "أوامر غير مكتملة"
+
+#: templates/views/html-dashboard-home-totals-table.php:25
+msgid "Refunded Orders"
+msgstr "الطلبات المستردة"
+
+#: templates/views/html-dashboard-home-totals-table.php:29
+msgid "Net Profit"
+msgstr "صافي الربح"
+
+#: templates/views/html-dashboard-home-totals.php:14
+msgid "Print table"
+msgstr "جدول الطباعة"
+
+#: templates/views/html-dashboard-home-totals.php:14
+msgid "From all sellers"
+msgstr "من جميع البائعين"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "All Time"
+msgstr "كل الوقت"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Year"
+msgstr "السنة"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Last Month"
+msgstr "الشهر الماضي"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Month"
+msgstr "شهر"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Week"
+msgstr "أسبوع"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Today"
+msgstr "اليوم"
+
+#: templates/views/html-dashboard-home-totals.php:17
+msgid "Start Date, i.e:"
+msgstr "تاريخ البدء ، أي:"
+
+#: templates/views/html-dashboard-home-totals.php:20
+msgid "End Date, i.e:"
+msgstr "تاريخ الانتهاء ، أي:"
+
+#: templates/views/html-dashboard-home-totals.php:23
+#: templates/views/html-dashboard-vendor-status_menu.php:15
+msgid "Go"
+msgstr "اذهب"
+
+#: templates/views/html-dashboard-home-vendor_balance.php:14
+msgid "Account Balance"
+msgstr "رصيد الحساب"
+
+#: templates/views/html-dashboard-home-vendor_balance.php:18
+msgid "Withdraw Money"
+msgstr "سحب نقود"
+
+#: templates/views/html-dashboard-items-form.php:21
+#: templates/views/html-dashboard-orders-list.php:26
+msgid "Update"
+msgstr "تحديث"
+
+#: templates/views/html-dashboard-items-form.php:24
+msgid "Post"
+msgstr "نشر"
+
+#: templates/views/html-dashboard-items-form.php:25
+msgid "Post & Add New"
+msgstr "نشر وإضافة جديد"
+
+#: templates/views/html-dashboard-items-form_data.php:20
+msgid "Upload Cover"
+msgstr "تحميل الغلاف"
+
+#: templates/views/html-dashboard-items-form_data.php:20
+msgid "Upload cover image"
+msgstr "تحميل صورة الغلاف"
+
+#: templates/views/html-dashboard-items-form_data.php:24
+msgid "Remove Image"
+msgstr "احذف صورة"
+
+#: templates/views/html-dashboard-items-form_data.php:36
+msgid "Product Name"
+msgstr "اسم المنتج"
+
+#: templates/views/html-dashboard-items-form_data.php:37
+msgid "Type name including brand name if available."
+msgstr "اكتب الاسم بما في ذلك اسم العلامة التجارية إذا كان متاحًا."
+
+#: templates/views/html-dashboard-items-form_data.php:43
+msgid "General fields"
+msgstr "الحقول العامة"
+
+#: templates/views/html-dashboard-items-form_data.php:46
+msgid "Short Description"
+msgstr "الوصف القصير"
+
+#: templates/views/html-dashboard-items-form_data.php:47
+msgid "Few words about the product..."
+msgstr "كلمات قليلة عن المنتج ..."
+
+#: templates/views/html-dashboard-items-form_data.php:50
+msgid "Full Description"
+msgstr "وصف كامل"
+
+#: templates/views/html-dashboard-items-form_data.php:54
+msgid "Category"
+msgstr "التصنيف"
+
+#: templates/views/html-dashboard-items-form_data.php:59
+msgid "Menu"
+msgstr "القائمة"
+
+#: templates/views/html-dashboard-items-form_data.php:67
+#, php-format
+msgid "You must set your %1$s before you can use this option"
+msgstr "يجب عليك تعيين %1$s قبل أن تتمكن من استخدام هذا الخيار"
+
+#: templates/views/html-dashboard-items-form_data.php:67
+msgid "meal types"
+msgstr "أنواع الوجبات"
+
+#: templates/views/html-dashboard-items-form_data.php:76
+msgid "Preparation/Handling time (in minutes)"
+msgstr "وقت التحضير / المناولة (بالدقائق)"
+
+#: templates/views/html-dashboard-items-form_data.php:80
+msgid "Maximum orders per day"
+msgstr "الحد الأقصى للطلبات في اليوم"
+
+#: templates/views/html-dashboard-items-form_data.php:137
+#: templates/views/html-dashboard-items-form_data.php:166
+#: templates/views/html-dashboard-items-form_data.php:204
+msgid "Variations"
+msgstr "الاختلافات"
+
+#: templates/views/html-dashboard-items-form_data.php:140
+msgid "The product has variations?"
+msgstr "المنتج لديه اختلافات؟"
+
+#: templates/views/html-dashboard-items-form_data.php:158
+#: templates/views/html-dashboard-items-form_data.php:200
+msgid "Variation title"
+msgstr "عنوان التباين"
+
+#: templates/views/html-dashboard-items-form_data.php:161
+msgid "variation title"
+msgstr "عنوان الاختلاف"
+
+#: templates/views/html-dashboard-items-form_data.php:170
+msgid "Update product after selecting to see changes on options below."
+msgstr "تحديث المنتج بعد تحديده لمشاهدة التغييرات على الخيارات أدناه."
+
+#: templates/views/html-dashboard-items-form_data.php:171
+msgid "Select terms"
+msgstr "اختر القيم"
+
+#: templates/views/html-dashboard-items-form_data.php:189
+#: templates/views/html-dashboard-items-form_data.php:192
+#: templates/views/html-dashboard-items-form_data.php:205
+#, php-format
+msgid "Enter variations by \"%1$s\" separating values."
+msgstr "أدخل القيم واستخدم &quot %1$s s&quot; الفاصلة."
+
+#: templates/views/html-dashboard-items-form_data.php:211
+msgid "+ Add Option Group"
+msgstr "+ إضافة مجموعة خيار"
+
+#: templates/views/html-dashboard-items-form_data.php:215
+msgid "Add new option"
+msgstr "إضافة خيار جديد"
+
+#: templates/views/html-dashboard-items-form_data.php:220
+msgid "Promotions"
+msgstr "العروض"
+
+#: templates/views/html-dashboard-items-form_data.php:238
+#: templates/views/html-dashboard-items-form_data.php:239
+#: templates/views/html-dashboard-items-form_data.php:267
+#: templates/views/html-dashboard-items-form_data.php:268
+msgid "Discount %"
+msgstr "تخفيض %"
+
+#: templates/views/html-dashboard-items-form_data.php:283
+msgid "Add new promotion rule"
+msgstr "أضف قاعدة ترويجية جديدة"
+
+#: templates/views/html-dashboard-items-form_data.php:287
+msgid "Link products"
+msgstr "ربط المنتجات"
+
+#: templates/views/html-dashboard-items-form_data.php:292
+msgid "Up-Sells"
+msgstr "يصل يبيع"
+
+#: templates/views/html-dashboard-items-form_data.php:302
+msgid "Cross-Sells"
+msgstr "منتجات مترابطة"
+
+#: templates/views/html-dashboard-items-form_data.php:314
+msgid "Other options"
+msgstr "خيارات اخري"
+
+#: templates/views/html-dashboard-items-form_data.php:317
+msgid "Purchase Note"
+msgstr "ملاحظة الشراء"
+
+#: templates/views/html-dashboard-items-form_data.php:319
+msgid "Enter an optional note to send the customer after purchase."
+msgstr "إدخال ملاحظة اختيارية ترسل إلى العميل بعد إتمام عملية الشراء."
+
+#: templates/views/html-dashboard-items-form_variation.php:35
+#, php-format
+msgid "Any %1$s&hellip;"
+msgstr "أي %1$s"
+
+#: templates/views/html-dashboard-items-form_variation.php:52
+msgid "Few words about this variation..."
+msgstr "بعض الكلمات عن هذا الاختلاف ..."
+
+#: templates/views/html-dashboard-items-list-single_item.php:17
+msgid "edit product"
+msgstr "تحرير المنتج"
+
+#: templates/views/html-dashboard-items-list-single_item.php:27
+msgid "Views"
+msgstr "مشاهدات"
+
+#: templates/views/html-dashboard-items-list-single_item.php:52
+msgid "Add this product to today's special products list."
+msgstr "أضف هذا المنتج إلى قائمة المنتجات الخاصة اليوم."
+
+#: templates/views/html-dashboard-items-list-single_item.php:52
+msgid "Today's Special Product"
+msgstr "منتج خاص اليوم"
+
+#: templates/views/html-dashboard-items-nav.php:15
+msgid "New product"
+msgstr "منتج جديد"
+
+#: templates/views/html-dashboard-items-nav.php:22
+#, php-format
+msgid "Online (%d)"
+msgstr "اون لاين (%d)"
+
+#: templates/views/html-dashboard-items-nav.php:25
+#, php-format
+msgid "Offline (%d)"
+msgstr "بلا اتصال (%d)"
+
+#: templates/views/html-dashboard-menu.php:14
+#, php-format
+msgid "%1$s Dashboard"
+msgstr "لوحة التحكم %1$s"
+
+#: templates/views/html-dashboard-orders-list-row.php:16
+#, php-format
+msgid "Order %1$s"
+msgstr "الطلب %1$s"
+
+#: templates/views/html-dashboard-orders-list-row.php:17
+msgid "Quick View"
+msgstr "نظرة سريعة"
+
+#: templates/views/html-dashboard-orders-list-row.php:43
+msgid "Billing:"
+msgstr "الفواتير:"
+
+#: templates/views/html-dashboard-orders-list-row.php:46
+msgid "Tel:"
+msgstr "الهاتف:"
+
+#: templates/views/html-dashboard-orders-list-row.php:61
+msgid "Guest"
+msgstr "زائر"
+
+#: templates/views/html-dashboard-orders-list-row.php:93
+msgid "Options"
+msgstr "خيارات"
+
+#: templates/views/html-dashboard-orders-list-row.php:94
+msgid "Quantity"
+msgstr "الكمية"
+
+#: templates/views/html-dashboard-orders-list-row_actions.php:19
+msgid "Complete"
+msgstr "مكتمل"
+
+#: templates/views/html-dashboard-orders-list-row_actions.php:26
+msgid "Failed"
+msgstr "فشل"
+
+#: templates/views/html-dashboard-orders-list_no_results.php:17
+msgid "No orders found"
+msgstr "لم يتم العثور على طلبات"
+
+#: templates/views/html-dashboard-orders-nav.php:17
+#, php-format
+msgid "Processing (%d)"
+msgstr "قيد المعالجة (%d)"
+
+#: templates/views/html-dashboard-orders-nav.php:22
+#, php-format
+msgid "Completed (%d)"
+msgstr "تمت (%d)"
+
+#: templates/views/html-dashboard-orders-nav.php:27
+#, php-format
+msgid "On-hold (%d)"
+msgstr "في الانتظار (%d)"
+
+#: templates/views/html-dashboard-orders-nav.php:32
+#, php-format
+msgid "Pending Payment (%d)"
+msgstr "الدفع معلق (%d)"
+
+#: templates/views/html-dashboard-orders-nav.php:37
+#, php-format
+msgid "Cancelled (%d)"
+msgstr "ملغاة (%d)"
+
+#: templates/views/html-dashboard-orders-nav.php:42
+#, php-format
+msgid "Refunded (%d)"
+msgstr "مستردة (%d)"
+
+#: templates/views/html-dashboard-orders-nav.php:47
+#, php-format
+msgid "failed (%d)"
+msgstr "فشل (%d)"
+
+#: templates/views/html-dashboard-orders-single-customer_details.php:17
+msgid "Customer:"
+msgstr "العميل:"
+
+#: templates/views/html-dashboard-orders-single-customer_details.php:31
+msgid "Phone:"
+msgstr "الهاتف:"
+
+#: templates/views/html-dashboard-orders-single-customer_details.php:46
+msgid "Customer Note:"
+msgstr "ملاحظة الزبون:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:17
+msgid "Order Status:"
+msgstr "حالة الطلب:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:21
+msgid "Payment Method:"
+msgstr "طريقة الدفع:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:25
+msgid "Created Date:"
+msgstr "تاريخ الإنشاء:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:29
+msgid "Website Fee:"
+msgstr "رسوم الموقع الإلكتروني:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:33
+msgid "Vendor's Net:"
+msgstr "شبكة المورد:"
+
+#: templates/views/html-dashboard-orders-single-items.php:19
+msgid "Cost"
+msgstr "التكلفة"
+
+#: templates/views/html-dashboard-orders-single-items.php:20
+msgid "Qty"
+msgstr "الكمية"
+
+#: templates/views/html-dashboard-orders-single-items.php:25
+#: templates/views/html-dashboard-orders-single-items.php:26
+msgid "Tax"
+msgstr "ضريبة"
+
+#: templates/views/html-dashboard-orders-single-items.php:71
+msgid "Coupon(s) Used"
+msgstr "الكوبونات المستخدمة"
+
+#: templates/views/html-dashboard-orders-single-items.php:108
+msgid "Order Total"
+msgstr "الطلب الكلي"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:21
+#: templates/views/html-dashboard-vendor-settings_form.php:36
+msgid "Change"
+msgstr "تغيير"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:26
+msgid "Select your shop's banner"
+msgstr "حدد بانر متجرك"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:26
+msgid "Select Image"
+msgstr "اختيار صورة"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:26
+msgid "Upload banner"
+msgstr "رفع البانر"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:27
+msgid "Upload a banner for your shop. Banner size is (1125x190) pixel."
+msgstr "تحميل لافتة لمتجرك. حجم الشعار هو (1125 × 190 بكسل)."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:40
+msgid "Upload Logo"
+msgstr "ارفع صورة شعار"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:55
+msgid "Shop Notice"
+msgstr "متجر لاحظ"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:56
+msgid "Social Settings"
+msgstr "اعدادات التواصل الاجتماعي"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:58
+msgid "Open/Close Timings"
+msgstr "فتح / إغلاق التوقيت"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:60
+msgid "Withdrawal Methods"
+msgstr "طرق السحب"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:65
+msgid "General Info"
+msgstr "معلومات عامة"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:69
+msgid "Shop type"
+msgstr "نوع المحل"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:74
+msgid "Shop name"
+msgstr "اسم المتجر"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:86
+msgid "e.g. In front of cinema, Fourth floor, Seasons mall"
+msgstr "على سبيل المثال أمام السينما ، الطابق الرابع ، مول سيزونز"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:99
+msgid "i.e Italian, Indian, Fast Food, Fine Dining .. etc."
+msgstr "أي الإيطالية ، الهندية ، الوجبات السريعة ، المطاعم الجميلة .. إلخ."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:120
+msgid "Allow receiving emails from the shop page."
+msgstr "السماح باستلام رسائل البريد الإلكتروني من صفحة المتجر."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:137
+#: templates/views/html-dashboard-vendor-settings_form.php:150
+msgid "Start time (24 hours format 00:00)"
+msgstr "وقت البدء (تنسيق 24 ساعة 00:00)"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:140
+#: templates/views/html-dashboard-vendor-settings_form.php:153
+msgid "End time (24 hours format 00:00)"
+msgstr "وقت الانتهاء (تنسيق 24 ساعة 00:00)"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:182
+msgid "Allow orders even when your shop is closed?"
+msgstr "السماح بالطلبيات حتى عندما يكون متجرك مغلقًا؟"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:196
+msgid "Calculate order preparation time percentage"
+msgstr "حساب النسبة المئوية لوقت إعداد الطلب"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:203
+msgid "Delivery settings."
+msgstr "إعدادات التسليم."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:206
+msgid ""
+"You have chosen not to provide delivery service. You can change that from your "
+"orders settings."
+msgstr "لقد اخترت عدم تقديم خدمة التوصيل. يمكنك تغيير ذلك من إعدادات طلباتك."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:217
+#: templates/views/html-dashboard-vendor-settings_form.php:249
+msgid "Calculate delivery fee by"
+msgstr "حساب رسوم التسليم من قبل"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:242
+msgid "Delivery on peak times"
+msgstr "التسليم في أوقات الذروة"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:245
+msgid "Processing orders"
+msgstr "أوامر المعالجة"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:279
+msgid "Shop page notification"
+msgstr "إخطار صفحة المتجر"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:282
+msgid "Add message"
+msgstr "اضافة رسالة"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:283
+msgid "Type your note..."
+msgstr "اكتب ملاحظتك ..."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:288
+msgid "Social accounts"
+msgstr "الحسابات الاجتماعية"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:292
+msgid "Facebook"
+msgstr "فيسبوك"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:296
+msgid "Twitter"
+msgstr "تويتر"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:300
+msgid "Youtube"
+msgstr "يوتيوب"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:304
+msgid "Instagram"
+msgstr "انستجرام"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:312
+msgid "Shop's timings"
+msgstr "أوقات المتجر"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:326
+msgid "Two shifts"
+msgstr "نوبتين"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:400
+msgid "Withdrawal settings"
+msgstr "إعدادات السحب"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:415
+msgid "Update Settings"
+msgstr "تحديث الاعدادات"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:498
+msgid "Geocode was not successful for the following reason:"
+msgstr "لم يكن الرمز الجغرافي ناجحًا للسبب التالي:"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:580
+msgid "Error: The Geolocation service failed."
+msgstr "خطأ: فشلت خدمة تحديد الموقع الجغرافي."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:15
+msgid "Status:"
+msgstr "الحالة:"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:15
+msgid "Change Status?"
+msgstr "تغيير الحالة؟"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:16
+msgid "Play tune on new orders"
+msgstr "تشغيل النغمة على الطلبات الجديدة"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:16
+msgid "Turn on notifications"
+msgstr "شغل الإشعارات"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:16
+msgid "Active"
+msgstr "نشط"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:16
+msgid "Turn off notifications"
+msgstr "إيقاف الإخطارات"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:17
+#, php-format
+msgid "Website time: %1$s"
+msgstr "توقيت الموقع : %1$s"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:18
+msgid "Set your status to online if you wish to receive orders."
+msgstr "عيّن حالتك على الإنترنت إذا كنت ترغب في تلقي الطلبات."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:19
+#, php-format
+msgid ""
+"Your status will be automatically set to \"offline\" if you closed or "
+"navigated away from the website for %1$s minutes."
+msgstr ""
+"سيتم تعيين حالتك تلقائيًا إلى &quot;بلا اتصال&quot; إذا أغلقت أو انتقلت بعيدًا "
+"عن الموقع لمدة %1$s دقائق"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:20
+#, php-format
+msgid "%1$s from %2$s to %3$s."
+msgstr "%1$s من %2$s إلى %3$s."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:22
+#, php-format
+msgid "No %1$s timings for today."
+msgstr "لا توجد %1$s توقيت لهذا اليوم."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:22
+msgid "set timing"
+msgstr "ضبط توقيت"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:22
+msgid "opeining and closing"
+msgstr "opeining والإغلاق"
+
+#: templates/views/html-items-atc.php:57
+msgid "Clear"
+msgstr "مسح"
+
+#: templates/views/html-vendor-store_email_form.php:16
+msgid "Send Message to"
+msgstr "إرسال رسالة إلى"
+
+#: templates/views/html-vendor-store_email_form.php:27
+msgid "Your Name"
+msgstr "اسمك"
+
+#: templates/views/html-vendor-store_email_form.php:33
+msgid "you@example.com"
+msgstr "you@example.com"
+
+#: templates/views/html-vendor-store_email_form.php:40
+msgid "Email Subject"
+msgstr "موضوع البريد الإلكتروني"
+
+#: templates/views/html-vendor-store_email_form.php:46
+msgid "Type your message..."
+msgstr "اكتب رسالتك هنا"
+
+#: templates/views/html-vendor-store_email_form.php:55
+msgid "Send Message"
+msgstr "إرسال رسالة"
+
+#: templates/views/html-vendor-store_rating.php:17
+msgid "Login to make your rating on"
+msgstr "تسجيل الدخول لجعل تصويتك على"
+
+#: templates/views/html-vendor-store_rating.php:20
+msgid "Email address"
+msgstr "البريد الإلكتروني"
+
+#: templates/views/html-vendor-store_rating.php:28
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: templates/views/html-vendor-store_rating.php:35
+msgid "Rate"
+msgstr "التقييم"
+
+#: templates/views/html-vendor-store_rating.php:39
+msgid "Star"
+msgstr "نجمة"
+
+#. Plugin Name of the plugin/theme
+msgid "Norsani, The Multi-Vendor online Food Ordering System."
+msgstr "نورساني نظام طلب الطعام على الانترنت متعدد البائعين"
+
+#. Plugin URI of the plugin/theme
+msgid "http://norsani.mahmudhamid.com/"
+msgstr "http://norsani.mahmudhamid.com/"
+
+#. Description of the plugin/theme
+msgid "Multi-vendor online food ordering system."
+msgstr "نظام طلب طعام متعدد البائعين عبر الإنترنت."
+
+#. Author of the plugin/theme
+msgid "Mahmud Hamid"
+msgstr "محمود حامد"
+
+#. Author URI of the plugin/theme
+msgid "https://mahmudhamid.com"
+msgstr "https://mahmudhamid.com"
+
+#~ msgid ""
+#~ "You cannot add that amount of &quot;%s&quot; to the cart because there is "
+#~ "not enough stock (%s remaining)."
+#~ msgstr ""
+#~ "لا يمكن اضافة هذا المبلغ &quot;%s&quot;إلى سلة المشتريات لايوجد مخزون كافى "
+#~ "(%s متبقية)."
+
+#~ msgid "Withdrawal Status"
+#~ msgstr "حالة طلبات السحب."
+
+#, fuzzy
+#~| msgid "the vendor balance is Insufficient."
+#~ msgid "The vendor balance is Insufficient."
+#~ msgstr "توازن البائع غير كافية."
+
+#~ msgid "Visit our website for docs"
+#~ msgstr "قم بزيارة موقعنا الإلكتروني للارشادات"
+
+#~ msgid "Documentation"
+#~ msgstr "الوثائق"
+
+#~ msgid "Update Location?"
+#~ msgstr "تحديث الموقع"
+
+#~ msgid "Updating PayPal Payouts statuses..."
+#~ msgstr "جارٍ تحديث حالات PayPal Payouts ..."
+
+#~ msgid "This option has been disabled because the product has variations."
+#~ msgstr "تم تعطيل هذا الخيار لأن المنتج لديه اختلافات."
+
+#~ msgid "Something went wrong, please check your browser console for more info."
+#~ msgstr "حدث خطأ، الرجاء التحقق من تحكم المستعرض الخاص بك لمزيد من المعلومات."
+
+#~ msgid "Available"
+#~ msgstr "متاح"
+
+#~ msgid "Not Available"
+#~ msgstr "غير متاح"
+
+#~ msgid "Sorry, no products matched your selection."
+#~ msgstr "عذرًا ، لا توجد منتجات مطابقة لاختيارك."
+
+#~ msgid ""
+#~ "Please select some product options before adding this product to your cart."
+#~ msgstr ""
+#~ "الرجاء تحديد بعض خيارات المنتج قبل إضافة هذا المنتج إلى سلة التسوق الخاصة "
+#~ "بك."
+
+#~ msgid "Sorry, this product is unavailable."
+#~ msgstr "عذرا، هذا المنتج غير متوفر."
+
+#~ msgid "No address found for your location."
+#~ msgstr "لا يوجد عنوان للموقع الخاص بك."
+
+#~ msgid "No results found. Please review your input."
+#~ msgstr "لم يتم العثور على نتائج. الرجاء مراجعة المدخلات الخاصة بك."
+
+#~ msgid "Geocoding Query limit reached. Please try again later."
+#~ msgstr ""
+#~ "تم الوصول إلى الحد الأقصى لاستعلام Geocoding. الرجاء معاودة المحاولة في وقت "
+#~ "لاحق."
+
+#~ msgid ""
+#~ "We could not set your location due to query limit. Please try setting it "
+#~ "manually."
+#~ msgstr "لم نتمكن من تعيين موقعك بسبب حد طلب البحث. يرجى محاولة ضبطه يدويًا."
+
+#~ msgid ""
+#~ "We could not load the predictions list due to a denied request. Please try "
+#~ "again later."
+#~ msgstr ""
+#~ "لم نتمكن من تحميل قائمة التوقعات بسبب رفض الطلب. الرجاء معاودة المحاولة في "
+#~ "وقت لاحق."
+
+#~ msgid ""
+#~ "We could not load the predictions list due to a invalid request. Please try "
+#~ "again later."
+#~ msgstr ""
+#~ "نحن تعذر تحميل قائمة التوقعات بسبب طلب غير صالح. الرجاء المحاولة مرة أخرى "
+#~ "لاحقاً."
+
+#~ msgid ""
+#~ "We could not load the predictions list due to an unknown error. Please try "
+#~ "again later."
+#~ msgstr ""
+#~ "لم نتمكن من تحميل قائمة التوقعات بسبب خطأ غير معروف. الرجاء معاودة المحاولة "
+#~ "في وقت لاحق."
+
+#~ msgid ""
+#~ "The location was not set due to invalid request. Please try again later."
+#~ msgstr ""
+#~ "لم يتم تعيين الموقع بسبب طلب غير صالح. الرجاء معاودة المحاولة في وقت لاحق."
+
+#~ msgid ""
+#~ "The location was not set due to denied request. Please try again later."
+#~ msgstr ""
+#~ "لم يتم تعيين الموقع بسبب رفض الطلب. الرجاء معاودة المحاولة في وقت لاحق."
+
+#~ msgid ""
+#~ "Geolocation Access Denied. Please enable the geolocation service on your "
+#~ "device."
+#~ msgstr ""
+#~ "رفض تحديد الموقع الجغرافي. يرجى تمكين خدمة تحديد الموقع الجغرافي على جهازك."
+
+#~ msgid "Your location information is unavailable! Please review your input."
+#~ msgstr "معلومات موقعك غير متاحة! يرجى مراجعة المدخلات الخاصة بك."
+
+#~ msgid "Your location information is unavailable!"
+#~ msgstr "معلومات موقعك غير متوفرة!"
+
+#~ msgid "Geolocation failed, maybe due to a slow internet connection."
+#~ msgstr "فشل تحديد الموقع الجغرافي ، ربما بسبب اتصال إنترنت بطيء."
+
+#~ msgid "Geolocation failed due to an unknown error. Please try again later."
+#~ msgstr ""
+#~ "فشل تحديد الموقع الجغرافي بسبب خطأ غير معروف. الرجاء معاودة المحاولة في وقت "
+#~ "لاحق."
+
+#~ msgid ""
+#~ "Could not set your address due to an unknown error. Please try again later."
+#~ msgstr ""
+#~ "لا يمكن تعيين عنوانك بسبب خطأ غير معروف. الرجاء معاودة المحاولة في وقت لاحق."
+
+#~ msgid "Error: Your browser doesn't support geolocation."
+#~ msgstr "متصفحك لا يدعم تحديد الموقع الجغرافي."
+
+#~ msgid "Please check your internet connection and try again."
+#~ msgstr "برجاء التحقق من اتصال الانترنت ثم حاول مرة أخرى."
+
+#~ msgid "Unsupported location"
+#~ msgstr "موقع غير مدعوم"
+
+#~ msgid "Server error"
+#~ msgstr "خطأ في الخادم"
+
+#~ msgid ""
+#~ "We couldn't calculate the delivery duration between your location and this "
+#~ "vendor due to a server or internet connection error."
+#~ msgstr ""
+#~ "لم نتمكن من حساب مدة التسليم بين موقعك وهذا البائع بسبب وجود خطأ في الخادم "
+#~ "أو اتصال الإنترنت."
+
+#~ msgid ""
+#~ "We couldn't calculate the delivery fee of this vendor due to a server or "
+#~ "internet connection error."
+#~ msgstr ""
+#~ "لم نتمكن من حساب رسوم التسليم لهذا البائع بسبب خطأ في الخادم أو اتصال "
+#~ "الإنترنت."
+
+#~ msgid "Free Delivery"
+#~ msgstr "توصيل مجاني"
+
+#~ msgid "per"
+#~ msgstr "لمدة"
+
+#~ msgid "No Connection!"
+#~ msgstr "لا يوجد اتصال بالانترنت."
+
+#~ msgid "Our service is not supported in your country"
+#~ msgstr "خدمتنا غير مدعومة في بلدك"
+
+#~ msgid "Your location has been set to"
+#~ msgstr "تم تعيين موقعك على"
+
+#~ msgid ""
+#~ "This is an estimate calculation for the delivery duration to your location"
+#~ msgstr "هذا هو حساب تقديري لمدة التسليم لموقعك"
+
+#~ msgid "Your location is not within the delivery zone of this vendor."
+#~ msgstr "موقعك ليس ضمن منطقة التسليم لهذا المورد."
+
+#~ msgid "This vendor provides free delivery service."
+#~ msgstr "يوفر هذا البائع خدمة توصيل مجانية."
+
+#~ msgid "The delivery fee multiplied with the total distance to your location."
+#~ msgstr "تتضاعف رسوم التسليم مع المسافة الكلية لموقعك."
+
+#~ msgid "Out of range"
+#~ msgstr "خارج النطاق"
+
+#~ msgid ""
+#~ "Your current location is out of range of this vendor's delivery service."
+#~ msgstr "موقعك الحالي خارج نطاق خدمة التوصيل لهذا البائع."
+
+#~ msgid "Start Date, mm/dd/yyyy"
+#~ msgstr "تاريخ البدء ، مم / يوم / سنة"
+
+#~ msgid "End Date, mm/dd/yyyy"
+#~ msgstr "تاريخ الانتهاء ، شهر / يوم / سنة"
+
+#~ msgid "Product:"
+#~ msgstr "‫المنتج"
+
+#~ msgid "Class:"
+#~ msgstr "التصنيف الرئيسي :"
+
+#~ msgid "Spicy:"
+#~ msgstr "حار"
+
+#~ msgid "Fat:"
+#~ msgstr "الدهون:"
+
+#~ msgid " Grams"
+#~ msgstr "غرام"
+
+#~ msgid "Message from"
+#~ msgstr "رسالة من"
+
+#~ msgid "\"%s\"! \"%s\" sent you a message from your \"%s\" vendor page."
+#~ msgstr "%s، أرسل لك %s رسالة من صفحة بائع %s"
+
+#~ msgid "Invitation Letter from %s."
+#~ msgstr "رسالة دعوة من %s."
+
+#~ msgid "Withdrawal Request #"
+#~ msgstr "طلب سحب #"
+
+#~ msgid "New Customer Registration at"
+#~ msgstr "تسجيل العميل الجديد في"
+
+#~ msgid "Your"
+#~ msgstr " "
+
+#~ msgid "Balance Updated."
+#~ msgstr "تم تحديث الرصيد"
+
+#~ msgid ""
+#~ "Hello Admin,\n"
+#~ "\n"
+#~ "Your Payout trasaction for order number: %s to vendor: %s has failed due to "
+#~ "the following error:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "مرحبا يامشرف,\n"
+#~ "\n"
+#~ "إن عملة الدفع: %s للبائع: %s قد فشلت بسبب:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "\n"
+#~ "%s\n"
+#~ "%s"
+
+#~ msgid ""
+#~ "Hello %s,\n"
+#~ "\n"
+#~ "Someone requested through our mobile app that the password be reset for the "
+#~ "following account:\n"
+#~ "Username:%s\n"
+#~ "\n"
+#~ "If this was a mistake, just ignore this email and nothing will happen.\n"
+#~ "To reset your password, enter the following key in the password reset "
+#~ "verification field:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "مرحبًا%s، طلب شخص ما من خلال تطبيقنا للجوّال إعادة تعيين كلمة المرور للحساب "
+#~ "التالي:\n"
+#~ "اسم المستخدم: %s\n"
+#~ "إذا كان هذا خطأ ، فكل ما عليك هو تجاهل هذه الرسالة الإلكترونية ولن يحدث أي "
+#~ "شيء. لإعادة تعيين كلمة المرور.\n"
+#~ "لتعين كلمة مرور جديدة أدخل المفتاح التالي في حقل التحقق من إعادة تعيين كلمة "
+#~ "المرور: %s مع خالص التحيات! %s% s"
+
+#~ msgid ""
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "------------------------------\n"
+#~ "Sent from %s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "------------------------------\n"
+#~ "إرسلت من %s\n"
+#~ "%s"
+
+#~ msgid ""
+#~ "From: %s\n"
+#~ "IP: %s\n"
+#~ "User Agent: %s\n"
+#~ "------------------------------\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "------------------------------\n"
+#~ "Sent from %s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "من: %s\n"
+#~ "IP: %s\n"
+#~ "خادم المستخدم: %s\n"
+#~ "--------------------------------------------\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "--------------------------------------------\n"
+#~ "ارسل من %s\n"
+#~ "%s"
+
+#~ msgid ""
+#~ "Hello %s Admin,\n"
+#~ "\n"
+#~ "A New Customer has registered in your site.\n"
+#~ "User details:\n"
+#~ "Email : %s\n"
+#~ "\n"
+#~ "View all users list at %s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "مرحبا %s المشرف، \"عميل جديد\" سجل في موقع الويب.\n"
+#~ "تفاصيل المستخدم: البريد الإلكتروني: %s عرض قائمة بكافة المستخدمين في ما "
+#~ "يتعلق %s!\n"
+#~ "%s% s"
+
+#~ msgid ""
+#~ "Hello %s Admin,\n"
+#~ "\n"
+#~ "A New Vendor has registered in your site.\n"
+#~ "Vendor details:\n"
+#~ "Email : %s\n"
+#~ "First Name : %s\n"
+#~ "Last Name : %s\n"
+#~ "Shop Name : %s\n"
+#~ "Shop URL : %s\n"
+#~ "Shop Phone : %s\n"
+#~ "\n"
+#~ "View all stores at %s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "مرحبا مسؤول %s \"ببائع جديد\" سجل في موقع الويب.\n"
+#~ "تفاصيل البائع: البريد الإلكتروني: %s الاسم الأول: %s \"اسم العائلة\": %s "
+#~ "\"اسم المحل\": %s \"عنوان المحل\": %s \"هاتف المحل\": %s عرض كافة القوائم "
+#~ "في ما يتعلق %s!\n"
+#~ "%s% s"
+
+#~ msgid ""
+#~ "Hello %s,\n"
+#~ "\n"
+#~ "Your selling privileges status has been changed to: %s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "مرحبًا %s،\n"
+#~ "تم تغيير حالة امتيازات البيع إلى: %s\n"
+#~ "\n"
+#~ "تمنيات!\n"
+#~ "%s\n"
+#~ "%s"
+
+#~ msgid ""
+#~ "Hello %s,\n"
+#~ "\n"
+#~ "The order id %s status has been changed from completed to %s. The order "
+#~ "total amount is %s.\n"
+#~ "Your new balance is %s. Please contact the website Admin if you might need "
+#~ "any clarification.\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "مرحبا %s،\n"
+#~ "حالة الطلب رقم %s قد تغيرت من الانتهاء إلى %s. إجمالي قيمة الطلب هو %s.\n"
+#~ "رصيدك الجديد هو %s. الرجاء الاتصال بمشرف الموقع إذا اردت أي توضيح.\n"
+#~ "\n"
+#~ "وشكرا!\n"
+#~ "%s% s"
+
+#~ msgid "e.g. Indian, Italian, Chinese ..."
+#~ msgstr "على سبيل المثال الهندية والإيطالية والصينية ..."
+
+#~ msgid "e.g. Beef, Chicken, Onion ..."
+#~ msgstr "مثل لحوم البقر والدجاج والبصل ..."
+
+#~ msgid "e.g. Road One, Road Two, Road Three ..."
+#~ msgstr "على سبيل المثال Road One، Road Two، Road Three ..."
+
+#~ msgid "next"
+#~ msgstr "التالي"
+
+#~ msgid ""
+#~ "Sorry, The preparation date set for %s&apos;s products is inappropriate."
+#~ msgstr "عذرًا ، تاريخ إعداد مجموعة منتجات %s غير مناسب."
+
+#~ msgid "Sub Orders"
+#~ msgstr "الطلبات الفرعية"
+
+#~ msgid "Note:"
+#~ msgstr "ملاحظة:"
+
+#~ msgid ""
+#~ "This order has products from multiple vendors. So we have divided the main "
+#~ "order into multiple sub-orders, each will be handled by its respective "
+#~ "vendor independently."
+#~ msgstr ""
+#~ "يحتوي هذا الطلب على منتجات من موردين متعددين. لذلك قمنا بتقسيم الأمر "
+#~ "الرئيسي إلى طلبات فرعية متعددة ، سيتم التعامل مع كل منها من قبل بائعها "
+#~ "المعني بشكل مستقل."
+
+#~ msgid "%s for %s product"
+#~ msgid_plural "%s for %s products"
+#~ msgstr[0] "%s لمنتج %s"
+#~ msgstr[1] "%s لمنتج %s"
+#~ msgstr[2] "%s لمنتجات %s"
+#~ msgstr[3] "%s لمنتجات %s"
+#~ msgstr[4] "%s لمنتجات %s"
+#~ msgstr[5] "%s لمنتجات %s"
+
+#~ msgid "N/A"
+#~ msgstr "غير مطابق"
+
+#~ msgid "Account Name: %s"
+#~ msgstr "اسم الحساب: %s"
+
+#~ msgid "Account Number: %s"
+#~ msgstr "رقم الحساب: %s"
+
+#~ msgid "Bank Name: %s"
+#~ msgstr "اسم البنك: %s"
+
+#~ msgid "Address: %s"
+#~ msgstr "العنوان: %s"
+
+#~ msgid "SWIFT: %s"
+#~ msgstr "سويفت (SWIFT): %s"
+
+#~ msgid "Sub Order of"
+#~ msgstr "طلب فرعي من"
+
+#~ msgid "Unpublished"
+#~ msgstr "غير منشورة"
+
+#~ msgid "Update the Product"
+#~ msgstr "تحديث المنتج"
+
+#~ msgid "list"
+#~ msgstr "قائمة"
+
+#~ msgid "Please select the types of vendors that you allow to register."
+#~ msgstr "الرجاء تحديد أنواع البائعين الذين تسمح لهم بالتسجيل."
+
+#~ msgid "Post the Product"
+#~ msgstr "انشر المنتج"
+
+#~ msgid "Post the product & add a new one"
+#~ msgstr "انشر المنتج وأضف منتجًا جديدًا"
+
+#~ msgid "This product cannot be purchased."
+#~ msgstr "لا يمكن شراء هذا المنتج."
+
+#~ msgid "Available food types"
+#~ msgstr "أنواع الطعام المتاحة"
+
+#~ msgid "Veg."
+#~ msgstr "الخضار."
+
+#~ msgid "Non-Veg."
+#~ msgstr "غير الخضار."
+
+#~ msgid "Sea Food."
+#~ msgstr "مأكولات بحرية."
+
+#~ msgid "Food Truck"
+#~ msgstr "\"عربة طعام\""
+
+#~ msgid "Chefs list page was not found."
+#~ msgstr "لم يتم العثور على صفحة قائمة الطهاة."
+
+#~ msgid "Restaurants list page was not found."
+#~ msgstr "لم يتم العثور على صفحة قائمة مطاعم."
+
+#~ msgid "Groceries list page was not found."
+#~ msgstr "لم يتم العثور على صفحة قائمة البقالات."
+
+#~ msgid "Food Trucks list page was not found."
+#~ msgstr "لم يتم العثور على صفحة قائمة شاحنات الطعام."
+
+#~ msgid "Chef"
+#~ msgstr "طاه"
+
+#~ msgid "Restaurant"
+#~ msgstr "مطعم"
+
+#~ msgid "Grocery"
+#~ msgstr "بقالة"
+
+#~ msgid "Browse Restaurants"
+#~ msgstr "تصفح المطاعم"
+
+#~ msgid "Browse Groceries"
+#~ msgstr "تصفح البقالات"
+
+#~ msgid "Browse Food Trucks"
+#~ msgstr "تصفح شاحنات الغذاء"
+
+#~ msgid "Foodtrucks"
+#~ msgstr "شاحنات الغذاء"

@@ -1,0 +1,5780 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Norsani, The Multi-Vendor online Food Ordering System.\n"
+"POT-Creation-Date: 2018-11-16 15:14+0300\n"
+"PO-Revision-Date: 2018-11-16 15:15+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ms_MY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: frozr-norsani.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-norsani-admin.php:164
+msgid "Activate the Norsani's default childtheme"
+msgstr "Aktifkan tema anak lalai Norsani"
+
+#: includes/class-norsani-admin.php:164
+msgid "Install the Norsani's default theme"
+msgstr "Pasang tema lalai Norsani"
+
+#: includes/class-norsani-admin.php:167
+msgid ""
+"Your current theme dose not support Norsani. Please install and activate a "
+"supported theme or"
+msgstr ""
+"Dos tema semasa anda tidak menyokong Norsani. Sila pasang dan aktifkan tema "
+"yang disokong atau"
+
+#: includes/class-norsani-admin.php:172
+msgid ""
+"You have not yet set a fee/commission on your vendors sales. Vendors will "
+"get %100 of their sales. Set your fee/commission now from the&nbsp;"
+msgstr ""
+"Anda belum menetapkan yuran / komisyen pada jualan vendor anda. Penjual akan "
+"mendapat% 100 jualan mereka. Tetapkan yuran / komisyen anda sekarang dari"
+
+#: includes/class-norsani-admin.php:172
+msgid "Fees/Commission Settings"
+msgstr "Tetapan Fi / Suruhanjaya"
+
+#: includes/class-norsani-admin.php:178
+msgid ""
+"Norsani highly depends on WooCommerce plugin which was uninstalled. Norsani "
+"will stop working untill you install and activate WooCommerce."
+msgstr ""
+"Norsani sangat bergantung pada plugin WooCommerce yang telah dipasang. "
+"Norsani akan berhenti berfungsi sehingga anda memasang dan mengaktifkan "
+"WooCommerce."
+
+#: includes/class-norsani-admin.php:182
+msgid ""
+"Norsani highly depends on WooCommerce plugin which was deactivated. Norsani "
+"will stop working untill you reactivate WooCommerce."
+msgstr ""
+"Norsani sangat bergantung kepada plugin WooCommerce yang telah "
+"dinyahaktifkan. Norsani akan berhenti berfungsi sehingga anda mengaktifkan "
+"semula WooCommerce."
+
+#: includes/class-norsani-admin.php:1120 installer.php:215
+msgid "Norsani's Demo Menu"
+msgstr "Menu Demo Norsani"
+
+#: includes/class-norsani-admin.php:1134 installer.php:226
+msgid "Browse"
+msgstr "Semak imbas"
+
+#: includes/class-norsani-admin.php:1147 includes/class-norsani-admin.php:1180
+#: installer.php:237
+msgid "Vendor Registration"
+msgstr "Pendaftaran Vendor"
+
+#: includes/class-norsani-admin.php:1168
+#, php-format
+msgid ""
+"Please use the following password to login to the accounts of the newly "
+"added users: %1$s"
+msgstr ""
+"Sila gunakan kata laluan berikut untuk log masuk ke akaun pengguna yang baru "
+"ditambahkan:%1$s"
+
+#: includes/class-norsani-admin.php:1170
+#, php-format
+msgid "Demo data was installed successfully. %1$s"
+msgstr "Data demo telah berjaya dipasang. %1$s"
+
+#: includes/class-norsani-admin.php:1181
+msgid "Vendors list"
+msgstr "Senarai vendor"
+
+#: includes/class-norsani-admin.php:1182
+msgid "Sellers list."
+msgstr "Senarai penjual."
+
+#: includes/class-norsani-admin.php:1190
+msgid ""
+"This page is used by Norsani. You can freely change this text but please do "
+"NOT delete it."
+msgstr ""
+"Halaman ini digunakan oleh Norsani. Anda boleh menukar teks ini dengan bebas "
+"tetapi jangan Buangnya."
+
+#: includes/class-norsani-admin.php:1212 includes/class-norsani-admin.php:1213
+msgid "here"
+msgstr "di sini"
+
+#: includes/class-norsani-admin.php:1214
+msgid "Learn how payments are processed"
+msgstr "Ketahui bagaimana pembayaran diproses"
+
+#: includes/class-norsani-admin.php:1215
+msgid "PayPal Payouts FAQ"
+msgstr "Soalan Pembayaran PayPal"
+
+#: includes/class-norsani-admin.php:1216
+msgid "Advance"
+msgstr "Advance"
+
+#: includes/class-norsani-admin.php:1217
+#: includes/class-norsani-dashboard.php:74
+msgid "Sellers"
+msgstr "Penjual"
+
+#: includes/class-norsani-admin.php:1218
+#: includes/class-norsani-dashboard.php:66
+#: includes/class-norsani-wp_init.php:237 templates/vendors-registration.php:81
+#: templates/views/html-dashboard-home-vendor_balance.php:18
+msgid "Withdraw"
+msgstr "Tarik balik"
+
+#: includes/class-norsani-admin.php:1221
+#, php-format
+msgid ""
+"You must enter your Google API key to enable Norsani's user location based "
+"services such as Geolocation, Delivery orders and vendor addresses. Click %s "
+"for instruction on how to get an API key."
+msgstr ""
+"Anda mesti memasukkan kunci Google API anda untuk membolehkan perkhidmatan "
+"berasaskan lokasi Norsani seperti pesanan Geolokasi, Pesanan penghantaran "
+"dan alamat vendor. Klik %s untuk arahan tentang cara untuk mendapatkan kunci "
+"API."
+
+#: includes/class-norsani-admin.php:1222
+msgid ""
+"Enter the type of vendors you allow to register separated with commas. If "
+"you remove a vendor type, it will be removed from the vendor registration "
+"form but vendors holding that type are still going to be available until you "
+"manually delete them."
+msgstr ""
+"Masukkan jenis vendor yang anda gunakan untuk mendaftar dipisahkan dengan "
+"koma. Jika anda mengalih keluar jenis vendor, ia akan dialih keluar dari "
+"borang pendaftaran vendor tetapi vendor yang memegang jenis itu masih akan "
+"tersedia sehingga anda memadam secara manual."
+
+#: includes/class-norsani-admin.php:1223
+#, php-format
+msgid ""
+"If you selected this, vendors will be able to post their products "
+"immediately after registeration. You can manually activate/deactivate "
+"selling privileges for a vendor from the %s page."
+msgstr ""
+"Jika anda memilih ini, vendor akan dapat memproses produk mereka dengan "
+"segera selepas mendaftar. Anda boleh mengaktifkan / menyahaktifkan hak "
+"istimewa jualan untuk vendor dari halaman %s."
+
+#: includes/class-norsani-admin.php:1224
+msgid ""
+"If this field is selected, the vendor shop's open/close timing options will "
+"not be available and vendors will have to manually change their status to "
+"'online' to receive orders. This will insure that vendors are available to "
+"process orders once they are received. However, vendors can also change "
+"their status manually even if this option is not selected."
+msgstr ""
+"Sekiranya bidang ini dipilih, pilihan masa buka / tutup kedai vendor tidak "
+"akan tersedia dan vendor perlu menukar secara manual statusnya secara &#39;"
+"online&#39; untuk menerima pesanan. Ini akan memastikan bahawa vendor "
+"tersedia untuk memproses pesanan sebaik sahaja ia diterima. Bagaimanapun, "
+"vendor juga boleh menukar status mereka secara manual walaupun pilihan ini "
+"tidak dipilih."
+
+#: includes/class-norsani-admin.php:1225
+msgid ""
+"If the above option is selected, the system will ignore the vendor's shop "
+"timing data and make the vendor's original status to 'offline' until they "
+"manually change it to 'online'. However, vendors can manually change their "
+"original status for a specific time. In that case, enter the time the system "
+"should wait before returning the vendor status to its original status if the "
+"vendor has closed or navigated away from your website. This is helpful when "
+"you wish to make sure that the vendor is really online to receive and "
+"process orders."
+msgstr ""
+"Jika pilihan di atas dipilih, sistem akan mengabaikan data waktu kedai "
+"vendor dan membuat status asal vendor ke &#39;offline&#39; sehingga mereka "
+"secara manual mengubahnya ke &#39;online&#39;. Walau bagaimanapun, vendor "
+"boleh menukar status asalnya secara manual untuk masa tertentu. Dalam hal "
+"ini, masukkan waktu yang perlu menunggu sebelum memulangkan status vendor ke "
+"status asalnya jika vendor telah ditutup atau dialihkan dari laman web anda. "
+"Ini berguna apabila anda ingin memastikan bahawa vendor benar-benar dalam "
+"talian untuk menerima dan memproses pesanan."
+
+#: includes/class-norsani-admin.php:1226
+msgid ""
+"Featured products will appear to users when they click the main search "
+"button."
+msgstr ""
+"Produk yang disasarkan akan muncul kepada pengguna apabila mereka mengklik "
+"butang carian utama."
+
+#: includes/class-norsani-admin.php:1227
+msgid ""
+"Featured vendors will appear to users when they click the main search button."
+msgstr ""
+"Penjual yang ditampilkan akan muncul kepada pengguna apabila mereka mengklik "
+"butang carian utama."
+
+#: includes/class-norsani-admin.php:1228
+msgid ""
+"Select this field to automatically create withdrawal requests for vendors "
+"after their orders statuses change to completed."
+msgstr ""
+"Pilih medan ini untuk membuat permintaan pengeluaran secara automatik untuk "
+"penjual selepas status pesanan mereka berubah menjadi selesai."
+
+#: includes/class-norsani-admin.php:1229
+#, php-format
+msgid ""
+"If you wish to pay a withdrawal request directly from the %1$s page with one "
+"click using \"PayPal\" Payouts, please enter your \"PayPal App ClientId\". "
+"Click %2$s if you need instructions on creating a \"PayPal REST App\"."
+msgstr ""
+"Jika anda ingin membayar permintaan pengeluaran secara langsung dari halaman"
+"%1$s dengan satu klik menggunakan PayPal &quot;Payouts, sila masukkan&quot; "
+"PayPal App ClientId &quot;anda. Klik%2$s jika anda memerlukan arahan untuk "
+"membuat &quot;PayPal REST App&quot;."
+
+#: includes/class-norsani-admin.php:1230
+#, php-format
+msgid ""
+"If you wish to pay a withdrawal request directly from the %1$s page with one "
+"click using \"PayPal\" Payouts, please enter your \"PayPal App ClientSecret"
+"\". Click %2$s if you need instructions on creating a \"PayPal REST App\"."
+msgstr ""
+"Jika anda ingin membayar permintaan pengeluaran terus dari halaman%1$s "
+"dengan satu klik menggunakan PayPal &quot;Payouts, sila masukkan&quot; "
+"PayPal App ClientSecret &quot;anda. Klik%2$s jika anda memerlukan arahan "
+"untuk membuat &quot;PayPal REST App&quot;."
+
+#: includes/class-norsani-admin.php:1231
+msgid ""
+"When vendors manually create withdrawal requests, what is the minimum amount "
+"a vendor can ask for?"
+msgstr ""
+"Apabila penjual secara manual membuat permintaan pengeluaran, apakah jumlah "
+"minimum yang boleh dituntut vendor?"
+
+#: includes/class-norsani-admin.php:1232
+msgid ""
+"Select your preferred methods to pay vendors. Each selected method will add "
+"new fields to the vendors settings page, vendors will use those settings to "
+"provide you with the required information to pay them."
+msgstr ""
+"Pilih cara pilihan anda untuk membayar vendor. Setiap kaedah yang dipilih "
+"akan menambah medan baru ke halaman tetapan penjual, vendor akan menggunakan "
+"tetapan tersebut untuk memberikan maklumat yang diperlukan untuk membayarnya."
+
+#: includes/class-norsani-admin.php:1233
+msgid ""
+"Select the default withdrawal request status when vendors submit them. The "
+"default status of an automatically created withdrawal request is \"pending\"."
+msgstr ""
+"Pilih status permintaan pengeluaran lalai apabila vendor mengemukakannya. "
+"Status lalai permintaan pengeluaran yang dibuat secara automatik adalah "
+"&quot;tertunda&quot;."
+
+#: includes/class-norsani-admin.php:1234
+msgid ""
+"These settings are used to calculate the delivery cost and distance between "
+"vendors and customers."
+msgstr ""
+"Tetapan ini digunakan untuk mengira kos penghantaran dan jarak antara vendor "
+"dan pelanggan."
+
+#: includes/class-norsani-admin.php:1235
+msgid ""
+"These fees are only applied on vendors. This means customers will not be "
+"affected and will only pay the original total amount of the order. To add "
+"fees on customers, please use the WooCommerce Tax settings."
+msgstr ""
+"Yuran ini hanya digunakan pada vendor. Ini bermakna pelanggan tidak akan "
+"terjejas dan hanya akan membayar jumlah pesanan asal yang asal. Untuk "
+"menambah yuran kepada pelanggan, sila gunakan tetapan Cukai WooCommerce."
+
+#: includes/class-norsani-admin.php:1236
+msgid ""
+"With 'Cash on Delivery' orders, customers will pay the order total amount "
+"including your fees to the delivery person and thus you will not receive any "
+"payment. In that case, the system by default deducts your fees from the "
+"vendor account's balance on your website."
+msgstr ""
+"Dengan pesanan &#39;Cash on Delivery&#39;, pelanggan akan membayar jumlah "
+"pesanan jumlah termasuk yuran anda kepada orang penghantaran dan dengan "
+"demikian anda tidak akan menerima apa-apa pembayaran. Dalam kes itu, sistem "
+"secara lalai memotong bayaran anda dari baki akaun penjual di laman web anda."
+
+#: includes/class-norsani-admin.php:1237
+#, php-format
+msgid ""
+"Enter terms and conditions for vendors, this will be used in the vendor "
+"registration form. To add terms for customers go to WooCommerce %s settings."
+msgstr ""
+"Masukkan terma dan syarat untuk vendor, ini akan digunakan dalam borang "
+"pendaftaran penjual. Untuk menambah syarat untuk pelanggan pergi ke tetapan "
+"%s WooCommerce."
+
+#: includes/class-norsani-admin.php:1238
+msgid ""
+"Apply this fee on vendors when they receive orders from all, some or "
+"selected customers."
+msgstr ""
+"Terapkan yuran ini kepada vendor apabila mereka menerima pesanan dari semua, "
+"beberapa atau pelanggan terpilih."
+
+#: includes/class-norsani-admin.php:1239
+msgid "Select vendors who will be effected by this fee."
+msgstr "Pilih vendor yang akan dikenakan oleh yuran ini."
+
+#: includes/class-norsani-admin.php:1240
+msgid ""
+"A float value which if the sub-total amount of the order exceeds, this rule "
+"will be applied."
+msgstr ""
+"Nilai apungan yang jika jumlah sub-jumlah pesanan melebihi, peraturan ini "
+"akan digunakan."
+
+#: includes/class-norsani-admin.php:1241
+msgid ""
+"Whether to apply this rule on the order total including delivery fee or only "
+"on the order delivery fee."
+msgstr ""
+"Sama ada untuk memohon peraturan ini pada jumlah pesanan termasuk yuran "
+"penghantaran atau hanya pada yuran penghantaran pesanan."
+
+#: includes/class-norsani-admin.php:1242
+msgid ""
+"The amount to deduct from orders. The first field is a percentage which is "
+"multiplied by the total order or delivery fee. i.e: if order total is $10 "
+"and you have entered 2.9 in first field and selected \"Plus\" and entered 3 "
+"in the last field, the total fee applied will be: ($10 x 2.9 / 100) + 3 = "
+"$3.29"
+msgstr ""
+"Amaun untuk memotong daripada pesanan. Bidang pertama adalah peratusan yang "
+"didarabkan dengan jumlah pesanan atau biaya penghantaran. yakni jika jumlah "
+"pesanan adalah $ 10 dan anda telah memasukkan 2.9 dalam bidang pertama dan "
+"memilih &quot;Plus&quot; dan masukkan 3 pada bidang terakhir, jumlah biaya "
+"yang dikenakan adalah: ($ 10 x 2.9 / 100) + 3 = $ 3.29"
+
+#: includes/class-norsani-admin.php:1243
+msgid ""
+"This rule will only be applied if the order was paid with the selected "
+"payment method."
+msgstr ""
+"Peraturan ini hanya akan digunakan jika pesanan telah dibayar dengan kaedah "
+"pembayaran yang dipilih."
+
+#: includes/class-norsani-admin.php:1244
+msgid "Enter a name for this fee. i.e: Website Fee"
+msgstr "Masukkan nama untuk bayaran ini. iaitu: Bayaran Laman Web"
+
+#: includes/class-norsani-admin.php:1245
+msgid "Let the vendor know why are you applying this fee."
+msgstr "Biarkan penjual mengetahui mengapa anda menggunakan yuran ini."
+
+#: includes/class-norsani-admin.php:1246
+msgid ""
+"Select the order types allowed on your website. Vendors will be restricted "
+"to select their accepted order types from your selection here."
+msgstr ""
+"Pilih jenis pesanan yang dibenarkan di tapak web anda. Vendor akan dihadkan "
+"untuk memilih jenis pesanan yang diterima dari pilihan anda di sini."
+
+#: includes/class-norsani-admin.php:1247
+msgid ""
+"Vendors can also allow receiving pre-orders from their stores while closed. "
+"Select the order types that are allowed for vendors to allow while their "
+"stores are closed."
+msgstr ""
+"Vendor juga boleh membenarkan menerima pra-pesanan dari kedai mereka semasa "
+"ditutup. Pilih jenis pesanan yang dibenarkan untuk vendor untuk membenarkan "
+"sementara kedai mereka ditutup."
+
+#: includes/class-norsani-admin.php:1311
+msgid ""
+"We could not complete the theme installation process due to restricted write "
+"permissions."
+msgstr ""
+"Kami tidak dapat menyelesaikan proses pemasangan tema kerana keizinan "
+"menulis terhad."
+
+#: includes/class-norsani-admin.php:1330
+#: includes/class-norsani-dashboard.php:94
+#: includes/class-norsani-vendor.php:990
+#: templates/views/html-dashboard-coupon-list.php:29
+#: templates/views/html-dashboard-orders-list.php:28
+msgid "Vendor"
+msgstr "Penjual"
+
+#: includes/class-norsani-admin.php:1331
+msgid "Sub Order"
+msgstr "Suborder"
+
+#: includes/class-norsani-admin.php:1332
+msgid "Preparation Time"
+msgstr "Masa persediaan"
+
+#: includes/class-norsani-admin.php:1333
+msgid "Receive Date"
+msgstr "Menerima Tarikh"
+
+#: includes/class-norsani-admin.php:1360
+msgid "In Queue"
+msgstr "Dalam barisan"
+
+#: includes/class-norsani-admin.php:1367
+msgid "Show Sub-Orders"
+msgstr "Tunjukkan Sub-Pesanan"
+
+#: includes/class-norsani-admin.php:1367
+msgid "Hide Sub-Orders"
+msgstr "Sembunyikan Sub arahan"
+
+#: includes/class-norsani-admin.php:1379
+msgid "Multiple"
+msgstr "Pelbagai"
+
+#: includes/class-norsani-admin.php:1493
+msgid "Toggle Sub-orders"
+msgstr "Togol Suborder"
+
+#: includes/class-norsani-admin.php:1514
+msgid "Norsani Options"
+msgstr "Pilihan Norsani"
+
+#: includes/class-norsani-admin.php:1518
+msgid "Selling"
+msgstr "Menjual"
+
+#: includes/class-norsani-admin.php:1523
+msgid "Enable Selling"
+msgstr "Membolehkan Jualan"
+
+#: includes/class-norsani-admin.php:1526
+msgid "Enable or disable the product selling capability"
+msgstr "Membolehkan atau melumpuhkan keupayaan menjual produk"
+
+#: includes/class-norsani-admin.php:1570
+msgid "Author"
+msgstr "Penulis"
+
+#: includes/class-norsani-ajax.php:168
+msgid "The payout was canceled"
+msgstr "Pembayaran telah dibatalkan"
+
+#: includes/class-norsani-ajax.php:222
+msgid "Something went wrong."
+msgstr "Ada yang salah."
+
+#: includes/class-norsani-ajax.php:227
+msgid ""
+"Please enter your 'PayPal App clientId' and 'Secret' in Norsani's admin "
+"Withdrawals Requests Settings."
+msgstr ""
+"Sila masukkan &#39;Pelanggan Apl PayPal&#39; dan &#39;Rahsia&#39; di "
+"pentadbir Norsani Pengeluaran Permintaan Pengeluaran."
+
+#: includes/class-norsani-ajax.php:232
+msgid "Payment is already processing. Please refresh page to see status."
+msgstr ""
+"Pembayaran sudah diproses. Sila muat semula halaman untuk melihat status."
+
+#: includes/class-norsani-ajax.php:247 includes/class-norsani-withdraw.php:577
+msgid "Payment for order: #"
+msgstr "Bayaran untuk pesanan: #"
+
+#: includes/class-norsani-ajax.php:252
+msgid ""
+"The available funds in the vendor's account is lower than the minimum amount "
+"to make a withdraw request."
+msgstr ""
+"Dana yang ada di dalam akaun vendor adalah lebih rendah daripada jumlah "
+"minimum untuk membuat permintaan menarik balik."
+
+#: includes/class-norsani-ajax.php:257
+msgid "The amount of withdraw is 0"
+msgstr "Jumlah pengeluaran ialah 0"
+
+#: includes/class-norsani-ajax.php:262
+msgid "Insufficient funds in the vendor's account."
+msgstr "Dana tidak mencukupi dalam akaun penjual."
+
+#: includes/class-norsani-ajax.php:267
+msgid "Order Payment"
+msgstr "Pembayaran Pesanan"
+
+#: includes/class-norsani-ajax.php:335
+msgid ""
+"The payment is currently processing. Please refresh the page to see status."
+msgstr ""
+"Bayaran sedang diproses. Sila muat semula halaman untuk melihat status."
+
+#: includes/class-norsani-ajax.php:464 includes/class-norsani-ajax.php:468
+#: includes/class-norsani-ajax.php:505 includes/class-norsani-ajax.php:1410
+#: includes/class-norsani-ajax.php:1427 includes/class-norsani-ajax.php:1828
+#: includes/class-norsani-ajax.php:2169 includes/class-norsani-item.php:558
+#: includes/class-norsani-item.php:669
+msgid "Something went wrong!"
+msgstr "Sesuatu yang tidak kena!"
+
+#: includes/class-norsani-ajax.php:472
+msgid "Payout was canceled and moved to the \"canceled list\"."
+msgstr ""
+"Pembayaran dibatalkan dan dipindahkan ke &quot;senarai dibatalkan&quot;."
+
+#: includes/class-norsani-ajax.php:486
+msgid "Payout was canceled by Admin"
+msgstr "Pembayaran dibatalkan oleh Admin"
+
+#: includes/class-norsani-ajax.php:494
+msgid "Payout already completed and cannot be canceled."
+msgstr "Pembayaran telah selesai dan tidak dapat dibatalkan."
+
+#: includes/class-norsani-ajax.php:545 includes/class-norsani-withdraw.php:122
+msgid "pending"
+msgstr "yang belum selesai"
+
+#: includes/class-norsani-ajax.php:573
+msgid "The order should be refunded. Customer, please send a message to"
+msgstr "Perintah itu harus dikembalikan. Pelanggan, sila hantar mesej kepada"
+
+#: includes/class-norsani-ajax.php:573
+msgid ""
+"in reference to this order ID and your payment account details and method to "
+"complete refund."
+msgstr ""
+"merujuk kepada ID pesanan ini dan butiran dan kaedah akaun pembayaran anda "
+"untuk menyelesaikan bayaran balik."
+
+#: includes/class-norsani-ajax.php:575
+msgid "The order has been cancelled."
+msgstr "Pesanan telah dibatalkan."
+
+#: includes/class-norsani-ajax.php:577
+msgid "The order is being prepared."
+msgstr "Pesanan sedang disediakan."
+
+#: includes/class-norsani-ajax.php:579
+msgid "The order is on its way to customer."
+msgstr "Pesanan sedang dalam perjalanan kepada pelanggan."
+
+#: includes/class-norsani-ajax.php:581
+msgid "Customer has received the order."
+msgstr "Pelanggan telah menerima pesanan itu."
+
+#: includes/class-norsani-ajax.php:583
+msgid "The order was failed to process."
+msgstr "Perintah itu gagal diproses."
+
+#: includes/class-norsani-ajax.php:638 templates/orders/order-details.php:74
+msgid "Delete note"
+msgstr "Padamkan nota"
+
+#: includes/class-norsani-ajax.php:653 includes/class-norsani-ajax.php:671
+#: includes/class-norsani-ajax.php:717 includes/class-norsani-ajax.php:734
+#: includes/class-norsani-ajax.php:1489 includes/class-norsani-ajax.php:1614
+#: includes/class-norsani-ajax.php:1812
+msgid "Something Went Wrong!"
+msgstr "Ada sesuatu yang salah!"
+
+#: includes/class-norsani-ajax.php:660
+msgid "Coupon has been deleted successfully!"
+msgstr "Kupon telah berjaya dipadam!"
+
+#: includes/class-norsani-ajax.php:688
+msgid "You are not allowed to edit/create coupons for the selected products!"
+msgstr ""
+"Anda tidak dibenarkan menyunting / membuat kupon untuk produk terpilih!"
+
+#: includes/class-norsani-ajax.php:698
+msgid "You're the site admin, you cant post coupons!"
+msgstr "Anda admin tapak, anda tidak boleh meletakkan kupon!"
+
+#: includes/class-norsani-ajax.php:712
+msgid "Coupon has been saved successfully!"
+msgstr "Kupon telah berjaya disimpan!"
+
+#: includes/class-norsani-ajax.php:730
+msgid "Coupon has been updated successfully!"
+msgstr "Kupon telah berjaya dikemas kini!"
+
+#: includes/class-norsani-ajax.php:868 includes/class-norsani-ajax.php:893
+msgid "You're not authorized to do this step."
+msgstr "Anda tidak dibenarkan melakukan langkah ini."
+
+#: includes/class-norsani-ajax.php:878
+msgid ""
+"Success: The product will show in the special products list only for today "
+"and only while your store is open."
+msgstr ""
+"Kejayaan: Produk akan dipaparkan dalam senarai produk khas hanya untuk hari "
+"ini dan hanya sementara kedai anda dibuka."
+
+#: includes/class-norsani-ajax.php:880
+msgid ""
+"Success: The product has been removed from today's specials products list."
+msgstr ""
+"Kejayaan: Produk telah dikeluarkan dari senarai produk istimewa hari ini."
+
+#: includes/class-norsani-ajax.php:919
+msgid "Error while checking for new orders"
+msgstr "Ralat semasa menyemak pesanan baharu"
+
+#: includes/class-norsani-ajax.php:955 includes/class-norsani-ajax.php:989
+msgid "You do not have permissions to perform this."
+msgstr "Anda tidak mempunyai keizinan untuk melaksanakannya."
+
+#: includes/class-norsani-ajax.php:1228 templates/views/html-items-atc.php:48
+#: templates/views/html-items-atc.php:74
+msgid "This product is currently unavailable."
+msgstr "Produk ini tidak tersedia pada masa ini."
+
+#: includes/class-norsani-ajax.php:1358
+msgid "Variation"
+msgstr "Variasi"
+
+#: includes/class-norsani-ajax.php:1363
+#: templates/views/html-dashboard-items-form_variation.php:33
+msgid "Option"
+msgstr "Pilihan"
+
+#: includes/class-norsani-ajax.php:1365 includes/class-norsani-scripts.php:398
+msgid "Any"
+msgstr "Mana-mana"
+
+#: includes/class-norsani-ajax.php:1374
+#: templates/views/html-dashboard-items-form_variation.php:51
+msgid "Variation Description"
+msgstr "Penerangan Variasi"
+
+#: includes/class-norsani-ajax.php:1375
+msgid "Few words about this variation"
+msgstr "Beberapa perkataan mengenai variasi ini"
+
+#: includes/class-norsani-ajax.php:1379
+#: templates/views/html-dashboard-items-form_data.php:111
+#: templates/views/html-dashboard-items-form_variation.php:56
+msgid "Regular Price"
+msgstr "Harga biasa"
+
+#: includes/class-norsani-ajax.php:1382
+#: templates/views/html-dashboard-items-form_data.php:114
+#: templates/views/html-dashboard-items-form_variation.php:59
+msgid "Sale Price"
+msgstr "Harga Jualan"
+
+#: includes/class-norsani-ajax.php:1382
+#: templates/views/html-dashboard-items-form_data.php:114
+#: templates/views/html-dashboard-items-form_variation.php:59
+msgid "Schedule"
+msgstr "Jadwal"
+
+#: includes/class-norsani-ajax.php:1387 includes/class-norsani-ajax.php:1388
+#: templates/views/html-dashboard-items-form_data.php:120
+#: templates/views/html-dashboard-items-form_data.php:121
+#: templates/views/html-dashboard-items-form_variation.php:64
+#: templates/views/html-dashboard-items-form_variation.php:65
+msgid "Sale price start date"
+msgstr "Tarikh mula harga jualan"
+
+#: includes/class-norsani-ajax.php:1391 includes/class-norsani-ajax.php:1392
+#: templates/views/html-dashboard-items-form_data.php:124
+#: templates/views/html-dashboard-items-form_data.php:125
+#: templates/views/html-dashboard-items-form_variation.php:68
+#: templates/views/html-dashboard-items-form_variation.php:69
+msgid "Sale price end date"
+msgstr "Tarikh tamat harga jualan"
+
+#: includes/class-norsani-ajax.php:1395
+#: templates/views/html-dashboard-items-form_data.php:128
+#: templates/views/html-dashboard-items-form_variation.php:72
+msgid "The sale will end at the beginning of the set date."
+msgstr "Jualan akan berakhir pada awal tarikh ditetapkan."
+
+#: includes/class-norsani-ajax.php:1395
+#: templates/views/html-dashboard-items-form_data.php:128
+#: templates/views/html-dashboard-items-form_variation.php:72
+msgid "Cancel"
+msgstr "Batal"
+
+#: includes/class-norsani-ajax.php:1440 includes/class-norsani-ajax.php:2187
+msgid "Email sent successfully!"
+msgstr "E-mel berjaya dihantar!"
+
+#: includes/class-norsani-ajax.php:1473
+msgid "Sorry you cannot order from this vendor"
+msgstr "Maaf, anda tidak boleh memesan dari penjual ini"
+
+#: includes/class-norsani-ajax.php:1478
+msgid "Sorry you cannot order this product at this time!"
+msgstr "Maaf, anda tidak boleh memesan produk ini pada masa ini!"
+
+#: includes/class-norsani-ajax.php:1483
+msgid ""
+"Sorry, we cannot receive any more orders for this product today, please come "
+"back another day."
+msgstr ""
+"Maaf, kami tidak boleh menerima sebarang pesanan untuk produk ini pada hari "
+"ini, sila kemukakan kembali hari yang lain."
+
+#: includes/class-norsani-ajax.php:1493 includes/class-norsani-ajax.php:1537
+#: includes/class-norsani-ajax.php:1688
+msgid "View Cart"
+msgstr "Lihat Troli"
+
+#: includes/class-norsani-ajax.php:1493
+#, php-format
+msgid "You cannot add another &quot;%s&quot; to your cart."
+msgstr "Anda tidak boleh menambah &quot; %s&quot; lain ke troli anda."
+
+#: includes/class-norsani-ajax.php:1499 includes/class-norsani-ajax.php:1667
+msgid "Sorry, this product cannot be purchased."
+msgstr "Maaf, produk ini tidak boleh dibeli."
+
+#: includes/class-norsani-ajax.php:1506 includes/class-norsani-ajax.php:1672
+#, php-format
+msgid ""
+"You cannot add &quot;%s&quot; to the cart because the product is out of "
+"stock."
+msgstr ""
+"Anda tidak boleh menambah &quot;%s&quot; ke dalam troli disebabkan produk "
+"tiada stok."
+
+#. translators: 1: product name 2: quantity in stock
+#: includes/class-norsani-ajax.php:1511 includes/class-norsani-ajax.php:1677
+#, php-format
+msgid ""
+"You cannot add that amount of &quot;%1$s&quot; to the cart because there is "
+"not enough stock (%2$s remaining)."
+msgstr ""
+"Anda tidak dapat menambahkan jumlah \"%1$s\" ke troli kerana tidak ada stok "
+"yang cukup (baki %2$s)."
+
+#: includes/class-norsani-ajax.php:1516 includes/class-norsani-item.php:1010
+#: includes/class-norsani-item.php:1020
+msgid ""
+"The Vendor will not deliver to your location, please choose another option."
+msgstr "Penjual tidak akan menghantar ke lokasi anda, sila pilih pilihan lain."
+
+#: includes/class-norsani-ajax.php:1538
+#, php-format
+msgid ""
+"You cannot add that amount to the cart &mdash; we have %s in stock and you "
+"already have %s in your cart."
+msgstr ""
+"Anda tidak boleh menambah jumlah itu pada kereta - kami mempunyai %s dalam "
+"stok dan anda sudah mempunyai %s dalam troli anda."
+
+#: includes/class-norsani-ajax.php:1574
+#, php-format
+msgid "Invalid value posted for %s"
+msgstr "Nilai tidak sah disiarkan untuk %s"
+
+#: includes/class-norsani-ajax.php:1584
+#, php-format
+msgid "%s is a required field"
+msgid_plural "%s are required fields"
+msgstr[0] "%s adalah medan yang diperlukan"
+
+#: includes/class-norsani-ajax.php:1588
+msgid "Please choose product options&hellip;"
+msgstr "Sila pilih pilihan produk ..."
+
+#. translators: %s: product name
+#: includes/class-norsani-ajax.php:1661
+msgid "View cart"
+msgstr "Lihat troli"
+
+#: includes/class-norsani-ajax.php:1661
+#, php-format
+msgid "You cannot add another \"%s\" to your cart."
+msgstr "Anda tidak boleh menambah satu lagi \"%s\" ke troli."
+
+#: includes/class-norsani-ajax.php:1689
+#, php-format
+msgid ""
+"You cannot add that amount to the cart &mdash; we have %1$s in stock and you "
+"already have %2$s in your cart."
+msgstr ""
+"Anda tidak boleh menambah jumlah itu pada troli- kami mempunyai %1$s dalam "
+"stok dan anda sudah mempunyai %2$s dalam troli anda."
+
+#: includes/class-norsani-ajax.php:1766
+msgid "was added to cart."
+msgstr "telah ditambah ke troli."
+
+#: includes/class-norsani-ajax.php:1767
+msgid "We also recommend these products with"
+msgstr "Kami juga mengesyorkan produk ini"
+
+#: includes/class-norsani-ajax.php:1846 includes/class-norsani-ajax.php:2058
+msgid "Settings Saved!"
+msgstr "Tetapan disimpan!"
+
+#: includes/class-norsani-ajax.php:1876
+msgid "Location set successfully"
+msgstr "Tetapkan lokasi dengan jayanya"
+
+#: includes/class-norsani-ajax.php:1881
+msgid "Your location is out the range of our delivery service."
+msgstr "Lokasi anda adalah rangkaian perkhidmatan penghantaran kami."
+
+#: includes/class-norsani-ajax.php:1886
+msgid "You did not change your location!"
+msgstr "Anda tidak mengubah lokasi anda!"
+
+#: includes/class-norsani-ajax.php:1895
+msgid ""
+"You will not be able to use the delivery service due to Geolocation access "
+"denied error."
+msgstr ""
+"Anda tidak akan dapat menggunakan perkhidmatan penghantaran disebabkan oleh "
+"akses Geolocation yang ditolak ralat."
+
+#: includes/class-norsani-ajax.php:1934
+msgid "Product was deleted!"
+msgstr "Produk telah dipadam!"
+
+#: includes/class-norsani-ajax.php:2086
+msgid "Product was updated successfully!"
+msgstr "Produk telah berjaya dikemas kini!"
+
+#: includes/class-norsani-ajax.php:2102
+msgid "Product was created successfully!"
+msgstr "Produk berjaya dicipta!"
+
+#: includes/class-norsani-ajax.php:2199
+msgid "Please fill the email and password fields."
+msgstr "Sila isikan medan e-mel dan kata laluan."
+
+#: includes/class-norsani-ajax.php:2207
+msgid "Incorrect email address, please try again."
+msgstr "Alamat e-mel salah, sila cuba lagi."
+
+#: includes/class-norsani-ajax.php:2218
+msgid "Incorrect password, please try again."
+msgstr "Kata laluan salah. Sila cuba lagi."
+
+#: includes/class-norsani-ajax.php:2234
+msgid "Sorry, you cant rate this vendor."
+msgstr "Maaf, anda cant menilai penjual ini."
+
+#: includes/class-norsani-ajax.php:2238
+msgid "Sorry, you cant rate your self."
+msgstr "Maaf, anda tidak dapat menilai diri anda."
+
+#: includes/class-norsani-ajax.php:2249
+msgid "You have already made your rating."
+msgstr "Anda telah membuat penarafan anda."
+
+#: includes/class-norsani-ajax.php:2255
+msgid "Thank you for rating this vendor."
+msgstr "Terima kasih kerana menilai vendor ini."
+
+#: includes/class-norsani-dashboard.php:50
+msgid "Dashboard"
+msgstr "Papan Pemuka"
+
+#: includes/class-norsani-dashboard.php:54
+#: includes/class-norsani-sellers.php:157
+#: templates/views/html-dashboard-coupon-form.php:167
+msgid "Products"
+msgstr "Produk"
+
+#: includes/class-norsani-dashboard.php:58
+#: includes/class-norsani-sellers.php:158 norsani-options.php:896
+#: templates/views/html-dashboard-home-orders.php:15
+#: templates/views/html-dashboard-vendor-settings_form.php:165
+msgid "Orders"
+msgstr "Perintah"
+
+#: includes/class-norsani-dashboard.php:62
+#: includes/class-norsani-sellers.php:159
+#: templates/views/html-vendor-store_coupon.php:15
+msgid "Coupons"
+msgstr "Kupon"
+
+#: includes/class-norsani-dashboard.php:70 norsani-options.php:15
+msgid "Settings"
+msgstr "Tetapan"
+
+#: includes/class-norsani-dashboard.php:94
+msgid "Admin"
+msgstr "Admin"
+
+#: includes/class-norsani-dashboard.php:232
+msgid "(Refunded)"
+msgstr "(Dikembalikan)"
+
+#: includes/class-norsani-item.php:80
+msgid "Online"
+msgstr "Dalam talian"
+
+#: includes/class-norsani-item.php:84
+msgid "Draft"
+msgstr "Draft"
+
+#: includes/class-norsani-item.php:88 includes/class-norsani-withdraw.php:64
+#: includes/class-norsani-withdraw.php:313 norsani-options.php:623
+#: templates/views/html-dashboard-orders-list-row_actions.php:24
+msgid "Pending"
+msgstr "Menunggu"
+
+#: includes/class-norsani-item.php:92
+msgid "Offline"
+msgstr "Luar talian"
+
+#: includes/class-norsani-item.php:109
+msgid "Make offline"
+msgstr "Jadikan luar talian"
+
+#: includes/class-norsani-item.php:109
+msgid "Make online"
+msgstr "Buat talian"
+
+#: includes/class-norsani-item.php:140
+msgid "Access Denied"
+msgstr "Akses dinafikan"
+
+#: includes/class-norsani-item.php:269 includes/class-norsani-item.php:1098
+#: includes/class-norsani-item.php:1191 includes/class-norsani-item.php:1252
+#: templates/views/html-dashboard-orders-single-items.php:84
+msgid "Discount"
+msgstr "Diskaun"
+
+#: includes/class-norsani-item.php:270
+#: templates/views/html-dashboard-items-form_data.php:242
+#: templates/views/html-dashboard-items-form_data.php:271
+msgid "Free Product"
+msgstr "Produk percuma"
+
+#: includes/class-norsani-item.php:609 includes/class-norsani-item.php:626
+#, php-format
+msgid "Variation #%1$s of %2$s"
+msgstr "Variasi #%1$s daripada%2$s"
+
+#: includes/class-norsani-item.php:860
+msgid "Preparation/Handling Duration:"
+msgstr "Tempoh Penyediaan / Penanganan:"
+
+#: includes/class-norsani-item.php:860
+msgid "Minutes"
+msgstr "Minit"
+
+#: includes/class-norsani-item.php:877 includes/main-functions.php:467
+msgid "Ingredients:"
+msgstr "Bahan-bahan:"
+
+#: includes/class-norsani-item.php:895
+#: templates/views/html-dashboard-coupon-form.php:112
+msgid "Description"
+msgstr "Keterangan"
+
+#: includes/class-norsani-item.php:925
+msgid ""
+"Maximum orders per day has reached for this product, please come back "
+"another day."
+msgstr ""
+"Pesanan maksimum sehari telah dicapai untuk produk ini, sila kembali hari "
+"yang lain."
+
+#: includes/class-norsani-item.php:930
+msgid "Remaining orders for today:"
+msgstr "Perintah untuk hari ini:"
+
+#: includes/class-norsani-item.php:930
+msgid "Maximum orders per day:"
+msgstr "Pesanan maksimum setiap hari:"
+
+#: includes/class-norsani-item.php:977 norsani-options.php:630
+#: norsani-options.php:643 templates/vendors-registration.php:77
+msgid "Delivery"
+msgstr "Bayaran penghantaran"
+
+#: includes/class-norsani-item.php:977
+msgid "Pickup"
+msgstr "Pickup"
+
+#: includes/class-norsani-item.php:977 norsani-options.php:630
+#: norsani-options.php:643
+msgid "Dine-in"
+msgstr "Makan di rumah"
+
+#: includes/class-norsani-item.php:977 norsani-options.php:630
+#: norsani-options.php:643
+msgid "Curbside"
+msgstr "Curbside"
+
+#: includes/class-norsani-item.php:996
+msgid "The order will be processed"
+msgstr "Pesanan akan diproses"
+
+#: includes/class-norsani-item.php:998
+msgid "Addresses:"
+msgstr "Alamat:"
+
+#: includes/class-norsani-item.php:999
+msgid "Please set your location to make a delivery order."
+msgstr "Sila tetapkan lokasi anda untuk membuat pesanan penghantaran."
+
+#: includes/class-norsani-item.php:1000 includes/main-functions.php:441
+msgid "This vendor"
+msgstr "Penjual ini"
+
+#: includes/class-norsani-item.php:1012
+msgid "This Vendor is in your neighbourhood."
+msgstr "Penjual ini berada di kawasan kejiranan anda."
+
+#: includes/class-norsani-item.php:1036
+msgid "Number of People invited?"
+msgstr "Bilangan Orang yang dijemput?"
+
+#: includes/class-norsani-item.php:1046
+msgid "Car Information"
+msgstr "Maklumat Kereta"
+
+#: includes/class-norsani-item.php:1046
+msgid "Car's make, model & color"
+msgstr "Membuat, model &amp; warna kereta"
+
+#: includes/class-norsani-item.php:1058
+msgid "Add special comments or a person name."
+msgstr "Tambah ulasan khas atau nama orang."
+
+#: includes/class-norsani-item.php:1058
+msgid ""
+"Don't add products names, that have separate prices, Just add instructions "
+"for your current product like \"add extra sauces or toppings\" ..etc."
+msgstr ""
+"Jangan tambahkan nama produk, yang mempunyai harga berasingan, tambahkan "
+"arahan untuk produk semasa anda seperti &quot;menambah sos tambahan atau "
+"topping&quot; ..tetap."
+
+#: includes/class-norsani-item.php:1098 includes/class-norsani-item.php:1100
+#: includes/class-norsani-item.php:1191 includes/class-norsani-item.php:1193
+#: includes/class-norsani-item.php:1252 includes/class-norsani-item.php:1254
+#: templates/views/html-dashboard-items-form_data.php:226
+#: templates/views/html-dashboard-items-form_data.php:227
+#: templates/views/html-dashboard-items-form_data.php:255
+#: templates/views/html-dashboard-items-form_data.php:256
+msgid "Buy"
+msgstr "Beli"
+
+#: includes/class-norsani-item.php:1098 includes/class-norsani-item.php:1191
+#: includes/class-norsani-item.php:1252
+#: templates/views/html-dashboard-items-form_data.php:230
+#: templates/views/html-dashboard-items-form_data.php:259
+msgid "Get"
+msgstr "Dapatkan"
+
+#: includes/class-norsani-item.php:1100 includes/class-norsani-item.php:1193
+#: includes/class-norsani-item.php:1254
+msgid "Get a free"
+msgstr "Dapatkan percuma"
+
+#: includes/class-norsani-order.php:374 norsani-options.php:622
+#: templates/views/html-dashboard-home-orders.php:45
+#: templates/views/html-dashboard-orders-list-row_actions.php:17
+msgid "Processing"
+msgstr "Sedang diproses"
+
+#: includes/class-norsani-order.php:377
+msgid "day"
+msgid_plural "days"
+msgstr[0] "hari"
+
+#: includes/class-norsani-order.php:378
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "jam"
+
+#: includes/class-norsani-order.php:379
+msgid "min"
+msgid_plural "mins"
+msgstr[0] "min"
+
+#: includes/class-norsani-order.php:380
+msgid "In queue"
+msgstr "Dalam barisan"
+
+#: includes/class-norsani-order.php:380
+msgid "After"
+msgstr "Selepas"
+
+#. translators: %s: human-readable time difference
+#: includes/class-norsani-order.php:384
+#, php-format
+msgctxt "%2$s = human-readable time difference"
+msgid "%1$s %2$s ago"
+msgstr "%1$s %2$s yang lalu"
+
+#. translators: %s: human-readable time difference
+#: includes/class-norsani-order.php:414
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "%s yang lalu"
+
+#: includes/class-norsani-order.php:447 includes/class-norsani-order.php:500
+msgid "Standard"
+msgstr "Standard"
+
+#: includes/class-norsani-order.php:550
+msgid ""
+"Note: The website fees of this order will be deducted from the current "
+"vendor balance. If the balance is insufficient, it will go in minus."
+msgstr ""
+"Nota: Bayaran laman web ini akan ditolak daripada baki penjual semasa. "
+"Sekiranya baki tidak mencukupi, ia akan dikurangkan."
+
+#: includes/class-norsani-order.php:630
+msgid ""
+"The parent order was marked as \"completed\" because all child orders ware "
+"completed."
+msgstr ""
+"Pesanan ibu bapa ditandakan sebagai &quot;selesai&quot; kerana semua pesanan "
+"kanak-kanak diperiksa."
+
+#: includes/class-norsani-order.php:792
+#, php-format
+msgid "Sorry you cannot order from %s"
+msgstr "Maaf, anda tidak boleh memesan dari %s"
+
+#: includes/class-norsani-order.php:813
+#, php-format
+msgid ""
+"Sorry, You cannot make a %1$s order for %2$s at this time. Please update "
+"your %3$s."
+msgstr ""
+"Maaf, Anda tidak boleh membuat%1$s pesanan untuk%2$s pada masa ini. Sila "
+"kemas kini%3$s anda."
+
+#: includes/class-norsani-order.php:813 includes/class-norsani-order.php:821
+#: includes/class-norsani-order.php:888
+msgid "Cart"
+msgstr "Cart"
+
+#: includes/class-norsani-order.php:817
+#, php-format
+msgid ""
+"Sorry, The preparation timing set for %1$s&apos;s products is inappropriate. "
+"Please choose a time between %2$s"
+msgstr ""
+"Maaf, waktu penyediaan yang ditetapkan untuk produk%1$s tidak sesuai. Sila "
+"pilih masa antara%2$s"
+
+#: includes/class-norsani-order.php:817 includes/class-norsani-vendor.php:1156
+#: includes/main-functions.php:1244
+msgid "or"
+msgstr "vai"
+
+#: includes/class-norsani-order.php:821
+#, php-format
+msgid ""
+"Sorry, we cannot receive any more orders for %1$s today. Please update your "
+"%2$s."
+msgstr ""
+"Maaf, kami tidak dapat menerima sebarang pesanan untuk%1$s hari ini. Sila "
+"kemas kini%2$s anda."
+
+#: includes/class-norsani-order.php:827
+#, php-format
+msgid "Sorry, the minimum order amount for delivery service from %1$s is %2$s"
+msgstr ""
+"Maaf, jumlah pesanan minimum untuk perkhidmatan penghantaran dari%1$s adalah"
+"%2$s"
+
+#: includes/class-norsani-order.php:872
+#, php-format
+msgid ""
+"Sorry, %1$s will be closed at the selected time. %1$s&apos;s timing at %2$s "
+"is %3$s to %4$s & %5$s to %6$s"
+msgstr ""
+"Maaf,%1$s akan ditutup pada waktu yang dipilih. Pemasaan%1$s pada%2$s adalah"
+"%3$s hingga%4$s &amp;%5$s hingga%6$s"
+
+#: includes/class-norsani-order.php:872
+#, php-format
+msgid ""
+"Sorry, %1$s will be closed at the selected time. %1$s&apos;s timing at %2$s "
+"is %3$s to %4$s"
+msgstr ""
+"Maaf,%1$s akan ditutup pada waktu yang dipilih. Pemasaan%1$s pada%2$s adalah"
+"%3$s hingga%4$s"
+
+#: includes/class-norsani-order.php:879
+#, php-format
+msgid ""
+"Sorry, The preparation time set for %s&apos;s products is inappropriate."
+msgstr ""
+"Maaf, Masa persediaan yang ditetapkan untuk produk %s adalah tidak sesuai."
+
+#: includes/class-norsani-order.php:883
+#, php-format
+msgid ""
+"Sorry, %s is closing in less than an hour, Please choose another date if you "
+"wish to make pre-orders."
+msgstr ""
+"Maaf, %s ditutup dalam masa kurang daripada satu jam, Sila pilih tarikh lain "
+"jika anda ingin membuat tempahan."
+
+#: includes/class-norsani-order.php:888
+#, php-format
+msgid ""
+"Sorry, no time left to prepare %1$s&apos;s products. %1$s is closing in less "
+"than an hour. Please update your %2$s or choose another date for your order."
+msgstr ""
+"Maaf, tiada masa lagi untuk menyediakan produk%1$s. %1$s sedang tutup dalam "
+"masa kurang daripada satu jam. Sila kemas kini%2$s anda atau pilih tarikh "
+"lain untuk pesanan anda."
+
+#: includes/class-norsani-order.php:1135
+msgid "Your Details"
+msgstr "Butiran anda"
+
+#: includes/class-norsani-order.php:1137
+msgid "Your Address"
+msgstr "Alamat anda"
+
+#: includes/class-norsani-order.php:1149
+msgid "Customer address"
+msgstr "Alamat pelanggan"
+
+#: includes/class-norsani-scripts.php:354
+msgid "Something is not right :("
+msgstr "Sesuatu tidak betul :("
+
+#: includes/class-norsani-scripts.php:355
+msgid "No Messages"
+msgstr "Tiada Mesej"
+
+#: includes/class-norsani-scripts.php:356
+msgid ""
+"it looks as though you&#8217;ve already sent that question, please suggest "
+"another question."
+msgstr ""
+"ia kelihatan seolah-olah anda telah menghantar soalan itu, sila mencadangkan "
+"satu lagi soalan."
+
+#: includes/class-norsani-scripts.php:357
+msgid "Installing demo data. This may take several minutes..."
+msgstr "Memasang data demo. Ini mungkin mengambil beberapa minit ..."
+
+#: includes/class-norsani-scripts.php:385
+msgid "Are you sure you want to delete this product permanently?"
+msgstr "Adakah anda pasti mahu memadamkan produk ini secara kekal?"
+
+#: includes/class-norsani-scripts.php:386
+msgid "Are you sure you want to delete this withdrawal request?"
+msgstr "Adakah anda pasti mahu memadamkan permintaan pengeluaran ini?"
+
+#: includes/class-norsani-scripts.php:387
+msgid "Are you sure you want to cancel this Payout?"
+msgstr "Adakah anda pasti mahu membatalkan pembayaran ini?"
+
+#: includes/class-norsani-scripts.php:388
+msgid "Are you sure you want to pay this withdrawal request?"
+msgstr "Adakah anda pasti ingin membayar permintaan pengeluaran ini?"
+
+#: includes/class-norsani-scripts.php:392
+msgid "Are you sure you want to delete this coupon?"
+msgstr "Adakah anda pasti mahu memadamkan kupon ini?"
+
+#: includes/class-norsani-scripts.php:396
+msgid "Are you sure?"
+msgstr "Adakah anda pasti?"
+
+#: includes/class-norsani-scripts.php:399
+msgid "You did not do any changes to this form"
+msgstr "Anda tidak melakukan sebarang perubahan pada borang ini"
+
+#: includes/class-norsani-scripts.php:400
+msgid "Product Category field is not set!"
+msgstr "Medan Kategori Produk tidak ditetapkan!"
+
+#: includes/class-norsani-sellers.php:80
+#: includes/emails/class-norsani-email-vendor-message.php:107
+msgid "Invitation"
+msgstr "Jemputan"
+
+#: includes/class-norsani-sellers.php:85
+#: templates/views/html-dashboard-items-nav.php:19
+#, php-format
+msgid "All (%d)"
+msgstr "Semua (% d)"
+
+#: includes/class-norsani-sellers.php:88
+#, php-format
+msgid "Active Vendors (%d)"
+msgstr "Vendor Aktif (% d)"
+
+#: includes/class-norsani-sellers.php:91
+#, php-format
+msgid "Inactive Vendors (%d)"
+msgstr "Vendor Tidak Aktif (% d)"
+
+#: includes/class-norsani-sellers.php:94
+msgid "Top Sellers"
+msgstr "Penjual Teratas"
+
+#: includes/class-norsani-sellers.php:111
+msgid "Send Invitation"
+msgstr "Menghantar jemputan"
+
+#: includes/class-norsani-sellers.php:113
+msgid "Send an invitation to a vendor to join your website."
+msgstr "Hantar jemputan kepada vendor untuk menyertai laman web anda."
+
+#: includes/class-norsani-sellers.php:118
+#: includes/class-norsani-sellers.php:153
+#: templates/vendors-registration.php:118
+#: templates/views/html-vendor-store_email_form.php:32
+msgid "Email"
+msgstr "Emel"
+
+#: includes/class-norsani-sellers.php:119
+msgid "Email of recipient"
+msgstr "E-mel penerima"
+
+#: includes/class-norsani-sellers.php:123
+#: templates/views/html-vendor-store_email_form.php:39
+msgid "Subject"
+msgstr "Subjek"
+
+#: includes/class-norsani-sellers.php:124
+msgid "Invitation Subject"
+msgstr "Subjek Jemputan"
+
+#: includes/class-norsani-sellers.php:127
+#: templates/views/html-vendor-store_email_form.php:45
+msgid "Message"
+msgstr "Mesej"
+
+#: includes/class-norsani-sellers.php:128
+msgid "Invitation Message"
+msgstr "Mesej Jemputan"
+
+#: includes/class-norsani-sellers.php:131 norsani-options.php:134
+msgid "Send"
+msgstr "Kirim"
+
+#: includes/class-norsani-sellers.php:152
+#: templates/views/html-vendor-store_email_form.php:26
+msgid "Name"
+msgstr "Nama"
+
+#: includes/class-norsani-sellers.php:154
+msgid "Active Seller"
+msgstr "Penjual Aktif"
+
+#: includes/class-norsani-sellers.php:155
+msgid "Balance"
+msgstr "Seimbang"
+
+#: includes/class-norsani-sellers.php:156
+msgid "Phone & Address"
+msgstr "Telefon &amp; Alamat"
+
+#: includes/class-norsani-sellers.php:205
+msgid "Vendors listed by highest number of completed orders."
+msgstr "Vendor yang disenaraikan oleh bilangan pesanan yang lengkap."
+
+#: includes/class-norsani-sellers.php:220
+msgid "Sorry, no vendors found!"
+msgstr "Maaf, tidak ada penjual!"
+
+#: includes/class-norsani-sellers.php:239
+msgid "&larr; Previous"
+msgstr "← Sebelum"
+
+#: includes/class-norsani-sellers.php:240
+msgid "Next &rarr;"
+msgstr "Seterusnya →"
+
+#: includes/class-norsani-sellers.php:276
+#, php-format
+msgid "Balance: %s"
+msgstr "Keseimbangan: %s"
+
+#: includes/class-norsani-sellers.php:285
+msgid "Processing:"
+msgstr "Pemprosesan:"
+
+#: includes/class-norsani-sellers.php:285
+msgid "Completed:"
+msgstr "Selesai:"
+
+#: includes/class-norsani-sellers.php:308
+msgid "Activate selling"
+msgstr "Aktifkan jualan"
+
+#: includes/class-norsani-sellers.php:310
+msgid "Yes"
+msgstr "Ya"
+
+#: includes/class-norsani-sellers.php:313
+msgid "No"
+msgstr "Tidak"
+
+#: includes/class-norsani-sellers.php:322
+msgid "Save Settings"
+msgstr "Simpan Tetapan"
+
+#: includes/class-norsani-vendor.php:199
+msgid "No Ratings Yet!"
+msgstr "Tiada Penilaian Namun!"
+
+#: includes/class-norsani-vendor.php:216
+#, php-format
+msgid "%1$s Based on"
+msgstr "%1$s Berdasarkan"
+
+#: includes/class-norsani-vendor.php:216
+#, php-format
+msgid "%2$s Rating"
+msgid_plural "%2$s Ratings"
+msgstr[0] "Penilaian%2$s"
+
+#: includes/class-norsani-vendor.php:233 includes/main-functions.php:976
+msgid "No Rating Yet!"
+msgstr "Tiada Penilaian Namun!"
+
+#: includes/class-norsani-vendor.php:324 includes/class-norsani-vendor.php:327
+#: includes/class-norsani-vendor.php:333
+msgid "at"
+msgstr "pada"
+
+#: includes/class-norsani-vendor.php:325 includes/class-norsani-vendor.php:1140
+msgid "tomorrow"
+msgstr "esok"
+
+#: includes/class-norsani-vendor.php:326
+msgid "another day"
+msgstr "hari lain"
+
+#: includes/class-norsani-vendor.php:329
+msgid "Open till"
+msgstr "Buka sehingga"
+
+#: includes/class-norsani-vendor.php:330
+msgid "Opens at"
+msgstr "Membuka pada"
+
+#: includes/class-norsani-vendor.php:331
+msgid "Opens Tomorrow"
+msgstr "Membuka Besok"
+
+#: includes/class-norsani-vendor.php:332 includes/class-norsani-vendor.php:457
+#: includes/class-norsani-vendor.php:474 includes/class-norsani-vendor.php:491
+msgid "Closed"
+msgstr "Telah ditutup"
+
+#: includes/class-norsani-vendor.php:449 includes/class-norsani-vendor.php:483
+#, php-format
+msgid "Open for %s minute"
+msgid_plural "Open for %s minutes"
+msgstr[0] "Dibuka untuk %s minit"
+
+#: includes/class-norsani-vendor.php:466
+#, php-format
+msgid "Closed for %s minute"
+msgid_plural "Closed for %s minutes"
+msgstr[0] "Tutup untuk %s minit"
+
+#: includes/class-norsani-vendor.php:682 templates/vendors-registration.php:29
+msgid ""
+"Click on the map to start drawing the path for a polygon representing the "
+"area that you can provide delivery service."
+msgstr ""
+"Klik pada peta untuk mula melukis jalan untuk poligon yang mewakili kawasan "
+"yang anda dapat menyediakan perkhidmatan penghantaran."
+
+#: includes/class-norsani-vendor.php:710
+msgid ""
+"Road/Street names. Type first two/three letters and choose from list, if the "
+"list doesn't appear, then complete typing and hit the comma button."
+msgstr ""
+"Jalan / nama jalan. Taipkan dua / tiga huruf pertama dan pilih dari senarai, "
+"jika senarai itu tidak muncul, maka taipkan lengkap dan tekan tombol koma."
+
+#: includes/class-norsani-vendor.php:722 templates/vendors-registration.php:292
+msgid "Saturday"
+msgstr "Sabtu"
+
+#: includes/class-norsani-vendor.php:723 templates/vendors-registration.php:293
+msgid "Sunday"
+msgstr "Ahad"
+
+#: includes/class-norsani-vendor.php:724 templates/vendors-registration.php:294
+msgid "Monday"
+msgstr "Isnin"
+
+#: includes/class-norsani-vendor.php:725 templates/vendors-registration.php:295
+msgid "Tuesday"
+msgstr "Selasa"
+
+#: includes/class-norsani-vendor.php:726 templates/vendors-registration.php:296
+msgid "Wednesday"
+msgstr "Rabu"
+
+#: includes/class-norsani-vendor.php:727 templates/vendors-registration.php:297
+msgid "Thursday"
+msgstr "Khamis"
+
+#: includes/class-norsani-vendor.php:728 templates/vendors-registration.php:298
+msgid "Friday"
+msgstr "Jumaat"
+
+#: includes/class-norsani-vendor.php:809
+msgid "km."
+msgstr "km."
+
+#: includes/class-norsani-vendor.php:809
+msgid "mi."
+msgstr "mi."
+
+#: includes/class-norsani-vendor.php:1135
+msgid "on"
+msgstr "pada"
+
+#: includes/class-norsani-vendor.php:1183
+msgid "to"
+msgstr "ke"
+
+#: includes/class-norsani-vendor.php:1213
+msgid "online"
+msgstr "dalam talian"
+
+#: includes/class-norsani-vendor.php:1214
+msgid "offline"
+msgstr "di luar talian"
+
+#: includes/class-norsani-vendor.php:1240
+msgid "Your first shift will start"
+msgstr "Peralihan pertama anda akan bermula"
+
+#: includes/class-norsani-vendor.php:1242
+msgid "Your timing for today is"
+msgstr "Waktu anda untuk hari ini adalah"
+
+#: includes/class-norsani-vendor.php:1247
+msgid "Your second shift starts"
+msgstr "Peralihan kedua anda bermula"
+
+#: includes/class-norsani-vendor.php:1251
+msgid "Your second shift timing is"
+msgstr "Masa peralihan kedua anda ialah"
+
+#: includes/class-norsani-vendor.php:1254
+#, php-format
+msgid "Your shop has closed today. You will open again %s"
+msgstr "Kedai anda telah ditutup hari ini. Anda akan membuka semula %s"
+
+#: includes/class-norsani-withdraw.php:59
+msgid "New Withdrawal Request"
+msgstr "Permintaan Pengeluaran Baru"
+
+#: includes/class-norsani-withdraw.php:67 norsani-options.php:621
+#: templates/views/html-dashboard-home-orders.php:27
+msgid "Completed"
+msgstr "Selesai"
+
+#: includes/class-norsani-withdraw.php:70
+#: includes/class-norsani-withdraw.php:317
+msgid "Canceled"
+msgstr "Dibatalkan"
+
+#: includes/class-norsani-withdraw.php:87
+msgid "Current Balance:"
+msgstr "Baki terkini:"
+
+#: includes/class-norsani-withdraw.php:101
+msgid "Request"
+msgstr "Permintaan"
+
+#: includes/class-norsani-withdraw.php:102 includes/print-functions.php:121
+#: templates/views/html-dashboard-coupon-form.php:127
+#: templates/views/html-dashboard-coupon-list.php:23
+msgid "Amount"
+msgstr "Amaun"
+
+#: includes/class-norsani-withdraw.php:103
+#: templates/views/html-dashboard-orders-list-row.php:23
+#: templates/views/html-dashboard-orders-list-row.php:31
+msgid "Via"
+msgstr "Melalui"
+
+#: includes/class-norsani-withdraw.php:104
+#: templates/views/html-dashboard-orders-list.php:25
+msgid "Date"
+msgstr "tarikh"
+
+#: includes/class-norsani-withdraw.php:105
+#: templates/views/html-dashboard-coupon-list.php:27
+msgid "Actions"
+msgstr "Tindakan"
+
+#: includes/class-norsani-withdraw.php:115 norsani-options.php:748
+#: templates/views/html-dashboard-coupon-list.php:80
+#: templates/views/html-dashboard-items-list-single_item.php:49
+msgid "Edit"
+msgstr "Sunting"
+
+#: includes/class-norsani-withdraw.php:118
+#: templates/views/html-dashboard-items-list-single_item.php:51
+msgid "View"
+msgstr "Melihat"
+
+#: includes/class-norsani-withdraw.php:123
+#: templates/views/html-dashboard-orders-list-row.php:16
+msgid "More Details"
+msgstr "Maklumat lanjut"
+
+#: includes/class-norsani-withdraw.php:123 includes/print-functions.php:317
+#, php-format
+msgid "Order %s"
+msgstr "Perintah %s"
+
+#: includes/class-norsani-withdraw.php:129
+msgid "View Vendor Balance"
+msgstr "Lihat Baki Vendor"
+
+#: includes/class-norsani-withdraw.php:129
+msgid "By"
+msgstr "Oleh"
+
+#: includes/class-norsani-withdraw.php:141
+#: includes/class-norsani-withdraw.php:145
+msgid "View Details"
+msgstr "Lihat Butiran"
+
+#: includes/class-norsani-withdraw.php:150
+msgid "Pay"
+msgstr "Bayar"
+
+#: includes/class-norsani-withdraw.php:153
+msgid "Cancel Payout"
+msgstr "Batal Pembayaran"
+
+#: includes/class-norsani-withdraw.php:155 norsani-options.php:748
+#: templates/views/html-dashboard-coupon-list.php:81
+#: templates/views/html-dashboard-items-list-single_item.php:50
+msgid "Delete"
+msgstr "Hapus"
+
+#: includes/class-norsani-withdraw.php:168
+msgid "No withdrawal requests found"
+msgstr "Tiada permintaan pengeluaran yang dijumpai"
+
+#: includes/class-norsani-withdraw.php:205
+msgid ""
+"You already have a pending withdrawal request. Until it's been canceled or "
+"completed, you can not submit a new request."
+msgstr ""
+"Anda sudah mempunyai permintaan pengeluaran yang belum selesai. Sehingga ia "
+"telah dibatalkan atau selesai, anda tidak boleh mengemukakan permintaan baru."
+
+#: includes/class-norsani-withdraw.php:209
+msgid "You don't have sufficient balance for a withdrawal request!"
+msgstr "Anda tidak mempunyai baki yang mencukupi untuk permintaan pengeluaran!"
+
+#: includes/class-norsani-withdraw.php:254
+msgid "Editing request #"
+msgstr "Permintaan pengeditan #"
+
+#: includes/class-norsani-withdraw.php:256
+msgid "Viewing request #"
+msgstr "Melihat permintaan #"
+
+#: includes/class-norsani-withdraw.php:270
+msgid "Make a withdrawal request."
+msgstr "Buat permintaan pengeluaran."
+
+#: includes/class-norsani-withdraw.php:276
+msgid "Amount to withdraw"
+msgstr "Jumlah untuk menarik balik"
+
+#: includes/class-norsani-withdraw.php:280
+msgid "Payment method"
+msgstr "Kaedah pembayaran"
+
+#: includes/class-norsani-withdraw.php:300
+msgid "Change Invoice Image"
+msgstr "Tukar Imej Invois"
+
+#: includes/class-norsani-withdraw.php:304
+msgid "Upload Invoice Image"
+msgstr "Muat naik Imej Invois"
+
+#: includes/class-norsani-withdraw.php:309
+msgid "Update status"
+msgstr "Kemaskini status"
+
+#: includes/class-norsani-withdraw.php:320
+msgid "Paid"
+msgstr "Bayar"
+
+#: includes/class-norsani-withdraw.php:324
+msgid "Cancel note"
+msgstr "Batal nota"
+
+#: includes/class-norsani-withdraw.php:325
+msgid "Few words on why you've canceled the withdrawal request"
+msgstr ""
+"Beberapa kata tentang mengapa anda telah membatalkan permintaan pengeluaran"
+
+#: includes/class-norsani-withdraw.php:325
+msgid "No Data"
+msgstr "Tiada data"
+
+#: includes/class-norsani-withdraw.php:333
+msgid "Submit Request"
+msgstr "Hantar permintaan"
+
+#: includes/class-norsani-withdraw.php:333
+msgid "Update Request"
+msgstr "Kemasukan Permintaan"
+
+#: includes/class-norsani-withdraw.php:387
+#: includes/class-norsani-withdraw.php:451
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/class-norsani-withdraw.php:391
+#: includes/class-norsani-withdraw.php:497
+msgid "Bank Transfer"
+msgstr "Pemindahan bank"
+
+#: includes/class-norsani-withdraw.php:395
+#: includes/class-norsani-withdraw.php:475
+msgid "Skrill"
+msgstr "Skrill"
+
+#: includes/class-norsani-withdraw.php:500
+msgid "Account Name"
+msgstr "Nama akaun"
+
+#: includes/class-norsani-withdraw.php:501
+msgid "Your bank account name"
+msgstr "Nama akaun bank anda"
+
+#: includes/class-norsani-withdraw.php:504
+msgid "Account Number"
+msgstr "Nombor akaun"
+
+#: includes/class-norsani-withdraw.php:505
+msgid "Your bank account number"
+msgstr "Nombor akaun bank anda"
+
+#: includes/class-norsani-withdraw.php:508
+msgid "Bank Name"
+msgstr "Nama bank"
+
+#: includes/class-norsani-withdraw.php:509
+msgid "Name of bank"
+msgstr "Nama bank"
+
+#: includes/class-norsani-withdraw.php:514
+#: includes/class-norsani-withdraw.php:515
+msgid "Bank Address"
+msgstr "Alamat bank"
+
+#: includes/class-norsani-withdraw.php:518
+#: includes/class-norsani-withdraw.php:519
+msgid "Swift code"
+msgstr "Kod pantas"
+
+#: includes/class-norsani-withdraw.php:541
+msgid "The payment claiming instructions has been sent by email."
+msgstr "Arahan tuntutan bayaran telah dihantar melalui e-mel."
+
+#: includes/class-norsani-withdraw.php:543
+msgid "Sent to"
+msgstr "Dihantar kepada"
+
+#: includes/class-norsani-wp_init.php:56
+msgctxt "frozr-norsani"
+msgid "Ingredients"
+msgstr "Bahan-bahan"
+
+#: includes/class-norsani-wp_init.php:57
+msgctxt "frozr-norsani"
+msgid "Ingredient"
+msgstr "Bahan"
+
+#: includes/class-norsani-wp_init.php:58
+msgid "Search Ingredients"
+msgstr "Cari bahan-bahan"
+
+#: includes/class-norsani-wp_init.php:59
+msgid "Popular Ingredients"
+msgstr "Bahan-bahan Popular"
+
+#: includes/class-norsani-wp_init.php:60
+msgid "All Ingredients"
+msgstr "Semua Bahan"
+
+#: includes/class-norsani-wp_init.php:63
+msgid "Edit Ingredient"
+msgstr "Edit Bahan"
+
+#: includes/class-norsani-wp_init.php:64
+msgid "Update Ingredient"
+msgstr "Kemas kini Bahan"
+
+#: includes/class-norsani-wp_init.php:65
+msgid "Add New Ingredient"
+msgstr "Tambah Bahan Baru"
+
+#: includes/class-norsani-wp_init.php:66
+msgid "New Ingredient Name"
+msgstr "Nama Bahan Baru"
+
+#: includes/class-norsani-wp_init.php:67
+msgid "Separate Ingredients with commas"
+msgstr "Bahan-bahan berasingan dengan koma"
+
+#: includes/class-norsani-wp_init.php:68
+msgid "Add or remove Ingredients"
+msgstr "Tambah atau keluarkan Bahan-bahan"
+
+#: includes/class-norsani-wp_init.php:69
+msgid "Choose from the most used Ingredients"
+msgstr "Pilih dari Bahan yang paling banyak digunakan"
+
+#: includes/class-norsani-wp_init.php:70
+msgid "No Ingredients found."
+msgstr "Tiada Bahan yang dijumpai."
+
+#: includes/class-norsani-wp_init.php:71
+#: templates/views/html-dashboard-items-form_data.php:72
+msgid "Ingredients"
+msgstr "Bahan-bahan"
+
+#: includes/class-norsani-wp_init.php:95
+msgctxt "frozr-norsani"
+msgid "Delivery Locations"
+msgstr "Lokasi Penghantaran"
+
+#: includes/class-norsani-wp_init.php:96
+msgctxt "frozr-norsani"
+msgid "Delivery Location"
+msgstr "Lokasi Penghantaran"
+
+#: includes/class-norsani-wp_init.php:97
+msgid "Search Locations"
+msgstr "Cari Lokasi"
+
+#: includes/class-norsani-wp_init.php:98
+msgid "Popular Locations"
+msgstr "Lokasi Popular"
+
+#: includes/class-norsani-wp_init.php:99
+msgid "All Locations"
+msgstr "Semua Lokasi"
+
+#: includes/class-norsani-wp_init.php:102
+msgid "Edit Location"
+msgstr "Edit Lokasi"
+
+#: includes/class-norsani-wp_init.php:103
+msgid "Update Location"
+msgstr "Kemas kini Lokasi"
+
+#: includes/class-norsani-wp_init.php:104
+msgid "Add New Location"
+msgstr "Tambah Lokasi Baru"
+
+#: includes/class-norsani-wp_init.php:105
+msgid "New Location Name"
+msgstr "Nama Lokasi Baru"
+
+#: includes/class-norsani-wp_init.php:106
+msgid "Separate Locations with commas"
+msgstr "Lokasi Terpisah dengan koma"
+
+#: includes/class-norsani-wp_init.php:107
+msgid "Add or remove Locations"
+msgstr "Tambah atau alih keluar Lokasi"
+
+#: includes/class-norsani-wp_init.php:108
+msgid "Choose from the most used Locations"
+msgstr "Pilih dari Lokasi yang paling banyak digunakan"
+
+#: includes/class-norsani-wp_init.php:109
+msgid "No Locations found"
+msgstr "Tiada Lokasi dijumpai"
+
+#: includes/class-norsani-wp_init.php:110 norsani-options.php:17
+msgid "Delivery Locations"
+msgstr "Lokasi Penghantaran"
+
+#: includes/class-norsani-wp_init.php:136
+msgctxt "frozr-norsani"
+msgid "Vendor Addresses"
+msgstr "Alamat Penjual"
+
+#: includes/class-norsani-wp_init.php:137
+msgctxt "frozr-norsani"
+msgid "Vendor Address"
+msgstr "Alamat Penjual"
+
+#: includes/class-norsani-wp_init.php:138
+msgid "Search Vendor Addresses"
+msgstr "Cari Alamat Penjual"
+
+#: includes/class-norsani-wp_init.php:139
+msgid "Popular Addresses"
+msgstr "Alamat Popular"
+
+#: includes/class-norsani-wp_init.php:140
+msgid "All Addresses of Vendors"
+msgstr "Semua Alamat Penjual"
+
+#: includes/class-norsani-wp_init.php:143
+msgid "Edit Address"
+msgstr "Edit Alamat"
+
+#: includes/class-norsani-wp_init.php:144
+msgid "Update Address"
+msgstr "Kemas kini Alamat"
+
+#: includes/class-norsani-wp_init.php:145
+msgid "Add New Address"
+msgstr "Tambah Alamat Baru"
+
+#: includes/class-norsani-wp_init.php:146
+msgid "New Address"
+msgstr "Alamat Baru"
+
+#: includes/class-norsani-wp_init.php:147
+msgid "Separate Addresses with commas"
+msgstr "Alamat berasingan dengan koma"
+
+#: includes/class-norsani-wp_init.php:148
+msgid "Add or remove Addresses"
+msgstr "Tambah atau alih keluar Alamat"
+
+#: includes/class-norsani-wp_init.php:149
+msgid "Choose from the most used Addresses"
+msgstr "Pilih daripada Alamat yang paling digunakan"
+
+#: includes/class-norsani-wp_init.php:150
+msgid "No Addresses found"
+msgstr "Tiada Alamat dijumpai"
+
+#: includes/class-norsani-wp_init.php:151
+msgid "Vendor Addresses"
+msgstr "Alamat Penjual"
+
+#: includes/class-norsani-wp_init.php:177
+msgctxt "frozr-norsani"
+msgid "Vendor Tags"
+msgstr "Tag Vendor"
+
+#: includes/class-norsani-wp_init.php:178
+msgctxt "frozr-norsani"
+msgid "Vendor Tag"
+msgstr "Tag Penjual"
+
+#: includes/class-norsani-wp_init.php:179
+#: includes/class-norsani-wp_init.php:192
+msgid "Vendor Tags"
+msgstr "Tag Vendor"
+
+#: includes/class-norsani-wp_init.php:180
+msgid "Popular Vendor Tags"
+msgstr "Tag Vendor Popular"
+
+#: includes/class-norsani-wp_init.php:181
+msgid "All Tags"
+msgstr "Semua Tag"
+
+#: includes/class-norsani-wp_init.php:184
+msgid "Edit Tag"
+msgstr "Edit Tag"
+
+#: includes/class-norsani-wp_init.php:185
+msgid "Update Tag"
+msgstr "Kemas kini Tag"
+
+#: includes/class-norsani-wp_init.php:186
+msgid "Add New Tag"
+msgstr "Tambah Tag Baru"
+
+#: includes/class-norsani-wp_init.php:187
+msgid "New Tag Name"
+msgstr "Nama Tag Baru"
+
+#: includes/class-norsani-wp_init.php:188
+msgid "Separate Tags with commas"
+msgstr "Tag berasingan dengan koma"
+
+#: includes/class-norsani-wp_init.php:189
+msgid "Add or remove Tags"
+msgstr "Tambah atau alih keluar Teg"
+
+#: includes/class-norsani-wp_init.php:190
+msgid "Choose from the most used Tags"
+msgstr "Pilih daripada Tag yang paling banyak digunakan"
+
+#: includes/class-norsani-wp_init.php:191
+msgid "No vendor Tag found."
+msgstr "Tiada Tag vendor yang dijumpai."
+
+#: includes/class-norsani-wp_init.php:216
+msgctxt "post"
+msgid "Offline"
+msgstr "Luar talian"
+
+#: includes/class-norsani-wp_init.php:221
+#, php-format
+msgid "Offline (%s)"
+msgid_plural "Offline (%s)"
+msgstr[0] "Luar talian ( %s)"
+
+#: includes/class-norsani-wp_init.php:238
+msgid "Withdrawal Requests Post Types"
+msgstr "Jenis Post Permintaan Pengunduran"
+
+#: includes/class-norsani-wp_init.php:263
+msgctxt "Status General Name"
+msgid "Completed"
+msgstr "Selesai"
+
+#: includes/class-norsani-wp_init.php:264
+#, php-format
+msgid "Completed (%s)"
+msgid_plural "Completed (%s)"
+msgstr[0] "Selesai ( %s)"
+
+#: includes/class-norsani.php:126
+msgid "Cloning is forbidden."
+msgstr "Pengklonan dilarang."
+
+#: includes/class-norsani.php:135
+msgid "Unserializing instances of this class is forbidden."
+msgstr "Pembedaan contoh kelas ini dilarang."
+
+#: includes/emails/class-norsani-email-vendor-message.php:66
+msgid "Vendor Email"
+msgstr "E-mel Penjual"
+
+#: includes/emails/class-norsani-email-vendor-message.php:67
+msgid ""
+"An email sent to the vendor via his shop page contact form or by website "
+"admin from sellers dashboard page."
+msgstr ""
+"E-mel yang dihantar kepada vendor melalui borang hubungan laman kedainya "
+"atau oleh admin laman web dari halaman pemasar dashboard."
+
+#: includes/emails/class-norsani-email-vendor-message.php:92
+msgid "[{site_title}]: Invitation letter"
+msgstr "[{site_title}]: Surat jemputan"
+
+#: includes/emails/class-norsani-email-vendor-message.php:94
+msgid "[{site_title}]: You recieved a new message"
+msgstr "[{site_title}]: Anda menerima mesej baru"
+
+#: includes/emails/class-norsani-email-vendor-message.php:109
+msgid "New message"
+msgstr "Mesej baru"
+
+#: includes/emails/class-norsani-email-vendor-order-refund.php:73
+msgid "Order refund"
+msgstr "Pulihkan balik pesanan"
+
+#: includes/emails/class-norsani-email-vendor-order-refund.php:74
+msgid ""
+"An email sent to the vendor informing him on a refund for one of his orders."
+msgstr ""
+"Satu e-mel yang dihantar kepada vendor memaklumkannya mengenai bayaran balik "
+"untuk salah satu pesanannya."
+
+#: includes/emails/class-norsani-email-vendor-order-refund.php:96
+msgid "[{site_title}]: Order Refunded"
+msgstr "[{site_title}]: Pesanan Dibayar Semula"
+
+#: includes/emails/class-norsani-email-vendor-order-refund.php:106
+msgid "Order #{order_id} Refunded"
+msgstr "Pesanan # {order_id} Dikembalikan"
+
+#: includes/emails/class-norsani-email-vendor-rating.php:66
+msgid "Vendor rating request"
+msgstr "Permintaan rating vendor"
+
+#: includes/emails/class-norsani-email-vendor-rating.php:67
+msgid "An email sent to the customer asking him to rating a vendor."
+msgstr "E-mel dihantar kepada pelanggan yang meminta beliau menarafkan vendor."
+
+#: includes/emails/class-norsani-email-vendor-rating.php:89
+msgid "[{site_title}]: Make your rating on {vendor_name}"
+msgstr "[{site_title}]: Jadikan penarafan anda pada {vendor_name}"
+
+#: includes/emails/class-norsani-email-vendor-rating.php:99
+msgid "Rate our service"
+msgstr "Rate perkhidmatan kami"
+
+#: includes/emails/class-norsani-email-vendor-status.php:87
+msgid "Vendor Status Update"
+msgstr "Kemas kini Status Penjual"
+
+#: includes/emails/class-norsani-email-vendor-status.php:88
+msgid "An email sent to the vendor to inform him about his selling status."
+msgstr ""
+"E-mel dihantar kepada vendor untuk memaklumkan kepadanya tentang status "
+"jualannya."
+
+#: includes/emails/class-norsani-email-vendor-status.php:115
+msgid "[{site_title}]: Thank you for registering"
+msgstr "[{site_title}]: Terima kasih kerana mendaftar"
+
+#: includes/emails/class-norsani-email-vendor-status.php:117
+msgid "[{site_title}]: Status Update"
+msgstr "[{site_title}]: Kemas kini status"
+
+#: includes/emails/class-norsani-email-vendor-status.php:119
+msgid "[{site_title}]: New Vendor Registration"
+msgstr "[{site_title}]: Pendaftaran Vendor Baru"
+
+#: includes/emails/class-norsani-email-vendor-status.php:132
+msgid "Welcome to {site_title}"
+msgstr "Selamat datang ke {site_title}"
+
+#: includes/emails/class-norsani-email-vendor-status.php:134
+msgid "Status Update"
+msgstr "Kemas kini Status"
+
+#: includes/emails/class-norsani-email-vendor-status.php:136
+msgid "New Vendor"
+msgstr "Penjual Baru"
+
+#: includes/emails/class-norsani-email-withdraw-status.php:73
+msgid "Withdrawal Request Status"
+msgstr "Status Permintaan Pengeluaran"
+
+#: includes/emails/class-norsani-email-withdraw-status.php:74
+msgid "An email sent to the vendor about his withdrawal request status."
+msgstr ""
+"E-mel dihantar kepada vendor mengenai status permintaan pengeluarannya."
+
+#: includes/emails/class-norsani-email-withdraw-status.php:96
+msgid "[{site_title}]: Status of your withdrawal request #{withdraw_id}"
+msgstr "[{site_title}]: Status permintaan pengeluaran anda # {withdraw_id}"
+
+#: includes/emails/class-norsani-email-withdraw-status.php:106
+msgid "Your withdrawal request: #{withdraw_id}"
+msgstr "Permintaan pengeluaran anda: # {withdraw_id}"
+
+#: includes/main-functions.php:94
+msgid ""
+"Selling privileges of this vendor has been disabled. You are viewing this "
+"because you are an administrator."
+msgstr ""
+"Menjual keistimewaan penjual ini telah dilumpuhkan. Anda sedang melihat ini "
+"kerana anda adalah pentadbir."
+
+#: includes/main-functions.php:349
+msgid "Total Delivery Fee"
+msgstr "Jumlah Kos Penghantaran"
+
+#: includes/main-functions.php:390
+msgid "Unset"
+msgstr "Unset"
+
+#: includes/main-functions.php:396
+msgid "Change your location"
+msgstr "Tukar lokasi anda"
+
+#: includes/main-functions.php:396
+msgid "Set your location"
+msgstr "Tetapkan lokasi anda"
+
+#: includes/main-functions.php:398
+msgid "Start typing your location."
+msgstr "Mula menaip lokasi anda."
+
+#: includes/main-functions.php:408
+msgid "Type the first three letters and choose from the list."
+msgstr "Ketik tiga huruf pertama dan pilih dari senarai."
+
+#: includes/main-functions.php:421
+msgid "Your Current location is: "
+msgstr "Lokasi semasa anda ialah:"
+
+#: includes/main-functions.php:453
+msgid "will not accept orders at this time."
+msgstr "tidak akan menerima pesanan pada masa ini."
+
+#: includes/main-functions.php:457
+msgid "will not accept orders at this time please come back later"
+msgstr "tidak akan menerima pesanan pada masa ini, sila kembali kemudian"
+
+#: includes/main-functions.php:482
+msgid "How about.."
+msgstr "Macam mana dengan.."
+
+#. translators: %s template
+#: includes/main-functions.php:603
+#, php-format
+msgid "%s does not exist."
+msgstr "%s tidak wujud."
+
+#: includes/main-functions.php:829
+msgid "Next Page"
+msgstr "Muka surat seterusnya"
+
+#: includes/main-functions.php:989 installer.php:222
+msgid "Chefs"
+msgstr "Chef"
+
+#: includes/main-functions.php:989 installer.php:222
+msgid "Restaurants"
+msgstr "Restoran"
+
+#: includes/main-functions.php:989 installer.php:222
+msgid "Groceries"
+msgstr "Barangan runcit"
+
+#: includes/main-functions.php:989 installer.php:222
+msgid "Food Trucks"
+msgstr "Lori makanan"
+
+#: includes/main-functions.php:1046
+msgid "plus"
+msgstr "ditambah"
+
+#: includes/main-functions.php:1050
+msgid ""
+"Here you can get statistics info on your sales. The results table is set by "
+"default to show sales for today, but you can see results for different "
+"periods as well. You can also click the print button if you wish to print "
+"current results."
+msgstr ""
+"Di sini anda boleh mendapatkan maklumat statistik mengenai jualan anda. "
+"Jadual hasil ditetapkan secara lalai untuk menunjukkan jualan hari ini, "
+"tetapi anda dapat melihat hasil untuk tempoh yang berbeza juga. Anda juga "
+"boleh mengklik butang cetakan jika anda ingin mencetak hasil semasa."
+
+#: includes/main-functions.php:1051
+#, php-format
+msgid ""
+"Whenever a customer makes an online payment for your products, we deduct %s "
+"from the order's total and save the remaining amount here in your account "
+"balance after the order status is changed to completed. Click the withdraw "
+"button if you wish to submit a withdrawal request."
+msgstr ""
+"Apabila pelanggan melakukan pembayaran dalam talian untuk produk anda, kami "
+"akan menolak %s dari jumlah pesanan dan menyimpan baki jumlah di sini dalam "
+"baki akaun anda setelah status pesanan diubah menjadi selesai. Klik butang "
+"tarik balik jika anda ingin mengemukakan permintaan pengeluaran."
+
+#: includes/main-functions.php:1052
+msgid ""
+"This will show you a general count of your orders grouped by order status. "
+"You can click on the status title to navigate to the respective orders page."
+msgstr ""
+"Ini akan menunjukkan jumlah pesanan pesanan anda dikumpulkan mengikut status "
+"pesanan. Anda boleh mengklik tajuk status untuk menavigasi ke halaman "
+"pesanan masing-masing."
+
+#: includes/main-functions.php:1053
+msgid ""
+"Here you can get information on products having the most sales. This will "
+"help you in either improving or promoting other products that have low sales."
+msgstr ""
+"Di sini anda boleh mendapatkan maklumat mengenai produk yang mempunyai "
+"jualan yang paling banyak. Ini akan membantu anda memperbaiki atau "
+"mempromosikan produk lain yang mempunyai jualan yang rendah."
+
+#: includes/main-functions.php:1054
+msgid ""
+"Here you can get information on top spending customers. This is only based "
+"on completed orders. This could be helpful if you wish to reward or provide "
+"them with special service."
+msgstr ""
+"Di sini anda boleh mendapatkan maklumat mengenai pelanggan perbelanjaan "
+"teratas. Ini hanya berdasarkan pesanan yang lengkap. Ini boleh membantu jika "
+"anda ingin memberi ganjaran atau memberi mereka perkhidmatan istimewa."
+
+#: includes/main-functions.php:1055
+msgid ""
+"This is the main page to view and manage your incoming orders. Orders are "
+"listed from oldest to newest. Whenever your shop is open, and you are in "
+"this page, the system will automatically update your orders list every "
+"minute. Click on \"Quick view\" to see the products list or click on the "
+"order number to view full details. Click on the action button to process the "
+"order by changing its status. You should only manage the orders that are in "
+"the \"processing\" list. The Orders that are in the \"On-hold\" or \"Pending"
+"\" status are still not paid, so please wait until they are moved to the "
+"processing orders list."
+msgstr ""
+"Ini adalah halaman utama untuk melihat dan mengurus pesanan masuk anda. "
+"Pesanan disenaraikan dari tertua hingga terbaru. Setiap kali kedai anda "
+"dibuka, dan anda berada di halaman ini, sistem akan mengemas kini senarai "
+"pesanan anda setiap minit secara automatik. Klik pada &quot;Paparan "
+"Pantas&quot; untuk melihat senarai produk atau klik pada nombor pesanan "
+"untuk melihat butiran penuh. Klik pada butang tindakan untuk memproses "
+"pesanan dengan menukar statusnya. Anda hanya perlu menguruskan pesanan yang "
+"terdapat dalam senarai &quot;pemprosesan&quot;. Perintah yang ada dalam "
+"status &quot;On-hold&quot; atau &quot;Pending&quot; masih belum dibayar, "
+"jadi sila tunggu sehingga mereka dipindahkan ke senarai pesanan pemprosesan."
+
+#: includes/main-functions.php:1056
+msgid "This is the total discount. Discounts are defined per line item."
+msgstr "Ini adalah jumlah diskaun. Diskaun ditakrifkan bagi setiap item baris."
+
+#: includes/main-functions.php:1057
+msgid ""
+"Add a note for your reference, or add a customer note (the customer will be "
+"notified)"
+msgstr ""
+"Tambah nota untuk rujukan anda, atau tambah nota pelanggan (pelanggan akan "
+"dimaklumkan)"
+
+#: includes/main-functions.php:1058
+msgid ""
+"Here you can add discount coupons on your products to encourage customers to "
+"make orders from your shop. You can also create discount coupons for only "
+"one specific loyal customer by setting the usage limit to 1 and disabling "
+"the \"Go public\" option, then you can send the code to the customer by "
+"email with a thank you message."
+msgstr ""
+"Di sini anda boleh menambah kupon diskaun pada produk anda untuk "
+"menggalakkan pelanggan membuat pesanan dari kedai anda. Anda juga boleh "
+"membuat kupon diskaun untuk hanya satu pelanggan setia tertentu dengan "
+"menetapkan had penggunaan kepada 1 dan melumpuhkan pilihan &quot;Pergi "
+"awam&quot;, maka anda boleh menghantar kod kepada pelanggan melalui e-mel "
+"dengan mesej terima kasih."
+
+#: includes/main-functions.php:1059
+msgid ""
+"Customers will need the \"coupon code\" to benefit from the discount when "
+"they are in the cart or the checkout page. This \"coupon code\" will not "
+"appear to customers by default, you need to include it in the \"Coupon text "
+"to show\" field."
+msgstr ""
+"Pelanggan akan memerlukan &quot;kod kupon&quot; untuk mendapat manfaat "
+"daripada diskaun ketika berada di dalam troli atau halaman checkout. &quot;"
+"Kod kupon&quot; ini tidak akan dipaparkan kepada pelanggan secara lalai, "
+"anda perlu menyertakannya dalam medan &quot;Bidang Kupon untuk "
+"menunjukkan&quot;."
+
+#: includes/main-functions.php:1060
+msgid "Type few lines about this coupon, describing why are you offering it."
+msgstr ""
+"Taip beberapa baris tentang kupon ini, menerangkan mengapa anda "
+"menawarkannya."
+
+#: includes/main-functions.php:1061
+msgid ""
+"Set the amount or percentage to discount (depending on the discount type)."
+msgstr ""
+"Tetapkan jumlah atau peratusan kepada diskaun (bergantung pada jenis "
+"diskaun)."
+
+#: includes/main-functions.php:1062
+msgid ""
+"White-list of customers emails to check against when an order is placed. "
+"Separate email addresses with commas. You can also use an asterisk (*) to "
+"match parts of an email. For example &quot;*@gmail.com&quot; would match all "
+"gmail addresses.."
+msgstr ""
+"Senarai putih pelanggan e-mel untuk memeriksa terhadap apabila pesanan "
+"ditempatkan. Alamat e-mel berasingan dengan tanda koma. Anda juga boleh "
+"menggunakan asterisk (*) untuk memadankan bahagian e-mel. Contohnya &quot;"
+"*@gmail.com&quot; sepadan dengan semua alamat gmail .."
+
+#: includes/main-functions.php:1063
+msgid "How many times this coupon can be used before it becomes void?"
+msgstr "Berapa kali kupon ini boleh digunakan sebelum ia menjadi tidak sah?"
+
+#: includes/main-functions.php:1064
+msgid ""
+"The maximum number of individual products that this coupon can apply to when "
+"using products discount. Leave it blank to apply to all qualifying products "
+"in cart."
+msgstr ""
+"Bilangan maksimum produk individu yang kupon ini boleh digunakan apabila "
+"menggunakan diskaun produk. Biarkan kosong untuk memohon kepada semua produk "
+"yang layak dalam kereta."
+
+#: includes/main-functions.php:1065
+msgid "How many times this coupon can be used by each individual user?"
+msgstr "Berapa kali kupon ini boleh digunakan oleh setiap pengguna individu?"
+
+#: includes/main-functions.php:1066
+msgid ""
+"Products that the coupon will be applied to, or that need to be in the cart "
+"in order for the &quot;Fixed cart discount&quot; to be applied.."
+msgstr ""
+"Produk yang kupon akan digunakan, atau yang perlu berada di dalam troli "
+"supaya &quot;diskaun kereta tetap&quot; digunakan .."
+
+#: includes/main-functions.php:1067
+msgid "Check this box if the coupon grants free delivery."
+msgstr "Semak kotak ini jika kupon memberikan penghantaran percuma."
+
+#: includes/main-functions.php:1068
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr ""
+"Semak kotak ini jika kupon tidak boleh digunakan bersama dengan kupon lain."
+
+#: includes/main-functions.php:1069
+msgid ""
+"Check this box if the coupon should not apply to products with discounted "
+"price. Per-product coupons will only work if the product is not on it's "
+"discount price. Per-cart coupons will only work if there are no discounted "
+"products in the cart."
+msgstr ""
+"Semak kotak ini jika kupon tidak terpakai bagi produk dengan harga diskaun. "
+"Kupon setiap produk hanya akan berfungsi jika produk tidak ada pada harga "
+"diskaun itu. Kupon per-keranjang hanya akan berfungsi jika tidak ada produk "
+"diskaun di dalam troli."
+
+#: includes/main-functions.php:1070
+msgid ""
+"This field allows you to set the minimum spend (subtotal) allowed to use the "
+"coupon."
+msgstr ""
+"Bidang ini membolehkan anda menetapkan perbelanjaan minimum (subtotal) yang "
+"dibenarkan menggunakan kupon."
+
+#: includes/main-functions.php:1071
+msgid ""
+"This field allows you to set the maximum spend (subtotal) allowed when using "
+"the coupon."
+msgstr ""
+"Bidang ini membolehkan anda menetapkan perbelanjaan maksimum (subtotal) yang "
+"dibenarkan apabila menggunakan kupon."
+
+#: includes/main-functions.php:1072
+msgid "Show the Coupon in your shop page?"
+msgstr "Paparkan Kupon di halaman kedai anda?"
+
+#: includes/main-functions.php:1073
+msgid "Text to show in the coupon box on your shop page."
+msgstr "Teks untuk dipaparkan dalam kotak kupon di halaman kedai anda."
+
+#: includes/main-functions.php:1074
+#, php-format
+msgid ""
+"From this page, you can submit money withdrawal requests and view your "
+"previous requests. Whenever an order status is changed to completed, the "
+"system will automatically create a withdrawal request for you. Before it has "
+"been Processed by the website admin you can manually cancel your request. If "
+"you have at least %1$s%2$s in your current balance you can make a withdrawal "
+"request."
+msgstr ""
+"Dari halaman ini, anda boleh menghantar permintaan pengeluaran wang dan "
+"melihat permintaan anda yang terdahulu. Apabila status pesanan diubah untuk "
+"diselesaikan, sistem akan secara automatik membuat permintaan pengeluaran "
+"untuk anda. Sebelum diproses oleh pentadbir laman web, anda boleh "
+"membatalkan permintaan anda secara manual. Jika anda mempunyai sekurang-"
+"kurangnya%1$s %2$s dalam baki semasa anda, anda boleh membuat permintaan "
+"pengeluaran."
+
+#: includes/main-functions.php:1074
+#, php-format
+msgid ""
+"From this page, you can submit money withdrawal requests and view your "
+"previous requests. If you have at least %1$s%2$s in your account balance you "
+"can submit a withdrawal request."
+msgstr ""
+"Dari halaman ini, anda boleh menghantar permintaan pengeluaran wang dan "
+"melihat permintaan anda yang terdahulu. Jika anda mempunyai sekurang-"
+"kurangnya%1$s %2$s dalam baki akaun anda, anda boleh menyerahkan permintaan "
+"pengeluaran."
+
+#: includes/main-functions.php:1075
+msgid ""
+"This is used to classify your shop type. You cannot change this option after "
+"registration."
+msgstr ""
+"Ini digunakan untuk mengklasifikasikan jenis kedai anda. Anda tidak boleh "
+"menukar pilihan ini selepas pendaftaran."
+
+#: includes/main-functions.php:1076
+msgid ""
+"This is your shop name which will appear in the vendor lists and in your "
+"shop's page."
+msgstr ""
+"Ini adalah nama kedai anda yang akan muncul dalam senarai vendor dan di "
+"halaman kedai anda."
+
+#: includes/main-functions.php:1077
+msgid "This is the phone number which will appear on your shop's contact form."
+msgstr ""
+"Ini adalah nombor telefon yang akan muncul di borang kenalan kedai anda."
+
+#: includes/main-functions.php:1078
+msgid ""
+"This is the shop's address which will appear in your shop's contact form and "
+"whenever customers choose to make 'Pickup', 'Dine-in', or 'Curbside' orders."
+msgstr ""
+"Ini adalah alamat kedai yang akan muncul di dalam borang hubungan kedai anda "
+"dan apabila pelanggan memilih membuat pesanan &#39;Pickup&#39;, &#39;Dine-"
+"in&#39;, atau &#39;Curbside&#39;."
+
+#: includes/main-functions.php:1079
+msgid ""
+"Click on the map to set the exact location to your shop. This will allow "
+"customers to quickly get directions to your shop with Google Maps. In "
+"addition, this will be used to calculate delivery fees if you offer delivery "
+"service."
+msgstr ""
+"Klik pada peta untuk menetapkan lokasi yang tepat ke kedai anda. Ini akan "
+"membolehkan pelanggan mendapatkan arahan segera ke kedai anda dengan Peta "
+"Google. Di samping itu, ini akan digunakan untuk mengira yuran penghantaran "
+"jika anda menawarkan perkhidmatan penghantaran."
+
+#: includes/main-functions.php:1080
+msgid ""
+"Type services/foods that you provide separated with a comma or click on "
+"value if appeared in the predictions list. Values here are used in vendors "
+"searching tools. i.e: Indian, Chinese, Thai, barbecue, meats, fish, "
+"seafoods, pet-foods, snack-foods."
+msgstr ""
+"Taipkan perkhidmatan / makanan yang anda berikan dipisahkan dengan koma atau "
+"klik pada nilai jika muncul dalam senarai ramalan. Nilai di sini digunakan "
+"dalam alat carian vendor. iaitu India, Cina, Thailand, barbeku, daging, "
+"ikan, makanan laut, makanan haiwan, makanan ringan."
+
+#: includes/main-functions.php:1081
+msgid "Select food types available in your shop."
+msgstr "Pilih jenis makanan yang ada di kedai anda."
+
+#: includes/main-functions.php:1082
+msgid ""
+"When this is selected, customers will be able to send you email messages "
+"from your shop page."
+msgstr ""
+"Apabila ini dipilih, pelanggan akan dapat menghantar anda mesej e-mel dari "
+"halaman kedai anda."
+
+#: includes/main-functions.php:1083
+msgid ""
+"If you offer products/foods on specific timings, then you should use menus "
+"to avoid customers from ordering products at the time that you do not offer "
+"them. After you create menus here, a new option called \"Linked Menus\" will "
+"appear in the products add/edit form where you can link the product to a "
+"specific menu or multiple menus."
+msgstr ""
+"Jika anda menawarkan produk / makanan pada waktu tertentu, maka anda harus "
+"menggunakan menu untuk mengelakkan pelanggan daripada memesan produk pada "
+"masa yang anda tidak menawarkannya. Setelah anda membuat menu di sini, "
+"pilihan baru yang dipanggil &quot;Menu Berkaitan&quot; akan muncul dalam "
+"bentuk tambah / edit produk di mana anda boleh memautkan produk ke menu "
+"tertentu atau berbilang menu."
+
+#: includes/main-functions.php:1084
+msgid ""
+"Select a name for this menu. This will appear in your shop page with timings "
+"below."
+msgstr ""
+"Pilih nama untuk menu ini. Ini akan muncul di halaman kedai anda dengan masa "
+"di bawah."
+
+#: includes/main-functions.php:1085
+msgid ""
+"When do you start offering products linked to this menu? if your browser "
+"does not support time inputs please enter the time in 24 hour format like: "
+"16:30"
+msgstr ""
+"Bilakah anda mula menawarkan produk yang dikaitkan dengan menu ini? jika "
+"pelayar anda tidak menyokong input masa sila masukkan masa dalam format 24 "
+"jam seperti: 16:30"
+
+#: includes/main-functions.php:1086
+msgid ""
+"When do you end offering products linked to this menu? if your browser does "
+"not support time inputs please enter the time in 24 hour format like: 18:50"
+msgstr ""
+"Bilakah anda menamatkan produk yang disambungkan ke menu ini? jika pelayar "
+"anda tidak menyokong input masa sila masukkan masa dalam format 24 jam "
+"seperti: 18:50"
+
+#: includes/main-functions.php:1087
+msgid "What are the order types you accept when your shop is open (online)?"
+msgstr ""
+"Apakah jenis pesanan yang anda terima apabila kedai anda dibuka (dalam "
+"talian)?"
+
+#: includes/main-functions.php:1088
+msgid ""
+"Selecting this option will allow customers to create pre-orders to be "
+"processed when your shop is open."
+msgstr ""
+"Memilih pilihan ini akan membolehkan pelanggan membuat pra pesanan untuk "
+"diproses apabila kedai anda dibuka."
+
+#: includes/main-functions.php:1089
+msgid "What are the order types you accept when your shop is closed (offline)?"
+msgstr ""
+"Apakah jenis pesanan yang anda terima apabila kedai anda ditutup (di luar "
+"talian)?"
+
+#: includes/main-functions.php:1090
+msgid ""
+"If you offer delivery service click on the map to start drawing a polygon "
+"that covers the area where you can offer delivery service. Click on the X "
+"button on the right to clear the drawing."
+msgstr ""
+"Jika anda menawarkan perkhidmatan penghantaran, klik pada peta untuk mula "
+"melukis poligon yang merangkumi kawasan di mana anda boleh menawarkan "
+"perkhidmatan penghantaran. Klik pada butang X di sebelah kanan untuk "
+"membersihkan lukisan itu."
+
+#: includes/main-functions.php:1091
+msgid ""
+"Do you want to calculate the delivery fee separately for each individual "
+"product or as per order?"
+msgstr ""
+"Adakah anda ingin mengira yuran penghantaran secara berasingan untuk setiap "
+"produk individu atau mengikut pesanan?"
+
+#: includes/main-functions.php:1092
+#, php-format
+msgid ""
+"Enter your delivery fee per %s. The system will use this to calculate the "
+"delivery fee depending on the distance from your shop to customer location."
+msgstr ""
+"Masukkan yuran penghantaran anda untuk %s. Sistem ini akan menggunakan ini "
+"untuk mengira yuran penghantaran bergantung pada jarak dari kedai anda ke "
+"lokasi pelanggan."
+
+#: includes/main-functions.php:1093
+msgid "Delivery fee per additional product after the first product."
+msgstr "Yuran penghantaran setiap produk tambahan selepas produk pertama."
+
+#: includes/main-functions.php:1094
+msgid ""
+"What is the minimum order amount to allow customers to make delivery orders?"
+msgstr ""
+"Apakah jumlah pesanan minimum untuk membolehkan pelanggan membuat pesanan "
+"penghantaran?"
+
+#: includes/main-functions.php:1095
+msgid ""
+"Enter values below if you wish to set different delivery fees whenever you "
+"are having a number of processing orders, or set \"Processing Orders\" to 0 "
+"if you do not wish to use different delivery fees."
+msgstr ""
+"Masukkan nilai di bawah jika anda ingin menetapkan bayaran penghantaran yang "
+"berbeza apabila anda mempunyai beberapa pesanan pemprosesan atau menetapkan "
+"&quot;Pesanan Pemprosesan&quot; kepada 0 jika anda tidak mahu menggunakan "
+"yuran penghantaran yang berbeza."
+
+#: includes/main-functions.php:1096
+msgid ""
+"How many processing orders you should be having before using these delivery "
+"fees on new orders?"
+msgstr ""
+"Berapa banyak pesanan pemprosesan yang perlu anda lakukan sebelum "
+"menggunakan yuran penghantaran pada pesanan baru?"
+
+#: includes/main-functions.php:1097
+msgid "Add a notice or announcement on your shop page."
+msgstr "Tambah notis atau pengumuman di halaman kedai anda."
+
+#: includes/main-functions.php:1098
+msgid ""
+"If you have accounts on social media you can add their links here. Social "
+"icons will appear on your shop page header."
+msgstr ""
+"Jika anda mempunyai akaun di media sosial, anda boleh menambah pautan di "
+"sini. Ikon sosial akan muncul di tajuk halaman kedai anda."
+
+#: includes/main-functions.php:1099
+msgid ""
+"The system will use these timing settings to open or close your shop "
+"automatically every day. However, you can at any time manually set your shop "
+"to opened (online) or closed (offline) by clicking on the shop icon in the "
+"top bar."
+msgstr ""
+"Sistem ini akan menggunakan tetapan masa untuk membuka atau menutup kedai "
+"anda secara automatik setiap hari. Walau bagaimanapun, anda boleh pada bila-"
+"bila masa secara manual menetapkan kedai anda untuk dibuka (dalam talian) "
+"atau ditutup (di luar talian) dengan mengklik pada ikon kedai di bar atas."
+
+#: includes/main-functions.php:1100
+msgid ""
+"Click open if your shop will open in this day, and enter the opening and "
+"closing timings. Please note here that the opening and closing timings must "
+"be within the same day. i.e if your shop will open from (08:00 pm) till "
+"(02:00 am) which means it will close at the next day, you should set the "
+"timing for today from 08:00 pm (20:00) till 11:59 pm (23:59) and set the "
+"remaining two hours in the \"First Shift\" timing fields of the next day."
+msgstr ""
+"Klik buka jika kedai anda akan dibuka pada hari ini, dan masukkan waktu "
+"pembukaan dan penutupan. Sila ambil perhatian bahawa pembukaan dan penutupan "
+"tutup mesti berada dalam hari yang sama. iaitu jika kedai anda akan dibuka "
+"dari (08:00 petang) hingga (02:00 pagi) yang bermaksud ia akan ditutup pada "
+"keesokan harinya, anda perlu menetapkan masa untuk hari ini dari pukul 08:00 "
+"(20:00) hingga 11: 59 malam (23:59) dan tetapkan baki dua jam dalam masa "
+"&quot;Shift Pertama&quot; pada hari berikutnya."
+
+#: includes/main-functions.php:1101 includes/main-functions.php:1247
+msgid ""
+"If your browser does not support the \"time\" inputs please enter the time "
+"in 24 hour format like: 16:20"
+msgstr ""
+"Jika penyemak imbas anda tidak menyokong input &quot;masa&quot; sila "
+"masukkan masa dalam format 24 jam seperti: 16:20"
+
+#: includes/main-functions.php:1102
+msgid ""
+"Do you close on national holidays or some special events? if yes, please "
+"enter days when you will not be available."
+msgstr ""
+"Adakah anda tutup pada cuti umum atau beberapa acara khas? jika ya, sila "
+"masukkan hari apabila anda tidak akan tersedia."
+
+#: includes/main-functions.php:1103
+msgid "Details here are used in withdrawal requests."
+msgstr "Butiran di sini digunakan dalam permintaan pengeluaran."
+
+#: includes/main-functions.php:1104
+msgid ""
+"All products available on your online shop are listed here. By default, "
+"products are marked as \"online\" after posting them which means they are "
+"visible on your shop page."
+msgstr ""
+"Semua produk yang terdapat di kedai dalam talian anda disenaraikan di sini. "
+"Secara lalai, produk ditandakan sebagai &quot;dalam talian&quot; selepas "
+"menyiarkannya yang bermaksud ia kelihatan di halaman kedai anda."
+
+#: includes/main-functions.php:1105
+msgid ""
+"Describe this product in few words. This will appear in the product full "
+"page."
+msgstr ""
+"Terangkan produk ini dalam beberapa perkataan. Ini akan muncul di halaman "
+"penuh produk."
+
+#: includes/main-functions.php:1106
+msgid ""
+"Type the categories this product belongs to, hit the comma button on your "
+"keyboard after typing each category name or click on the category name if "
+"appeared in the predictions list. The system will use the products "
+"categories to group products on your shop page."
+msgstr ""
+"Ketik kategori produk yang dimiliki oleh produk ini, tekan butang koma di "
+"papan kekunci anda selepas menaip setiap nama kategori atau klik pada nama "
+"kategori jika muncul dalam senarai ramalan. Sistem ini akan menggunakan "
+"kategori produk untuk mengelompokkan produk di halaman kedai anda."
+
+#: includes/main-functions.php:1107
+msgid ""
+"Select the menu that includes this product. press ‘ctrl’ on your keyboard "
+"and click to select multiple menus."
+msgstr ""
+"Pilih menu yang mengandungi produk ini. tekan &#39;ctrl&#39; pada papan "
+"kekunci anda dan klik untuk memilih berbilang menu."
+
+#: includes/main-functions.php:1108
+msgid ""
+"Type the main ingredients of the product so customers can see them before "
+"ordering. This information helps avoiding complains and bad reviews. Hit the "
+"comma button after typing each ingredient or select from the predictions "
+"list."
+msgstr ""
+"Taip bahan utama produk supaya pelanggan dapat melihatnya sebelum membuat "
+"tempahan. Maklumat ini membantu mengelakkan aduan dan tinjauan buruk. Tekan "
+"butang koma selepas menaip setiap bahan atau pilih dari senarai ramalan."
+
+#: includes/main-functions.php:1109
+msgid ""
+"Enter the time required to prepare/handle this product for delivery, pickup, "
+"dine-in, and curbside. Leave 0 for immediately."
+msgstr ""
+"Masukkan masa yang diperlukan untuk menyediakan / mengendalikan produk ini "
+"untuk penghantaran, pickup, makan, dan curbside. Tinggalkan 0 untuk segera."
+
+#: includes/main-functions.php:1110
+msgid ""
+"The maximum numbers of orders that can be made for this product each day. "
+"leave 0 for unlimited number of orders."
+msgstr ""
+"Nombor maksimum pesanan yang boleh dibuat untuk produk ini setiap hari. "
+"tinggalkan 0 untuk bilangan pesanan yang tidak terhad."
+
+#: includes/main-functions.php:1111
+msgid ""
+"A complete description on the product. This will appear in the product's "
+"full page."
+msgstr ""
+"Penerangan lengkap mengenai produk. Ini akan muncul di halaman penuh produk."
+
+#: includes/main-functions.php:1112
+msgid ""
+"Check this box if the product is available in different sizes, flavors ..."
+"etc or comes with different add-ons, drinks or side items."
+msgstr ""
+"Semak kotak ini jika produk tersedia dalam pelbagai saiz, rasa ... dan lain-"
+"lain atau datang dengan pelbagai add-ons, minuman atau barangan sampingan."
+
+#: includes/main-functions.php:1113
+msgid "This variation can be edited from the admin side only."
+msgstr "Perubahan ini boleh diedit dari pihak admin sahaja."
+
+#: includes/main-functions.php:1114
+msgid ""
+"Name of the variation family. i.e: Select Size, Choose Flavor, Choose a "
+"Drink, ...etc"
+msgstr ""
+"Nama keluarga variasi. yakni: Pilih Saiz, Pilih Rasa, Pilih Minum, ... dan "
+"sebagainya"
+
+#: includes/main-functions.php:1115
+msgid ""
+"Values of the variation family. i.e: if \"choose of protein\" was the "
+"variation name, then the values could be: pork | beef | chicken. Please "
+"separate the values by |"
+msgstr ""
+"Nilai keluarga variasi. iaitu: jika &quot;memilih protein&quot; adalah nama "
+"variasi, maka nilai-nilai itu boleh: daging babi | daging lembu | ayam. Sila "
+"memisahkan nilai oleh |"
+
+#: includes/main-functions.php:1116
+msgid ""
+"Describe this variation in few words. i.e: Explain what the customer will "
+"get when choosing this option or how this option is different from other "
+"options."
+msgstr ""
+"Jelaskan perbezaan ini dengan beberapa perkataan. iaitu: Jelaskan apa yang "
+"pelanggan akan dapat apabila memilih pilihan ini atau bagaimana pilihan ini "
+"berbeza dengan pilihan lain."
+
+#: includes/main-functions.php:1117
+msgid ""
+"Specify the quantity the customer MUST buy to benefit from this promotion. "
+"Please note here that the customer must buy the exact quantity, no more, no "
+"less."
+msgstr ""
+"Tentukan kuantiti pelanggan HARUS membeli untuk mendapat manfaat daripada "
+"promosi ini. Sila ambil perhatian bahawa pelanggan mesti membeli kuantiti "
+"yang tepat, tidak lebih, tidak kurang."
+
+#: includes/main-functions.php:1118
+msgid ""
+"This indicates the promotion type. If a free product is selected the product "
+"will be added as a detail under the main product after the customer make a "
+"purchase and not as a separated cart product."
+msgstr ""
+"Ini menunjukkan jenis promosi. Sekiranya produk percuma dipilih produk akan "
+"ditambah sebagai butiran di bawah produk utama selepas pelanggan membuat "
+"pembelian dan bukan sebagai produk kereta terpencil."
+
+#: includes/main-functions.php:1119
+msgid ""
+"Specify the discount amount in percentage to deduct from the main product "
+"price."
+msgstr ""
+"Tentukan jumlah diskaun dalam peratusan untuk memotong dari harga produk "
+"utama."
+
+#: includes/main-functions.php:1120
+msgid "Select the free product the customer will get from this promotion."
+msgstr "Pilih produk percuma yang akan diperoleh pelanggan dari promosi ini."
+
+#: includes/main-functions.php:1121
+msgid ""
+"The \"Up-sell Products\" are those products that you recommend to the "
+"customer instead of the currently viewed product. i.e: You can select some "
+"products that have a discount price or newly added products or products that "
+"have promotions. This is useful to convince your customers to test other "
+"products that have low sales."
+msgstr ""
+"&quot;Produk Up-sell&quot; adalah produk-produk yang anda cadangkan kepada "
+"pelanggan dan bukannya produk yang dilihat saat ini. iaitu: Anda boleh "
+"memilih beberapa produk yang mempunyai harga diskaun atau produk atau produk "
+"baru yang mempunyai promosi. Ini berguna untuk meyakinkan pelanggan anda "
+"untuk menguji produk lain yang mempunyai jualan yang rendah."
+
+#: includes/main-functions.php:1122
+msgid ""
+"The \"Cross-sell Products\" are those products that you promote to customers "
+"when they are viewing their shopping cart. You can add products that you "
+"would wish your customers to buy when they have bought this product."
+msgstr ""
+"&quot;Produk silang silang&quot; adalah produk yang anda promosikan kepada "
+"pelanggan ketika melihat keranjang belanja mereka. Anda boleh menambah "
+"produk yang anda ingin pelanggan anda beli apabila mereka membeli produk ini."
+
+#: includes/main-functions.php:1123
+msgid ""
+"All users registered as \"seller\" are listed and managed from this page. "
+"This is the main page to activate or deactivate selling privileges for newly "
+"registered vendors unless you have chosen to automatically activate them "
+"from the admin settings. You can also click on the vendor email address to "
+"send them an email message directly from here."
+msgstr ""
+"Semua pengguna yang didaftarkan sebagai &quot;penjual&quot; disenaraikan dan "
+"diuruskan dari halaman ini. Ini adalah halaman utama untuk mengaktifkan atau "
+"menyahaktifkan hak istimewa jualan untuk vendor terdaftar baru kecuali anda "
+"telah memilih untuk mengaktifkannya secara automatik dari tetapan admin. "
+"Anda juga boleh mengklik alamat e-mel vendor untuk menghantar mesej e-mel "
+"mereka secara langsung dari sini."
+
+#: includes/main-functions.php:1124
+msgid ""
+"When a vendor selling privileges is deactivated, their shop page and "
+"products will be hidden from customers but not deleted. Yet previous and "
+"current orders will still appear to customers but the vendor will no longer "
+"be able to manage or process them. To completely remove a vendor and his "
+"products, delete the vendor (user) from the \"users page\" in the WordPress "
+"admin."
+msgstr ""
+"Apabila hak menjual vendor dinyahaktifkan, halaman kedai dan produk mereka "
+"akan disembunyikan daripada pelanggan tetapi tidak dipadam. Walau "
+"bagaimanapun pesanan sebelumnya dan semasa masih akan dipaparkan kepada "
+"pelanggan tetapi vendor tidak akan dapat mengurus atau memprosesnya lagi. "
+"Untuk menghapuskan vendor dan produknya sepenuhnya, hapus penjual (pengguna) "
+"dari &quot;halaman pengguna&quot; dalam admin WordPress."
+
+#: includes/main-functions.php:1125
+msgid ""
+"This will send an email message using your admin email address as sender."
+msgstr ""
+"Ini akan menghantar mesej e-mel menggunakan alamat e-mel pentadbir anda "
+"sebagai penghantar."
+
+#: includes/main-functions.php:1126
+msgid "The minimum amount of the order to make a delivery order."
+msgstr "Jumlah pesanan minimum untuk membuat pesanan penghantaran."
+
+#: includes/main-functions.php:1127
+msgid ""
+"When customer adds more than one of your products to cart, the system will "
+"calculate the preparation time for the order by getting the longest product "
+"preparation time multiplied by a percentage of the preparation time of other "
+"products. i.e. if you set 25, and customer has added two of your products, "
+"one has 15 mins and the second have 7 mins preparation time, the total "
+"preparation time for the order will be 17 mins"
+msgstr ""
+"Apabila pelanggan menambahkan lebih daripada satu produk anda ke troli, "
+"sistem akan mengira masa persediaan untuk pesanan dengan mendapatkan masa "
+"persediaan produk terpanjang yang didarab dengan peratusan masa persediaan "
+"produk lain. yakni jika Anda menetapkan 25, dan pelanggan telah menambahkan "
+"dua produk Anda, satu memiliki 15 menit dan yang kedua memiliki waktu "
+"persiapan 7 min, jumlah waktu persiapan untuk pesanan itu akan menjadi 17 "
+"menit"
+
+#: includes/main-functions.php:1130
+msgid ""
+"Here you can get statistics info of your vendors sales. By default, you will "
+"see results for all vendors, but you can select to see results for an "
+"individual vendor as well. The results table is set by default to show sales "
+"for today, but you can see results for different periods as well. You can "
+"also click the print button if you wish to print the current results."
+msgstr ""
+"Di sini anda boleh mendapatkan maklumat statistik jualan vendor anda. Secara "
+"lalai, anda akan melihat keputusan untuk semua vendor, tetapi anda boleh "
+"memilih untuk melihat hasil untuk vendor individu juga. Jadual hasil "
+"ditetapkan secara lalai untuk menunjukkan jualan hari ini, tetapi anda dapat "
+"melihat hasil untuk tempoh yang berbeza juga. Anda juga boleh mengklik "
+"butang cetakan jika anda ingin mencetak hasil semasa."
+
+#: includes/main-functions.php:1131
+msgid ""
+"This will show you a general count of all orders made on your website "
+"grouped by order status. You can click on the status title to navigate to "
+"the respective orders page."
+msgstr ""
+"Ini akan menunjukkan kiraan umum semua pesanan yang dibuat di laman web anda "
+"dikumpulkan mengikut status pesanan. Anda boleh mengklik tajuk status untuk "
+"menavigasi ke halaman pesanan masing-masing."
+
+#: includes/main-functions.php:1132
+msgid ""
+"Here you can get information on products having the most sales on your "
+"website."
+msgstr ""
+"Di sini anda boleh mendapatkan maklumat mengenai produk yang mempunyai "
+"jualan paling banyak di laman web anda."
+
+#: includes/main-functions.php:1133
+msgid ""
+"This is the main page to monitor your vendors incoming orders. Orders are "
+"listed from oldest to newest. Whenever you are in this page, the system will "
+"automatically update the orders list every minute. By default, you are only "
+"supposed to monitor and remind your vendors if some orders are taking too "
+"long to process. In addition of managing \"on-hold orders\" which are still "
+"not paid."
+msgstr ""
+"Ini adalah halaman utama untuk memantau pesanan masuk vendor anda. Pesanan "
+"disenaraikan dari tertua hingga terbaru. Setiap kali anda berada di halaman "
+"ini, sistem akan mengemas kini senarai pesanan setiap minit secara "
+"automatik. Secara lalai, anda hanya perlu memantau dan mengingatkan vendor "
+"anda jika beberapa pesanan mengambil masa terlalu lama untuk diproses. Di "
+"samping menguruskan &quot;on-hold orders&quot; yang masih belum dibayar."
+
+#: includes/main-functions.php:1134
+msgid ""
+"Vendors can create discount coupons to increase sales and drive traffic on "
+"their products or reward some customers. As an admin you will not be able to "
+"add coupons but only view existing ones and edit or delete them."
+msgstr ""
+"Vendor boleh membuat kupon diskaun untuk meningkatkan jualan dan mengarahkan "
+"trafik ke atas produk mereka atau memberi ganjaran kepada beberapa "
+"pelanggan. Sebagai pentadbir, anda tidak akan dapat menambah kupon tetapi "
+"hanya melihat yang sedia ada dan mengedit atau memadamnya."
+
+#: includes/main-functions.php:1139 includes/main-functions.php:1332
+msgid "Click for more info..."
+msgstr "Klik untuk maklumat lanjut ..."
+
+#: includes/main-functions.php:1184
+msgid "ERROR:"
+msgstr "KESALAHAN:"
+
+#: includes/main-functions.php:1186
+msgid "Something went wrong"
+msgstr "Ada yang salah"
+
+#: includes/main-functions.php:1201
+msgid "Vendors"
+msgstr "Penjual"
+
+#: includes/main-functions.php:1245
+msgid "Choose a time between"
+msgstr "Pilih masa antara"
+
+#: includes/main-functions.php:1247
+msgid "Select the time to start preparing/handling this order."
+msgstr "Pilih masa untuk memulakan penyediaan / pengendalian pesanan ini."
+
+#: includes/print-functions.php:39
+msgid ""
+"Net profit from completed orders after all sellers commissions are paid."
+msgstr ""
+"Keuntungan bersih dari pesanan yang telah selesai setelah semua komisen "
+"penjual dibayar."
+
+#: includes/print-functions.php:39
+msgid "Net of any withdrawals made during this period."
+msgstr "Bersih sebarang pengeluaran yang dibuat dalam tempoh ini."
+
+#: includes/print-functions.php:43
+msgid "All Time:"
+msgstr "Setiap masa:"
+
+#: includes/print-functions.php:46
+msgid "Today:"
+msgstr "Hari ini:"
+
+#: includes/print-functions.php:49
+msgid "This Week:"
+msgstr "Minggu ini:"
+
+#: includes/print-functions.php:52
+msgid "This Month:"
+msgstr "Bulan ini:"
+
+#: includes/print-functions.php:58
+msgid "This Year:"
+msgstr "Tahun ini:"
+
+#: includes/print-functions.php:73
+msgid "General Summary Report"
+msgstr "Laporan Ringkasan Am"
+
+#: includes/print-functions.php:73
+msgid "Beta"
+msgstr "Beta"
+
+#: includes/print-functions.php:79
+msgid "Vendor:"
+msgstr "Penjual:"
+
+#: includes/print-functions.php:80
+#: templates/views/html-dashboard-orders-single-customer_details.php:35
+msgid "Address:"
+msgstr "Alamat:"
+
+#: includes/print-functions.php:99
+msgid "This seller has not set up this type of address yet."
+msgstr "Penjual ini belum menyiapkan alamat jenis ini lagi."
+
+#: includes/print-functions.php:101
+msgid "You have not set up this type of address yet."
+msgstr "Anda belum lagi menyiapkan alamat jenis ini."
+
+#: includes/print-functions.php:108
+msgid "The Report is based on all sellers activity."
+msgstr "Laporan ini berdasarkan kepada semua aktiviti penjual."
+
+#: includes/print-functions.php:111
+msgid "Period:"
+msgstr "Tempoh:"
+
+#: includes/print-functions.php:120
+msgid "Income Summary to Earnings Account"
+msgstr "Ringkasan Pendapatan ke Akaun Pendapatan"
+
+#: includes/print-functions.php:127
+msgid "Total Orders:"
+msgstr "Jumlah Pesanan:"
+
+#: includes/print-functions.php:132
+msgid "Total \"Pending\" Orders:"
+msgstr "Pesanan &quot;Tertunda&quot; Jumlah:"
+
+#: includes/print-functions.php:136
+msgid "Total \"Processing\" Orders:"
+msgstr "Pesanan &quot;Pemprosesan&quot; Jumlah:"
+
+#: includes/print-functions.php:140
+msgid "Total \"on-hold\" Orders:"
+msgstr "Pesanan jumlah &quot;terus&quot;:"
+
+#: includes/print-functions.php:144
+msgid "Total \"Cancelled\" Orders:"
+msgstr "Pesanan &quot;Dibatalkan&quot; Jumlah:"
+
+#: includes/print-functions.php:148
+msgid "Total refunded Orders:"
+msgstr "Jumlah Pesanan yang dikembalikan:"
+
+#: includes/print-functions.php:153
+msgid "Total Coupons Usage:"
+msgstr "Jumlah Kupon Penggunaan:"
+
+#: includes/print-functions.php:165
+#: templates/views/html-dashboard-orders-list.php:20
+#: templates/views/html-dashboard-orders-single-items.php:21
+msgid "Total"
+msgstr "Jumlah"
+
+#: includes/print-functions.php:165
+#: templates/views/html-dashboard-home-totals-table.php:27
+msgid "Fees"
+msgstr "Bayaran"
+
+#: includes/print-functions.php:165
+#: templates/views/html-dashboard-home-totals-table.php:27
+msgid "Seller Fees"
+msgstr "Yuran Penjual"
+
+#: includes/print-functions.php:173
+msgid "Total:"
+msgstr "Jumlah:"
+
+#: includes/print-functions.php:176
+msgid "Total Withdrawals:"
+msgstr "Pengeluaran Jumlah:"
+
+#: includes/print-functions.php:177
+msgid "Actual Balance in Account:"
+msgstr "Baki sebenar dalam Akaun:"
+
+#: includes/print-functions.php:177
+msgid "- Exclusive of Tax"
+msgstr "- Eksklusif Cukai"
+
+#: includes/print-functions.php:187
+msgid "Profits are only gained from completed orders."
+msgstr "Keuntungan hanya diperoleh daripada pesanan yang telah selesai."
+
+#: includes/print-functions.php:196
+msgid "Summary Sales Report."
+msgstr "Laporan Jualan Ringkasan."
+
+#: includes/print-functions.php:328
+#: templates/views/html-dashboard-orders-list-row_actions.php:28
+msgid "Print"
+msgstr "Cetak"
+
+#: installer.php:71
+msgid "Seller"
+msgstr "Penjual"
+
+#: installer.php:168 installer.php:200
+msgid ""
+"Norsani highly depends on WooCommrce plugin which could not be automatically "
+"activated. Please activate WooCommerce manually and try again."
+msgstr ""
+"Norsani sangat bergantung pada plugin WooCommrce yang tidak dapat diaktifkan "
+"secara automatik. Sila aktifkan WooCommerce secara manual dan cuba lagi."
+
+#: installer.php:169 installer.php:180 installer.php:194 installer.php:201
+msgid "Norsani Install Error"
+msgstr "Ralat Pemasangan Norsani"
+
+#: installer.php:179
+msgid ""
+"Norsani highly depends on the 'WooCommrce' plugin which we couldn't "
+"automatically install and activate. Please install and activate "
+"'WooCommerce' manually and try again."
+msgstr ""
+"Norsani sangat bergantung pada plugin &#39;WooCommrce&#39; yang kami tidak "
+"dapat memasang dan mengaktifkan secara automatik. Sila pasang dan aktifkan "
+"&#39;WooCommerce&#39; secara manual dan cuba lagi."
+
+#: installer.php:193
+msgid ""
+"Norsani highly depends on WooCommrce plugin which could not be automatically "
+"installed and activated. Please install and actiavte WooCommerce manually "
+"and try again."
+msgstr ""
+"Norsani sangat bergantung pada plugin WooCommrce yang tidak dapat dipasang "
+"secara automatik dan diaktifkan. Sila pasang dan bertindakkan WooCommerce "
+"secara manual dan cuba lagi."
+
+#: installer.php:256 installer.php:272 installer.php:289
+msgid ""
+"This page is used by Norsani. You can freely change this text but please do "
+"NOT delete the page."
+msgstr ""
+"Halaman ini digunakan oleh Norsani. Anda boleh menukar teks ini dengan bebas "
+"tetapi jangan Buang halaman tersebut."
+
+#: norsani-options.php:14 norsani-options.php:15 norsani-options.php:38
+msgid "Norsani Settings"
+msgstr "Tetapan Norsani"
+
+#: norsani-options.php:19
+msgid "Vendors Addresses"
+msgstr "Alamat Vendor"
+
+#: norsani-options.php:20
+msgid "Vendors Tags"
+msgstr "Tag Vendor"
+
+#: norsani-options.php:21
+msgid "Help"
+msgstr "Bantuan"
+
+#: norsani-options.php:21 norsani-options.php:42
+msgid "Norsani Help Center"
+msgstr "Pusat Bantuan Norsani"
+
+#: norsani-options.php:32
+msgid "Thank you for activating a Norsani theme."
+msgstr "Terima kasih kerana mengaktifkan tema Norsani."
+
+#: norsani-options.php:34
+msgid "Thank you for installing a Norsani theme."
+msgstr "Terima kasih kerana memasang tema Norsani."
+
+#: norsani-options.php:38
+#, php-format
+msgid ""
+"Norsani was installed successfully. You are almost ready to start your "
+"business. To completely become ready, please go through %1$s, and if you "
+"have not yet setup WooCommerce, please run the %2$s"
+msgstr ""
+"Norsani dipasang dengan jayanya. Anda hampir bersedia untuk memulakan "
+"perniagaan anda. Untuk sepenuhnya bersiap, sila pergi melalui%1$s, dan jika "
+"anda belum menyiapkan WooCommerce, sila jalankan%2$s"
+
+#: norsani-options.php:38
+msgid "WooCommerce setup wizard"
+msgstr "Wizard persediaan WooCommerce"
+
+#: norsani-options.php:47
+msgid "Questions & Answers."
+msgstr "Soalan &amp; Jawapan."
+
+#: norsani-options.php:49
+msgid "Suggest a Question"
+msgstr "Cadangkan satu soalan"
+
+#: norsani-options.php:50
+msgid "Didn't find your question? Send it to us as a suggestion to add it."
+msgstr ""
+"Tidak jumpa soalan anda? Hantar kepada kami sebagai cadangan untuk "
+"menambahkannya."
+
+#: norsani-options.php:53
+msgid "Type Question Here .."
+msgstr "Ketik Soalan Di Sini .."
+
+#: norsani-options.php:54 templates/vendors-registration.php:388
+#: templates/views/html-vendor-store_rating.php:42
+msgid "Submit"
+msgstr "Hantar"
+
+#: norsani-options.php:66
+msgid "Vendor registration page was not found"
+msgstr "Halaman pendaftaran vendor tidak dijumpai"
+
+#: norsani-options.php:67
+msgid "Vendors list page was not found"
+msgstr "Halaman senarai vendor tidak dijumpai"
+
+#: norsani-options.php:68
+msgid "Sellers page in Admin's dashboard was not found"
+msgstr "Halaman penjual dalam papan pemuka Admin tidak dijumpai"
+
+#: norsani-options.php:84
+msgid ""
+"Your current theme dose not support Norsani. Please Install and Activate a "
+"theme that support Norsani."
+msgstr ""
+"Dos tema semasa anda tidak menyokong Norsani. Sila Pasang dan Aktifkan tema "
+"yang menyokong Norsani."
+
+#: norsani-options.php:90
+msgid "Please enter your Google API Key"
+msgstr "Sila masukkan Kunci Google API anda"
+
+#: norsani-options.php:97
+msgid "Set Key"
+msgstr "Tetapkan Kunci"
+
+#: norsani-options.php:97
+msgid "Fix"
+msgstr "Menetapkan"
+
+#: norsani-options.php:102
+msgid "No errors found"
+msgstr "Tiada kesilapan dijumpai"
+
+#: norsani-options.php:112
+msgid "Install the demo data with just one click."
+msgstr "Pasang data demo dengan hanya satu klik."
+
+#: norsani-options.php:113
+msgid "Install Demo Data"
+msgstr "Pasang Data Demo"
+
+#: norsani-options.php:119
+msgid "Contact Support"
+msgstr "Sokongan Kenalan"
+
+#: norsani-options.php:119
+msgid ""
+"Contact our support team and get replies to your questions right from here."
+msgstr ""
+"Hubungi pasukan sokongan kami dan dapatkan balasan kepada soalan anda dari "
+"sini."
+
+#: norsani-options.php:120
+msgid ""
+"If you are reporting a problem please answer the following questions in your "
+"message to help us address your problem as quickly as possible."
+msgstr ""
+"Jika anda melaporkan masalah, sila jawab soalan-soalan berikut dalam mesej "
+"anda untuk membantu kami menyelesaikan masalah anda secepat mungkin."
+
+#: norsani-options.php:122
+msgid "What is your question or concern?"
+msgstr "Apakah soalan atau kebimbangan anda?"
+
+#: norsani-options.php:123
+msgid "What steps can we take to reproduce the problem you are experiencing?"
+msgstr ""
+"Apakah langkah-langkah yang boleh kita lakukan untuk menghasilkan semula "
+"masalah yang anda alami?"
+
+#: norsani-options.php:124
+msgid "What is the result you are experiencing when you follow these steps?"
+msgstr "Apakah hasil yang anda alami apabila anda mengikuti langkah ini?"
+
+#: norsani-options.php:125
+msgid "What is the result you are expecting?"
+msgstr "Apakah hasil yang anda harapkan?"
+
+#: norsani-options.php:126
+msgid "How does this problem affect your business?"
+msgstr "Bagaimanakah masalah ini mempengaruhi perniagaan anda?"
+
+#: norsani-options.php:128
+msgid ""
+"Please do not include any sensitive information in this form or in any "
+"subsequent case communications. (e.g. Password, credit card number, Social "
+"Security Number)"
+msgstr ""
+"Tolong jangan masukkan sebarang maklumat sensitif dalam bentuk ini atau "
+"dalam sebarang komunikasi kes berikutnya. (misalnya Kata Laluan, nombor kad "
+"kredit, Nombor Keselamatan Sosial)"
+
+#: norsani-options.php:133
+msgid "Type message here .."
+msgstr "Taip mesej di sini .."
+
+#: norsani-options.php:232
+msgid "Please check your internet connection."
+msgstr "Sila semak sambungan internet anda."
+
+#: norsani-options.php:262
+#: templates/views/html-dashboard-vendor-settings_form.php:49
+msgid "General Settings"
+msgstr "Tetapan Umum"
+
+#: norsani-options.php:268
+#: templates/views/html-dashboard-vendor-settings_form.php:53
+msgid "Orders Settings"
+msgstr "Tetapan pesanan"
+
+#: norsani-options.php:274
+msgid "Distances calculation"
+msgstr "Pengiraan jarak"
+
+#: norsani-options.php:280
+msgid "Vendor Money Withdrawals Settings"
+msgstr "Tetapan Pengeluaran Wang Penjual"
+
+#: norsani-options.php:286
+msgid "General options"
+msgstr "Pilihan umum"
+
+#: norsani-options.php:292
+msgid "Vendor Fees"
+msgstr "Bayaran Vendor"
+
+#: norsani-options.php:298
+msgid "Terms & Conditions"
+msgstr "Terma &amp; Syarat"
+
+#: norsani-options.php:305
+msgid "Google API Key"
+msgstr "Kunci API Google"
+
+#: norsani-options.php:312
+msgid "Active Vendor Types"
+msgstr "Jenis Vendor Aktif"
+
+#: norsani-options.php:319
+msgid "Selling privileges"
+msgstr "Menjual keistimewaan"
+
+#: norsani-options.php:326
+msgid "Vendor store timing"
+msgstr "Masa kedai vendor"
+
+#: norsani-options.php:340
+msgid "Featured Products."
+msgstr "Produk Pilihan."
+
+#: norsani-options.php:347
+msgid "Featured Vendors."
+msgstr "Vendor yang ditonjolkan."
+
+#: norsani-options.php:355 templates/vendors-registration.php:201
+#: templates/views/html-dashboard-vendor-settings_form.php:169
+msgid "Accepted orders"
+msgstr "Perintah yang diterima"
+
+#: norsani-options.php:361
+msgid "Accepted orders when vendor's store is closed"
+msgstr "Pesanan yang diterima apabila kedai vendor ditutup"
+
+#: norsani-options.php:369
+msgid "The mode of transport to use when calculating delivery timing."
+msgstr "Cara pengangkutan untuk digunakan semasa mengira masa penghantaran."
+
+#: norsani-options.php:375
+msgid "The unit system to use when displaying delivery timing."
+msgstr "Sistem unit yang digunakan semasa memaparkan masa penghantaran."
+
+#: norsani-options.php:381
+msgid "Avoid highways"
+msgstr "Elakkan lebuh raya"
+
+#: norsani-options.php:387
+msgid "Non-toll routes"
+msgstr "Laluan bukan tol"
+
+#: norsani-options.php:395
+msgid "Automatic Withdrawals"
+msgstr "Pengeluaran automatik"
+
+#: norsani-options.php:401
+msgid "Paypal REST API App Client ID"
+msgstr "ID Pelanggan App ID Paypal REST"
+
+#: norsani-options.php:407
+msgid "Paypal REST API App Secret."
+msgstr "Rahsia Aplikasi REST API Paypal."
+
+#: norsani-options.php:413
+msgid "The minimum vendor balance to make a withdrawal request."
+msgstr "Baki penjual minimum untuk membuat permintaan pengeluaran."
+
+#: norsani-options.php:419
+msgid "Withdrawal Methods."
+msgstr "Kaedah Pengeluaran."
+
+#: norsani-options.php:425
+msgid "Withdrawal Requests Status."
+msgstr "Status Permintaan Pengeluaran."
+
+#: norsani-options.php:433
+msgid "Cash on delivery fees"
+msgstr "Bayaran tunai atas penghantaran"
+
+#: norsani-options.php:448
+msgid "Terms of Service for Sellers"
+msgstr "Syarat Perkhidmatan untuk Penjual"
+
+#: norsani-options.php:492
+msgid "Automatically enable selling after vendor registration?"
+msgstr "Mendayakan secara automatik selepas pendaftaran vendor?"
+
+#: norsani-options.php:503
+msgid "Use manual status change?"
+msgstr "Gunakan perubahan status manual?"
+
+#: norsani-options.php:510
+msgid "Time to wait when no activity"
+msgstr "Masa menunggu apabila tiada aktiviti"
+
+#: norsani-options.php:575
+msgid "Automatically create withdrawal requests"
+msgstr "Buat permintaan pengeluaran secara automatik"
+
+#: norsani-options.php:630 norsani-options.php:643
+msgid "Pick-up"
+msgstr "Pick-up"
+
+#: norsani-options.php:658
+msgid "Driving"
+msgstr "Memandu"
+
+#: norsani-options.php:659
+msgid "Bicycling"
+msgstr "Berbasikal"
+
+#: norsani-options.php:660
+msgid "Walking"
+msgstr "Berjalan kaki"
+
+#: norsani-options.php:669
+msgid "Kilometers"
+msgstr "Kilometer"
+
+#: norsani-options.php:670
+msgid "Miles"
+msgstr "Miles"
+
+#: norsani-options.php:680
+msgid "Calculate driving timing with avoiding highways where possible."
+msgstr "Hitung masa pemanduan dengan mengelakkan lebuh raya di mana mungkin."
+
+#: norsani-options.php:689
+msgid ""
+"Calculate delivery timing between points using non-toll routes, wherever "
+"possible."
+msgstr ""
+"Kirakan masa penghantaran antara titik menggunakan laluan bukan tol, di mana "
+"mungkin."
+
+#: norsani-options.php:698
+msgid "Do not deduct fees from vendor balance"
+msgstr "Jangan menolak yuran daripada keseimbangan vendor"
+
+#: norsani-options.php:700
+msgid ""
+"ONLY check this if you will be responsible of the delivery service and "
+"reciving the total order amount."
+msgstr ""
+"HANYA periksa ini jika anda akan bertanggungjawab terhadap perkhidmatan "
+"penghantaran dan mengembalikan semula jumlah pesanan."
+
+#: norsani-options.php:709
+msgid "Order total and delivery"
+msgstr "Jumlah pesanan dan penghantaran"
+
+#: norsani-options.php:710
+msgid "Only on order total"
+msgstr "Hanya pada jumlah pesanan"
+
+#: norsani-options.php:711
+msgid "Only on order delivery"
+msgstr "Hanya pada penghantaran pesanan"
+
+#: norsani-options.php:719 norsani-options.php:790
+msgid "Fee&nbsp;Name"
+msgstr "Nama Bayaran"
+
+#: norsani-options.php:720
+msgid "Customers Effected"
+msgstr "Kesan Pelanggan"
+
+#: norsani-options.php:721
+msgid "Vendors Effected"
+msgstr "Vendor Berkesan"
+
+#: norsani-options.php:722
+msgid "Fee Rate"
+msgstr "Kadar Bayaran"
+
+#: norsani-options.php:723 norsani-options.php:789
+msgid "Payment Method"
+msgstr "Kaedah Pembayaran"
+
+#: norsani-options.php:724
+msgid "Applied on"
+msgstr "Terpakai pada"
+
+#: norsani-options.php:725
+msgid "Action"
+msgstr "Tindakan"
+
+#: norsani-options.php:758
+msgid "You do not charge sellers any fees."
+msgstr "Anda tidak mengenakan penjual sebarang yuran."
+
+#: norsani-options.php:759
+msgid "Add New Rule"
+msgstr "Tambah Peraturan Baru"
+
+#: norsani-options.php:767
+msgid "Any payment gateway"
+msgstr "Apa-apa pintu masuk pembayaran"
+
+#: norsani-options.php:782 norsani-options.php:784
+msgid "Apply this fee on"
+msgstr "Terapkan yuran ini"
+
+#: norsani-options.php:783 norsani-options.php:797
+msgid "Select Customers"
+msgstr "Pilih Pelanggan"
+
+#: norsani-options.php:785 norsani-options.php:802
+msgid "Select Vendors"
+msgstr "Pilih Vendor"
+
+#: norsani-options.php:786
+msgid "Order Sub-Total"
+msgstr "Sub-Jumlah Pesanan"
+
+#: norsani-options.php:787
+msgid "Apply this rule on"
+msgstr "Terapkan peraturan ini pada"
+
+#: norsani-options.php:788
+msgid "Rate&nbsp;%"
+msgstr "Kadar%"
+
+#: norsani-options.php:791
+msgid "Fee Description"
+msgstr "Penerangan Bayaran"
+
+#: norsani-options.php:795
+msgid "All Customers"
+msgstr "Semua Pelanggan"
+
+#: norsani-options.php:796
+msgid "All Customers, Except..."
+msgstr "Semua Pelanggan, Kecuali ..."
+
+#: norsani-options.php:800
+msgid "All Vendors"
+msgstr "Semua Penjual"
+
+#: norsani-options.php:801
+msgid "All Vendors, Except..."
+msgstr "Semua Penjual, Kecuali ..."
+
+#: norsani-options.php:805
+msgid "Order Total and Delivery"
+msgstr "Jumlah pesanan dan penghantaran"
+
+#: norsani-options.php:806
+msgid "Only on Order Total"
+msgstr "Hanya pada Jumlah Pesanan"
+
+#: norsani-options.php:807
+msgid "Only on Order Delivery"
+msgstr "Hanya pada Penghantaran Pesanan"
+
+#: norsani-options.php:810
+msgid "Plus"
+msgstr "Plus"
+
+#: norsani-options.php:811
+msgid "Minus"
+msgstr "Tolak"
+
+#: norsani-options.php:812
+msgid "Multiply"
+msgstr "Multiply"
+
+#: norsani-options.php:841 templates/vendors-registration.php:386
+msgid "Back"
+msgstr "Undur"
+
+#: norsani-options.php:895 templates/vendors-registration.php:73
+msgid "General"
+msgstr "Am"
+
+#: norsani-options.php:897
+msgid "Withdrawals"
+msgstr "Pengeluaran"
+
+#: norsani-options.php:898
+msgid "Distances"
+msgstr "Jarak"
+
+#: norsani-options.php:899
+msgid "Fees/Commission"
+msgstr "Yuran / Suruhanjaya"
+
+#: norsani-options.php:900
+msgid "Terms of Service"
+msgstr "Syarat Perkhidmatan"
+
+#: templates/emails/plain/vendor-message.php:18
+#: templates/emails/vendor-message.php:17
+msgid "Sender Name"
+msgstr "Nama pengirim"
+
+#: templates/emails/plain/vendor-message.php:21
+#: templates/emails/vendor-message.php:20
+msgid "Sender Email"
+msgstr "E-mel Pengirim"
+
+#: templates/emails/plain/vendor-order-refund.php:18
+#: templates/emails/plain/vendor-rating.php:17
+#: templates/emails/vendor-order-refund.php:17
+#: templates/emails/vendor-rating.php:17
+#, php-format
+msgid "Hello %1$s,"
+msgstr "Hello%1$s,"
+
+#: templates/emails/plain/vendor-order-refund.php:20
+#: templates/emails/vendor-order-refund.php:19
+#, php-format
+msgid ""
+"The order id %1$s, dated %2$s, status has been changed from completed to "
+"%3$s. The order total amount is %4$s."
+msgstr ""
+"Id pesanan%1$s, bertarikh%2$s, status telah diubah dari selesai kepada%3$s. "
+"Jumlah jumlah pesanan ialah%4$s."
+
+#: templates/emails/plain/vendor-order-refund.php:22
+#: templates/emails/vendor-order-refund.php:20
+#, php-format
+msgid ""
+"Your new balance is %1$s. Please contact us via %2$s if you might need any "
+"clarification."
+msgstr ""
+"Baki baru anda ialah%1$s. Sila hubungi kami melalui%2$s jika anda memerlukan "
+"sebarang penjelasan."
+
+#: templates/emails/plain/vendor-rating.php:19
+#, php-format
+msgid ""
+"Your order number %1$s, dated %2$s, has been marked as completed. Please "
+"take few moments and make a review on %3$s by clicking on the following link"
+msgstr ""
+"Nombor pesanan anda%1$s, bertarikh%2$s, ditandakan sebagai selesai. Sila "
+"ambil beberapa saat dan buat semakan pada%3$s dengan mengklik pada pautan "
+"berikut"
+
+#: templates/emails/plain/vendor-status.php:23
+#: templates/emails/vendor-status.php:23
+msgid ""
+"Congratulations of been a part of our community. You can start selling by "
+"posting your products from your dashboard"
+msgstr ""
+"Tahniah menjadi sebahagian daripada komuniti kami. Anda boleh mula menjual "
+"dengan menyiarkan produk anda dari papan pemuka anda"
+
+#: templates/emails/plain/vendor-status.php:27
+#: templates/emails/vendor-status.php:27
+msgid ""
+"Your selling privileges status will be activated shortly by one of our "
+"website editors. You will be notified on any updates."
+msgstr ""
+"Status keistimewaan jualan anda akan diaktifkan tidak lama lagi oleh salah "
+"seorang editor laman web kami. Anda akan dimaklumkan pada sebarang kemas "
+"kini."
+
+#: templates/emails/plain/vendor-status.php:30
+#: templates/emails/vendor-status.php:30
+msgid "Vendor details:"
+msgstr "Butiran vendor:"
+
+#: templates/emails/plain/vendor-status.php:31
+#: templates/emails/vendor-status.php:31
+#: templates/views/html-dashboard-orders-single-customer_details.php:27
+msgid "Email:"
+msgstr "E-mel:"
+
+#: templates/emails/plain/vendor-status.php:32
+#: templates/emails/vendor-status.php:32
+msgid "First Name:"
+msgstr "Nama pertama:"
+
+#: templates/emails/plain/vendor-status.php:33
+#: templates/emails/vendor-status.php:33
+msgid "Last Name:"
+msgstr "Nama terakhir:"
+
+#: templates/emails/plain/vendor-status.php:34
+#: templates/emails/vendor-status.php:34
+msgid "Shop Name:"
+msgstr "Nama Kedai:"
+
+#: templates/emails/plain/vendor-status.php:35
+#: templates/emails/vendor-status.php:35
+msgid "Shop URL:"
+msgstr "URL Kedai:"
+
+#: templates/emails/plain/vendor-status.php:36
+#: templates/emails/vendor-status.php:36
+msgid "Contact Number:"
+msgstr "Nomor Kontak:"
+
+#: templates/emails/plain/vendor-status.php:38
+#: templates/emails/vendor-status.php:38
+#, php-format
+msgid "Manage all vendors from your dashboard sellers page %s"
+msgstr "Urus semua vendor dari halaman penjual papan pemuka anda %s"
+
+#: templates/emails/plain/vendor-status.php:40
+#: templates/emails/vendor-status.php:40
+#, php-format
+msgid "Activate this vendor&apos;s selling privileges from %s"
+msgstr "Aktifkan keistimewaan jualan vendor daripada %s"
+
+#: templates/emails/plain/vendor-status.php:44
+#: templates/emails/vendor-status.php:45
+msgid ""
+"Your selling privileges has been activated. You can start selling by posting "
+"your products from your dashboard."
+msgstr ""
+"Keistimewaan jualan anda telah diaktifkan. Anda boleh mula menjual dengan "
+"menyiarkan produk anda dari papan pemuka anda."
+
+#: templates/emails/plain/vendor-status.php:46
+#: templates/emails/vendor-status.php:47
+msgid "Your selling privileges has been deactivated"
+msgstr "Keistimewaan jualan anda telah dinyahaktifkan"
+
+#: templates/emails/plain/withdraw-status.php:17
+#: templates/emails/withdraw_status.php:17
+#, php-format
+msgid "Hi %1$s,"
+msgstr "Hi%1$s,"
+
+#: templates/emails/plain/withdraw-status.php:21
+#: templates/emails/withdraw_status.php:20
+#, php-format
+msgid ""
+"Your withdrawal request #%1$s, with total amount of %2$s, via %3$s, has been "
+"approved. We will transfer this amount to your preferred destination shortly."
+msgstr ""
+"Permintaan pengeluaran anda #%1$s, dengan jumlah%2$s, melalui%3$s, telah "
+"diluluskan. Kami akan memindahkan jumlah ini ke destinasi pilihan anda tidak "
+"lama lagi."
+
+#: templates/emails/plain/withdraw-status.php:25
+#: templates/emails/withdraw_status.php:22
+#, php-format
+msgid ""
+"Your withdrawal request #%1$s, with total amount of %2$s, via %3$s, has been "
+"rejected with the following reason: %4$s."
+msgstr ""
+"Permintaan pengeluaran anda #%1$s, dengan jumlah%2$s, melalui%3$s, telah "
+"ditolak dengan alasan berikut:%4$s."
+
+#: templates/emails/plain/withdraw-status.php:29
+#: templates/emails/withdraw_status.php:24
+#, php-format
+msgid ""
+"We received your withdrawal request #%1$s, with total amount of %2$s, via "
+"%3$s. We will review your request as soon as possible and get back to you."
+msgstr ""
+"Kami menerima permintaan pengeluaran anda #%1$s, dengan jumlah%2$s, melalui"
+"%3$s. Kami akan mengkaji semula permintaan anda secepat mungkin dan kembali "
+"kepada anda."
+
+#: templates/emails/plain/withdraw-status.php:33
+#: templates/emails/withdraw_status.php:27
+msgid "Thank you."
+msgstr "Terima kasih."
+
+#: templates/emails/vendor-rating.php:19
+#, php-format
+msgid ""
+"Your order number %1$s, dated %2$s, has been marked as completed. Please "
+"take few moments and make a rating on %3$s by clicking on the following link"
+msgstr ""
+"Nombor pesanan anda%1$s, bertarikh%2$s, ditandakan sebagai selesai. Sila "
+"ambil beberapa saat dan buat rating pada%3$s dengan mengklik pada pautan "
+"berikut"
+
+#: templates/emails/vendor-status.php:43
+#, php-format
+msgid "Hello %s"
+msgstr "Hello %s"
+
+#: templates/orders/html-order-fee.php:18
+msgid "Fee"
+msgstr "Bayaran"
+
+#: templates/orders/html-order-item-quick.php:21
+#: templates/orders/html-order-item.php:30
+msgid "Product ID:"
+msgstr "ID Produk:"
+
+#: templates/orders/html-order-item-quick.php:24
+#: templates/orders/html-order-item-quick.php:26
+#: templates/orders/html-order-item.php:33
+#: templates/orders/html-order-item.php:35
+msgid "Variation ID:"
+msgstr "ID variasi:"
+
+#: templates/orders/html-order-item-quick.php:26
+#: templates/orders/html-order-item.php:35
+msgid "No longer exists"
+msgstr "Tidak lagi wujud"
+
+#: templates/orders/html-order-item-quick.php:30
+#: templates/orders/html-order-item.php:39
+msgid "Product SKU:"
+msgstr "SKU Produk:"
+
+#: templates/orders/html-order-refund.php:27
+msgid "Refund"
+msgstr "Bayaran balik"
+
+#: templates/orders/html-order-refund.php:30
+msgctxt "Ex: Refund - $date >by< $username"
+msgid "by"
+msgstr "oleh"
+
+#: templates/orders/html-order-refund.php:30
+msgid "ID: "
+msgstr "ID:"
+
+#: templates/orders/order-details.php:17
+msgid "This is not yours, I swear!"
+msgstr "Ini bukan milikmu, aku bersumpah!"
+
+#: templates/orders/order-details.php:25
+msgid "Order items"
+msgstr "Item pesanan"
+
+#: templates/orders/order-details.php:31
+msgid "Customer Details"
+msgstr "Butiran pelanggan"
+
+#: templates/orders/order-details.php:35
+msgid "General Details"
+msgstr "Butiran Am"
+
+#: templates/orders/order-details.php:41
+msgid "Order Notes"
+msgstr "Nota Pesanan"
+
+#: templates/orders/order-details.php:72
+#, php-format
+msgid "added on %1$s at %2$s"
+msgstr "ditambah pada%1$s pada%2$s"
+
+#: templates/orders/order-details.php:73
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: templates/orders/order-details.php:73
+#, php-format
+msgid "by %1$s"
+msgstr "oleh%1$s"
+
+#: templates/orders/order-details.php:80
+msgid "There are no notes yet."
+msgstr "Tiada nota lagi."
+
+#: templates/orders/order-details.php:86
+msgid "Add note"
+msgstr "Tambah Nota"
+
+#: templates/orders/order-details.php:92
+msgid "Private note"
+msgstr "Nota peribadi"
+
+#: templates/orders/order-details.php:93
+msgid "Note to customer"
+msgstr "Nota kepada pelanggan"
+
+#: templates/orders/order-details.php:95
+msgid "Add"
+msgstr "Tambah"
+
+#: templates/vendors-registration.php:30
+msgid ""
+"Type first two/three letters and choose from list, if you don't find the "
+"addresses in list or the list does not appear, make sure of the address "
+"spelling."
+msgstr ""
+"Taipkan dua / tiga huruf pertama dan pilih dari senarai, jika anda tidak "
+"menemukan alamat dalam senarai atau senarai tidak muncul, pastikan ejaan "
+"alamat."
+
+#: templates/vendors-registration.php:42
+msgid ""
+"Road/Street names. Type first two/three letters and choose from list, if the "
+"list doesn't appear then complete typing and hit the comma button."
+msgstr ""
+"Jalan / nama jalan. Taipkan dua / tiga huruf pertama dan pilih dari senarai, "
+"jika senarai itu tidak muncul maka taip lengkap dan tekan tombol koma."
+
+#: templates/vendors-registration.php:43
+msgid ""
+"Type first two/three letters and choose from list, if the list doesn't "
+"appear, then complete typing normally."
+msgstr ""
+"Taipkan dua / tiga huruf pertama dan pilih dari senarai, jika senarai tidak "
+"muncul, maka taipkan taip secara normal."
+
+#: templates/vendors-registration.php:75 templates/vendors-registration.php:224
+#: templates/views/html-dashboard-vendor-settings_form.php:51
+#: templates/views/html-dashboard-vendor-settings_form.php:127
+msgid "Menus"
+msgstr "Menu"
+
+#: templates/vendors-registration.php:79
+msgid "Timing"
+msgstr "Masa"
+
+#: templates/vendors-registration.php:95
+#, php-format
+msgid "I Accept %1$s vendor terms of service."
+msgstr "Saya Terima perkhidmatan vendor %1$s."
+
+#: templates/vendors-registration.php:100
+msgid ""
+"Your registration form is under review. You will recieve updates via email."
+msgstr ""
+"Borang pendaftaran anda sedang dikaji. Anda akan menerima kemas kini melalui "
+"e-mel."
+
+#: templates/vendors-registration.php:103
+#, php-format
+msgid "You are currently logged in as (%1$s)"
+msgstr "Anda sedang log masuk sebagai (%1$s)"
+
+#: templates/vendors-registration.php:107
+msgid "Thanks"
+msgstr "Terima kasih"
+
+#: templates/vendors-registration.php:108
+msgid ""
+"We will review your registration information as soon as possible and contact "
+"you via email."
+msgstr ""
+"Kami akan menyemak maklumat pendaftaran anda secepat mungkin dan menghubungi "
+"anda melalui e-mel."
+
+#: templates/vendors-registration.php:114
+msgid "Let's start"
+msgstr "Mari mulakan"
+
+#: templates/vendors-registration.php:114
+msgid ""
+"Fill out the general information fields here and click next. Keep in mind "
+"that all form fields are important ot fill for a good start, so make sure "
+"you don't miss any one."
+msgstr ""
+"Isi medan maklumat umum di sini dan klik seterusnya. Perlu diingat bahawa "
+"semua medan borang adalah penting untuk mengisi permulaan yang baik, jadi "
+"pastikan anda tidak terlepas sesiapa pun."
+
+#: templates/vendors-registration.php:124
+#: templates/vendors-registration.php:128
+#: templates/views/html-vendor-store_rating.php:24
+msgid "Password"
+msgstr "Kata Laluan"
+
+#: templates/vendors-registration.php:125
+msgid "Type a strong password"
+msgstr "Taipkan kata laluan yang kuat"
+
+#: templates/vendors-registration.php:129
+msgid ""
+"Your password will be automatically generated and sent to your email address."
+msgstr ""
+"Kata laluan anda akan dijana secara automatik dan dihantar ke alamat e-mel "
+"anda."
+
+#: templates/vendors-registration.php:135
+msgid "First Name"
+msgstr "Nama Pertama"
+
+#: templates/vendors-registration.php:136
+msgid "Type your first name"
+msgstr "Taip nama pertama anda"
+
+#: templates/vendors-registration.php:140
+msgid "Last Name"
+msgstr "Nama Keluarga"
+
+#: templates/vendors-registration.php:141
+msgid "Type your Last name"
+msgstr "Taipkan Nama akhir anda"
+
+#: templates/vendors-registration.php:146
+msgid "Shop Type"
+msgstr "Jenis Kedai"
+
+#: templates/vendors-registration.php:155
+msgid "Shop Name"
+msgstr "Nama Kedai"
+
+#: templates/vendors-registration.php:156
+#: templates/views/html-dashboard-vendor-settings_form.php:75
+msgid "e.g. BOB's Pizza"
+msgstr "contohnya Pizza BOB"
+
+#: templates/vendors-registration.php:160
+#: templates/views/html-dashboard-vendor-settings_form.php:79
+msgid "Contact number"
+msgstr "Nombor telefon"
+
+#: templates/vendors-registration.php:161
+#: templates/views/html-dashboard-vendor-settings_form.php:80
+msgid "e.g. +123 456 789"
+msgstr "contohnya +123 456 789"
+
+#: templates/vendors-registration.php:165
+#: templates/views/html-dashboard-vendor-settings_form.php:84
+msgid "Shop address"
+msgstr "Alamat kedai"
+
+#: templates/vendors-registration.php:167
+msgid "e.g. Seasons Mall, Town Mall"
+msgstr "contohnya Seasons Mall, Town Mall"
+
+#: templates/vendors-registration.php:172
+#: templates/views/html-dashboard-vendor-settings_form.php:91
+msgid "Shop's location on map"
+msgstr "Lokasi kedai di peta"
+
+#: templates/vendors-registration.php:179
+#: templates/views/html-dashboard-vendor-settings_form.php:98
+msgid "Shop's tags"
+msgstr "Tag kedai"
+
+#: templates/vendors-registration.php:181
+msgid "Separate tags with commas"
+msgstr "Tag berasingan dengan koma"
+
+#: templates/vendors-registration.php:212
+#: templates/views/html-dashboard-vendor-settings_form.php:185
+msgid "Accepted orders when closed"
+msgstr "Pesanan yang diterima apabila ditutup"
+
+#: templates/vendors-registration.php:230
+#: templates/views/html-dashboard-vendor-settings_form.php:133
+#: templates/views/html-dashboard-vendor-settings_form.php:146
+msgid "Menu title"
+msgstr "Tajuk menu"
+
+#: templates/vendors-registration.php:231
+#: templates/views/html-dashboard-vendor-settings_form.php:134
+#: templates/views/html-dashboard-vendor-settings_form.php:147
+msgid "Meal Type. ie. Breakfast, Lunch & Dinner"
+msgstr "Jenis Makan. iaitu. Sarapan, Makan Tengahari &amp; Makan Malam"
+
+#: templates/vendors-registration.php:233
+#: templates/views/html-dashboard-vendor-settings_form.php:136
+#: templates/views/html-dashboard-vendor-settings_form.php:149
+msgid "Start time"
+msgstr "Masa mula"
+
+#: templates/vendors-registration.php:234
+#: templates/vendors-registration.php:323
+#: templates/vendors-registration.php:333
+#: templates/views/html-dashboard-vendor-settings_form.php:336
+#: templates/views/html-dashboard-vendor-settings_form.php:346
+msgid "Start time (24 hour format 00:00)"
+msgstr "Masa mula (format 24 jam 00:00)"
+
+#: templates/vendors-registration.php:236
+#: templates/views/html-dashboard-vendor-settings_form.php:139
+#: templates/views/html-dashboard-vendor-settings_form.php:152
+msgid "End time"
+msgstr "Masa tamat"
+
+#: templates/vendors-registration.php:237
+#: templates/vendors-registration.php:327
+#: templates/vendors-registration.php:337
+#: templates/views/html-dashboard-vendor-settings_form.php:340
+#: templates/views/html-dashboard-vendor-settings_form.php:350
+msgid "End time (24 hour format 00:00)"
+msgstr "Masa tamat (format 24 jam 00:00)"
+
+#: templates/vendors-registration.php:242
+#: templates/views/html-dashboard-vendor-settings_form.php:159
+msgid "Add new menu"
+msgstr "Tambah menu baru"
+
+#: templates/vendors-registration.php:248
+#: templates/views/html-dashboard-vendor-settings_form.php:54
+msgid "Delivery Settings"
+msgstr "Tetapan Penghantaran"
+
+#: templates/vendors-registration.php:250
+msgid "You have more options to set in your settings page after registration."
+msgstr ""
+"Anda mempunyai lebih banyak pilihan untuk menetapkan halaman tetapan anda "
+"selepas pendaftaran."
+
+#: templates/vendors-registration.php:252
+msgid "Calculate delivery by"
+msgstr "Kirakan penghantaran melalui"
+
+#: templates/vendors-registration.php:256
+#: templates/views/html-dashboard-orders-list.php:19
+#: templates/views/html-dashboard-vendor-settings_form.php:221
+#: templates/views/html-dashboard-vendor-settings_form.php:253
+msgid "Order"
+msgstr "Pesanan"
+
+#: templates/vendors-registration.php:260
+#: templates/views/html-dashboard-home-top_items.php:19
+#: templates/views/html-dashboard-orders-list-row.php:92
+#: templates/views/html-dashboard-orders-single-items.php:17
+#: templates/views/html-dashboard-vendor-settings_form.php:225
+#: templates/views/html-dashboard-vendor-settings_form.php:257
+msgid "Product"
+msgstr "Produk"
+
+#: templates/vendors-registration.php:265
+#: templates/views/html-dashboard-vendor-settings_form.php:230
+#: templates/views/html-dashboard-vendor-settings_form.php:262
+msgid "Delivery fee"
+msgstr "Bayaran penghantaran"
+
+#: templates/vendors-registration.php:269
+#: templates/views/html-dashboard-vendor-settings_form.php:234
+#: templates/views/html-dashboard-vendor-settings_form.php:266
+msgid "Fee per additional product"
+msgstr "Bayaran setiap produk tambahan"
+
+#: templates/vendors-registration.php:273
+#: templates/views/html-dashboard-vendor-settings_form.php:238
+#: templates/views/html-dashboard-vendor-settings_form.php:270
+msgid "Minimum order amount for delivery"
+msgstr "Jumlah pesanan minimum untuk penghantaran"
+
+#: templates/vendors-registration.php:277
+#: templates/views/html-dashboard-vendor-settings_form.php:210
+msgid "Delivery zone"
+msgstr "Zon penghantaran"
+
+#: templates/vendors-registration.php:280
+#: templates/views/html-dashboard-vendor-settings_form.php:213
+msgid "Erase drawing"
+msgstr "Padamkan lukisan"
+
+#: templates/vendors-registration.php:282
+msgid "Type & select from predictions and separate by commas."
+msgstr "Taip &amp; pilih dari ramalan dan berasingan dengan tanda koma."
+
+#: templates/vendors-registration.php:288
+msgid "Working timing"
+msgstr "Masa kerja"
+
+#: templates/vendors-registration.php:309
+#: templates/views/html-dashboard-vendor-settings_form.php:322
+msgid "Open"
+msgstr "Buka"
+
+#: templates/vendors-registration.php:313
+msgid "Two Shifts"
+msgstr "Dua Peralihan"
+
+#: templates/vendors-registration.php:322
+#: templates/views/html-dashboard-vendor-settings_form.php:335
+msgid "Opening time for first shift"
+msgstr "Masa pembukaan untuk peralihan pertama"
+
+#: templates/vendors-registration.php:326
+#: templates/views/html-dashboard-vendor-settings_form.php:339
+msgid "Closing time for first shift"
+msgstr "Menutup masa untuk peralihan pertama"
+
+#: templates/vendors-registration.php:332
+#: templates/views/html-dashboard-vendor-settings_form.php:345
+msgid "Opening time for second shift"
+msgstr "Masa pembukaan untuk peralihan kedua"
+
+#: templates/vendors-registration.php:336
+#: templates/views/html-dashboard-vendor-settings_form.php:349
+msgid "Closing time for second shift"
+msgstr "Menutup masa untuk peralihan kedua"
+
+#: templates/vendors-registration.php:346
+#: templates/views/html-dashboard-vendor-settings_form.php:359
+msgid "Unavailable Dates (mm/dd/yyyy)"
+msgstr "Tarikh Tidak Siap (mm / dd / yyyy)"
+
+#: templates/vendors-registration.php:351
+#: templates/views/html-dashboard-vendor-settings_form.php:365
+#: templates/views/html-dashboard-vendor-settings_form.php:379
+msgid "Starting date"
+msgstr "Tarikh bermula"
+
+#: templates/vendors-registration.php:352
+#: templates/views/html-dashboard-vendor-settings_form.php:366
+#: templates/views/html-dashboard-vendor-settings_form.php:380
+msgid "Start Date YYYY/MM/DD"
+msgstr "Tarikh Mula YYYY / MM / DD"
+
+#: templates/vendors-registration.php:356
+#: templates/views/html-dashboard-vendor-settings_form.php:370
+#: templates/views/html-dashboard-vendor-settings_form.php:384
+msgid "Ending date"
+msgstr "Tarikh akhir"
+
+#: templates/vendors-registration.php:357
+#: templates/views/html-dashboard-vendor-settings_form.php:371
+#: templates/views/html-dashboard-vendor-settings_form.php:385
+msgid "End Date YYYY/MM/DD"
+msgstr "Tarikh Akhir YYYY / MM / DD"
+
+#: templates/vendors-registration.php:363
+#: templates/views/html-dashboard-vendor-settings_form.php:392
+msgid "Add new date"
+msgstr "Tambah tarikh baru"
+
+#: templates/vendors-registration.php:369
+msgid "Withdrawal Settings"
+msgstr "Pengeluaran Pengeluaran"
+
+#: templates/vendors-registration.php:387
+msgid "Next"
+msgstr "Seterusnya"
+
+#: templates/vendors-registration.php:444
+msgid "Geo-location was not successful for the following reason:"
+msgstr "Geo-location tidak berjaya atas sebab berikut:"
+
+#: templates/vendors-registration.php:518
+msgid "Error: The Geo-location service failed."
+msgstr "Ralat: Perkhidmatan Geo-lokasi gagal."
+
+#: templates/views/html-dashboard-coupon-form.php:14
+msgid "Create Coupon"
+msgstr "Buat Kupon"
+
+#: templates/views/html-dashboard-coupon-form.php:19
+msgid "Are you cheating?"
+msgstr "Adakah anda menipu?"
+
+#: templates/views/html-dashboard-coupon-form.php:23
+msgid "Update Coupon"
+msgstr "Kemas kini Kupon"
+
+#: templates/views/html-dashboard-coupon-form.php:108
+msgid "Coupon Code"
+msgstr "Kod kupon"
+
+#: templates/views/html-dashboard-coupon-form.php:118
+msgid "Discount Type"
+msgstr "Jenis Diskaun"
+
+#: templates/views/html-dashboard-coupon-form.php:121
+msgid "Fixed amount"
+msgstr "Jumlah tetap"
+
+#: templates/views/html-dashboard-coupon-form.php:122
+msgid "% Discount"
+msgstr "% Diskaun"
+
+#: templates/views/html-dashboard-coupon-form.php:134
+#: templates/views/html-dashboard-coupon-form.php:135
+msgid "Email Restrictions"
+msgstr "Sekatan E-mel"
+
+#: templates/views/html-dashboard-coupon-form.php:138
+msgid "Usage Limit per coupon"
+msgstr "Had Penggunaan setiap kupon"
+
+#: templates/views/html-dashboard-coupon-form.php:139
+#: templates/views/html-dashboard-coupon-form.php:147
+msgid "Unlimited usage"
+msgstr "Penggunaan tidak terhad"
+
+#: templates/views/html-dashboard-coupon-form.php:142
+msgid "Limit usage to X products"
+msgstr "Hadkan penggunaan kepada produk X"
+
+#: templates/views/html-dashboard-coupon-form.php:143
+msgid "Apply to all qualifying products in cart"
+msgstr "Memohon kepada semua produk yang layak dalam kereta"
+
+#: templates/views/html-dashboard-coupon-form.php:146
+msgid "Usage limit per user"
+msgstr "Had penggunaan bagi setiap pengguna"
+
+#: templates/views/html-dashboard-coupon-form.php:150
+#: templates/views/html-dashboard-coupon-form.php:151
+msgid "Expire Date"
+msgstr "Tarikh luput"
+
+#: templates/views/html-dashboard-coupon-form.php:182
+msgid "Minimum spend"
+msgstr "Perbelanjaan minimum"
+
+#: templates/views/html-dashboard-coupon-form.php:183
+msgid "No Minimum"
+msgstr "Tiada Minimum"
+
+#: templates/views/html-dashboard-coupon-form.php:186
+msgid "Maximum spend"
+msgstr "Perbelanjaan maksimum"
+
+#: templates/views/html-dashboard-coupon-form.php:187
+msgid "No Maximum"
+msgstr "Tiada Maksimum"
+
+#: templates/views/html-dashboard-coupon-form.php:193
+msgid "Enable free delivery"
+msgstr "Dayakan penghantaran percuma"
+
+#: templates/views/html-dashboard-coupon-form.php:200
+msgid "Individual use only"
+msgstr "Penggunaan individu sahaja"
+
+#: templates/views/html-dashboard-coupon-form.php:207
+msgid "Exclude discounted products"
+msgstr "Kecualikan produk diskaun"
+
+#: templates/views/html-dashboard-coupon-form.php:214
+msgid "Go public"
+msgstr "Pergi ke umum"
+
+#: templates/views/html-dashboard-coupon-form.php:218
+msgid "Coupon text to show"
+msgstr "Teks kupon untuk dipaparkan"
+
+#: templates/views/html-dashboard-coupon-form.php:219
+msgid ""
+"i.e: Use (enter coupon code) coupon before checkout to get (10%) discount."
+msgstr ""
+"ie: Gunakan (masukkan kupon kod kupon) kupon sebelum checkout untuk "
+"mendapatkan diskaun (10%)."
+
+#: templates/views/html-dashboard-coupon-header.php:19
+msgid "&larr; Coupons"
+msgstr "Kupon ←"
+
+#: templates/views/html-dashboard-coupon-header.php:24
+msgid "New Coupon"
+msgstr "Kupon Baru"
+
+#: templates/views/html-dashboard-coupon-list.php:21
+msgid "Code"
+msgstr "Kod"
+
+#: templates/views/html-dashboard-coupon-list.php:22
+msgid "Type"
+msgstr "Jenis"
+
+#: templates/views/html-dashboard-coupon-list.php:24
+msgid "Product IDs"
+msgstr "ID Produk"
+
+#: templates/views/html-dashboard-coupon-list.php:25
+msgid "Usage / Limit"
+msgstr "Penggunaan / Had"
+
+#: templates/views/html-dashboard-coupon-list.php:26
+msgid "Expiry date"
+msgstr "Tarikh luput"
+
+#: templates/views/html-dashboard-coupon-list.php:43
+msgid "Expiry:"
+msgstr "Tarikh tamat:"
+
+#: templates/views/html-dashboard-coupon-list.php:81
+msgid "delete"
+msgstr "padam"
+
+#: templates/views/html-dashboard-coupon-list.php:86
+msgid "Visit Store"
+msgstr "Lawati Store"
+
+#: templates/views/html-dashboard-coupon-list.php:101
+msgid "Sorry, no coupons found!"
+msgstr "Maaf, tiada kupon ditemui!"
+
+#: templates/views/html-dashboard-home-orders.php:19
+#: templates/views/html-dashboard-orders-list.php:22
+msgid "Status"
+msgstr "Status"
+
+#: templates/views/html-dashboard-home-orders.php:20
+msgid "Count"
+msgstr "Nombor"
+
+#: templates/views/html-dashboard-home-orders.php:36
+msgid "Pending Payment"
+msgstr "Pending Pembayaran"
+
+#: templates/views/html-dashboard-home-orders.php:54
+#: templates/views/html-dashboard-orders-list-row_actions.php:20
+msgid "Cancelled"
+msgstr "Dibatalkan"
+
+#: templates/views/html-dashboard-home-orders.php:63
+#: templates/views/html-dashboard-orders-list-row_actions.php:22
+#: templates/views/html-dashboard-orders-single-items.php:116
+msgid "Refunded"
+msgstr "Wang dikembalikan"
+
+#: templates/views/html-dashboard-home-orders.php:72
+msgid "On-hold"
+msgstr "On-hold"
+
+#: templates/views/html-dashboard-home-top_clients.php:14
+msgid "Top Customers"
+msgstr "Pelanggan Teratas"
+
+#: templates/views/html-dashboard-home-top_clients.php:19
+#: templates/views/html-dashboard-orders-list.php:24
+msgid "Customer"
+msgstr "Pelanggan"
+
+#: templates/views/html-dashboard-home-top_clients.php:20
+msgid "Money Spent"
+msgstr "Ucapan Wang"
+
+#: templates/views/html-dashboard-home-top_clients.php:42
+msgid "Your top 10 clients will be listed here."
+msgstr "10 pelanggan teratas anda akan disenaraikan di sini."
+
+#: templates/views/html-dashboard-home-top_items.php:14
+msgid "Top Selling Products"
+msgstr "Produk Jualan Terunggul"
+
+#: templates/views/html-dashboard-home-top_items.php:20
+#: templates/views/html-dashboard-home-totals.php:14
+#: templates/views/html-dashboard-items-list-single_item.php:26
+msgid "Sales"
+msgstr "Jualan"
+
+#: templates/views/html-dashboard-home-top_items.php:30
+#, php-format
+msgid "Permalink to %1$s"
+msgstr "Permalink to%1$s"
+
+#: templates/views/html-dashboard-home-top_items.php:43
+msgid "Your top 10 selling products will be listed here."
+msgstr "10 produk jualan utama anda akan disenaraikan di sini."
+
+#: templates/views/html-dashboard-home-totals-table.php:17
+msgid "Gross"
+msgstr "Kasar"
+
+#: templates/views/html-dashboard-home-totals-table.php:18
+msgid "Total Coupon Usage"
+msgstr "Jumlah Penggunaan Kupon"
+
+#: templates/views/html-dashboard-home-totals-table.php:20
+msgid "Taxes"
+msgstr "Cukai"
+
+#: templates/views/html-dashboard-home-totals-table.php:21
+msgid "Taxes Refunded"
+msgstr "Cukai Dikembalikan"
+
+#: templates/views/html-dashboard-home-totals-table.php:24
+msgid "Uncompleted Orders"
+msgstr "Perintah yang tidak lengkap"
+
+#: templates/views/html-dashboard-home-totals-table.php:25
+msgid "Refunded Orders"
+msgstr "Pesanan yang Dibayar Semula"
+
+#: templates/views/html-dashboard-home-totals-table.php:29
+msgid "Net Profit"
+msgstr "Keuntungan bersih"
+
+#: templates/views/html-dashboard-home-totals.php:14
+msgid "Print table"
+msgstr "Jadual cetak"
+
+#: templates/views/html-dashboard-home-totals.php:14
+msgid "From all sellers"
+msgstr "Dari semua penjual"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "All Time"
+msgstr "Setiap masa"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Year"
+msgstr "Tahun"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Last Month"
+msgstr "Bulan lepas"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Month"
+msgstr "Bulan"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Week"
+msgstr "Minggu"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Today"
+msgstr "Hari ini"
+
+#: templates/views/html-dashboard-home-totals.php:17
+msgid "Start Date, i.e:"
+msgstr "Tarikh Mula, iaitu:"
+
+#: templates/views/html-dashboard-home-totals.php:20
+msgid "End Date, i.e:"
+msgstr "Tarikh Akhir, iaitu:"
+
+#: templates/views/html-dashboard-home-totals.php:23
+#: templates/views/html-dashboard-vendor-status_menu.php:15
+msgid "Go"
+msgstr "Pergi"
+
+#: templates/views/html-dashboard-home-vendor_balance.php:14
+msgid "Account Balance"
+msgstr "Baki akaun"
+
+#: templates/views/html-dashboard-home-vendor_balance.php:18
+msgid "Withdraw Money"
+msgstr "Mengeluarkan wang"
+
+#: templates/views/html-dashboard-items-form.php:21
+#: templates/views/html-dashboard-orders-list.php:26
+msgid "Update"
+msgstr "Kemaskini"
+
+#: templates/views/html-dashboard-items-form.php:24
+msgid "Post"
+msgstr "Post"
+
+#: templates/views/html-dashboard-items-form.php:25
+msgid "Post & Add New"
+msgstr "Pasang &amp; Tambah Baru"
+
+#: templates/views/html-dashboard-items-form_data.php:20
+msgid "Upload Cover"
+msgstr "Muat Naik"
+
+#: templates/views/html-dashboard-items-form_data.php:20
+msgid "Upload cover image"
+msgstr "Muat naik imej perlindungan"
+
+#: templates/views/html-dashboard-items-form_data.php:24
+msgid "Remove Image"
+msgstr "Alih Keluar Imej"
+
+#: templates/views/html-dashboard-items-form_data.php:36
+msgid "Product Name"
+msgstr "Nama Produk"
+
+#: templates/views/html-dashboard-items-form_data.php:37
+msgid "Type name including brand name if available."
+msgstr "Taipkan nama termasuk jenama jika tersedia."
+
+#: templates/views/html-dashboard-items-form_data.php:43
+msgid "General fields"
+msgstr "Bidang umum"
+
+#: templates/views/html-dashboard-items-form_data.php:46
+msgid "Short Description"
+msgstr "Penerangan Ringkas"
+
+#: templates/views/html-dashboard-items-form_data.php:47
+msgid "Few words about the product..."
+msgstr "Beberapa kata mengenai produk ..."
+
+#: templates/views/html-dashboard-items-form_data.php:50
+msgid "Full Description"
+msgstr "Penerangan Penuh"
+
+#: templates/views/html-dashboard-items-form_data.php:54
+msgid "Category"
+msgstr "Kategori"
+
+#: templates/views/html-dashboard-items-form_data.php:59
+msgid "Menu"
+msgstr "Menu"
+
+#: templates/views/html-dashboard-items-form_data.php:67
+#, php-format
+msgid "You must set your %1$s before you can use this option"
+msgstr "Anda mesti menetapkan%1$s sebelum anda boleh menggunakan pilihan ini"
+
+#: templates/views/html-dashboard-items-form_data.php:67
+msgid "meal types"
+msgstr "jenis makanan"
+
+#: templates/views/html-dashboard-items-form_data.php:76
+msgid "Preparation/Handling time (in minutes)"
+msgstr "Penyediaan / Pengendalian masa (dalam minit)"
+
+#: templates/views/html-dashboard-items-form_data.php:80
+msgid "Maximum orders per day"
+msgstr "Pesanan maksimum setiap hari"
+
+#: templates/views/html-dashboard-items-form_data.php:137
+#: templates/views/html-dashboard-items-form_data.php:166
+#: templates/views/html-dashboard-items-form_data.php:204
+msgid "Variations"
+msgstr "Variasi"
+
+#: templates/views/html-dashboard-items-form_data.php:140
+msgid "The product has variations?"
+msgstr "Produk mempunyai variasi?"
+
+#: templates/views/html-dashboard-items-form_data.php:158
+#: templates/views/html-dashboard-items-form_data.php:200
+msgid "Variation title"
+msgstr "Tajuk variasi"
+
+#: templates/views/html-dashboard-items-form_data.php:161
+msgid "variation title"
+msgstr "tajuk variasi"
+
+#: templates/views/html-dashboard-items-form_data.php:170
+msgid "Update product after selecting to see changes on options below."
+msgstr ""
+"Kemas kini produk selepas memilih untuk melihat perubahan pada pilihan di "
+"bawah."
+
+#: templates/views/html-dashboard-items-form_data.php:171
+msgid "Select terms"
+msgstr "Pilih istilah"
+
+#: templates/views/html-dashboard-items-form_data.php:189
+#: templates/views/html-dashboard-items-form_data.php:192
+#: templates/views/html-dashboard-items-form_data.php:205
+#, php-format
+msgid "Enter variations by \"%1$s\" separating values."
+msgstr "Masukkan variasi dengan &quot;%1$s&quot; yang mengasingkan nilai."
+
+#: templates/views/html-dashboard-items-form_data.php:211
+msgid "+ Add Option Group"
+msgstr "+ Tambah Kumpulan Pilihan"
+
+#: templates/views/html-dashboard-items-form_data.php:215
+msgid "Add new option"
+msgstr "Tambah pilihan baru"
+
+#: templates/views/html-dashboard-items-form_data.php:220
+msgid "Promotions"
+msgstr "Promosi"
+
+#: templates/views/html-dashboard-items-form_data.php:238
+#: templates/views/html-dashboard-items-form_data.php:239
+#: templates/views/html-dashboard-items-form_data.php:267
+#: templates/views/html-dashboard-items-form_data.php:268
+msgid "Discount %"
+msgstr "Diskaun %"
+
+#: templates/views/html-dashboard-items-form_data.php:283
+msgid "Add new promotion rule"
+msgstr "Tambah peraturan promosi baru"
+
+#: templates/views/html-dashboard-items-form_data.php:287
+msgid "Link products"
+msgstr "Pautan produk"
+
+#: templates/views/html-dashboard-items-form_data.php:292
+msgid "Up-Sells"
+msgstr "Up-Menjual"
+
+#: templates/views/html-dashboard-items-form_data.php:302
+msgid "Cross-Sells"
+msgstr "Cross-Menjual"
+
+#: templates/views/html-dashboard-items-form_data.php:314
+msgid "Other options"
+msgstr "Pilihan lain"
+
+#: templates/views/html-dashboard-items-form_data.php:317
+msgid "Purchase Note"
+msgstr "Nota Pembelian"
+
+#: templates/views/html-dashboard-items-form_data.php:319
+msgid "Enter an optional note to send the customer after purchase."
+msgstr "Masukkan nota pilihan untuk menghantar pelanggan selepas pembelian."
+
+#: templates/views/html-dashboard-items-form_variation.php:35
+#, php-format
+msgid "Any %1$s&hellip;"
+msgstr "Mana-mana%1$s ..."
+
+#: templates/views/html-dashboard-items-form_variation.php:52
+msgid "Few words about this variation..."
+msgstr "Beberapa kata mengenai variasi ini ..."
+
+#: templates/views/html-dashboard-items-list-single_item.php:17
+msgid "edit product"
+msgstr "edit produk"
+
+#: templates/views/html-dashboard-items-list-single_item.php:27
+msgid "Views"
+msgstr "Tayang"
+
+#: templates/views/html-dashboard-items-list-single_item.php:52
+msgid "Add this product to today's special products list."
+msgstr "Tambah produk ini ke senarai produk khas hari ini."
+
+#: templates/views/html-dashboard-items-list-single_item.php:52
+msgid "Today's Special Product"
+msgstr "Produk Khas hari ini"
+
+#: templates/views/html-dashboard-items-nav.php:15
+msgid "New product"
+msgstr "Produk baru"
+
+#: templates/views/html-dashboard-items-nav.php:22
+#, php-format
+msgid "Online (%d)"
+msgstr "Dalam talian (% d)"
+
+#: templates/views/html-dashboard-items-nav.php:25
+#, php-format
+msgid "Offline (%d)"
+msgstr "Luar talian (% d)"
+
+#: templates/views/html-dashboard-menu.php:14
+#, php-format
+msgid "%1$s Dashboard"
+msgstr "Papan Pemuka%1$s"
+
+#: templates/views/html-dashboard-orders-list-row.php:16
+#, php-format
+msgid "Order %1$s"
+msgstr "Perintah%1$s"
+
+#: templates/views/html-dashboard-orders-list-row.php:17
+msgid "Quick View"
+msgstr "Paparan Pantas"
+
+#: templates/views/html-dashboard-orders-list-row.php:43
+msgid "Billing:"
+msgstr "Pengebilan:"
+
+#: templates/views/html-dashboard-orders-list-row.php:46
+msgid "Tel:"
+msgstr "Tel:"
+
+#: templates/views/html-dashboard-orders-list-row.php:61
+msgid "Guest"
+msgstr "Tetamu"
+
+#: templates/views/html-dashboard-orders-list-row.php:93
+msgid "Options"
+msgstr "Pilihan"
+
+#: templates/views/html-dashboard-orders-list-row.php:94
+msgid "Quantity"
+msgstr "Kuantiti"
+
+#: templates/views/html-dashboard-orders-list-row_actions.php:19
+msgid "Complete"
+msgstr "Memperlengkap"
+
+#: templates/views/html-dashboard-orders-list-row_actions.php:26
+msgid "Failed"
+msgstr "Gagal"
+
+#: templates/views/html-dashboard-orders-list_no_results.php:17
+msgid "No orders found"
+msgstr "Tiada pesanan dijumpai"
+
+#: templates/views/html-dashboard-orders-nav.php:17
+#, php-format
+msgid "Processing (%d)"
+msgstr "Pemprosesan (% d)"
+
+#: templates/views/html-dashboard-orders-nav.php:22
+#, php-format
+msgid "Completed (%d)"
+msgstr "Selesai (% d)"
+
+#: templates/views/html-dashboard-orders-nav.php:27
+#, php-format
+msgid "On-hold (%d)"
+msgstr "On-hold (% d)"
+
+#: templates/views/html-dashboard-orders-nav.php:32
+#, php-format
+msgid "Pending Payment (%d)"
+msgstr "Pembayaran belum selesai (% d)"
+
+#: templates/views/html-dashboard-orders-nav.php:37
+#, php-format
+msgid "Cancelled (%d)"
+msgstr "Dibatalkan (% d)"
+
+#: templates/views/html-dashboard-orders-nav.php:42
+#, php-format
+msgid "Refunded (%d)"
+msgstr "Dibayar balik (% d)"
+
+#: templates/views/html-dashboard-orders-nav.php:47
+#, php-format
+msgid "failed (%d)"
+msgstr "gagal (% d)"
+
+#: templates/views/html-dashboard-orders-single-customer_details.php:17
+msgid "Customer:"
+msgstr "Pelanggan:"
+
+#: templates/views/html-dashboard-orders-single-customer_details.php:31
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: templates/views/html-dashboard-orders-single-customer_details.php:46
+msgid "Customer Note:"
+msgstr "Nota Pelanggan:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:17
+msgid "Order Status:"
+msgstr "Status pesanan:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:21
+msgid "Payment Method:"
+msgstr "Kaedah Pembayaran:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:25
+msgid "Created Date:"
+msgstr "Tarikh Penciptaan:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:29
+msgid "Website Fee:"
+msgstr "Bayaran Laman Web:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:33
+msgid "Vendor's Net:"
+msgstr "Net Penjual:"
+
+#: templates/views/html-dashboard-orders-single-items.php:19
+msgid "Cost"
+msgstr "Kos"
+
+#: templates/views/html-dashboard-orders-single-items.php:20
+msgid "Qty"
+msgstr "Qty"
+
+#: templates/views/html-dashboard-orders-single-items.php:25
+#: templates/views/html-dashboard-orders-single-items.php:26
+msgid "Tax"
+msgstr "Tax"
+
+#: templates/views/html-dashboard-orders-single-items.php:71
+msgid "Coupon(s) Used"
+msgstr "Kupon digunakan"
+
+#: templates/views/html-dashboard-orders-single-items.php:108
+msgid "Order Total"
+msgstr "jumlah pesanan"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:21
+#: templates/views/html-dashboard-vendor-settings_form.php:36
+msgid "Change"
+msgstr "Berubah"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:26
+msgid "Select your shop's banner"
+msgstr "Pilih spanduk kedai anda"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:26
+msgid "Select Image"
+msgstr "Pilih Imej"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:26
+msgid "Upload banner"
+msgstr "Muatkan sepanduk"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:27
+msgid "Upload a banner for your shop. Banner size is (1125x190) pixel."
+msgstr ""
+"Muat naik sepanduk untuk kedai anda. Saiz banner adalah (1125x190) piksel."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:40
+msgid "Upload Logo"
+msgstr "Logo muat naik"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:55
+msgid "Shop Notice"
+msgstr "Pemberitahuan Kedai"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:56
+msgid "Social Settings"
+msgstr "Tetapan Sosial"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:58
+msgid "Open/Close Timings"
+msgstr "Buka / Tutup Masa"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:60
+msgid "Withdrawal Methods"
+msgstr "Kaedah Pengeluaran"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:65
+msgid "General Info"
+msgstr "Maklumat umum"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:69
+msgid "Shop type"
+msgstr "Jenis kedai"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:74
+msgid "Shop name"
+msgstr "Nama kedai"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:86
+msgid "e.g. In front of cinema, Fourth floor, Seasons mall"
+msgstr "contohnya di hadapan panggung wayang, tingkat keempat, mal musim"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:99
+msgid "i.e Italian, Indian, Fast Food, Fine Dining .. etc."
+msgstr "iaitu Bahasa Itali, India, Makanan Segera, Makanan Halus .. dsb."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:120
+msgid "Allow receiving emails from the shop page."
+msgstr "Benarkan menerima e-mel dari halaman kedai."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:137
+#: templates/views/html-dashboard-vendor-settings_form.php:150
+msgid "Start time (24 hours format 00:00)"
+msgstr "Masa mula (format 24 jam 00:00)"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:140
+#: templates/views/html-dashboard-vendor-settings_form.php:153
+msgid "End time (24 hours format 00:00)"
+msgstr "Masa tamat (format 24 jam 00:00)"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:182
+msgid "Allow orders even when your shop is closed?"
+msgstr "Benarkan pesanan walaupun kedai anda ditutup?"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:196
+msgid "Calculate order preparation time percentage"
+msgstr "Hitung peratusan masa penyediaan pesanan"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:203
+msgid "Delivery settings."
+msgstr "Tetapan penghantaran."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:206
+msgid ""
+"You have chosen not to provide delivery service. You can change that from "
+"your orders settings."
+msgstr ""
+"Anda telah memilih untuk tidak menyediakan perkhidmatan penghantaran. Anda "
+"boleh mengubahnya dari tetapan pesanan anda."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:217
+#: templates/views/html-dashboard-vendor-settings_form.php:249
+msgid "Calculate delivery fee by"
+msgstr "Kirakan kos penghantaran oleh"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:242
+msgid "Delivery on peak times"
+msgstr "Penghantaran pada waktu puncak"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:245
+msgid "Processing orders"
+msgstr "Pesanan pemprosesan"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:279
+msgid "Shop page notification"
+msgstr "Kedai pemberitahuan halaman"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:282
+msgid "Add message"
+msgstr "Tambah mesej"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:283
+msgid "Type your note..."
+msgstr "Taip nota anda ..."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:288
+msgid "Social accounts"
+msgstr "Akaun sosial"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:292
+msgid "Facebook"
+msgstr "Facebook"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:296
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:300
+msgid "Youtube"
+msgstr "Youtube"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:304
+msgid "Instagram"
+msgstr "Instagram"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:312
+msgid "Shop's timings"
+msgstr "Tempahan kedai"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:326
+msgid "Two shifts"
+msgstr "Dua peralihan"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:400
+msgid "Withdrawal settings"
+msgstr "Tetapan pengunduran"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:415
+msgid "Update Settings"
+msgstr "Kemas kini Tetapan"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:498
+msgid "Geocode was not successful for the following reason:"
+msgstr "Geocode tidak berjaya atas sebab berikut:"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:580
+msgid "Error: The Geolocation service failed."
+msgstr "Ralat: Perkhidmatan Geolocation gagal."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:15
+msgid "Status:"
+msgstr "Status:"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:15
+msgid "Change Status?"
+msgstr "Tukar Status?"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:16
+msgid "Play tune on new orders"
+msgstr "Mainkan lagu pada pesanan baru"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:16
+msgid "Turn on notifications"
+msgstr "Hidupkan pemberitahuan"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:16
+msgid "Active"
+msgstr "Aktif"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:16
+msgid "Turn off notifications"
+msgstr "Matikan pemberitahuan"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:17
+#, php-format
+msgid "Website time: %1$s"
+msgstr "Masa laman web:%1$s"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:18
+msgid "Set your status to online if you wish to receive orders."
+msgstr "Tetapkan status anda ke dalam talian jika anda ingin menerima pesanan."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:19
+#, php-format
+msgid ""
+"Your status will be automatically set to \"offline\" if you closed or "
+"navigated away from the website for %1$s minutes."
+msgstr ""
+"Status anda akan ditetapkan secara automatik ke &quot;luar talian&quot; jika "
+"anda ditutup atau dilayari dari laman web selama%1$s minit."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:20
+#, php-format
+msgid "%1$s from %2$s to %3$s."
+msgstr "%1$s dari%2$s hingga%3$s."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:22
+#, php-format
+msgid "No %1$s timings for today."
+msgstr "Tidak ada masa tunggu %1$s untuk hari ini."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:22
+msgid "set timing"
+msgstr "tetapkan masa"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:22
+msgid "opeining and closing"
+msgstr "opeining dan penutupan"
+
+#: templates/views/html-items-atc.php:57
+msgid "Clear"
+msgstr "Jelas"
+
+#: templates/views/html-vendor-store_email_form.php:16
+msgid "Send Message to"
+msgstr "Hantar Mesej kepada"
+
+#: templates/views/html-vendor-store_email_form.php:27
+msgid "Your Name"
+msgstr "Nama awak"
+
+#: templates/views/html-vendor-store_email_form.php:33
+msgid "you@example.com"
+msgstr "you@example.com"
+
+#: templates/views/html-vendor-store_email_form.php:40
+msgid "Email Subject"
+msgstr "Subjek email"
+
+#: templates/views/html-vendor-store_email_form.php:46
+msgid "Type your message..."
+msgstr "Taip mesej anda ..."
+
+#: templates/views/html-vendor-store_email_form.php:55
+msgid "Send Message"
+msgstr "Menghantar mesej"
+
+#: templates/views/html-vendor-store_rating.php:17
+msgid "Login to make your rating on"
+msgstr "Log masuk untuk membuat penarafan anda"
+
+#: templates/views/html-vendor-store_rating.php:20
+msgid "Email address"
+msgstr "Alamat e-mel"
+
+#: templates/views/html-vendor-store_rating.php:28
+msgid "Login"
+msgstr "Log masuk"
+
+#: templates/views/html-vendor-store_rating.php:35
+msgid "Rate"
+msgstr "Kadar"
+
+#: templates/views/html-vendor-store_rating.php:39
+msgid "Star"
+msgstr "Bintang"
+
+#. Plugin Name of the plugin/theme
+msgid "Norsani, The Multi-Vendor online Food Ordering System."
+msgstr "Norsani, Sistem Pemindaan Makanan dalam talian Multi-Vendor."
+
+#. Plugin URI of the plugin/theme
+msgid "http://norsani.mahmudhamid.com/"
+msgstr "http://norsani.mahmudhamid.com/"
+
+#. Description of the plugin/theme
+msgid "Multi-vendor online food ordering system."
+msgstr "Sistem pesanan makanan dalam talian berbilang vendor."
+
+#. Author of the plugin/theme
+msgid "Mahmud Hamid"
+msgstr "Mahmud Hamid"
+
+#. Author URI of the plugin/theme
+msgid "https://mahmudhamid.com"
+msgstr "https://mahmudhamid.com"
+
+#~ msgid ""
+#~ "You cannot add that amount of &quot;%s&quot; to the cart because there is "
+#~ "not enough stock (%s remaining)."
+#~ msgstr ""
+#~ "Anda tidak dapat menambahkan jumlah &quot; %s&quot; ke troli kerana tidak "
+#~ "ada stok yang cukup (sisa %s)."
+
+#~ msgid "Visit our website for docs"
+#~ msgstr "Lawati laman web kami untuk dokumen"
+
+#~ msgid "Documentation"
+#~ msgstr "Dokumentasi"
+
+#~ msgid "Update Location?"
+#~ msgstr "Kemas kini Lokasi?"
+
+#~ msgid "Updating PayPal Payouts statuses..."
+#~ msgstr "Mengemas kini status Pembayaran PayPal ..."
+
+#~ msgid "This option has been disabled because the product has variations."
+#~ msgstr "Pilihan ini telah dilumpuhkan kerana produk mempunyai variasi."
+
+#~ msgid ""
+#~ "Something went wrong, please check your browser console for more info."
+#~ msgstr ""
+#~ "Ada masalah, sila periksa konsol pelayar anda untuk mendapatkan maklumat "
+#~ "lanjut."
+
+#~ msgid "Available"
+#~ msgstr "Tersedia"
+
+#~ msgid "Not Available"
+#~ msgstr "Tidak boleh didapati"
+
+#~ msgid "Sorry, no products matched your selection."
+#~ msgstr "Maaf, tiada produk yang sepadan dengan pilihan anda."
+
+#~ msgid ""
+#~ "Please select some product options before adding this product to your "
+#~ "cart."
+#~ msgstr ""
+#~ "Sila pilih beberapa pilihan produk sebelum menambah produk ini ke "
+#~ "keranjang anda."
+
+#~ msgid "Sorry, this product is unavailable."
+#~ msgstr "Maaf, produk ini tidak tersedia."
+
+#~ msgid "No address found for your location."
+#~ msgstr "Tiada alamat yang dijumpai untuk lokasi anda."
+
+#~ msgid "No results found. Please review your input."
+#~ msgstr "Tiada keputusan dijumpai. Sila semak input anda."
+
+#~ msgid "Geocoding Query limit reached. Please try again later."
+#~ msgstr "Had permintaan Geocoding dicapai. Sila cuba sebentar lagi."
+
+#~ msgid ""
+#~ "We could not set your location due to query limit. Please try setting it "
+#~ "manually."
+#~ msgstr ""
+#~ "Kami tidak dapat menetapkan lokasi anda kerana had pertanyaan. Sila cuba "
+#~ "tetapkannya secara manual."
+
+#~ msgid ""
+#~ "We could not load the predictions list due to a denied request. Please "
+#~ "try again later."
+#~ msgstr ""
+#~ "Kami tidak dapat memuatkan senarai ramalan kerana permintaan yang "
+#~ "ditolak. Sila cuba sebentar lagi."
+
+#~ msgid ""
+#~ "We could not load the predictions list due to a invalid request. Please "
+#~ "try again later."
+#~ msgstr ""
+#~ "Kami tidak dapat memuatkan senarai ramalan kerana permintaan tidak sah. "
+#~ "Sila cuba sebentar lagi."
+
+#~ msgid ""
+#~ "We could not load the predictions list due to an unknown error. Please "
+#~ "try again later."
+#~ msgstr ""
+#~ "Kami tidak dapat memuatkan senarai ramalan kerana ralat yang tidak "
+#~ "diketahui. Sila cuba sebentar lagi."
+
+#~ msgid ""
+#~ "The location was not set due to invalid request. Please try again later."
+#~ msgstr ""
+#~ "Lokasi tidak ditetapkan disebabkan permintaan yang tidak sah. Sila cuba "
+#~ "sebentar lagi."
+
+#~ msgid ""
+#~ "The location was not set due to denied request. Please try again later."
+#~ msgstr ""
+#~ "Lokasi tidak ditetapkan disebabkan permintaan yang ditolak. Sila cuba "
+#~ "sebentar lagi."
+
+#~ msgid ""
+#~ "Geolocation Access Denied. Please enable the geolocation service on your "
+#~ "device."
+#~ msgstr ""
+#~ "Akses Geolocation Ditolak. Sila aktifkan perkhidmatan geolokasi di "
+#~ "peranti anda."
+
+#~ msgid "Your location information is unavailable! Please review your input."
+#~ msgstr "Maklumat lokasi anda tidak tersedia! Sila semak input anda."
+
+#~ msgid "Your location information is unavailable!"
+#~ msgstr "Maklumat lokasi anda tidak tersedia!"
+
+#~ msgid "Geolocation failed, maybe due to a slow internet connection."
+#~ msgstr "Geolocation gagal, mungkin kerana sambungan internet lambat."
+
+#~ msgid "Geolocation failed due to an unknown error. Please try again later."
+#~ msgstr ""
+#~ "Geolokasi gagal disebabkan ralat yang tidak diketahui. Sila cuba sebentar "
+#~ "lagi."
+
+#~ msgid ""
+#~ "Could not set your address due to an unknown error. Please try again "
+#~ "later."
+#~ msgstr ""
+#~ "Tidak dapat menetapkan alamat anda disebabkan ralat yang tidak diketahui. "
+#~ "Sila cuba sebentar lagi."
+
+#~ msgid "Error: Your browser doesn't support geolocation."
+#~ msgstr "Ralat: Penyemak imbas anda tidak menyokong geolokasi."
+
+#~ msgid "Please check your internet connection and try again."
+#~ msgstr "Sila semak sambungan internet anda dan cuba lagi."
+
+#~ msgid "Unsupported location"
+#~ msgstr "Lokasi tidak disokong"
+
+#~ msgid "Server error"
+#~ msgstr "Kesilapan pelayan"
+
+#~ msgid ""
+#~ "We couldn't calculate the delivery duration between your location and "
+#~ "this vendor due to a server or internet connection error."
+#~ msgstr ""
+#~ "Kami tidak dapat mengira tempoh penghantaran antara lokasi anda dan "
+#~ "vendor ini disebabkan ralat server atau sambungan internet."
+
+#~ msgid ""
+#~ "We couldn't calculate the delivery fee of this vendor due to a server or "
+#~ "internet connection error."
+#~ msgstr ""
+#~ "Kami tidak dapat mengira yuran penghantaran vendor ini disebabkan ralat "
+#~ "server atau sambungan internet."
+
+#~ msgid "Free Delivery"
+#~ msgstr "Penghantaran percuma"
+
+#~ msgid "per"
+#~ msgstr "per"
+
+#~ msgid "No Connection!"
+#~ msgstr "Tiada Sambungan!"
+
+#~ msgid "Our service is not supported in your country"
+#~ msgstr "Perkhidmatan kami tidak disokong di negara anda"
+
+#~ msgid "Your location has been set to"
+#~ msgstr "Lokasi anda telah ditetapkan"
+
+#~ msgid ""
+#~ "This is an estimate calculation for the delivery duration to your location"
+#~ msgstr ""
+#~ "Ini adalah pengiraan anggaran untuk tempoh penghantaran ke lokasi anda"
+
+#~ msgid "Your location is not within the delivery zone of this vendor."
+#~ msgstr "Lokasi anda tidak berada dalam zon penghantaran vendor ini."
+
+#~ msgid "This vendor provides free delivery service."
+#~ msgstr "Penjual ini menyediakan perkhidmatan penghantaran percuma."
+
+#~ msgid ""
+#~ "The delivery fee multiplied with the total distance to your location."
+#~ msgstr "Yuran penghantaran didarab dengan jarak total ke lokasi anda."
+
+#~ msgid "Out of range"
+#~ msgstr "Luar kawasan"
+
+#~ msgid ""
+#~ "Your current location is out of range of this vendor's delivery service."
+#~ msgstr ""
+#~ "Lokasi semasa anda berada di luar rangkaian perkhidmatan penghantaran "
+#~ "vendor ini."
+
+#~ msgid "Start Date, mm/dd/yyyy"
+#~ msgstr "Mula Tarikh, mm / dd / yyyy"
+
+#~ msgid "End Date, mm/dd/yyyy"
+#~ msgstr "Tarikh Akhir, mm / dd / yyyy"
+
+#~ msgid "Product:"
+#~ msgstr "Produk:"
+
+#~ msgid "Class:"
+#~ msgstr "Kelas:"
+
+#~ msgid "Spicy:"
+#~ msgstr "Pedas:"
+
+#~ msgid "Fat:"
+#~ msgstr "Lemak:"
+
+#~ msgid " Grams"
+#~ msgstr "Gram"
+
+#~ msgid "Message from"
+#~ msgstr "Mesej dari"
+
+#~ msgid "\"%s\"! \"%s\" sent you a message from your \"%s\" vendor page."
+#~ msgstr ""
+#~ "&quot; %s&quot;! &quot; %s&quot; menghantar mesej kepada anda dari "
+#~ "halaman vendor &quot; %s&quot; anda."
+
+#~ msgid "Invitation Letter from %s."
+#~ msgstr "Surat Undangan dari %s."
+
+#~ msgid "Withdrawal Request #"
+#~ msgstr "Permintaan pengeluaran #"
+
+#~ msgid "New Customer Registration at"
+#~ msgstr "Pendaftaran Pelanggan Baru di"
+
+#~ msgid "Your"
+#~ msgstr "Anda"
+
+#~ msgid "Balance Updated."
+#~ msgstr "Baki Dikemaskini."
+
+#~ msgid ""
+#~ "Hello Admin,\n"
+#~ "\n"
+#~ "Your Payout trasaction for order number: %s to vendor: %s has failed due "
+#~ "to the following error:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hello Admin, trasaction Pembayaran Anda untuk nombor pesanan: %s kepada "
+#~ "penjual: %s telah gagal disebabkan ralat berikut: %s Salam!  %s %s"
+
+#~ msgid ""
+#~ "Hello %s,\n"
+#~ "\n"
+#~ "Someone requested through our mobile app that the password be reset for "
+#~ "the following account:\n"
+#~ "Username:%s\n"
+#~ "\n"
+#~ "If this was a mistake, just ignore this email and nothing will happen.\n"
+#~ "To reset your password, enter the following key in the password reset "
+#~ "verification field:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hello %s, Seseorang diminta melalui aplikasi mudah alih kami agar kata "
+#~ "laluan diset semula untuk akaun berikut: Nama pengguna: %s Jika ini "
+#~ "adalah kesilapan, abaikan e-mel ini dan tidak akan berlaku. Untuk "
+#~ "menetapkan semula kata laluan anda, masukkan kekunci berikut dalam bidang "
+#~ "pengesahan set semula kata laluan: %s Salam!  %s %s"
+
+#~ msgid ""
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "------------------------------\n"
+#~ "Sent from %s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ " ------------------------------\n"
+#~ "Dihantar dari %s\n"
+#~ "%s"
+
+#~ msgid ""
+#~ "From: %s\n"
+#~ "IP: %s\n"
+#~ "User Agent: %s\n"
+#~ "------------------------------\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "------------------------------\n"
+#~ "Sent from %s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Daripada: %s IP: %s Agen Pengguna: %s ------------------------------ %s "
+#~ "----- ------------------------- Dihantar dari %s %s"
+
+#~ msgid ""
+#~ "Hello %s Admin,\n"
+#~ "\n"
+#~ "A New Customer has registered in your site.\n"
+#~ "User details:\n"
+#~ "Email : %s\n"
+#~ "\n"
+#~ "View all users list at %s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hello %s Admin, Pelanggan Baru telah mendaftar di laman web anda. Butiran "
+#~ "pengguna: E-mel: %s Lihat semua senarai pengguna pada %s Salam!  %s %s"
+
+#~ msgid ""
+#~ "Hello %s Admin,\n"
+#~ "\n"
+#~ "A New Vendor has registered in your site.\n"
+#~ "Vendor details:\n"
+#~ "Email : %s\n"
+#~ "First Name : %s\n"
+#~ "Last Name : %s\n"
+#~ "Shop Name : %s\n"
+#~ "Shop URL : %s\n"
+#~ "Shop Phone : %s\n"
+#~ "\n"
+#~ "View all stores at %s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hello %s Admin, Penjual Baru telah mendaftar di laman web anda. Butiran "
+#~ "vendor: E-mel: %s Nama Pertama: %s Nama Akhir: %s Nama Kedai: %s Kedai "
+#~ "URL: %s Kedai Telefon: %s Lihat semua kedai di %s Salam!  %s %s"
+
+#~ msgid ""
+#~ "Hello %s,\n"
+#~ "\n"
+#~ "Your selling privileges status has been changed to: %s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hello %s, Keistimewaan jualan anda telah diubah menjadi: %s Salam!  %s %s"
+
+#~ msgid ""
+#~ "Hello %s,\n"
+#~ "\n"
+#~ "The order id %s status has been changed from completed to %s. The order "
+#~ "total amount is %s.\n"
+#~ "Your new balance is %s. Please contact the website Admin if you might "
+#~ "need any clarification.\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hello %s,\n"
+#~ "\n"
+#~ "Status ID %s pesanan telah diubah dari selesai kepada %s. Jumlah "
+#~ "keseluruhan pesanan adalah %s.\n"
+#~ "Baki baru anda ialah %s. Sila hubungi Admin laman web jika anda "
+#~ "memerlukan penjelasan.\n"
+#~ "\n"
+#~ "Salam!\n"
+#~ " %s\n"
+#~ "%s"
+
+#~ msgid "e.g. Indian, Italian, Chinese ..."
+#~ msgstr "contohnya India, Itali, Cina ..."
+
+#~ msgid "e.g. Beef, Chicken, Onion ..."
+#~ msgstr "contohnya daging lembu, ayam, bawang ..."
+
+#~ msgid "e.g. Road One, Road Two, Road Three ..."
+#~ msgstr "contohnya Road One, Jalan Dua, Jalan Tiga ..."
+
+#~ msgid "next"
+#~ msgstr "seterusnya"
+
+#~ msgid ""
+#~ "Sorry, The preparation date set for %s&apos;s products is inappropriate."
+#~ msgstr ""
+#~ "Maaf, tarikh persediaan ditetapkan untuk produk %s adalah tidak sesuai."
+
+#~ msgid "Sub Orders"
+#~ msgstr "Sub Pesanan"
+
+#~ msgid "Note:"
+#~ msgstr "Nota:"
+
+#~ msgid ""
+#~ "This order has products from multiple vendors. So we have divided the "
+#~ "main order into multiple sub-orders, each will be handled by its "
+#~ "respective vendor independently."
+#~ msgstr ""
+#~ "Pesanan ini mempunyai produk dari pelbagai vendor. Oleh itu, kami telah "
+#~ "membahagikan pesanan utama ke dalam beberapa sub arahan, masing-masing "
+#~ "akan ditangani oleh vendor masing-masing secara berasingan."
+
+#~ msgid "%s for %s product"
+#~ msgid_plural "%s for %s products"
+#~ msgstr[0] "%s untuk produk %s"
+
+#~ msgid "N/A"
+#~ msgstr "N/A"
+
+#~ msgid "Account Name: %s"
+#~ msgstr "Nama Akaun: %s"
+
+#~ msgid "Account Number: %s"
+#~ msgstr "Nombor Akaun: %s"
+
+#~ msgid "Bank Name: %s"
+#~ msgstr "Nama Bank: %s"
+
+#~ msgid "Address: %s"
+#~ msgstr "Alamat: %s"
+
+#~ msgid "SWIFT: %s"
+#~ msgstr "SWIFT: %s"
+
+#~ msgid "the vendor balance is Insufficient."
+#~ msgstr "baki penjual tidak mencukupi."
+
+#~ msgid "Sub Order of"
+#~ msgstr "Suborder of"
+
+#~ msgid "Unpublished"
+#~ msgstr "Tidak diterbitkan"
+
+#~ msgid "Update the Product"
+#~ msgstr "Kemas kini Produk"
+
+#~ msgid "list"
+#~ msgstr "senarai"
+
+#~ msgid "Please select the types of vendors that you allow to register."
+#~ msgstr "Sila pilih jenis vendor yang anda membenarkan untuk mendaftar."
+
+#~ msgid "Post the Product"
+#~ msgstr "Siarkan Produk"
+
+#~ msgid "Post the product & add a new one"
+#~ msgstr "Siarkan produk &amp; tambah yang baru"
+
+#~ msgid "This product cannot be purchased."
+#~ msgstr "Produk ini tidak boleh dibeli."
+
+#~ msgid "Available food types"
+#~ msgstr "Jenis makanan yang ada"
+
+#~ msgid "Veg."
+#~ msgstr "Sayuran."
+
+#~ msgid "Non-Veg."
+#~ msgstr "Bukan Vegan."
+
+#~ msgid "Sea Food."
+#~ msgstr "Makanan laut."
+
+#~ msgid "Food Truck"
+#~ msgstr "Lori makanan"
+
+#~ msgid "Chefs list page was not found."
+#~ msgstr "Halaman senarai chef tidak dijumpai."
+
+#~ msgid "Restaurants list page was not found."
+#~ msgstr "Halaman senarai restoran tidak dijumpai."
+
+#~ msgid "Groceries list page was not found."
+#~ msgstr "Halaman senarai barangan runcit tidak dijumpai."
+
+#~ msgid "Food Trucks list page was not found."
+#~ msgstr "Halaman senarai makanan trak tidak dijumpai."
+
+#~ msgid "Chef"
+#~ msgstr "Chef"
+
+#~ msgid "Restaurant"
+#~ msgstr "Restoran"
+
+#~ msgid "Grocery"
+#~ msgstr "Barang Runcit"
+
+#~ msgid "Browse Restaurants"
+#~ msgstr "Lihat Restoran"
+
+#~ msgid "Browse Groceries"
+#~ msgstr "Semak Groceries"
+
+#~ msgid "Browse Food Trucks"
+#~ msgstr "Lihat Lori Makanan"
+
+#~ msgid "Foodtrucks"
+#~ msgstr "Foodtrucks"
+
+#~ msgid "Net"
+#~ msgstr "Bersih"

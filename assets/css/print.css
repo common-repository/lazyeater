@@ -1,0 +1,28 @@
+.frozr_dash_report{margin:0 auto;display:block}
+.summary_report_header{width:100%;font-weight:700;border-collapse:collapse}
+.summary_report_header td{padding:10px}
+.summary_logo{background-color:rgba(0,0,0,0.8);color:#fff}
+.summary_report_container table{width:100%}
+.summary_report_container{width:90%;margin:0 auto;text-align:left}
+.summary_report_body{padding:2em 0;background-color:rgba(0,0,0,0.05)}
+.summary_report_details td{min-height:10em;width:50%}
+.summary_footnotes{padding:2em 0;text-align:center}
+.summary_total_amount{text-align:right;width:88%;display:block;padding:1em 0;font-weight:700}
+.summary_total_notice{text-align:right;width:100%;display:block}
+.frozr_dash_print_order{width:95%;padding:1%;margin:0 auto}
+.order_print_header{background-color:rgba(0,0,0,1);display:flex;display:-webkit-flex}
+.order_print_header a{padding:.5em;color:#fff;text-decoration:none;display:flex;align-items:center;}
+.frozr_dash_print_order > div > *{width:100%}
+.frozr_dash_print_order > div td,.frozr_dash_print_order .wc-order-totals td{width:50%;padding:.3em 0;}
+.frozr_dash_print_order .order_item{text-align:left}
+.frozr_dash_print_order p{margin:0}
+.frozr_dash_print_order tbody .order_item:nth-child(2n+1){background-color:rgba(0,0,0,0.07)}
+.frozr_dash_print_order tbody .order_item:nth-child(2n) td{border-bottom:.2em dashed rgba(0,0,0,0.1)}
+.frozr_dash_print_order .order_item > td{padding:10px 0}
+.frozr_dash_print_order .order_quantity{text-align:center;width:10%;}
+.frozr_dash_print_order .order_fee td{border-top:.2em solid rgba(0,0,0,0.1)}
+.frozr_dash_print_order .order_total,.frozr_dash_print_order .line_cost{text-align:right}
+.frozr_dash_print_order .or-body.general-details{margin:1em 0;border-top:.2em solid rgba(0,0,0,0.1)}
+.frozr_dash_print_order .order_item .order_name{padding:6px}
+th.line_cost{width:10%;}
+td.status-label{font-weight:bold;}

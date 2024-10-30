@@ -1,0 +1,19 @@
+.tagator_element *{box-sizing:border-box;-moz-box-sizing:border-box;text-decoration:none}
+#tagator_dimmer{background-color:rgba(0,0,0,.1);width:100%;height:100%;position:fixed;z-index:100}
+.tagator_element{border-radius:3px;box-sizing:border-box;display:inline-block;text-decoration:none}
+.tagator_element.options-visible{position:relative;z-index:101}
+.tagator_placeholder{position:absolute;color:#999}
+.tagator_tags{display:inline}
+.tagator_tag{display:inline-block;border-radius:50em;padding:0 33px 0px 12px;margin:2px;position:relative;vertical-align:top;}
+.tagator_tag_remove{font-weight:bold;display:inline-block;margin:0;padding:0 7px;background-color:rgba(0,0,0,0.07);cursor:pointer;vertical-align:top;border-radius:50%;position:absolute;right:0;top:0;bottom:0;}
+.tagator_tag_remove:hover{background-color:rgba(0,0,0,0.1)}
+.tagator_input,.tagator_textlength{border:0;display:inline-block;margin:0;background-color:transparent;padding:4px 0 0 5px;position:relative;z-index:1}
+.tagator_options{margin:0;padding:0;border:1px solid #7f9db9;border-radius:0 0 3px 3px;font-family:sans-serif;position:absolute;box-sizing:border-box;-moz-box-sizing:border-box;z-index:101;background-color:#fff;overflow:auto;max-height:250px;list-style:none;left:-1px;right:-1px}
+.tagator_element.options-hidden .tagator_options{display:none}
+.tagator_option{padding:5px;cursor:pointer;color:#000}
+.tagator_option.active{background-color:#39f;color:#fff}
+#mainform .tagator_element{background-color:#fff;box-shadow:inset 0 1px 2px rgba(0,0,0,.07);border:1px solid #ddd;transition:50ms border-color ease-in-out;}
+#mainform .tagator_tag_remove{padding:0 0.5em;margin:0;border-radius:50em;line-height:1.6;background-color:rgba(0,0,0,0.1);}
+#mainform .tagator_tag{background-color:rgba(0,0,0,0.1);border-radius:50em;margin:4px 3px 2px;padding:2px 25px 4px 10px;}
+#mainform .tagator_tag_remove:hover{background-color:rgba(0,0,0,0.2);}
+#mainform input.tagator_input{outline:none;padding:6px 0 0 5px;}

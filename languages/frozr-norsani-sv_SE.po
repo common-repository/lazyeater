@@ -1,0 +1,5758 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Norsani, The Multi-Vendor online Food Ordering System.\n"
+"POT-Creation-Date: 2018-11-16 15:20+0300\n"
+"PO-Revision-Date: 2018-11-16 15:21+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: frozr-norsani.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-norsani-admin.php:164
+msgid "Activate the Norsani's default childtheme"
+msgstr "Aktivera Norsanis standard childtheme"
+
+#: includes/class-norsani-admin.php:164
+msgid "Install the Norsani's default theme"
+msgstr "Installera Norsanis standardtema"
+
+#: includes/class-norsani-admin.php:167
+msgid ""
+"Your current theme dose not support Norsani. Please install and activate a "
+"supported theme or"
+msgstr ""
+"Din nuvarande temaldos stödjer inte Norsani. Vänligen installera och "
+"aktivera ett stödt tema eller"
+
+#: includes/class-norsani-admin.php:172
+msgid ""
+"You have not yet set a fee/commission on your vendors sales. Vendors will "
+"get %100 of their sales. Set your fee/commission now from the&nbsp;"
+msgstr ""
+"Du har ännu inte fastställt en avgift / provision på säljarens försäljning. "
+"Leverantörerna får 100% av sin försäljning. Ange din avgift / provision nu "
+"från"
+
+#: includes/class-norsani-admin.php:172
+msgid "Fees/Commission Settings"
+msgstr "Avgifter / kommissionens inställningar"
+
+#: includes/class-norsani-admin.php:178
+msgid ""
+"Norsani highly depends on WooCommerce plugin which was uninstalled. Norsani "
+"will stop working untill you install and activate WooCommerce."
+msgstr ""
+"Norsani beror mycket på WooCommerce-plugin som avinstallerades. Norsani "
+"kommer sluta arbeta tills du installerar och aktiverar WooCommerce."
+
+#: includes/class-norsani-admin.php:182
+msgid ""
+"Norsani highly depends on WooCommerce plugin which was deactivated. Norsani "
+"will stop working untill you reactivate WooCommerce."
+msgstr ""
+"Norsani beror mycket på WooCommerce-plugin som deaktiverades. Norsani kommer "
+"sluta arbeta tills du återaktiverar WooCommerce."
+
+#: includes/class-norsani-admin.php:1120 installer.php:215
+msgid "Norsani's Demo Menu"
+msgstr "Norsani&#39;s Demo Menu"
+
+#: includes/class-norsani-admin.php:1134 installer.php:226
+msgid "Browse"
+msgstr "Bläddra"
+
+#: includes/class-norsani-admin.php:1147 includes/class-norsani-admin.php:1180
+#: installer.php:237
+msgid "Vendor Registration"
+msgstr "Registrering manusarbetare"
+
+#: includes/class-norsani-admin.php:1168
+#, php-format
+msgid ""
+"Please use the following password to login to the accounts of the newly "
+"added users: %1$s"
+msgstr ""
+"Vänligen använd följande lösenord för att logga in på kontona för de nyligt "
+"tillagda användare:%1$s"
+
+#: includes/class-norsani-admin.php:1170
+#, php-format
+msgid "Demo data was installed successfully. %1$s"
+msgstr "Demodata installerades framgångsrikt. %1$s"
+
+#: includes/class-norsani-admin.php:1181
+msgid "Vendors list"
+msgstr "Leverantörslista"
+
+#: includes/class-norsani-admin.php:1182
+msgid "Sellers list."
+msgstr "Säljare lista."
+
+#: includes/class-norsani-admin.php:1190
+msgid ""
+"This page is used by Norsani. You can freely change this text but please do "
+"NOT delete it."
+msgstr ""
+"Den här sidan används av Norsani. Du kan fritt ändra texten, men ta bort det "
+"inte."
+
+#: includes/class-norsani-admin.php:1212 includes/class-norsani-admin.php:1213
+msgid "here"
+msgstr "här"
+
+#: includes/class-norsani-admin.php:1214
+msgid "Learn how payments are processed"
+msgstr "Läs om hur betalningar bearbetas"
+
+#: includes/class-norsani-admin.php:1215
+msgid "PayPal Payouts FAQ"
+msgstr "Vanliga frågor om PayPal utbetalningar"
+
+#: includes/class-norsani-admin.php:1216
+msgid "Advance"
+msgstr "Avancerad"
+
+#: includes/class-norsani-admin.php:1217
+#: includes/class-norsani-dashboard.php:74
+msgid "Sellers"
+msgstr "Uppdragsgivare"
+
+#: includes/class-norsani-admin.php:1218
+#: includes/class-norsani-dashboard.php:66
+#: includes/class-norsani-wp_init.php:237 templates/vendors-registration.php:81
+#: templates/views/html-dashboard-home-vendor_balance.php:18
+msgid "Withdraw"
+msgstr "Uttag"
+
+#: includes/class-norsani-admin.php:1221
+#, php-format
+msgid ""
+"You must enter your Google API key to enable Norsani's user location based "
+"services such as Geolocation, Delivery orders and vendor addresses. Click %s "
+"for instruction on how to get an API key."
+msgstr ""
+"Du måste ange din Google API-nyckel för att aktivera Norsanis "
+"användarbaserade tjänster, t.ex. Geolocation, Leveransorder och "
+"leverantörsadresser. Klicka på %s för instruktioner om hur du får en API-"
+"nyckel."
+
+#: includes/class-norsani-admin.php:1222
+msgid ""
+"Enter the type of vendors you allow to register separated with commas. If "
+"you remove a vendor type, it will be removed from the vendor registration "
+"form but vendors holding that type are still going to be available until you "
+"manually delete them."
+msgstr ""
+"Ange vilken typ av leverantörer du tillåter att registrera separerad med "
+"kommatecken. Om du tar bort en leverantörstyp kommer den att tas bort från "
+"leverantörsregistreringsformuläret, men leverantörer som innehar den typen "
+"kommer fortfarande att vara tillgängliga tills du manuellt tar bort dem."
+
+#: includes/class-norsani-admin.php:1223
+#, php-format
+msgid ""
+"If you selected this, vendors will be able to post their products "
+"immediately after registeration. You can manually activate/deactivate "
+"selling privileges for a vendor from the %s page."
+msgstr ""
+"Om du valde det här kommer leverantörer att kunna skicka sina produkter "
+"direkt efter registrering. Du kan manuellt aktivera / avaktivera "
+"försäljningsrättigheter för en leverantör från %s-sidan."
+
+#: includes/class-norsani-admin.php:1224
+msgid ""
+"If this field is selected, the vendor shop's open/close timing options will "
+"not be available and vendors will have to manually change their status to "
+"'online' to receive orders. This will insure that vendors are available to "
+"process orders once they are received. However, vendors can also change "
+"their status manually even if this option is not selected."
+msgstr ""
+"Om det här fältet är valt kommer leverantörens öppna / stänga "
+"timingalternativ inte att vara tillgängliga och leverantörer måste manuellt "
+"byta status till &quot;online&quot; för att få order. Detta kommer att "
+"försäkra att leverantörer är tillgängliga för att behandla order när de har "
+"tagits emot. Säljare kan även ändra sin status manuellt även om det här "
+"alternativet inte är valt."
+
+#: includes/class-norsani-admin.php:1225
+msgid ""
+"If the above option is selected, the system will ignore the vendor's shop "
+"timing data and make the vendor's original status to 'offline' until they "
+"manually change it to 'online'. However, vendors can manually change their "
+"original status for a specific time. In that case, enter the time the system "
+"should wait before returning the vendor status to its original status if the "
+"vendor has closed or navigated away from your website. This is helpful when "
+"you wish to make sure that the vendor is really online to receive and "
+"process orders."
+msgstr ""
+"Om alternativet ovan är valt ignorerar systemet säljarens timingdata och gör "
+"leverantörens ursprungliga status till &quot;offline&quot; tills de manuellt "
+"ändras till &quot;online&quot;. Säljare kan dock manuellt ändra sin "
+"ursprungliga status för en viss tid. I så fall anger du den tid som systemet "
+"ska vänta innan du skickar återförsäljarstatus till sin ursprungliga status "
+"om försäljaren har stängt eller navigerat bort från din webbplats. Det här "
+"är till hjälp när du vill se till att säljaren verkligen är online för att "
+"ta emot och behandla order."
+
+#: includes/class-norsani-admin.php:1226
+msgid ""
+"Featured products will appear to users when they click the main search "
+"button."
+msgstr ""
+"Utvalda produkter kommer att visas för användare när de klickar på "
+"huvudsökningsknappen."
+
+#: includes/class-norsani-admin.php:1227
+msgid ""
+"Featured vendors will appear to users when they click the main search button."
+msgstr ""
+"Utvalda leverantörer kommer att visas för användare när de klickar på "
+"huvudsökningsknappen."
+
+#: includes/class-norsani-admin.php:1228
+msgid ""
+"Select this field to automatically create withdrawal requests for vendors "
+"after their orders statuses change to completed."
+msgstr ""
+"Markera det här fältet för att automatiskt skapa uttagsbegäranden för "
+"leverantörer när deras orderstatus ändras till slutfört."
+
+#: includes/class-norsani-admin.php:1229
+#, php-format
+msgid ""
+"If you wish to pay a withdrawal request directly from the %1$s page with one "
+"click using \"PayPal\" Payouts, please enter your \"PayPal App ClientId\". "
+"Click %2$s if you need instructions on creating a \"PayPal REST App\"."
+msgstr ""
+"Om du vill betala en begäran om uttag direkt från sidan%1$s med ett klick "
+"med &quot;PayPal&quot; -betalningar, ange din &quot;PayPal App "
+"ClientId&quot;. Klicka på%2$s om du behöver instruktioner om hur du skapar "
+"en &quot;PayPal REST App&quot;."
+
+#: includes/class-norsani-admin.php:1230
+#, php-format
+msgid ""
+"If you wish to pay a withdrawal request directly from the %1$s page with one "
+"click using \"PayPal\" Payouts, please enter your \"PayPal App ClientSecret"
+"\". Click %2$s if you need instructions on creating a \"PayPal REST App\"."
+msgstr ""
+"Om du vill betala en begäran om uttag direkt från sidan%1$s med ett klick "
+"med &quot;PayPal&quot; -betalningar, ange din &quot;PayPal App "
+"ClientSecret&quot;. Klicka på%2$s om du behöver instruktioner om hur du "
+"skapar en &quot;PayPal REST App&quot;."
+
+#: includes/class-norsani-admin.php:1231
+msgid ""
+"When vendors manually create withdrawal requests, what is the minimum amount "
+"a vendor can ask for?"
+msgstr ""
+"När leverantörer manuellt skapar borttagningsförfrågningar, vad är det "
+"lägsta belopp som en leverantör kan begära?"
+
+#: includes/class-norsani-admin.php:1232
+msgid ""
+"Select your preferred methods to pay vendors. Each selected method will add "
+"new fields to the vendors settings page, vendors will use those settings to "
+"provide you with the required information to pay them."
+msgstr ""
+"Välj dina föredragna metoder för att betala leverantörer. Varje valda metod "
+"lägger till nya fält på leverantörens inställningssida, leverantörer "
+"använder de här inställningarna för att ge dig den information som krävs för "
+"att betala dem."
+
+#: includes/class-norsani-admin.php:1233
+msgid ""
+"Select the default withdrawal request status when vendors submit them. The "
+"default status of an automatically created withdrawal request is \"pending\"."
+msgstr ""
+"Välj standardåterkallningsstatus när leverantörer skickar in dem. "
+"Standardstatusen för en automatiskt skapad återkallningsbegäran är &quot;"
+"väntar&quot;."
+
+#: includes/class-norsani-admin.php:1234
+msgid ""
+"These settings are used to calculate the delivery cost and distance between "
+"vendors and customers."
+msgstr ""
+"Dessa inställningar används för att beräkna leveranskostnaden och avståndet "
+"mellan leverantörer och kunder."
+
+#: includes/class-norsani-admin.php:1235
+msgid ""
+"These fees are only applied on vendors. This means customers will not be "
+"affected and will only pay the original total amount of the order. To add "
+"fees on customers, please use the WooCommerce Tax settings."
+msgstr ""
+"Dessa avgifter tillämpas endast på leverantörer. Det innebär att kunderna "
+"inte kommer att påverkas och endast betalar det ursprungliga totala beloppet "
+"för beställningen. För att lägga till avgifter på kunder, använd WooCommerce "
+"Tax-inställningarna."
+
+#: includes/class-norsani-admin.php:1236
+msgid ""
+"With 'Cash on Delivery' orders, customers will pay the order total amount "
+"including your fees to the delivery person and thus you will not receive any "
+"payment. In that case, the system by default deducts your fees from the "
+"vendor account's balance on your website."
+msgstr ""
+"Med beställningar &quot;Cash on Delivery&quot; betalar kunderna "
+"beställningsbeloppet inklusive dina avgifter till leveranspersonen och "
+"därmed får du ingen betalning. I så fall drar systemet som standard av dina "
+"avgifter från leverantörskontoens balans på din webbplats."
+
+#: includes/class-norsani-admin.php:1237
+#, php-format
+msgid ""
+"Enter terms and conditions for vendors, this will be used in the vendor "
+"registration form. To add terms for customers go to WooCommerce %s settings."
+msgstr ""
+"Ange villkoren för leverantörer, detta kommer att användas i "
+"leverantörsregistreringsformuläret. För att lägga till villkor för kunder, "
+"gå till WooCommerce %s inställningar."
+
+#: includes/class-norsani-admin.php:1238
+msgid ""
+"Apply this fee on vendors when they receive orders from all, some or "
+"selected customers."
+msgstr ""
+"Ansök denna avgift på leverantörer när de får order från alla, några eller "
+"valda kunder."
+
+#: includes/class-norsani-admin.php:1239
+msgid "Select vendors who will be effected by this fee."
+msgstr "Välj leverantörer som kommer att genomföras med denna avgift."
+
+#: includes/class-norsani-admin.php:1240
+msgid ""
+"A float value which if the sub-total amount of the order exceeds, this rule "
+"will be applied."
+msgstr ""
+"Ett float-värde som om den totala summan av ordern överstiger, kommer denna "
+"regel att tillämpas."
+
+#: includes/class-norsani-admin.php:1241
+msgid ""
+"Whether to apply this rule on the order total including delivery fee or only "
+"on the order delivery fee."
+msgstr ""
+"Huruvida man ska tillämpa denna regel på orderingången inklusive "
+"leveransavgift eller endast på orderleveransavgiften."
+
+#: includes/class-norsani-admin.php:1242
+msgid ""
+"The amount to deduct from orders. The first field is a percentage which is "
+"multiplied by the total order or delivery fee. i.e: if order total is $10 "
+"and you have entered 2.9 in first field and selected \"Plus\" and entered 3 "
+"in the last field, the total fee applied will be: ($10 x 2.9 / 100) + 3 = "
+"$3.29"
+msgstr ""
+"Beloppet att dra av från order. Det första fältet är en procentsats som "
+"multipliceras med den totala ordern eller leveransavgiften. dvs: om "
+"orderantalet är $ 10 och du har skrivit in 2.9 i första fältet och valt "
+"&quot;Plus&quot; och skrivit in 3 i det sista fältet kommer den totala "
+"avgiften att vara: ($ 10 x 2,9 / 100) + 3 = $ 3,29"
+
+#: includes/class-norsani-admin.php:1243
+msgid ""
+"This rule will only be applied if the order was paid with the selected "
+"payment method."
+msgstr ""
+"Denna regel gäller endast om ordern betalades med den valda "
+"betalningsmetoden."
+
+#: includes/class-norsani-admin.php:1244
+msgid "Enter a name for this fee. i.e: Website Fee"
+msgstr "Ange ett namn för denna avgift. dvs: Webbplatsavgift"
+
+#: includes/class-norsani-admin.php:1245
+msgid "Let the vendor know why are you applying this fee."
+msgstr "Låt försäljaren veta varför tillämpar du denna avgift."
+
+#: includes/class-norsani-admin.php:1246
+msgid ""
+"Select the order types allowed on your website. Vendors will be restricted "
+"to select their accepted order types from your selection here."
+msgstr ""
+"Välj de ordertyper som är tillåtna på din webbplats. Leverantörerna kommer "
+"att vara begränsade till att välja deras accepterade ordertyper från ditt "
+"urval här."
+
+#: includes/class-norsani-admin.php:1247
+msgid ""
+"Vendors can also allow receiving pre-orders from their stores while closed. "
+"Select the order types that are allowed for vendors to allow while their "
+"stores are closed."
+msgstr ""
+"Leverantörer kan också tillåta mottagning av förbeställningar från sina "
+"butiker medan de är stängda. Välj de ordertyper som tillåts för leverantörer "
+"att tillåta medan deras butiker är stängda."
+
+#: includes/class-norsani-admin.php:1311
+msgid ""
+"We could not complete the theme installation process due to restricted write "
+"permissions."
+msgstr ""
+"Vi kunde inte slutföra installationsprocessen på grund av begränsade "
+"skrivbehörigheter."
+
+#: includes/class-norsani-admin.php:1330
+#: includes/class-norsani-dashboard.php:94
+#: includes/class-norsani-vendor.php:990
+#: templates/views/html-dashboard-coupon-list.php:29
+#: templates/views/html-dashboard-orders-list.php:28
+msgid "Vendor"
+msgstr "Säljare"
+
+#: includes/class-norsani-admin.php:1331
+msgid "Sub Order"
+msgstr "Underbeställning"
+
+#: includes/class-norsani-admin.php:1332
+msgid "Preparation Time"
+msgstr "Förberedelsetid"
+
+#: includes/class-norsani-admin.php:1333
+msgid "Receive Date"
+msgstr "Mottagningsdatum"
+
+#: includes/class-norsani-admin.php:1360
+msgid "In Queue"
+msgstr "I kö"
+
+#: includes/class-norsani-admin.php:1367
+msgid "Show Sub-Orders"
+msgstr "Visa Underbeställlningar"
+
+#: includes/class-norsani-admin.php:1367
+msgid "Hide Sub-Orders"
+msgstr "Dölj Underbeställlningar"
+
+#: includes/class-norsani-admin.php:1379
+msgid "Multiple"
+msgstr "Flera"
+
+#: includes/class-norsani-admin.php:1493
+msgid "Toggle Sub-orders"
+msgstr "Slå på / av Underbeställningar"
+
+#: includes/class-norsani-admin.php:1514
+msgid "Norsani Options"
+msgstr "Norsani Options"
+
+#: includes/class-norsani-admin.php:1518
+msgid "Selling"
+msgstr "Försäljning"
+
+#: includes/class-norsani-admin.php:1523
+msgid "Enable Selling"
+msgstr "Aktivera försäljning"
+
+#: includes/class-norsani-admin.php:1526
+msgid "Enable or disable the product selling capability"
+msgstr "Aktivera eller inaktivera produktförsäljningsförmågan"
+
+#: includes/class-norsani-admin.php:1570
+msgid "Author"
+msgstr "Författare"
+
+#: includes/class-norsani-ajax.php:168
+msgid "The payout was canceled"
+msgstr "Utbetalningen avbröts"
+
+#: includes/class-norsani-ajax.php:222
+msgid "Something went wrong."
+msgstr "Något gick fel."
+
+#: includes/class-norsani-ajax.php:227
+msgid ""
+"Please enter your 'PayPal App clientId' and 'Secret' in Norsani's admin "
+"Withdrawals Requests Settings."
+msgstr ""
+"Vänligen ange din &quot;PayPal App ClientId&quot; och &quot;Secret&quot; i "
+"Norsani&#39;s Admin Extracts Requests Settings."
+
+#: includes/class-norsani-ajax.php:232
+msgid "Payment is already processing. Please refresh page to see status."
+msgstr "Betalningen bearbetas redan. Uppdatera sidan för att se status."
+
+#: includes/class-norsani-ajax.php:247 includes/class-norsani-withdraw.php:577
+msgid "Payment for order: #"
+msgstr "Betalning för beställning: #"
+
+#: includes/class-norsani-ajax.php:252
+msgid ""
+"The available funds in the vendor's account is lower than the minimum amount "
+"to make a withdraw request."
+msgstr ""
+"Tillgängliga medel på leverantörens konto är lägre än det lägsta beloppet "
+"för att göra en återkallande begäran."
+
+#: includes/class-norsani-ajax.php:257
+msgid "The amount of withdraw is 0"
+msgstr "Återtagningsbeloppet är 0"
+
+#: includes/class-norsani-ajax.php:262
+msgid "Insufficient funds in the vendor's account."
+msgstr "Otillräckliga medel på leverantörens konto."
+
+#: includes/class-norsani-ajax.php:267
+msgid "Order Payment"
+msgstr "Order Betalning"
+
+#: includes/class-norsani-ajax.php:335
+msgid ""
+"The payment is currently processing. Please refresh the page to see status."
+msgstr ""
+"Betalningen behandlas för närvarande. Uppdatera sidan för att se statusen."
+
+#: includes/class-norsani-ajax.php:464 includes/class-norsani-ajax.php:468
+#: includes/class-norsani-ajax.php:505 includes/class-norsani-ajax.php:1410
+#: includes/class-norsani-ajax.php:1427 includes/class-norsani-ajax.php:1828
+#: includes/class-norsani-ajax.php:2169 includes/class-norsani-item.php:558
+#: includes/class-norsani-item.php:669
+msgid "Something went wrong!"
+msgstr "Något gick fel!"
+
+#: includes/class-norsani-ajax.php:472
+msgid "Payout was canceled and moved to the \"canceled list\"."
+msgstr "Utbetalningen avbröts och flyttades till &quot;annullerad lista&quot;."
+
+#: includes/class-norsani-ajax.php:486
+msgid "Payout was canceled by Admin"
+msgstr "Utbetalningen avbröts av Admin"
+
+#: includes/class-norsani-ajax.php:494
+msgid "Payout already completed and cannot be canceled."
+msgstr "Utbetalning är redan klar och kan inte avbrytas."
+
+#: includes/class-norsani-ajax.php:545 includes/class-norsani-withdraw.php:122
+msgid "pending"
+msgstr "väntande"
+
+#: includes/class-norsani-ajax.php:573
+msgid "The order should be refunded. Customer, please send a message to"
+msgstr "Ordern ska återbetalas. Kund, skicka ett meddelande till"
+
+#: includes/class-norsani-ajax.php:573
+msgid ""
+"in reference to this order ID and your payment account details and method to "
+"complete refund."
+msgstr ""
+"med hänvisning till detta order-ID och dina betalningskontouppgifter och "
+"metod för att slutföra återbetalningen."
+
+#: includes/class-norsani-ajax.php:575
+msgid "The order has been cancelled."
+msgstr "Din beställning har annullerats."
+
+#: includes/class-norsani-ajax.php:577
+msgid "The order is being prepared."
+msgstr "Ordern håller på att förberedas."
+
+#: includes/class-norsani-ajax.php:579
+msgid "The order is on its way to customer."
+msgstr "Ordern är på väg till kunden."
+
+#: includes/class-norsani-ajax.php:581
+msgid "Customer has received the order."
+msgstr "Kunden har mottagit ordern."
+
+#: includes/class-norsani-ajax.php:583
+msgid "The order was failed to process."
+msgstr "Ordern misslyckades med att bearbeta."
+
+#: includes/class-norsani-ajax.php:638 templates/orders/order-details.php:74
+msgid "Delete note"
+msgstr "Radera anteckning"
+
+#: includes/class-norsani-ajax.php:653 includes/class-norsani-ajax.php:671
+#: includes/class-norsani-ajax.php:717 includes/class-norsani-ajax.php:734
+#: includes/class-norsani-ajax.php:1489 includes/class-norsani-ajax.php:1614
+#: includes/class-norsani-ajax.php:1812
+msgid "Something Went Wrong!"
+msgstr "Något gick fel!"
+
+#: includes/class-norsani-ajax.php:660
+msgid "Coupon has been deleted successfully!"
+msgstr "Kupong har tagits bort!"
+
+#: includes/class-norsani-ajax.php:688
+msgid "You are not allowed to edit/create coupons for the selected products!"
+msgstr ""
+"Du har inte rätt att redigera / skapa kuponger för de valda produkterna!"
+
+#: includes/class-norsani-ajax.php:698
+msgid "You're the site admin, you cant post coupons!"
+msgstr "Du är webbplatsadministratören, du kan inte skicka kuponger!"
+
+#: includes/class-norsani-ajax.php:712
+msgid "Coupon has been saved successfully!"
+msgstr "Rabattkod har sparats framgångsrikt!"
+
+#: includes/class-norsani-ajax.php:730
+msgid "Coupon has been updated successfully!"
+msgstr "Kupongen har uppdaterats framgångsrikt!"
+
+#: includes/class-norsani-ajax.php:868 includes/class-norsani-ajax.php:893
+msgid "You're not authorized to do this step."
+msgstr "Du är inte behörig att göra detta steg."
+
+#: includes/class-norsani-ajax.php:878
+msgid ""
+"Success: The product will show in the special products list only for today "
+"and only while your store is open."
+msgstr ""
+"Framgång: Produkten visas endast i listan över specialprodukter för idag och "
+"endast när din butik är öppen."
+
+#: includes/class-norsani-ajax.php:880
+msgid ""
+"Success: The product has been removed from today's specials products list."
+msgstr ""
+"Framgång: Produkten har tagits bort från dagens specialprodukters lista."
+
+#: includes/class-norsani-ajax.php:919
+msgid "Error while checking for new orders"
+msgstr "Fel vid kontroll av nya beställningar"
+
+#: includes/class-norsani-ajax.php:955 includes/class-norsani-ajax.php:989
+msgid "You do not have permissions to perform this."
+msgstr "Du har inte behörigheter att utföra detta."
+
+#: includes/class-norsani-ajax.php:1228 templates/views/html-items-atc.php:48
+#: templates/views/html-items-atc.php:74
+msgid "This product is currently unavailable."
+msgstr "Den här produkten är för närvarande inte tillgänglig."
+
+#: includes/class-norsani-ajax.php:1358
+msgid "Variation"
+msgstr "Variation"
+
+#: includes/class-norsani-ajax.php:1363
+#: templates/views/html-dashboard-items-form_variation.php:33
+msgid "Option"
+msgstr "Alternativ"
+
+#: includes/class-norsani-ajax.php:1365 includes/class-norsani-scripts.php:398
+msgid "Any"
+msgstr "Någon"
+
+#: includes/class-norsani-ajax.php:1374
+#: templates/views/html-dashboard-items-form_variation.php:51
+msgid "Variation Description"
+msgstr "Variationsbeskrivning"
+
+#: includes/class-norsani-ajax.php:1375
+msgid "Few words about this variation"
+msgstr "Få ord om denna variation"
+
+#: includes/class-norsani-ajax.php:1379
+#: templates/views/html-dashboard-items-form_data.php:111
+#: templates/views/html-dashboard-items-form_variation.php:56
+msgid "Regular Price"
+msgstr "Ordinarie Pris"
+
+#: includes/class-norsani-ajax.php:1382
+#: templates/views/html-dashboard-items-form_data.php:114
+#: templates/views/html-dashboard-items-form_variation.php:59
+msgid "Sale Price"
+msgstr "Rea pris"
+
+#: includes/class-norsani-ajax.php:1382
+#: templates/views/html-dashboard-items-form_data.php:114
+#: templates/views/html-dashboard-items-form_variation.php:59
+msgid "Schedule"
+msgstr "Schema"
+
+#: includes/class-norsani-ajax.php:1387 includes/class-norsani-ajax.php:1388
+#: templates/views/html-dashboard-items-form_data.php:120
+#: templates/views/html-dashboard-items-form_data.php:121
+#: templates/views/html-dashboard-items-form_variation.php:64
+#: templates/views/html-dashboard-items-form_variation.php:65
+msgid "Sale price start date"
+msgstr "Försäljningspris startdatum"
+
+#: includes/class-norsani-ajax.php:1391 includes/class-norsani-ajax.php:1392
+#: templates/views/html-dashboard-items-form_data.php:124
+#: templates/views/html-dashboard-items-form_data.php:125
+#: templates/views/html-dashboard-items-form_variation.php:68
+#: templates/views/html-dashboard-items-form_variation.php:69
+msgid "Sale price end date"
+msgstr "Försäljningspris slutdatum"
+
+#: includes/class-norsani-ajax.php:1395
+#: templates/views/html-dashboard-items-form_data.php:128
+#: templates/views/html-dashboard-items-form_variation.php:72
+msgid "The sale will end at the beginning of the set date."
+msgstr "Rean kommer att avslutas i början av det inställda datumet."
+
+#: includes/class-norsani-ajax.php:1395
+#: templates/views/html-dashboard-items-form_data.php:128
+#: templates/views/html-dashboard-items-form_variation.php:72
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: includes/class-norsani-ajax.php:1440 includes/class-norsani-ajax.php:2187
+msgid "Email sent successfully!"
+msgstr "E-post skickad!"
+
+#: includes/class-norsani-ajax.php:1473
+msgid "Sorry you cannot order from this vendor"
+msgstr "Tyvärr kan du inte beställa från den här försäljaren"
+
+#: includes/class-norsani-ajax.php:1478
+msgid "Sorry you cannot order this product at this time!"
+msgstr "Tyvärr kan du inte beställa den här produkten just nu!"
+
+#: includes/class-norsani-ajax.php:1483
+msgid ""
+"Sorry, we cannot receive any more orders for this product today, please come "
+"back another day."
+msgstr ""
+"Tyvärr, vi kan inte ta emot några fler beställningar för den här produkten "
+"idag, var vänlig kom tillbaka en annan dag."
+
+#: includes/class-norsani-ajax.php:1493 includes/class-norsani-ajax.php:1537
+#: includes/class-norsani-ajax.php:1688
+msgid "View Cart"
+msgstr "Visa varukorg"
+
+#: includes/class-norsani-ajax.php:1493
+#, php-format
+msgid "You cannot add another &quot;%s&quot; to your cart."
+msgstr "Du kan inte lägga till fler &quot;%s&quot; i varukorgen."
+
+#: includes/class-norsani-ajax.php:1499 includes/class-norsani-ajax.php:1667
+msgid "Sorry, this product cannot be purchased."
+msgstr "Tyvärr, den här produkten kan inte köpas."
+
+#: includes/class-norsani-ajax.php:1506 includes/class-norsani-ajax.php:1672
+#, php-format
+msgid ""
+"You cannot add &quot;%s&quot; to the cart because the product is out of "
+"stock."
+msgstr ""
+"Du kan inte lägga &quot;%s&quot; i korgen eftersom produkten är slut i lager."
+
+#. translators: 1: product name 2: quantity in stock
+#: includes/class-norsani-ajax.php:1511 includes/class-norsani-ajax.php:1677
+#, php-format
+msgid ""
+"You cannot add that amount of &quot;%1$s&quot; to the cart because there is "
+"not enough stock (%2$s remaining)."
+msgstr ""
+"Du kan inte lägga till så många &quot;%1$s&quot; i kundvagnen. Det inte "
+"finns tillräckligt i lager. Just nu har vi %2$s kvar."
+
+#: includes/class-norsani-ajax.php:1516 includes/class-norsani-item.php:1010
+#: includes/class-norsani-item.php:1020
+msgid ""
+"The Vendor will not deliver to your location, please choose another option."
+msgstr ""
+"Leverantören levererar inte till din plats, vänligen välj ett annat "
+"alternativ."
+
+#: includes/class-norsani-ajax.php:1538
+#, php-format
+msgid ""
+"You cannot add that amount to the cart &mdash; we have %s in stock and you "
+"already have %s in your cart."
+msgstr ""
+"Du kan inte lägga till det antalet i din varukorg &mdash; vi har %s i lager "
+"och du har redan %s i din varukorg."
+
+#: includes/class-norsani-ajax.php:1574
+#, php-format
+msgid "Invalid value posted for %s"
+msgstr "Ogiltigt värde skickat för %s"
+
+#: includes/class-norsani-ajax.php:1584
+#, php-format
+msgid "%s is a required field"
+msgid_plural "%s are required fields"
+msgstr[0] "%s är ett obligatoriskt fält"
+msgstr[1] "%s är obligatoriska fält"
+
+#: includes/class-norsani-ajax.php:1588
+msgid "Please choose product options&hellip;"
+msgstr "Var god välj produktalternativ ..."
+
+#. translators: %s: product name
+#: includes/class-norsani-ajax.php:1661
+msgid "View cart"
+msgstr "Visa kundvagn"
+
+#: includes/class-norsani-ajax.php:1661
+#, php-format
+msgid "You cannot add another \"%s\" to your cart."
+msgstr "\"%s\" ligger redan i korgen."
+
+#: includes/class-norsani-ajax.php:1689
+#, php-format
+msgid ""
+"You cannot add that amount to the cart &mdash; we have %1$s in stock and you "
+"already have %2$s in your cart."
+msgstr ""
+"Du kan inte lägga till det antalet i din kundvagn &mdash; vi har %1$s i "
+"lager och du har redan %2$s i din kundvagn."
+
+#: includes/class-norsani-ajax.php:1766
+msgid "was added to cart."
+msgstr "sattes i kundvagnen."
+
+#: includes/class-norsani-ajax.php:1767
+msgid "We also recommend these products with"
+msgstr "Vi rekommenderar även dessa produkter med"
+
+#: includes/class-norsani-ajax.php:1846 includes/class-norsani-ajax.php:2058
+msgid "Settings Saved!"
+msgstr "Inställningar sparade!"
+
+#: includes/class-norsani-ajax.php:1876
+msgid "Location set successfully"
+msgstr "Plats är lyckad"
+
+#: includes/class-norsani-ajax.php:1881
+msgid "Your location is out the range of our delivery service."
+msgstr "Din plats ligger utanför utbudet av vår leveransservice."
+
+#: includes/class-norsani-ajax.php:1886
+msgid "You did not change your location!"
+msgstr "Du ändrade inte din plats!"
+
+#: includes/class-norsani-ajax.php:1895
+msgid ""
+"You will not be able to use the delivery service due to Geolocation access "
+"denied error."
+msgstr ""
+"Du kommer inte att kunna använda leveransservice på grund av Geolocation-"
+"åtkomstförnekat fel."
+
+#: includes/class-norsani-ajax.php:1934
+msgid "Product was deleted!"
+msgstr "Produkten togs bort!"
+
+#: includes/class-norsani-ajax.php:2086
+msgid "Product was updated successfully!"
+msgstr "Produkten uppdaterades framgångsrikt!"
+
+#: includes/class-norsani-ajax.php:2102
+msgid "Product was created successfully!"
+msgstr "Produkten skapades framgångsrikt!"
+
+#: includes/class-norsani-ajax.php:2199
+msgid "Please fill the email and password fields."
+msgstr "Vänligen fyll i fälten E-post och lösenord."
+
+#: includes/class-norsani-ajax.php:2207
+msgid "Incorrect email address, please try again."
+msgstr "Felaktig e-postadress, var god försök igen."
+
+#: includes/class-norsani-ajax.php:2218
+msgid "Incorrect password, please try again."
+msgstr "Felaktigt lösenord. Var god försök igen."
+
+#: includes/class-norsani-ajax.php:2234
+msgid "Sorry, you cant rate this vendor."
+msgstr "Tyvärr kan du inte betygsätta den här säljaren."
+
+#: includes/class-norsani-ajax.php:2238
+msgid "Sorry, you cant rate your self."
+msgstr "Tyvärr, du kan inte betygsätta dig själv."
+
+#: includes/class-norsani-ajax.php:2249
+msgid "You have already made your rating."
+msgstr "Du har redan gjort ditt betyg."
+
+#: includes/class-norsani-ajax.php:2255
+msgid "Thank you for rating this vendor."
+msgstr "Tack för att du betygsatt denna leverantör."
+
+#: includes/class-norsani-dashboard.php:50
+msgid "Dashboard"
+msgstr "Kontrollpanel"
+
+#: includes/class-norsani-dashboard.php:54
+#: includes/class-norsani-sellers.php:157
+#: templates/views/html-dashboard-coupon-form.php:167
+msgid "Products"
+msgstr "Produkter"
+
+#: includes/class-norsani-dashboard.php:58
+#: includes/class-norsani-sellers.php:158 norsani-options.php:896
+#: templates/views/html-dashboard-home-orders.php:15
+#: templates/views/html-dashboard-vendor-settings_form.php:165
+msgid "Orders"
+msgstr "Beställningar"
+
+#: includes/class-norsani-dashboard.php:62
+#: includes/class-norsani-sellers.php:159
+#: templates/views/html-vendor-store_coupon.php:15
+msgid "Coupons"
+msgstr "Kuponger"
+
+#: includes/class-norsani-dashboard.php:70 norsani-options.php:15
+msgid "Settings"
+msgstr "Inställningar"
+
+#: includes/class-norsani-dashboard.php:94
+msgid "Admin"
+msgstr "Admin"
+
+#: includes/class-norsani-dashboard.php:232
+msgid "(Refunded)"
+msgstr "(Återbetalas)"
+
+#: includes/class-norsani-item.php:80
+msgid "Online"
+msgstr "Online"
+
+#: includes/class-norsani-item.php:84
+msgid "Draft"
+msgstr "Utkast"
+
+#: includes/class-norsani-item.php:88 includes/class-norsani-withdraw.php:64
+#: includes/class-norsani-withdraw.php:313 norsani-options.php:623
+#: templates/views/html-dashboard-orders-list-row_actions.php:24
+msgid "Pending"
+msgstr "Väntande"
+
+#: includes/class-norsani-item.php:92
+msgid "Offline"
+msgstr "Pausad"
+
+#: includes/class-norsani-item.php:109
+msgid "Make offline"
+msgstr "Gör offline"
+
+#: includes/class-norsani-item.php:109
+msgid "Make online"
+msgstr "Gör online"
+
+#: includes/class-norsani-item.php:140
+msgid "Access Denied"
+msgstr "Åtkomst nekad"
+
+#: includes/class-norsani-item.php:269 includes/class-norsani-item.php:1098
+#: includes/class-norsani-item.php:1191 includes/class-norsani-item.php:1252
+#: templates/views/html-dashboard-orders-single-items.php:84
+msgid "Discount"
+msgstr "Rabatt"
+
+#: includes/class-norsani-item.php:270
+#: templates/views/html-dashboard-items-form_data.php:242
+#: templates/views/html-dashboard-items-form_data.php:271
+msgid "Free Product"
+msgstr "Fri produkt"
+
+#: includes/class-norsani-item.php:609 includes/class-norsani-item.php:626
+#, php-format
+msgid "Variation #%1$s of %2$s"
+msgstr "Variant #%1$s av %2$s"
+
+#: includes/class-norsani-item.php:860
+msgid "Preparation/Handling Duration:"
+msgstr "Beredning / hanteringstid:"
+
+#: includes/class-norsani-item.php:860
+msgid "Minutes"
+msgstr "Minuter"
+
+#: includes/class-norsani-item.php:877 includes/main-functions.php:467
+msgid "Ingredients:"
+msgstr "Ingredienser:"
+
+#: includes/class-norsani-item.php:895
+#: templates/views/html-dashboard-coupon-form.php:112
+msgid "Description"
+msgstr "Beskrivning"
+
+#: includes/class-norsani-item.php:925
+msgid ""
+"Maximum orders per day has reached for this product, please come back "
+"another day."
+msgstr ""
+"Maximala order per dag har nått för denna produkt, kom tillbaka en annan dag."
+
+#: includes/class-norsani-item.php:930
+msgid "Remaining orders for today:"
+msgstr "Återstående order för idag:"
+
+#: includes/class-norsani-item.php:930
+msgid "Maximum orders per day:"
+msgstr "Maximal order per dag:"
+
+#: includes/class-norsani-item.php:977 norsani-options.php:630
+#: norsani-options.php:643 templates/vendors-registration.php:77
+msgid "Delivery"
+msgstr "Leverans"
+
+#: includes/class-norsani-item.php:977
+msgid "Pickup"
+msgstr "Hämtas"
+
+#: includes/class-norsani-item.php:977 norsani-options.php:630
+#: norsani-options.php:643
+msgid "Dine-in"
+msgstr "Hugg in"
+
+#: includes/class-norsani-item.php:977 norsani-options.php:630
+#: norsani-options.php:643
+msgid "Curbside"
+msgstr "Curbside"
+
+#: includes/class-norsani-item.php:996
+msgid "The order will be processed"
+msgstr "Ordern kommer att behandlas"
+
+#: includes/class-norsani-item.php:998
+msgid "Addresses:"
+msgstr "Adresser:"
+
+#: includes/class-norsani-item.php:999
+msgid "Please set your location to make a delivery order."
+msgstr "Ange din plats för att göra en leveransorder."
+
+#: includes/class-norsani-item.php:1000 includes/main-functions.php:441
+msgid "This vendor"
+msgstr "Denna leverantör"
+
+#: includes/class-norsani-item.php:1012
+msgid "This Vendor is in your neighbourhood."
+msgstr "Denna leverantör är i ditt närområde."
+
+#: includes/class-norsani-item.php:1036
+msgid "Number of People invited?"
+msgstr "Antal inbjudna personer?"
+
+#: includes/class-norsani-item.php:1046
+msgid "Car Information"
+msgstr "Information om bilen"
+
+#: includes/class-norsani-item.php:1046
+msgid "Car's make, model & color"
+msgstr "Bilens märke, modell och färg"
+
+#: includes/class-norsani-item.php:1058
+msgid "Add special comments or a person name."
+msgstr "Lägg till speciella kommentarer eller ett personnamn."
+
+#: includes/class-norsani-item.php:1058
+msgid ""
+"Don't add products names, that have separate prices, Just add instructions "
+"for your current product like \"add extra sauces or toppings\" ..etc."
+msgstr ""
+"Lägg inte till produktnamn, som har separata priser. Lägg bara till "
+"instruktioner för din nuvarande produkt som &quot;lägg till extra såser "
+"eller påfyllningar&quot;."
+
+#: includes/class-norsani-item.php:1098 includes/class-norsani-item.php:1100
+#: includes/class-norsani-item.php:1191 includes/class-norsani-item.php:1193
+#: includes/class-norsani-item.php:1252 includes/class-norsani-item.php:1254
+#: templates/views/html-dashboard-items-form_data.php:226
+#: templates/views/html-dashboard-items-form_data.php:227
+#: templates/views/html-dashboard-items-form_data.php:255
+#: templates/views/html-dashboard-items-form_data.php:256
+msgid "Buy"
+msgstr "Köp"
+
+#: includes/class-norsani-item.php:1098 includes/class-norsani-item.php:1191
+#: includes/class-norsani-item.php:1252
+#: templates/views/html-dashboard-items-form_data.php:230
+#: templates/views/html-dashboard-items-form_data.php:259
+msgid "Get"
+msgstr "Få"
+
+#: includes/class-norsani-item.php:1100 includes/class-norsani-item.php:1193
+#: includes/class-norsani-item.php:1254
+msgid "Get a free"
+msgstr "Få en gratis"
+
+#: includes/class-norsani-order.php:374 norsani-options.php:622
+#: templates/views/html-dashboard-home-orders.php:45
+#: templates/views/html-dashboard-orders-list-row_actions.php:17
+msgid "Processing"
+msgstr "Bearbetas"
+
+#: includes/class-norsani-order.php:377
+msgid "day"
+msgid_plural "days"
+msgstr[0] "dag"
+msgstr[1] "dagar"
+
+#: includes/class-norsani-order.php:378
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "timme"
+msgstr[1] "timmar"
+
+#: includes/class-norsani-order.php:379
+msgid "min"
+msgid_plural "mins"
+msgstr[0] "min"
+msgstr[1] "min"
+
+#: includes/class-norsani-order.php:380
+msgid "In queue"
+msgstr "I kö"
+
+#: includes/class-norsani-order.php:380
+msgid "After"
+msgstr "Efter"
+
+#. translators: %s: human-readable time difference
+#: includes/class-norsani-order.php:384
+#, php-format
+msgctxt "%2$s = human-readable time difference"
+msgid "%1$s %2$s ago"
+msgstr "%1$s %2$s sedan"
+
+#. translators: %s: human-readable time difference
+#: includes/class-norsani-order.php:414
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "%s sedan"
+
+#: includes/class-norsani-order.php:447 includes/class-norsani-order.php:500
+msgid "Standard"
+msgstr "Standard"
+
+#: includes/class-norsani-order.php:550
+msgid ""
+"Note: The website fees of this order will be deducted from the current "
+"vendor balance. If the balance is insufficient, it will go in minus."
+msgstr ""
+"Obs! Webbplatsavgifterna för denna order kommer att dras av från den "
+"aktuella leverantörsbalansen. Om balansen är otillräcklig kommer den att gå "
+"i minus."
+
+#: includes/class-norsani-order.php:630
+msgid ""
+"The parent order was marked as \"completed\" because all child orders ware "
+"completed."
+msgstr ""
+"Föräldraordern märktes som &quot;färdigställd&quot; eftersom alla "
+"barnbeställningsvaror slutfördes."
+
+#: includes/class-norsani-order.php:792
+#, php-format
+msgid "Sorry you cannot order from %s"
+msgstr "Tyvärr kan du inte beställa från %s"
+
+#: includes/class-norsani-order.php:813
+#, php-format
+msgid ""
+"Sorry, You cannot make a %1$s order for %2$s at this time. Please update "
+"your %3$s."
+msgstr ""
+"Tyvärr, du kan inte göra en%1$s-order för%2$s just nu. Uppdatera din%3$s."
+
+#: includes/class-norsani-order.php:813 includes/class-norsani-order.php:821
+#: includes/class-norsani-order.php:888
+msgid "Cart"
+msgstr "Varukorg"
+
+#: includes/class-norsani-order.php:817
+#, php-format
+msgid ""
+"Sorry, The preparation timing set for %1$s&apos;s products is inappropriate. "
+"Please choose a time between %2$s"
+msgstr ""
+"Tyvärr, förberedelsestiden för%1$s produkter är olämplig. Vänligen välj en "
+"tid mellan%2$s"
+
+#: includes/class-norsani-order.php:817 includes/class-norsani-vendor.php:1156
+#: includes/main-functions.php:1244
+msgid "or"
+msgstr "eller"
+
+#: includes/class-norsani-order.php:821
+#, php-format
+msgid ""
+"Sorry, we cannot receive any more orders for %1$s today. Please update your "
+"%2$s."
+msgstr "Tyvärr kan vi inte få fler order för%1$s idag. Uppdatera din%2$s."
+
+#: includes/class-norsani-order.php:827
+#, php-format
+msgid "Sorry, the minimum order amount for delivery service from %1$s is %2$s"
+msgstr ""
+"Tyvärr är lägsta beställningsbeloppet för leveransservice från%1$s %2$s"
+
+#: includes/class-norsani-order.php:872
+#, php-format
+msgid ""
+"Sorry, %1$s will be closed at the selected time. %1$s&apos;s timing at %2$s "
+"is %3$s to %4$s & %5$s to %6$s"
+msgstr ""
+"Tyvärr,%1$s kommer att stängas vid vald tidpunkt. %1$s timing vid%2$s är%3$s "
+"till%4$s &amp;%5$s till%6$s"
+
+#: includes/class-norsani-order.php:872
+#, php-format
+msgid ""
+"Sorry, %1$s will be closed at the selected time. %1$s&apos;s timing at %2$s "
+"is %3$s to %4$s"
+msgstr ""
+"Tyvärr,%1$s kommer att stängas vid vald tidpunkt. %1$s timing vid%2$s är%3$s "
+"till%4$s"
+
+#: includes/class-norsani-order.php:879
+#, php-format
+msgid ""
+"Sorry, The preparation time set for %s&apos;s products is inappropriate."
+msgstr "Tyvärr, förberedelsestiden för %s produkter är olämplig."
+
+#: includes/class-norsani-order.php:883
+#, php-format
+msgid ""
+"Sorry, %s is closing in less than an hour, Please choose another date if you "
+"wish to make pre-orders."
+msgstr ""
+"Tyvärr, %s stängs på mindre än en timme. Vänligen välj ett annat datum om du "
+"vill göra förbeställningar."
+
+#: includes/class-norsani-order.php:888
+#, php-format
+msgid ""
+"Sorry, no time left to prepare %1$s&apos;s products. %1$s is closing in less "
+"than an hour. Please update your %2$s or choose another date for your order."
+msgstr ""
+"Tyvärr, ingen tid kvar för att förbereda%1$s produkter. %1$s stängs på "
+"mindre än en timme. Uppdatera din%2$s eller välj ett annat datum för din "
+"beställning."
+
+#: includes/class-norsani-order.php:1135
+msgid "Your Details"
+msgstr "Din Information"
+
+#: includes/class-norsani-order.php:1137
+msgid "Your Address"
+msgstr "Adress"
+
+#: includes/class-norsani-order.php:1149
+msgid "Customer address"
+msgstr "Kundadress"
+
+#: includes/class-norsani-scripts.php:354
+msgid "Something is not right :("
+msgstr "Något är inte rätt :("
+
+#: includes/class-norsani-scripts.php:355
+msgid "No Messages"
+msgstr "Inga meddelanden"
+
+#: includes/class-norsani-scripts.php:356
+msgid ""
+"it looks as though you&#8217;ve already sent that question, please suggest "
+"another question."
+msgstr ""
+"Det ser ut som om du redan har skickat den frågan, vänligen föreslå en annan "
+"fråga."
+
+#: includes/class-norsani-scripts.php:357
+msgid "Installing demo data. This may take several minutes..."
+msgstr "Installera demodata. Det här kan ta flera minuter..."
+
+#: includes/class-norsani-scripts.php:385
+msgid "Are you sure you want to delete this product permanently?"
+msgstr "Är du säker på att du vill radera denna produkt permanent?"
+
+#: includes/class-norsani-scripts.php:386
+msgid "Are you sure you want to delete this withdrawal request?"
+msgstr "Är du säker på att du vill radera denna begäran om uttag?"
+
+#: includes/class-norsani-scripts.php:387
+msgid "Are you sure you want to cancel this Payout?"
+msgstr "Är du säker på att du vill avbryta denna utbetalning?"
+
+#: includes/class-norsani-scripts.php:388
+msgid "Are you sure you want to pay this withdrawal request?"
+msgstr "Är du säker på att du vill betala utbetalningsförfrågan?"
+
+#: includes/class-norsani-scripts.php:392
+msgid "Are you sure you want to delete this coupon?"
+msgstr "Är du säker på att du vill ta bort denna kupong?"
+
+#: includes/class-norsani-scripts.php:396
+msgid "Are you sure?"
+msgstr "Är du säker?"
+
+#: includes/class-norsani-scripts.php:399
+msgid "You did not do any changes to this form"
+msgstr "Du gjorde inga ändringar i denna blankett"
+
+#: includes/class-norsani-scripts.php:400
+msgid "Product Category field is not set!"
+msgstr "Fältet Produktkategori är inte inställt!"
+
+#: includes/class-norsani-sellers.php:80
+#: includes/emails/class-norsani-email-vendor-message.php:107
+msgid "Invitation"
+msgstr "Inbjudan"
+
+#: includes/class-norsani-sellers.php:85
+#: templates/views/html-dashboard-items-nav.php:19
+#, php-format
+msgid "All (%d)"
+msgstr "Alla (%d)"
+
+#: includes/class-norsani-sellers.php:88
+#, php-format
+msgid "Active Vendors (%d)"
+msgstr "Aktiva leverantörer (% d)"
+
+#: includes/class-norsani-sellers.php:91
+#, php-format
+msgid "Inactive Vendors (%d)"
+msgstr "Inaktiva leverantörer (% d)"
+
+#: includes/class-norsani-sellers.php:94
+msgid "Top Sellers"
+msgstr "Topp säljare"
+
+#: includes/class-norsani-sellers.php:111
+msgid "Send Invitation"
+msgstr "Skicka inbjudan"
+
+#: includes/class-norsani-sellers.php:113
+msgid "Send an invitation to a vendor to join your website."
+msgstr "Skicka en inbjudan till en säljare att gå med på din webbplats."
+
+#: includes/class-norsani-sellers.php:118
+#: includes/class-norsani-sellers.php:153
+#: templates/vendors-registration.php:118
+#: templates/views/html-vendor-store_email_form.php:32
+msgid "Email"
+msgstr "E-post"
+
+#: includes/class-norsani-sellers.php:119
+msgid "Email of recipient"
+msgstr "E-post till mottagare"
+
+#: includes/class-norsani-sellers.php:123
+#: templates/views/html-vendor-store_email_form.php:39
+msgid "Subject"
+msgstr "Ämne"
+
+#: includes/class-norsani-sellers.php:124
+msgid "Invitation Subject"
+msgstr "Inbjudan Ämne"
+
+#: includes/class-norsani-sellers.php:127
+#: templates/views/html-vendor-store_email_form.php:45
+msgid "Message"
+msgstr "Meddelande"
+
+#: includes/class-norsani-sellers.php:128
+msgid "Invitation Message"
+msgstr "Inbjudningsmeddelande"
+
+#: includes/class-norsani-sellers.php:131 norsani-options.php:134
+msgid "Send"
+msgstr "Skicka"
+
+#: includes/class-norsani-sellers.php:152
+#: templates/views/html-vendor-store_email_form.php:26
+msgid "Name"
+msgstr "Namn"
+
+#: includes/class-norsani-sellers.php:154
+msgid "Active Seller"
+msgstr "Aktiv Säljare"
+
+#: includes/class-norsani-sellers.php:155
+msgid "Balance"
+msgstr "Behållning"
+
+#: includes/class-norsani-sellers.php:156
+msgid "Phone & Address"
+msgstr "Telefon och adress"
+
+#: includes/class-norsani-sellers.php:205
+msgid "Vendors listed by highest number of completed orders."
+msgstr "Leverantörer listade av högsta antal slutförda beställningar."
+
+#: includes/class-norsani-sellers.php:220
+msgid "Sorry, no vendors found!"
+msgstr "Tyvärr, inga leverantörer hittades!"
+
+#: includes/class-norsani-sellers.php:239
+msgid "&larr; Previous"
+msgstr "&larr; Föregående"
+
+#: includes/class-norsani-sellers.php:240
+msgid "Next &rarr;"
+msgstr "Nästa &rarr;"
+
+#: includes/class-norsani-sellers.php:276
+#, php-format
+msgid "Balance: %s"
+msgstr "Balans: %s"
+
+#: includes/class-norsani-sellers.php:285
+msgid "Processing:"
+msgstr "Bearbetar:"
+
+#: includes/class-norsani-sellers.php:285
+msgid "Completed:"
+msgstr "Slutfördes:"
+
+#: includes/class-norsani-sellers.php:308
+msgid "Activate selling"
+msgstr "Aktivera försäljningen"
+
+#: includes/class-norsani-sellers.php:310
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/class-norsani-sellers.php:313
+msgid "No"
+msgstr "Nej"
+
+#: includes/class-norsani-sellers.php:322
+msgid "Save Settings"
+msgstr "Spara inställningar"
+
+#: includes/class-norsani-vendor.php:199
+msgid "No Ratings Yet!"
+msgstr "Inga betyg än!"
+
+#: includes/class-norsani-vendor.php:216
+#, php-format
+msgid "%1$s Based on"
+msgstr "%1$s baserat på"
+
+#: includes/class-norsani-vendor.php:216
+#, php-format
+msgid "%2$s Rating"
+msgid_plural "%2$s Ratings"
+msgstr[0] "%2$s Betyg"
+msgstr[1] "%2$s betyg"
+
+#: includes/class-norsani-vendor.php:233 includes/main-functions.php:976
+msgid "No Rating Yet!"
+msgstr "Ingen betyg än!"
+
+#: includes/class-norsani-vendor.php:324 includes/class-norsani-vendor.php:327
+#: includes/class-norsani-vendor.php:333
+msgid "at"
+msgstr "på"
+
+#: includes/class-norsani-vendor.php:325 includes/class-norsani-vendor.php:1140
+msgid "tomorrow"
+msgstr "tomorrow"
+
+#: includes/class-norsani-vendor.php:326
+msgid "another day"
+msgstr "en annan dag"
+
+#: includes/class-norsani-vendor.php:329
+msgid "Open till"
+msgstr "Öppna till"
+
+#: includes/class-norsani-vendor.php:330
+msgid "Opens at"
+msgstr "Öppnar vid"
+
+#: includes/class-norsani-vendor.php:331
+msgid "Opens Tomorrow"
+msgstr "Öppnar imorgon"
+
+#: includes/class-norsani-vendor.php:332 includes/class-norsani-vendor.php:457
+#: includes/class-norsani-vendor.php:474 includes/class-norsani-vendor.php:491
+msgid "Closed"
+msgstr "Stängd"
+
+#: includes/class-norsani-vendor.php:449 includes/class-norsani-vendor.php:483
+#, php-format
+msgid "Open for %s minute"
+msgid_plural "Open for %s minutes"
+msgstr[0] "Öppet för %s minut"
+msgstr[1] "Öppet för %s minuter"
+
+#: includes/class-norsani-vendor.php:466
+#, php-format
+msgid "Closed for %s minute"
+msgid_plural "Closed for %s minutes"
+msgstr[0] "Stängt för %s minut"
+msgstr[1] "Stängt för %s minuter"
+
+#: includes/class-norsani-vendor.php:682 templates/vendors-registration.php:29
+msgid ""
+"Click on the map to start drawing the path for a polygon representing the "
+"area that you can provide delivery service."
+msgstr ""
+"Klicka på kartan för att börja rita banan för en polygon som representerar "
+"det område som du kan tillhandahålla leveransservice."
+
+#: includes/class-norsani-vendor.php:710
+msgid ""
+"Road/Street names. Type first two/three letters and choose from list, if the "
+"list doesn't appear, then complete typing and hit the comma button."
+msgstr ""
+"Väg / gatunamn. Skriv första / tre bokstäverna och välj från listan, om "
+"listan inte visas, fyll sedan i och tryck på kommatecken."
+
+#: includes/class-norsani-vendor.php:722 templates/vendors-registration.php:292
+msgid "Saturday"
+msgstr "Lördag"
+
+#: includes/class-norsani-vendor.php:723 templates/vendors-registration.php:293
+msgid "Sunday"
+msgstr "Söndag"
+
+#: includes/class-norsani-vendor.php:724 templates/vendors-registration.php:294
+msgid "Monday"
+msgstr "Måndag"
+
+#: includes/class-norsani-vendor.php:725 templates/vendors-registration.php:295
+msgid "Tuesday"
+msgstr "Tisdag"
+
+#: includes/class-norsani-vendor.php:726 templates/vendors-registration.php:296
+msgid "Wednesday"
+msgstr "Onsdag"
+
+#: includes/class-norsani-vendor.php:727 templates/vendors-registration.php:297
+msgid "Thursday"
+msgstr "Torsdag"
+
+#: includes/class-norsani-vendor.php:728 templates/vendors-registration.php:298
+msgid "Friday"
+msgstr "Fredag"
+
+#: includes/class-norsani-vendor.php:809
+msgid "km."
+msgstr "km."
+
+#: includes/class-norsani-vendor.php:809
+msgid "mi."
+msgstr "mi."
+
+#: includes/class-norsani-vendor.php:1135
+msgid "on"
+msgstr "på"
+
+#: includes/class-norsani-vendor.php:1183
+msgid "to"
+msgstr "till"
+
+#: includes/class-norsani-vendor.php:1213
+msgid "online"
+msgstr "uppkopplad"
+
+#: includes/class-norsani-vendor.php:1214
+msgid "offline"
+msgstr "off-line"
+
+#: includes/class-norsani-vendor.php:1240
+msgid "Your first shift will start"
+msgstr "Din första skift börjar"
+
+#: includes/class-norsani-vendor.php:1242
+msgid "Your timing for today is"
+msgstr "Din tidpunkt för idag är"
+
+#: includes/class-norsani-vendor.php:1247
+msgid "Your second shift starts"
+msgstr "Ditt andra skift börjar"
+
+#: includes/class-norsani-vendor.php:1251
+msgid "Your second shift timing is"
+msgstr "Din andra shift timing är"
+
+#: includes/class-norsani-vendor.php:1254
+#, php-format
+msgid "Your shop has closed today. You will open again %s"
+msgstr "Din butik har stängt idag. Du öppnar igen %s"
+
+#: includes/class-norsani-withdraw.php:59
+msgid "New Withdrawal Request"
+msgstr "Ny begäran om återkallelse"
+
+#: includes/class-norsani-withdraw.php:67 norsani-options.php:621
+#: templates/views/html-dashboard-home-orders.php:27
+msgid "Completed"
+msgstr "Slutförd"
+
+#: includes/class-norsani-withdraw.php:70
+#: includes/class-norsani-withdraw.php:317
+msgid "Canceled"
+msgstr "Avbruten"
+
+#: includes/class-norsani-withdraw.php:87
+msgid "Current Balance:"
+msgstr "Aktuellt saldo:"
+
+#: includes/class-norsani-withdraw.php:101
+msgid "Request"
+msgstr "Begäran"
+
+#: includes/class-norsani-withdraw.php:102 includes/print-functions.php:121
+#: templates/views/html-dashboard-coupon-form.php:127
+#: templates/views/html-dashboard-coupon-list.php:23
+msgid "Amount"
+msgstr "Belopp"
+
+#: includes/class-norsani-withdraw.php:103
+#: templates/views/html-dashboard-orders-list-row.php:23
+#: templates/views/html-dashboard-orders-list-row.php:31
+msgid "Via"
+msgstr "Via"
+
+#: includes/class-norsani-withdraw.php:104
+#: templates/views/html-dashboard-orders-list.php:25
+msgid "Date"
+msgstr "Datum"
+
+#: includes/class-norsani-withdraw.php:105
+#: templates/views/html-dashboard-coupon-list.php:27
+msgid "Actions"
+msgstr "Åtgärder"
+
+#: includes/class-norsani-withdraw.php:115 norsani-options.php:748
+#: templates/views/html-dashboard-coupon-list.php:80
+#: templates/views/html-dashboard-items-list-single_item.php:49
+msgid "Edit"
+msgstr "Redigera"
+
+#: includes/class-norsani-withdraw.php:118
+#: templates/views/html-dashboard-items-list-single_item.php:51
+msgid "View"
+msgstr "Visa"
+
+#: includes/class-norsani-withdraw.php:123
+#: templates/views/html-dashboard-orders-list-row.php:16
+msgid "More Details"
+msgstr "Mer detaljer"
+
+#: includes/class-norsani-withdraw.php:123 includes/print-functions.php:317
+#, php-format
+msgid "Order %s"
+msgstr "Order %s"
+
+#: includes/class-norsani-withdraw.php:129
+msgid "View Vendor Balance"
+msgstr "Visa leverantörsbalans"
+
+#: includes/class-norsani-withdraw.php:129
+msgid "By"
+msgstr "Av"
+
+#: includes/class-norsani-withdraw.php:141
+#: includes/class-norsani-withdraw.php:145
+msgid "View Details"
+msgstr "Visa detaljer"
+
+#: includes/class-norsani-withdraw.php:150
+msgid "Pay"
+msgstr "Betala"
+
+#: includes/class-norsani-withdraw.php:153
+msgid "Cancel Payout"
+msgstr "Avbryt Utbetalning"
+
+#: includes/class-norsani-withdraw.php:155 norsani-options.php:748
+#: templates/views/html-dashboard-coupon-list.php:81
+#: templates/views/html-dashboard-items-list-single_item.php:50
+msgid "Delete"
+msgstr "Radera"
+
+#: includes/class-norsani-withdraw.php:168
+msgid "No withdrawal requests found"
+msgstr "Inga återkallningsförfrågningar hittades"
+
+#: includes/class-norsani-withdraw.php:205
+msgid ""
+"You already have a pending withdrawal request. Until it's been canceled or "
+"completed, you can not submit a new request."
+msgstr ""
+"Du har redan en väntande begäran om återkallelse. Innan det har annullerats "
+"eller slutförts, kan du inte skicka in en ny förfrågan."
+
+#: includes/class-norsani-withdraw.php:209
+msgid "You don't have sufficient balance for a withdrawal request!"
+msgstr "Du har inte tillräckligt med balans för en begäran om återkallelse!"
+
+#: includes/class-norsani-withdraw.php:254
+msgid "Editing request #"
+msgstr "Redigeringsbegäran #"
+
+#: includes/class-norsani-withdraw.php:256
+msgid "Viewing request #"
+msgstr "Visningsförfrågan #"
+
+#: includes/class-norsani-withdraw.php:270
+msgid "Make a withdrawal request."
+msgstr "Gör en begäran om uttag."
+
+#: includes/class-norsani-withdraw.php:276
+msgid "Amount to withdraw"
+msgstr "Summa att ta ut"
+
+#: includes/class-norsani-withdraw.php:280
+msgid "Payment method"
+msgstr "Betalningsmetod"
+
+#: includes/class-norsani-withdraw.php:300
+msgid "Change Invoice Image"
+msgstr "Ändra faktura bilden"
+
+#: includes/class-norsani-withdraw.php:304
+msgid "Upload Invoice Image"
+msgstr "Ladda upp faktura bilden"
+
+#: includes/class-norsani-withdraw.php:309
+msgid "Update status"
+msgstr "Uppdatera status"
+
+#: includes/class-norsani-withdraw.php:320
+msgid "Paid"
+msgstr "Betald"
+
+#: includes/class-norsani-withdraw.php:324
+msgid "Cancel note"
+msgstr "Avbryt anteckning"
+
+#: includes/class-norsani-withdraw.php:325
+msgid "Few words on why you've canceled the withdrawal request"
+msgstr "Få ord om varför du har annullerat begäran om återkallelse"
+
+#: includes/class-norsani-withdraw.php:325
+msgid "No Data"
+msgstr "Inga data"
+
+#: includes/class-norsani-withdraw.php:333
+msgid "Submit Request"
+msgstr "Skicka förfrågan"
+
+#: includes/class-norsani-withdraw.php:333
+msgid "Update Request"
+msgstr "Uppdatera förfrågan"
+
+#: includes/class-norsani-withdraw.php:387
+#: includes/class-norsani-withdraw.php:451
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/class-norsani-withdraw.php:391
+#: includes/class-norsani-withdraw.php:497
+msgid "Bank Transfer"
+msgstr "Swishbetalning"
+
+#: includes/class-norsani-withdraw.php:395
+#: includes/class-norsani-withdraw.php:475
+msgid "Skrill"
+msgstr "Skrill"
+
+#: includes/class-norsani-withdraw.php:500
+msgid "Account Name"
+msgstr "Kontonamn"
+
+#: includes/class-norsani-withdraw.php:501
+msgid "Your bank account name"
+msgstr "Namnet som bankkontot står på"
+
+#: includes/class-norsani-withdraw.php:504
+msgid "Account Number"
+msgstr "Kontonummer"
+
+#: includes/class-norsani-withdraw.php:505
+msgid "Your bank account number"
+msgstr "Ditt bankkontonummer"
+
+#: includes/class-norsani-withdraw.php:508
+msgid "Bank Name"
+msgstr "Banknamn"
+
+#: includes/class-norsani-withdraw.php:509
+msgid "Name of bank"
+msgstr "Namn på banken"
+
+#: includes/class-norsani-withdraw.php:514
+#: includes/class-norsani-withdraw.php:515
+msgid "Bank Address"
+msgstr "Bankadress"
+
+#: includes/class-norsani-withdraw.php:518
+#: includes/class-norsani-withdraw.php:519
+msgid "Swift code"
+msgstr "Swift-kod"
+
+#: includes/class-norsani-withdraw.php:541
+msgid "The payment claiming instructions has been sent by email."
+msgstr "Betalningsanvisningarna har skickats via e-post."
+
+#: includes/class-norsani-withdraw.php:543
+msgid "Sent to"
+msgstr "Skickat till"
+
+#: includes/class-norsani-wp_init.php:56
+msgctxt "frozr-norsani"
+msgid "Ingredients"
+msgstr "Ingredienser"
+
+#: includes/class-norsani-wp_init.php:57
+msgctxt "frozr-norsani"
+msgid "Ingredient"
+msgstr "Ingredienser"
+
+#: includes/class-norsani-wp_init.php:58
+msgid "Search Ingredients"
+msgstr "Sök ingredienser"
+
+#: includes/class-norsani-wp_init.php:59
+msgid "Popular Ingredients"
+msgstr "Populära Ingredienser"
+
+#: includes/class-norsani-wp_init.php:60
+msgid "All Ingredients"
+msgstr "Alla ingredienser"
+
+#: includes/class-norsani-wp_init.php:63
+msgid "Edit Ingredient"
+msgstr "Redigera ingrediens"
+
+#: includes/class-norsani-wp_init.php:64
+msgid "Update Ingredient"
+msgstr "Uppdatera ingrediens"
+
+#: includes/class-norsani-wp_init.php:65
+msgid "Add New Ingredient"
+msgstr "Lägg till ny ingrediens"
+
+#: includes/class-norsani-wp_init.php:66
+msgid "New Ingredient Name"
+msgstr "Nytt beståndsdelnamn"
+
+#: includes/class-norsani-wp_init.php:67
+msgid "Separate Ingredients with commas"
+msgstr "Separata ingredienser med kommatecken"
+
+#: includes/class-norsani-wp_init.php:68
+msgid "Add or remove Ingredients"
+msgstr "Lägg till eller ta bort ingredienser"
+
+#: includes/class-norsani-wp_init.php:69
+msgid "Choose from the most used Ingredients"
+msgstr "Välj bland de mest använda ingredienserna"
+
+#: includes/class-norsani-wp_init.php:70
+msgid "No Ingredients found."
+msgstr "Inga ingredienser hittades."
+
+#: includes/class-norsani-wp_init.php:71
+#: templates/views/html-dashboard-items-form_data.php:72
+msgid "Ingredients"
+msgstr "Ingredienser"
+
+#: includes/class-norsani-wp_init.php:95
+msgctxt "frozr-norsani"
+msgid "Delivery Locations"
+msgstr "Leveransplatser"
+
+#: includes/class-norsani-wp_init.php:96
+msgctxt "frozr-norsani"
+msgid "Delivery Location"
+msgstr "Leveransplats"
+
+#: includes/class-norsani-wp_init.php:97
+msgid "Search Locations"
+msgstr "Sökandelägen"
+
+#: includes/class-norsani-wp_init.php:98
+msgid "Popular Locations"
+msgstr "Populära platser"
+
+#: includes/class-norsani-wp_init.php:99
+msgid "All Locations"
+msgstr "Alla Platser"
+
+#: includes/class-norsani-wp_init.php:102
+msgid "Edit Location"
+msgstr "Redigera plats"
+
+#: includes/class-norsani-wp_init.php:103
+msgid "Update Location"
+msgstr "Uppdatera plats"
+
+#: includes/class-norsani-wp_init.php:104
+msgid "Add New Location"
+msgstr "Lägg till ny Plats"
+
+#: includes/class-norsani-wp_init.php:105
+msgid "New Location Name"
+msgstr "Nytt namn för plats"
+
+#: includes/class-norsani-wp_init.php:106
+msgid "Separate Locations with commas"
+msgstr "Separata platser med kommatecken"
+
+#: includes/class-norsani-wp_init.php:107
+msgid "Add or remove Locations"
+msgstr "Lägg till eller ta bort platser"
+
+#: includes/class-norsani-wp_init.php:108
+msgid "Choose from the most used Locations"
+msgstr "Välj bland de mest använda platserna"
+
+#: includes/class-norsani-wp_init.php:109
+msgid "No Locations found"
+msgstr "Inga platser hittades"
+
+#: includes/class-norsani-wp_init.php:110 norsani-options.php:17
+msgid "Delivery Locations"
+msgstr "Leveransplatser"
+
+#: includes/class-norsani-wp_init.php:136
+msgctxt "frozr-norsani"
+msgid "Vendor Addresses"
+msgstr "Leverantörsadresser"
+
+#: includes/class-norsani-wp_init.php:137
+msgctxt "frozr-norsani"
+msgid "Vendor Address"
+msgstr "Leverantörsadress"
+
+#: includes/class-norsani-wp_init.php:138
+msgid "Search Vendor Addresses"
+msgstr "Sök leverantörsadresser"
+
+#: includes/class-norsani-wp_init.php:139
+msgid "Popular Addresses"
+msgstr "Populära adresser"
+
+#: includes/class-norsani-wp_init.php:140
+msgid "All Addresses of Vendors"
+msgstr "Alla leverantörsadresser"
+
+#: includes/class-norsani-wp_init.php:143
+msgid "Edit Address"
+msgstr "Redigera adress"
+
+#: includes/class-norsani-wp_init.php:144
+msgid "Update Address"
+msgstr "Uppdatera adress"
+
+#: includes/class-norsani-wp_init.php:145
+msgid "Add New Address"
+msgstr "Lägg till ny adress"
+
+#: includes/class-norsani-wp_init.php:146
+msgid "New Address"
+msgstr "Ny adress"
+
+#: includes/class-norsani-wp_init.php:147
+msgid "Separate Addresses with commas"
+msgstr "Separata adresser med kommatecken"
+
+#: includes/class-norsani-wp_init.php:148
+msgid "Add or remove Addresses"
+msgstr "Lägg till eller ta bort adresser"
+
+#: includes/class-norsani-wp_init.php:149
+msgid "Choose from the most used Addresses"
+msgstr "Välj bland de mest använda adresserna"
+
+#: includes/class-norsani-wp_init.php:150
+msgid "No Addresses found"
+msgstr "Inga adresser hittades"
+
+#: includes/class-norsani-wp_init.php:151
+msgid "Vendor Addresses"
+msgstr "Leverantörsadresser"
+
+#: includes/class-norsani-wp_init.php:177
+msgctxt "frozr-norsani"
+msgid "Vendor Tags"
+msgstr "Leverantörer"
+
+#: includes/class-norsani-wp_init.php:178
+msgctxt "frozr-norsani"
+msgid "Vendor Tag"
+msgstr "Leverantörsnamn"
+
+#: includes/class-norsani-wp_init.php:179
+#: includes/class-norsani-wp_init.php:192
+msgid "Vendor Tags"
+msgstr "Leverantörer"
+
+#: includes/class-norsani-wp_init.php:180
+msgid "Popular Vendor Tags"
+msgstr "Populära leverantörstaggar"
+
+#: includes/class-norsani-wp_init.php:181
+msgid "All Tags"
+msgstr "Alla etiketter"
+
+#: includes/class-norsani-wp_init.php:184
+msgid "Edit Tag"
+msgstr "Redigera etikett"
+
+#: includes/class-norsani-wp_init.php:185
+msgid "Update Tag"
+msgstr "Uppdatera etikett"
+
+#: includes/class-norsani-wp_init.php:186
+msgid "Add New Tag"
+msgstr "Lägg till ny Tagg"
+
+#: includes/class-norsani-wp_init.php:187
+msgid "New Tag Name"
+msgstr "Ny tag namn"
+
+#: includes/class-norsani-wp_init.php:188
+msgid "Separate Tags with commas"
+msgstr "Separata etiketter med kommatecken"
+
+#: includes/class-norsani-wp_init.php:189
+msgid "Add or remove Tags"
+msgstr "Lägg till eller ta bort etiketter"
+
+#: includes/class-norsani-wp_init.php:190
+msgid "Choose from the most used Tags"
+msgstr "Välj från de mest frekvent använda etiketter"
+
+#: includes/class-norsani-wp_init.php:191
+msgid "No vendor Tag found."
+msgstr "Ingen leverantör Tag hittade."
+
+#: includes/class-norsani-wp_init.php:216
+msgctxt "post"
+msgid "Offline"
+msgstr "Pausad"
+
+#: includes/class-norsani-wp_init.php:221
+#, php-format
+msgid "Offline (%s)"
+msgid_plural "Offline (%s)"
+msgstr[0] "Offline ( %s)"
+msgstr[1] "Offline ( %s)"
+
+#: includes/class-norsani-wp_init.php:238
+msgid "Withdrawal Requests Post Types"
+msgstr "Återkallande begäran Posttyper"
+
+#: includes/class-norsani-wp_init.php:263
+msgctxt "Status General Name"
+msgid "Completed"
+msgstr "Slutförd"
+
+#: includes/class-norsani-wp_init.php:264
+#, php-format
+msgid "Completed (%s)"
+msgid_plural "Completed (%s)"
+msgstr[0] "Slutförda (%s)"
+msgstr[1] "Slutförda (%s)"
+
+#: includes/class-norsani.php:126
+msgid "Cloning is forbidden."
+msgstr "Kloning är förbjuden."
+
+#: includes/class-norsani.php:135
+msgid "Unserializing instances of this class is forbidden."
+msgstr "Deserialisering av instanser för denna klass är förbjudet."
+
+#: includes/emails/class-norsani-email-vendor-message.php:66
+msgid "Vendor Email"
+msgstr "Manusarbetares e-post"
+
+#: includes/emails/class-norsani-email-vendor-message.php:67
+msgid ""
+"An email sent to the vendor via his shop page contact form or by website "
+"admin from sellers dashboard page."
+msgstr ""
+"Ett e-mail skickat till säljaren via sin butikssida kontaktformulär eller "
+"via webbplatsadministratör från säljare dashboardsida."
+
+#: includes/emails/class-norsani-email-vendor-message.php:92
+msgid "[{site_title}]: Invitation letter"
+msgstr "[{site_title}]: Inbjudningsbrev"
+
+#: includes/emails/class-norsani-email-vendor-message.php:94
+msgid "[{site_title}]: You recieved a new message"
+msgstr "[{site_title}]: Du har fått ett nytt meddelande"
+
+#: includes/emails/class-norsani-email-vendor-message.php:109
+msgid "New message"
+msgstr "Nytt meddelande"
+
+#: includes/emails/class-norsani-email-vendor-order-refund.php:73
+msgid "Order refund"
+msgstr "Beställningsbidrag"
+
+#: includes/emails/class-norsani-email-vendor-order-refund.php:74
+msgid ""
+"An email sent to the vendor informing him on a refund for one of his orders."
+msgstr ""
+"Ett e-mail skickat till säljaren informerar honom om återbetalning för en av "
+"sina beställningar."
+
+#: includes/emails/class-norsani-email-vendor-order-refund.php:96
+msgid "[{site_title}]: Order Refunded"
+msgstr "[{site_title}]: Order återbetalas"
+
+#: includes/emails/class-norsani-email-vendor-order-refund.php:106
+msgid "Order #{order_id} Refunded"
+msgstr "Order # {order_id} Återbetalas"
+
+#: includes/emails/class-norsani-email-vendor-rating.php:66
+msgid "Vendor rating request"
+msgstr "Leverantörsförfrågan"
+
+#: includes/emails/class-norsani-email-vendor-rating.php:67
+msgid "An email sent to the customer asking him to rating a vendor."
+msgstr ""
+"Ett e-postmeddelande skickat till kunden ber honom att betygsätta en "
+"leverantör."
+
+#: includes/emails/class-norsani-email-vendor-rating.php:89
+msgid "[{site_title}]: Make your rating on {vendor_name}"
+msgstr "[{site_title}]: Gör ditt betyg på {vendor_name}"
+
+#: includes/emails/class-norsani-email-vendor-rating.php:99
+msgid "Rate our service"
+msgstr "Betygsätt vår tjänst"
+
+#: includes/emails/class-norsani-email-vendor-status.php:87
+msgid "Vendor Status Update"
+msgstr "Uppdatering av leverantörsstatus"
+
+#: includes/emails/class-norsani-email-vendor-status.php:88
+msgid "An email sent to the vendor to inform him about his selling status."
+msgstr ""
+"Ett e-mail skickat till säljaren för att informera honom om hans "
+"försäljningsstatus."
+
+#: includes/emails/class-norsani-email-vendor-status.php:115
+msgid "[{site_title}]: Thank you for registering"
+msgstr "[{site_title}]: Tack för att du registrerade dig"
+
+#: includes/emails/class-norsani-email-vendor-status.php:117
+msgid "[{site_title}]: Status Update"
+msgstr "[{site_title}]: Statusuppdatering"
+
+#: includes/emails/class-norsani-email-vendor-status.php:119
+msgid "[{site_title}]: New Vendor Registration"
+msgstr "[{site_title}]: Ny leverantörsregistrering"
+
+#: includes/emails/class-norsani-email-vendor-status.php:132
+msgid "Welcome to {site_title}"
+msgstr "Välkommen till {site_title}"
+
+#: includes/emails/class-norsani-email-vendor-status.php:134
+msgid "Status Update"
+msgstr "Status uppdatering"
+
+#: includes/emails/class-norsani-email-vendor-status.php:136
+msgid "New Vendor"
+msgstr "Ny Leverantör"
+
+#: includes/emails/class-norsani-email-withdraw-status.php:73
+msgid "Withdrawal Request Status"
+msgstr "Återkallningsförfrågan Status"
+
+#: includes/emails/class-norsani-email-withdraw-status.php:74
+msgid "An email sent to the vendor about his withdrawal request status."
+msgstr ""
+"Ett e-postmeddelande skickat till säljaren om hans begäran om återkallande."
+
+#: includes/emails/class-norsani-email-withdraw-status.php:96
+msgid "[{site_title}]: Status of your withdrawal request #{withdraw_id}"
+msgstr "[{site_title}]: Status för din begäran om återkallelse # {withdraw_id}"
+
+#: includes/emails/class-norsani-email-withdraw-status.php:106
+msgid "Your withdrawal request: #{withdraw_id}"
+msgstr "Din begäran om återkallelse: # {withdraw_id}"
+
+#: includes/main-functions.php:94
+msgid ""
+"Selling privileges of this vendor has been disabled. You are viewing this "
+"because you are an administrator."
+msgstr ""
+"Försäljningsrättigheter för denna leverantör har inaktiverats. Du tittar på "
+"det här eftersom du är en administratör."
+
+#: includes/main-functions.php:349
+msgid "Total Delivery Fee"
+msgstr "Totalt leveransavgift"
+
+#: includes/main-functions.php:390
+msgid "Unset"
+msgstr "Unset"
+
+#: includes/main-functions.php:396
+msgid "Change your location"
+msgstr "Ändra din plats"
+
+#: includes/main-functions.php:396
+msgid "Set your location"
+msgstr "Ange din plats"
+
+#: includes/main-functions.php:398
+msgid "Start typing your location."
+msgstr "Börja skriva din plats."
+
+#: includes/main-functions.php:408
+msgid "Type the first three letters and choose from the list."
+msgstr "Skriv de första tre bokstäverna och välj från listan."
+
+#: includes/main-functions.php:421
+msgid "Your Current location is: "
+msgstr "Din nuvarande plats är:"
+
+#: includes/main-functions.php:453
+msgid "will not accept orders at this time."
+msgstr "kommer inte att acceptera beställningar just nu."
+
+#: includes/main-functions.php:457
+msgid "will not accept orders at this time please come back later"
+msgstr ""
+"kommer inte att acceptera beställningar just nu vänligen kom tillbaka senare"
+
+#: includes/main-functions.php:482
+msgid "How about.."
+msgstr "Vad sägs om.."
+
+#. translators: %s template
+#: includes/main-functions.php:603
+#, php-format
+msgid "%s does not exist."
+msgstr "%s finns inte."
+
+#: includes/main-functions.php:829
+msgid "Next Page"
+msgstr "Nästa sida"
+
+#: includes/main-functions.php:989 installer.php:222
+msgid "Chefs"
+msgstr "Kockar"
+
+#: includes/main-functions.php:989 installer.php:222
+msgid "Restaurants"
+msgstr "Restauráŋŋat"
+
+#: includes/main-functions.php:989 installer.php:222
+msgid "Groceries"
+msgstr "Specerier"
+
+#: includes/main-functions.php:989 installer.php:222
+msgid "Food Trucks"
+msgstr "Mat lastbilar"
+
+#: includes/main-functions.php:1046
+msgid "plus"
+msgstr "plus"
+
+#: includes/main-functions.php:1050
+msgid ""
+"Here you can get statistics info on your sales. The results table is set by "
+"default to show sales for today, but you can see results for different "
+"periods as well. You can also click the print button if you wish to print "
+"current results."
+msgstr ""
+"Här kan du få statistikinformation om din försäljning. Resultattabellen är "
+"som standard för att visa försäljning för idag, men du kan även se resultat "
+"för olika perioder. Du kan också klicka på utskriftsknappen om du vill "
+"skriva ut aktuella resultat."
+
+#: includes/main-functions.php:1051
+#, php-format
+msgid ""
+"Whenever a customer makes an online payment for your products, we deduct %s "
+"from the order's total and save the remaining amount here in your account "
+"balance after the order status is changed to completed. Click the withdraw "
+"button if you wish to submit a withdrawal request."
+msgstr ""
+"När en kund gör en online-betalning för dina produkter, dras vi av %s från "
+"orderens totala och spara det resterande beloppet här i ditt kontobalans "
+"efter att orderstatusen har ändrats till slutförd. Klicka på uttagsknappen "
+"om du vill lämna in en begäran om uttag."
+
+#: includes/main-functions.php:1052
+msgid ""
+"This will show you a general count of your orders grouped by order status. "
+"You can click on the status title to navigate to the respective orders page."
+msgstr ""
+"Detta kommer att visa dig en allmän räkning av dina beställningar grupperade "
+"efter orderstatus. Du kan klicka på statustiteln för att navigera till "
+"respektive ordersida."
+
+#: includes/main-functions.php:1053
+msgid ""
+"Here you can get information on products having the most sales. This will "
+"help you in either improving or promoting other products that have low sales."
+msgstr ""
+"Här kan du få information om produkter som har mest försäljning. Detta "
+"hjälper dig att förbättra eller marknadsföra andra produkter med låg "
+"försäljning."
+
+#: includes/main-functions.php:1054
+msgid ""
+"Here you can get information on top spending customers. This is only based "
+"on completed orders. This could be helpful if you wish to reward or provide "
+"them with special service."
+msgstr ""
+"Här kan du få information om de bästa kunderna. Detta är endast baserat på "
+"slutförda beställningar. Detta kan vara till hjälp om du vill belöna eller "
+"ge dem special service."
+
+#: includes/main-functions.php:1055
+msgid ""
+"This is the main page to view and manage your incoming orders. Orders are "
+"listed from oldest to newest. Whenever your shop is open, and you are in "
+"this page, the system will automatically update your orders list every "
+"minute. Click on \"Quick view\" to see the products list or click on the "
+"order number to view full details. Click on the action button to process the "
+"order by changing its status. You should only manage the orders that are in "
+"the \"processing\" list. The Orders that are in the \"On-hold\" or \"Pending"
+"\" status are still not paid, so please wait until they are moved to the "
+"processing orders list."
+msgstr ""
+"Detta är huvudsidan för att visa och hantera dina inkommande beställningar. "
+"Beställningar listas från äldsta till nyaste. När din butik är öppen, och du "
+"är på denna sida, uppdaterar systemet automatiskt din orderlista varje "
+"minut. Klicka på &quot;Snabbvy&quot; för att se produktlistan eller klicka "
+"på ordernummer för att visa fullständiga detaljer. Klicka på åtgärdsknappen "
+"för att bearbeta ordern genom att ändra dess status. Du bör bara hantera de "
+"order som finns på &quot;bearbetning&quot; listan. Beställningarna som finns "
+"i statusen &quot;Tillfällig&quot; eller &quot;Väntar&quot; betalas "
+"fortfarande inte, så var god vänta tills de flyttas till listan med "
+"behandlingsorder."
+
+#: includes/main-functions.php:1056
+msgid "This is the total discount. Discounts are defined per line item."
+msgstr "Detta är den totala rabatten. Rabatter definieras per rad."
+
+#: includes/main-functions.php:1057
+msgid ""
+"Add a note for your reference, or add a customer note (the customer will be "
+"notified)"
+msgstr ""
+"Lägg till en anteckning för din referens, eller lägg till en kundanteckning "
+"(kunden kommer att bli underrättad)"
+
+#: includes/main-functions.php:1058
+msgid ""
+"Here you can add discount coupons on your products to encourage customers to "
+"make orders from your shop. You can also create discount coupons for only "
+"one specific loyal customer by setting the usage limit to 1 and disabling "
+"the \"Go public\" option, then you can send the code to the customer by "
+"email with a thank you message."
+msgstr ""
+"Här kan du lägga till rabattkuponger på dina produkter för att uppmuntra "
+"kunder att göra order från din butik. Du kan också skapa rabattkuponger för "
+"endast en viss lojal kund genom att ställa in användningsgränsen till 1 och "
+"inaktivera alternativet &quot;Gå offentligt&quot;, så kan du skicka koden "
+"till kunden via e-post med ett tackmeddelande."
+
+#: includes/main-functions.php:1059
+msgid ""
+"Customers will need the \"coupon code\" to benefit from the discount when "
+"they are in the cart or the checkout page. This \"coupon code\" will not "
+"appear to customers by default, you need to include it in the \"Coupon text "
+"to show\" field."
+msgstr ""
+"Kunderna behöver &quot;kupongkoden&quot; för att dra nytta av rabatten när "
+"de är i kundvagnen eller kassan. Denna &quot;kupongkod&quot; visas inte som "
+"standard för kunderna, du måste inkludera den i rutan &quot;Kupongtext att "
+"visa&quot;."
+
+#: includes/main-functions.php:1060
+msgid "Type few lines about this coupon, describing why are you offering it."
+msgstr "Skriv några rader om denna kupong och beskriva varför erbjuder du den."
+
+#: includes/main-functions.php:1061
+msgid ""
+"Set the amount or percentage to discount (depending on the discount type)."
+msgstr ""
+"Ange beloppet eller den procentandel som ska rabatt (beroende på rabattypen)."
+
+#: includes/main-functions.php:1062
+msgid ""
+"White-list of customers emails to check against when an order is placed. "
+"Separate email addresses with commas. You can also use an asterisk (*) to "
+"match parts of an email. For example &quot;*@gmail.com&quot; would match all "
+"gmail addresses.."
+msgstr ""
+"Vitlista över kundernas e-postmeddelanden för att kontrollera när en "
+"beställning är placerad. Separata e-postadresser med kommatecken. Du kan "
+"också använda en asterisk (*) för att matcha delar av ett e-postmeddelande. "
+"Till exempel &quot;*@gmail.com&quot; skulle matcha alla gmailadresser .."
+
+#: includes/main-functions.php:1063
+msgid "How many times this coupon can be used before it becomes void?"
+msgstr "Hur många gånger kan denna kupong användas innan den blir ogiltig?"
+
+#: includes/main-functions.php:1064
+msgid ""
+"The maximum number of individual products that this coupon can apply to when "
+"using products discount. Leave it blank to apply to all qualifying products "
+"in cart."
+msgstr ""
+"Det maximala antalet enskilda produkter som denna kupong kan gälla för när "
+"rabatt på produkter används. Lämna det tomt för att applicera på alla "
+"kvalificerade produkter i kundvagnen."
+
+#: includes/main-functions.php:1065
+msgid "How many times this coupon can be used by each individual user?"
+msgstr "Hur många gånger kan denna kupong användas av varje enskild användare?"
+
+#: includes/main-functions.php:1066
+msgid ""
+"Products that the coupon will be applied to, or that need to be in the cart "
+"in order for the &quot;Fixed cart discount&quot; to be applied.."
+msgstr ""
+"Produkter som kupongen ska tillämpas på, eller som måste vara i kundvagnen "
+"för att &quot;Värdkortsrabatt&quot; ska tillämpas."
+
+#: includes/main-functions.php:1067
+msgid "Check this box if the coupon grants free delivery."
+msgstr "Markera den här rutan om kupongen ger gratis frakt."
+
+#: includes/main-functions.php:1068
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr ""
+"Markera den här rutan om rabattkupongen inte ska kunna användas tillsammans "
+"med andra rabattkuponger."
+
+#: includes/main-functions.php:1069
+msgid ""
+"Check this box if the coupon should not apply to products with discounted "
+"price. Per-product coupons will only work if the product is not on it's "
+"discount price. Per-cart coupons will only work if there are no discounted "
+"products in the cart."
+msgstr ""
+"Markera den här rutan om kupongen inte ska tillämpas på produkter med "
+"rabatterat pris. Per-produktkuponger fungerar bara om produkten inte finns "
+"på rabattpriset. Per-kupongkuponger fungerar bara om det inte finns några "
+"rabatterade produkter i kundvagnen."
+
+#: includes/main-functions.php:1070
+msgid ""
+"This field allows you to set the minimum spend (subtotal) allowed to use the "
+"coupon."
+msgstr ""
+"I det här fältet kan du ange minsta utgift (subtotal) tillåtet att använda "
+"kupongen."
+
+#: includes/main-functions.php:1071
+msgid ""
+"This field allows you to set the maximum spend (subtotal) allowed when using "
+"the coupon."
+msgstr ""
+"I det här fältet kan du ange maximal utgift (subtotal) som tillåts när du "
+"använder kupongen."
+
+#: includes/main-functions.php:1072
+msgid "Show the Coupon in your shop page?"
+msgstr "Visa kupongen på din butikssida?"
+
+#: includes/main-functions.php:1073
+msgid "Text to show in the coupon box on your shop page."
+msgstr "Text som ska visas i kupongrutan på din butikssida."
+
+#: includes/main-functions.php:1074
+#, php-format
+msgid ""
+"From this page, you can submit money withdrawal requests and view your "
+"previous requests. Whenever an order status is changed to completed, the "
+"system will automatically create a withdrawal request for you. Before it has "
+"been Processed by the website admin you can manually cancel your request. If "
+"you have at least %1$s%2$s in your current balance you can make a withdrawal "
+"request."
+msgstr ""
+"Från den här sidan kan du skicka in ansökningar om uttag av pengar och se "
+"dina tidigare förfrågningar. När en orderstatus ändras till färdigställd, "
+"skapar systemet automatiskt en begäran om uttag för dig. Innan den har "
+"bearbetats av webbplatsadministratören kan du manuellt avbryta din "
+"förfrågan. Om du har minst%1$s %2$s i din nuvarande balans kan du göra en "
+"begäran om uttag."
+
+#: includes/main-functions.php:1074
+#, php-format
+msgid ""
+"From this page, you can submit money withdrawal requests and view your "
+"previous requests. If you have at least %1$s%2$s in your account balance you "
+"can submit a withdrawal request."
+msgstr ""
+"Från den här sidan kan du skicka in ansökningar om uttag av pengar och se "
+"dina tidigare förfrågningar. Om du har minst%1$s %2$s i ditt kontobalans kan "
+"du skicka in en begäran om uttag."
+
+#: includes/main-functions.php:1075
+msgid ""
+"This is used to classify your shop type. You cannot change this option after "
+"registration."
+msgstr ""
+"Detta används för att klassificera din butikstyp. Du kan inte ändra det här "
+"alternativet efter registrering."
+
+#: includes/main-functions.php:1076
+msgid ""
+"This is your shop name which will appear in the vendor lists and in your "
+"shop's page."
+msgstr ""
+"Detta är ditt butiksnamn som kommer att visas i leverantörslistorna och på "
+"din butikssida."
+
+#: includes/main-functions.php:1077
+msgid "This is the phone number which will appear on your shop's contact form."
+msgstr ""
+"Detta är telefonnumret som kommer att visas på din butiks kontaktformulär."
+
+#: includes/main-functions.php:1078
+msgid ""
+"This is the shop's address which will appear in your shop's contact form and "
+"whenever customers choose to make 'Pickup', 'Dine-in', or 'Curbside' orders."
+msgstr ""
+"Det här är butiksadressen som kommer att visas i din butiks kontaktformulär "
+"och när kunder väljer att göra beställningar &quot;Pickup&quot;, &quot;Dine-"
+"in&quot; eller &quot;Curbside&quot;."
+
+#: includes/main-functions.php:1079
+msgid ""
+"Click on the map to set the exact location to your shop. This will allow "
+"customers to quickly get directions to your shop with Google Maps. In "
+"addition, this will be used to calculate delivery fees if you offer delivery "
+"service."
+msgstr ""
+"Klicka på kartan för att ange exakt platsen i din butik. Detta gör att "
+"kunder snabbt kan få vägbeskrivning till din butik med Google Maps. Dessutom "
+"kommer detta att användas för att beräkna leveransavgifter om du erbjuder "
+"leveransservice."
+
+#: includes/main-functions.php:1080
+msgid ""
+"Type services/foods that you provide separated with a comma or click on "
+"value if appeared in the predictions list. Values here are used in vendors "
+"searching tools. i.e: Indian, Chinese, Thai, barbecue, meats, fish, "
+"seafoods, pet-foods, snack-foods."
+msgstr ""
+"Skriv tjänster / livsmedel som du tillhandahåller separerade med ett komma "
+"eller klicka på värde om det förekommer i prognoslistan. Värden här används "
+"i försäljningsverktyg för leverantörer. dvs: indiska, kinesiska, "
+"thailändska, grill, kött, fisk, skaldjur, husdjursmat, mellanmål-mat."
+
+#: includes/main-functions.php:1081
+msgid "Select food types available in your shop."
+msgstr "Välj mattyper tillgängliga i din butik."
+
+#: includes/main-functions.php:1082
+msgid ""
+"When this is selected, customers will be able to send you email messages "
+"from your shop page."
+msgstr ""
+"När detta väljs kommer kunderna att kunna skicka dig e-postmeddelanden från "
+"din butikssida."
+
+#: includes/main-functions.php:1083
+msgid ""
+"If you offer products/foods on specific timings, then you should use menus "
+"to avoid customers from ordering products at the time that you do not offer "
+"them. After you create menus here, a new option called \"Linked Menus\" will "
+"appear in the products add/edit form where you can link the product to a "
+"specific menu or multiple menus."
+msgstr ""
+"Om du erbjuder produkter / livsmedel på specifika tidpunkter, bör du använda "
+"menyer för att undvika att kunder beställer produkter när du inte erbjuder "
+"dem. När du har skapat menyer här visas ett nytt alternativ som heter &quot;"
+"Länkade menyer&quot; i produkttillägget / redigera formuläret där du kan "
+"länka produkten till en viss meny eller flera menyer."
+
+#: includes/main-functions.php:1084
+msgid ""
+"Select a name for this menu. This will appear in your shop page with timings "
+"below."
+msgstr ""
+"Välj ett namn för den här menyn. Detta kommer att visas på din butikssida "
+"med tidpunkter nedan."
+
+#: includes/main-functions.php:1085
+msgid ""
+"When do you start offering products linked to this menu? if your browser "
+"does not support time inputs please enter the time in 24 hour format like: "
+"16:30"
+msgstr ""
+"När börjar du erbjuda produkter som är kopplade till den här menyn? Om din "
+"webbläsare inte stöder tidsingångar anger du tiden i 24-timmarsformat som: "
+"16:30"
+
+#: includes/main-functions.php:1086
+msgid ""
+"When do you end offering products linked to this menu? if your browser does "
+"not support time inputs please enter the time in 24 hour format like: 18:50"
+msgstr ""
+"När slutar du erbjuda produkter som är kopplade till den här menyn? Om din "
+"webbläsare inte stöder tidsingångar anger du tiden i 24-timmarsformat som: "
+"18:50"
+
+#: includes/main-functions.php:1087
+msgid "What are the order types you accept when your shop is open (online)?"
+msgstr "Vilka är de ordertyper du accepterar när din butik är öppen (online)?"
+
+#: includes/main-functions.php:1088
+msgid ""
+"Selecting this option will allow customers to create pre-orders to be "
+"processed when your shop is open."
+msgstr ""
+"Om du väljer det här alternativet får du kunder att skapa förbeställningar "
+"som ska behandlas när din butik är öppen."
+
+#: includes/main-functions.php:1089
+msgid "What are the order types you accept when your shop is closed (offline)?"
+msgstr ""
+"Vilka är de ordertyper du accepterar när din butik är stängd (offline)?"
+
+#: includes/main-functions.php:1090
+msgid ""
+"If you offer delivery service click on the map to start drawing a polygon "
+"that covers the area where you can offer delivery service. Click on the X "
+"button on the right to clear the drawing."
+msgstr ""
+"Om du erbjuder leveransservice klicka på kartan för att börja rita en "
+"polygon som täcker området där du kan erbjuda leveransservice. Klicka på X-"
+"knappen till höger för att rensa ritningen."
+
+#: includes/main-functions.php:1091
+msgid ""
+"Do you want to calculate the delivery fee separately for each individual "
+"product or as per order?"
+msgstr ""
+"Vill du beräkna leveransavgiften separat för varje enskild produkt eller "
+"enligt beställning?"
+
+#: includes/main-functions.php:1092
+#, php-format
+msgid ""
+"Enter your delivery fee per %s. The system will use this to calculate the "
+"delivery fee depending on the distance from your shop to customer location."
+msgstr ""
+"Ange din leveransavgift per %s. Systemet kommer att använda detta för att "
+"beräkna leveransavgiften beroende på avståndet från din butik till kundens "
+"plats."
+
+#: includes/main-functions.php:1093
+msgid "Delivery fee per additional product after the first product."
+msgstr "Leveransavgift per tilläggsprodukt efter den första produkten."
+
+#: includes/main-functions.php:1094
+msgid ""
+"What is the minimum order amount to allow customers to make delivery orders?"
+msgstr "Vad är minsta orderbelopp som tillåter kunder att göra leveransorder?"
+
+#: includes/main-functions.php:1095
+msgid ""
+"Enter values below if you wish to set different delivery fees whenever you "
+"are having a number of processing orders, or set \"Processing Orders\" to 0 "
+"if you do not wish to use different delivery fees."
+msgstr ""
+"Ange värden nedan om du vill ange olika leveransavgifter när du har ett "
+"antal bearbetningsorder, eller ställ in &quot;Bearbetningsorder&quot; till 0 "
+"om du inte vill använda olika leveransavgifter."
+
+#: includes/main-functions.php:1096
+msgid ""
+"How many processing orders you should be having before using these delivery "
+"fees on new orders?"
+msgstr ""
+"Hur många behandlingsorder ska du ha innan du använder dessa "
+"leveransavgifter på nya order?"
+
+#: includes/main-functions.php:1097
+msgid "Add a notice or announcement on your shop page."
+msgstr "Lägg till ett meddelande eller ett meddelande på din butikssida."
+
+#: includes/main-functions.php:1098
+msgid ""
+"If you have accounts on social media you can add their links here. Social "
+"icons will appear on your shop page header."
+msgstr ""
+"Om du har konton på sociala medier kan du lägga till länkarna här. Sociala "
+"ikoner kommer att visas på din sidans sidhuvud."
+
+#: includes/main-functions.php:1099
+msgid ""
+"The system will use these timing settings to open or close your shop "
+"automatically every day. However, you can at any time manually set your shop "
+"to opened (online) or closed (offline) by clicking on the shop icon in the "
+"top bar."
+msgstr ""
+"Systemet använder dessa tidsinställningar för att automatiskt öppna eller "
+"stänga din butik varje dag. Du kan dock när som helst manuellt ställa in din "
+"butik (online) eller stängt (offline) genom att klicka på butiksikonen i "
+"toppraden."
+
+#: includes/main-functions.php:1100
+msgid ""
+"Click open if your shop will open in this day, and enter the opening and "
+"closing timings. Please note here that the opening and closing timings must "
+"be within the same day. i.e if your shop will open from (08:00 pm) till "
+"(02:00 am) which means it will close at the next day, you should set the "
+"timing for today from 08:00 pm (20:00) till 11:59 pm (23:59) and set the "
+"remaining two hours in the \"First Shift\" timing fields of the next day."
+msgstr ""
+"Klicka på Öppna om din butik öppnas idag och ange öppnings- och "
+"stängningstiderna. Observera här att öppnings- och stängningstiderna måste "
+"vara inom samma dag. det vill säga om din butik kommer att öppnas från kl "
+"08:00 till kl 02:00 vilket innebär att det stänger nästa dag bör du ställa "
+"in tiden för idag från kl 20:00 till kl. 59: 00 (23:59) och ställa in de "
+"återstående två timmarna i &quot;First Shift&quot; -fältet nästa dag."
+
+#: includes/main-functions.php:1101 includes/main-functions.php:1247
+msgid ""
+"If your browser does not support the \"time\" inputs please enter the time "
+"in 24 hour format like: 16:20"
+msgstr ""
+"Om din webbläsare inte stöder &quot;tidsinmatningarna&quot; anger du tiden i "
+"24-timmarsformat som: 16:20"
+
+#: includes/main-functions.php:1102
+msgid ""
+"Do you close on national holidays or some special events? if yes, please "
+"enter days when you will not be available."
+msgstr ""
+"Stänger du på nationella helgdagar eller några speciella evenemang? Om ja, "
+"var god ange dagar när du inte kommer att vara tillgänglig."
+
+#: includes/main-functions.php:1103
+msgid "Details here are used in withdrawal requests."
+msgstr "Detaljerna här används i uttagsförfrågningar."
+
+#: includes/main-functions.php:1104
+msgid ""
+"All products available on your online shop are listed here. By default, "
+"products are marked as \"online\" after posting them which means they are "
+"visible on your shop page."
+msgstr ""
+"Alla produkter som finns tillgängliga på din webbutik finns här. Produkterna "
+"är som standard märkta som &quot;online&quot; efter att de har skickats in, "
+"vilket betyder att de är synliga på din butikssida."
+
+#: includes/main-functions.php:1105
+msgid ""
+"Describe this product in few words. This will appear in the product full "
+"page."
+msgstr ""
+"Beskriv denna produkt med få ord. Detta kommer att visas på produktens hela "
+"sida."
+
+#: includes/main-functions.php:1106
+msgid ""
+"Type the categories this product belongs to, hit the comma button on your "
+"keyboard after typing each category name or click on the category name if "
+"appeared in the predictions list. The system will use the products "
+"categories to group products on your shop page."
+msgstr ""
+"Skriv kategorierna som den här produkten tillhör, tryck på kommatecken på "
+"tangentbordet efter att ha skrivit varje kategorinamn eller klicka på "
+"kategorinamnet om det förekommer i prognoslistan. Systemet kommer att "
+"använda produktkategorierna för att gruppera produkter på din butikssida."
+
+#: includes/main-functions.php:1107
+msgid ""
+"Select the menu that includes this product. press ‘ctrl’ on your keyboard "
+"and click to select multiple menus."
+msgstr ""
+"Välj menyn som innehåller den här produkten. tryck på &#39;ctrl&#39; på "
+"tangentbordet och klicka för att välja flera menyer."
+
+#: includes/main-functions.php:1108
+msgid ""
+"Type the main ingredients of the product so customers can see them before "
+"ordering. This information helps avoiding complains and bad reviews. Hit the "
+"comma button after typing each ingredient or select from the predictions "
+"list."
+msgstr ""
+"Skriv huvudingredienserna i produkten så att kunderna kan se dem innan de "
+"beställer. Denna information hjälper till att undvika klagomål och dåliga "
+"recensioner. Håll kommandoknappen efter att ha skrivit varje ingrediens "
+"eller välj från listan över förutsägelser."
+
+#: includes/main-functions.php:1109
+msgid ""
+"Enter the time required to prepare/handle this product for delivery, pickup, "
+"dine-in, and curbside. Leave 0 for immediately."
+msgstr ""
+"Ange den tid som krävs för att förbereda / hantera denna produkt för "
+"leverans, hämtning, inmatning och curbside. Lämna 0 för omedelbart."
+
+#: includes/main-functions.php:1110
+msgid ""
+"The maximum numbers of orders that can be made for this product each day. "
+"leave 0 for unlimited number of orders."
+msgstr ""
+"Det högsta antalet beställningar som kan göras för denna produkt varje dag. "
+"lämna 0 för obegränsat antal order."
+
+#: includes/main-functions.php:1111
+msgid ""
+"A complete description on the product. This will appear in the product's "
+"full page."
+msgstr ""
+"En fullständig beskrivning på produkten. Detta kommer att visas på "
+"produktens hela sida."
+
+#: includes/main-functions.php:1112
+msgid ""
+"Check this box if the product is available in different sizes, flavors ..."
+"etc or comes with different add-ons, drinks or side items."
+msgstr ""
+"Markera den här rutan om produkten finns i olika storlekar, smaker ... etc "
+"eller levereras med olika tillägg, drycker eller sidobor."
+
+#: includes/main-functions.php:1113
+msgid "This variation can be edited from the admin side only."
+msgstr "Denna variant kan bara redigeras från admin-sidan."
+
+#: includes/main-functions.php:1114
+msgid ""
+"Name of the variation family. i.e: Select Size, Choose Flavor, Choose a "
+"Drink, ...etc"
+msgstr ""
+"Namn på variationsfamiljen. dvs: Välj storlek, Välj smak, Välj en dryck, ... "
+"etc"
+
+#: includes/main-functions.php:1115
+msgid ""
+"Values of the variation family. i.e: if \"choose of protein\" was the "
+"variation name, then the values could be: pork | beef | chicken. Please "
+"separate the values by |"
+msgstr ""
+"Värden för variationsfamiljen. dvs: om &quot;välj protein&quot; var "
+"variationsnamnet, så kan värdena vara: fläsk | nötkött | kyckling. Separera "
+"värdena med |"
+
+#: includes/main-functions.php:1116
+msgid ""
+"Describe this variation in few words. i.e: Explain what the customer will "
+"get when choosing this option or how this option is different from other "
+"options."
+msgstr ""
+"Beskriv denna variation med få ord. dvs: Förklara vad kunden kommer att få "
+"när du väljer det här alternativet eller hur det här alternativet skiljer "
+"sig från andra alternativ."
+
+#: includes/main-functions.php:1117
+msgid ""
+"Specify the quantity the customer MUST buy to benefit from this promotion. "
+"Please note here that the customer must buy the exact quantity, no more, no "
+"less."
+msgstr ""
+"Ange vilken kvantitet kunden måste köpa för att dra nytta av den här "
+"kampanjen. Observera här att kunden måste köpa den exakta kvantiteten, inte "
+"mer, inte mindre."
+
+#: includes/main-functions.php:1118
+msgid ""
+"This indicates the promotion type. If a free product is selected the product "
+"will be added as a detail under the main product after the customer make a "
+"purchase and not as a separated cart product."
+msgstr ""
+"Detta indikerar kampanjtypen. Om en fri produkt väljs kommer produkten att "
+"läggas till som en detalj under huvudprodukten efter att kunden gör ett köp "
+"och inte som en separat produkt."
+
+#: includes/main-functions.php:1119
+msgid ""
+"Specify the discount amount in percentage to deduct from the main product "
+"price."
+msgstr "Ange rabattbeloppet i procent för att dra av från huvudproduktpriset."
+
+#: includes/main-functions.php:1120
+msgid "Select the free product the customer will get from this promotion."
+msgstr ""
+"Välj den fria produkten som kunden kommer att få från den här kampanjen."
+
+#: includes/main-functions.php:1121
+msgid ""
+"The \"Up-sell Products\" are those products that you recommend to the "
+"customer instead of the currently viewed product. i.e: You can select some "
+"products that have a discount price or newly added products or products that "
+"have promotions. This is useful to convince your customers to test other "
+"products that have low sales."
+msgstr ""
+"&quot;Up-sell Products&quot; är de produkter som du rekommenderar till "
+"kunden istället för den aktuella produkten. dvs: Du kan välja vissa "
+"produkter som har rabatterat pris eller nya produkter eller produkter som "
+"har kampanjer. Det här är användbart för att övertyga dina kunder om att "
+"testa andra produkter med låg försäljning."
+
+#: includes/main-functions.php:1122
+msgid ""
+"The \"Cross-sell Products\" are those products that you promote to customers "
+"when they are viewing their shopping cart. You can add products that you "
+"would wish your customers to buy when they have bought this product."
+msgstr ""
+"&quot;Cross-sell Products&quot; är de produkter som du marknadsför för "
+"kunder när de tittar på sin kundvagn. Du kan lägga till produkter som du "
+"önskar att dina kunder ska köpa när de har köpt den här produkten."
+
+#: includes/main-functions.php:1123
+msgid ""
+"All users registered as \"seller\" are listed and managed from this page. "
+"This is the main page to activate or deactivate selling privileges for newly "
+"registered vendors unless you have chosen to automatically activate them "
+"from the admin settings. You can also click on the vendor email address to "
+"send them an email message directly from here."
+msgstr ""
+"Alla användare som är registrerade som &quot;säljare&quot; listas och "
+"hanteras från den här sidan. Detta är huvudsidan för att aktivera eller "
+"inaktivera försäljningsrättigheter för nyregistrerade leverantörer om du "
+"inte har valt att automatiskt aktivera dem från "
+"administratörsinställningarna. Du kan också klicka på leverantörens e-"
+"postadress för att skicka dem ett e-postmeddelande direkt härifrån."
+
+#: includes/main-functions.php:1124
+msgid ""
+"When a vendor selling privileges is deactivated, their shop page and "
+"products will be hidden from customers but not deleted. Yet previous and "
+"current orders will still appear to customers but the vendor will no longer "
+"be able to manage or process them. To completely remove a vendor and his "
+"products, delete the vendor (user) from the \"users page\" in the WordPress "
+"admin."
+msgstr ""
+"När en säljare som säljer privilegier är inaktiverad kommer deras butikssida "
+"och produkter att döljas från kunder men inte raderas. Ändå kommer tidigare "
+"och nuvarande order fortfarande att visas för kunder, men säljaren kommer "
+"inte längre att kunna hantera eller bearbeta dem. För att helt ta bort en "
+"säljare och hans produkter, ta bort säljaren (användaren) från &quot;"
+"användarsidan&quot; i WordPress-administratören."
+
+#: includes/main-functions.php:1125
+msgid ""
+"This will send an email message using your admin email address as sender."
+msgstr ""
+"Detta skickar ett e-postmeddelande med din administratörs e-postadress som "
+"avsändare."
+
+#: includes/main-functions.php:1126
+msgid "The minimum amount of the order to make a delivery order."
+msgstr "Minsta mängd order att göra en leveransorder."
+
+#: includes/main-functions.php:1127
+msgid ""
+"When customer adds more than one of your products to cart, the system will "
+"calculate the preparation time for the order by getting the longest product "
+"preparation time multiplied by a percentage of the preparation time of other "
+"products. i.e. if you set 25, and customer has added two of your products, "
+"one has 15 mins and the second have 7 mins preparation time, the total "
+"preparation time for the order will be 17 mins"
+msgstr ""
+"När kunden lägger till mer än en av dina produkter i kundvagnen, beräknar "
+"systemet beredningstiden för ordern genom att få den längsta "
+"produktförberedelsestiden multiplicerad med en procentandel av "
+"beredningstiden för andra produkter. det vill säga om du ställer in 25 och "
+"kunden har lagt till två av dina produkter, en har 15 minuter och den andra "
+"har 7 minuters förberedelsestid, blir den totala förberedelsestiden för "
+"beställningen 17 minuter"
+
+#: includes/main-functions.php:1130
+msgid ""
+"Here you can get statistics info of your vendors sales. By default, you will "
+"see results for all vendors, but you can select to see results for an "
+"individual vendor as well. The results table is set by default to show sales "
+"for today, but you can see results for different periods as well. You can "
+"also click the print button if you wish to print the current results."
+msgstr ""
+"Här kan du få statistikinformation om försäljarens försäljning. Som standard "
+"ser du resultat för alla leverantörer, men du kan också välja att se "
+"resultat för en enskild leverantör. Resultattabellen är som standard för att "
+"visa försäljning för idag, men du kan även se resultat för olika perioder. "
+"Du kan också klicka på utskriftsknappen om du vill skriva ut aktuella "
+"resultat."
+
+#: includes/main-functions.php:1131
+msgid ""
+"This will show you a general count of all orders made on your website "
+"grouped by order status. You can click on the status title to navigate to "
+"the respective orders page."
+msgstr ""
+"Detta kommer att visa dig en allmän räkning av alla beställningar som gjorts "
+"på din webbplats grupperade efter orderstatus. Du kan klicka på statustiteln "
+"för att navigera till respektive ordersida."
+
+#: includes/main-functions.php:1132
+msgid ""
+"Here you can get information on products having the most sales on your "
+"website."
+msgstr ""
+"Här kan du få information om produkter som har mest försäljning på din "
+"webbplats."
+
+#: includes/main-functions.php:1133
+msgid ""
+"This is the main page to monitor your vendors incoming orders. Orders are "
+"listed from oldest to newest. Whenever you are in this page, the system will "
+"automatically update the orders list every minute. By default, you are only "
+"supposed to monitor and remind your vendors if some orders are taking too "
+"long to process. In addition of managing \"on-hold orders\" which are still "
+"not paid."
+msgstr ""
+"Detta är huvudsidan för att övervaka dina leverantörers inkommande order. "
+"Beställningar listas från äldsta till nyaste. När du är på den här sidan "
+"uppdaterar systemet automatiskt orderlistan varje minut. Som standard ska du "
+"bara övervaka och påminna dina leverantörer om vissa order tar för lång tid "
+"att bearbeta. Förutom att hantera &quot;on-hold orders&quot; som fortfarande "
+"inte betalas."
+
+#: includes/main-functions.php:1134
+msgid ""
+"Vendors can create discount coupons to increase sales and drive traffic on "
+"their products or reward some customers. As an admin you will not be able to "
+"add coupons but only view existing ones and edit or delete them."
+msgstr ""
+"Leverantörer kan skapa rabattkuponger för att öka försäljningen och driva "
+"trafik på sina produkter eller belöna vissa kunder. Som administratör kan du "
+"inte lägga till kuponger utan bara visa befintliga och redigera eller ta "
+"bort dem."
+
+#: includes/main-functions.php:1139 includes/main-functions.php:1332
+msgid "Click for more info..."
+msgstr "Klicka för mer info ..."
+
+#: includes/main-functions.php:1184
+msgid "ERROR:"
+msgstr "FEL:"
+
+#: includes/main-functions.php:1186
+msgid "Something went wrong"
+msgstr "Något gick fel"
+
+#: includes/main-functions.php:1201
+msgid "Vendors"
+msgstr "Försäljare"
+
+#: includes/main-functions.php:1245
+msgid "Choose a time between"
+msgstr "Välj en tid mellan"
+
+#: includes/main-functions.php:1247
+msgid "Select the time to start preparing/handling this order."
+msgstr "Välj tid för att börja förbereda / hantera denna order."
+
+#: includes/print-functions.php:39
+msgid ""
+"Net profit from completed orders after all sellers commissions are paid."
+msgstr ""
+"Nettovinst från slutförda beställningar efter att alla säljarens provisioner "
+"har betalats."
+
+#: includes/print-functions.php:39
+msgid "Net of any withdrawals made during this period."
+msgstr "Netto av eventuella uttag gjorda under denna period."
+
+#: includes/print-functions.php:43
+msgid "All Time:"
+msgstr "Hela tiden:"
+
+#: includes/print-functions.php:46
+msgid "Today:"
+msgstr "I dag:"
+
+#: includes/print-functions.php:49
+msgid "This Week:"
+msgstr "Denna vecka:"
+
+#: includes/print-functions.php:52
+msgid "This Month:"
+msgstr "Den här månaden:"
+
+#: includes/print-functions.php:58
+msgid "This Year:"
+msgstr "Det här året:"
+
+#: includes/print-functions.php:73
+msgid "General Summary Report"
+msgstr "Allmän sammanfattningsrapport"
+
+#: includes/print-functions.php:73
+msgid "Beta"
+msgstr "Beta"
+
+#: includes/print-functions.php:79
+msgid "Vendor:"
+msgstr "Säljare:"
+
+#: includes/print-functions.php:80
+#: templates/views/html-dashboard-orders-single-customer_details.php:35
+msgid "Address:"
+msgstr "Adress:"
+
+#: includes/print-functions.php:99
+msgid "This seller has not set up this type of address yet."
+msgstr "Den här säljaren har inte konfigurerat den här typen av adress än."
+
+#: includes/print-functions.php:101
+msgid "You have not set up this type of address yet."
+msgstr "Du har inte skapat denna typ av adress ännu."
+
+#: includes/print-functions.php:108
+msgid "The Report is based on all sellers activity."
+msgstr "Rapporten är baserad på all säljareaktivitet."
+
+#: includes/print-functions.php:111
+msgid "Period:"
+msgstr "Period:"
+
+#: includes/print-functions.php:120
+msgid "Income Summary to Earnings Account"
+msgstr "Inkomst Sammanfattning till vinstkonto"
+
+#: includes/print-functions.php:127
+msgid "Total Orders:"
+msgstr "Totala beställningar:"
+
+#: includes/print-functions.php:132
+msgid "Total \"Pending\" Orders:"
+msgstr "Totalt antal &quot;väntar&quot; beställningar:"
+
+#: includes/print-functions.php:136
+msgid "Total \"Processing\" Orders:"
+msgstr "Totalt antal &quot;bearbetning&quot; beställningar:"
+
+#: includes/print-functions.php:140
+msgid "Total \"on-hold\" Orders:"
+msgstr "Totalt antal på beställningar:"
+
+#: includes/print-functions.php:144
+msgid "Total \"Cancelled\" Orders:"
+msgstr "Totalt antal &quot;Avbeställda&quot; beställningar:"
+
+#: includes/print-functions.php:148
+msgid "Total refunded Orders:"
+msgstr "Totalt återbetalade beställningar:"
+
+#: includes/print-functions.php:153
+msgid "Total Coupons Usage:"
+msgstr "Totalt antal kuponger:"
+
+#: includes/print-functions.php:165
+#: templates/views/html-dashboard-orders-list.php:20
+#: templates/views/html-dashboard-orders-single-items.php:21
+msgid "Total"
+msgstr "Totalt"
+
+#: includes/print-functions.php:165
+#: templates/views/html-dashboard-home-totals-table.php:27
+msgid "Fees"
+msgstr "avgifter"
+
+#: includes/print-functions.php:165
+#: templates/views/html-dashboard-home-totals-table.php:27
+msgid "Seller Fees"
+msgstr "Säljaren Avgifter"
+
+#: includes/print-functions.php:173
+msgid "Total:"
+msgstr "Totalt:"
+
+#: includes/print-functions.php:176
+msgid "Total Withdrawals:"
+msgstr "Summa uttag:"
+
+#: includes/print-functions.php:177
+msgid "Actual Balance in Account:"
+msgstr "Faktisk balans i konto:"
+
+#: includes/print-functions.php:177
+msgid "- Exclusive of Tax"
+msgstr "- Exklusive Skatt"
+
+#: includes/print-functions.php:187
+msgid "Profits are only gained from completed orders."
+msgstr "Vinster erhålls endast från slutförda order."
+
+#: includes/print-functions.php:196
+msgid "Summary Sales Report."
+msgstr "Sammanfattningsförsäljningsrapport."
+
+#: includes/print-functions.php:328
+#: templates/views/html-dashboard-orders-list-row_actions.php:28
+msgid "Print"
+msgstr "Skriv ut"
+
+#: installer.php:71
+msgid "Seller"
+msgstr "Säljare"
+
+#: installer.php:168 installer.php:200
+msgid ""
+"Norsani highly depends on WooCommrce plugin which could not be automatically "
+"activated. Please activate WooCommerce manually and try again."
+msgstr ""
+"Norsani beror mycket på WooCommrce-plugin som inte automatiskt kunde "
+"aktiveras. Vänligen aktivera WooCommerce manuellt och försök igen."
+
+#: installer.php:169 installer.php:180 installer.php:194 installer.php:201
+msgid "Norsani Install Error"
+msgstr "Norsani Installationsfel"
+
+#: installer.php:179
+msgid ""
+"Norsani highly depends on the 'WooCommrce' plugin which we couldn't "
+"automatically install and activate. Please install and activate "
+"'WooCommerce' manually and try again."
+msgstr ""
+"Norsani beror mycket på pluginprogrammet &quot;WooCommrce&quot; som vi inte "
+"automatiskt skulle kunna installera och aktivera. Installera och aktivera "
+"&quot;WooCommerce&quot; manuellt och försök igen."
+
+#: installer.php:193
+msgid ""
+"Norsani highly depends on WooCommrce plugin which could not be automatically "
+"installed and activated. Please install and actiavte WooCommerce manually "
+"and try again."
+msgstr ""
+"Norsani beror mycket på WooCommrce-plugin som inte automatiskt kan "
+"installeras och aktiveras. Vänligen installera och actiavte WooCommerce "
+"manuellt och försök igen."
+
+#: installer.php:256 installer.php:272 installer.php:289
+msgid ""
+"This page is used by Norsani. You can freely change this text but please do "
+"NOT delete the page."
+msgstr ""
+"Den här sidan används av Norsani. Du kan fritt ändra texten, men ta bort "
+"inte sidan."
+
+#: norsani-options.php:14 norsani-options.php:15 norsani-options.php:38
+msgid "Norsani Settings"
+msgstr "Norsani Inställningar"
+
+#: norsani-options.php:19
+msgid "Vendors Addresses"
+msgstr "Leverantörsadresser"
+
+#: norsani-options.php:20
+msgid "Vendors Tags"
+msgstr "Leverantörer Taggar"
+
+#: norsani-options.php:21
+msgid "Help"
+msgstr "Hjälp"
+
+#: norsani-options.php:21 norsani-options.php:42
+msgid "Norsani Help Center"
+msgstr "Norsani Hjälpcenter"
+
+#: norsani-options.php:32
+msgid "Thank you for activating a Norsani theme."
+msgstr "Tack för att du aktiverat ett Norsani-tema."
+
+#: norsani-options.php:34
+msgid "Thank you for installing a Norsani theme."
+msgstr "Tack för att du installerat ett Norsani-tema."
+
+#: norsani-options.php:38
+#, php-format
+msgid ""
+"Norsani was installed successfully. You are almost ready to start your "
+"business. To completely become ready, please go through %1$s, and if you "
+"have not yet setup WooCommerce, please run the %2$s"
+msgstr ""
+"Norsani installerades med framgång. Du är nästan redo att starta din "
+"verksamhet. För att bli helt redo, gå igenom%1$s, och om du ännu inte har "
+"installerat WooCommerce, kör du%2$s"
+
+#: norsani-options.php:38
+msgid "WooCommerce setup wizard"
+msgstr "WooCommerce installationsguiden"
+
+#: norsani-options.php:47
+msgid "Questions & Answers."
+msgstr "Frågor."
+
+#: norsani-options.php:49
+msgid "Suggest a Question"
+msgstr "Föreslå en fråga"
+
+#: norsani-options.php:50
+msgid "Didn't find your question? Send it to us as a suggestion to add it."
+msgstr ""
+"Hittade du inte din fråga? Skicka det till oss som ett förslag att lägga "
+"till det."
+
+#: norsani-options.php:53
+msgid "Type Question Here .."
+msgstr "Skriv fråga här .."
+
+#: norsani-options.php:54 templates/vendors-registration.php:388
+#: templates/views/html-vendor-store_rating.php:42
+msgid "Submit"
+msgstr "Skicka"
+
+#: norsani-options.php:66
+msgid "Vendor registration page was not found"
+msgstr "Registreringssida för leverantör kunde inte hittas"
+
+#: norsani-options.php:67
+msgid "Vendors list page was not found"
+msgstr "Listan med leverantörer listades inte"
+
+#: norsani-options.php:68
+msgid "Sellers page in Admin's dashboard was not found"
+msgstr "Säljare sida i administratörens instrumentpanel kunde inte hittas"
+
+#: norsani-options.php:84
+msgid ""
+"Your current theme dose not support Norsani. Please Install and Activate a "
+"theme that support Norsani."
+msgstr ""
+"Din nuvarande temaldos stödjer inte Norsani. Vänligen installera och "
+"aktivera ett tema som stöder Norsani."
+
+#: norsani-options.php:90
+msgid "Please enter your Google API Key"
+msgstr "Ange din Google API-nyckel"
+
+#: norsani-options.php:97
+msgid "Set Key"
+msgstr "Ställ in nyckeln"
+
+#: norsani-options.php:97
+msgid "Fix"
+msgstr "Fixera"
+
+#: norsani-options.php:102
+msgid "No errors found"
+msgstr "Inga fel hittades"
+
+#: norsani-options.php:112
+msgid "Install the demo data with just one click."
+msgstr "Installera demodata med bara ett klick."
+
+#: norsani-options.php:113
+msgid "Install Demo Data"
+msgstr "Installera Demo Data"
+
+#: norsani-options.php:119
+msgid "Contact Support"
+msgstr "Kontakta supporten"
+
+#: norsani-options.php:119
+msgid ""
+"Contact our support team and get replies to your questions right from here."
+msgstr "Kontakta vårt supportteam och få svar på dina frågor direkt härifrån."
+
+#: norsani-options.php:120
+msgid ""
+"If you are reporting a problem please answer the following questions in your "
+"message to help us address your problem as quickly as possible."
+msgstr ""
+"Om du rapporterar ett problem kan du svara på följande frågor i ditt "
+"meddelande för att hjälpa oss att lösa ditt problem så fort som möjligt."
+
+#: norsani-options.php:122
+msgid "What is your question or concern?"
+msgstr "Vad är din fråga eller oro?"
+
+#: norsani-options.php:123
+msgid "What steps can we take to reproduce the problem you are experiencing?"
+msgstr "Vilka steg kan vi vidta för att reproducera problemet du upplever?"
+
+#: norsani-options.php:124
+msgid "What is the result you are experiencing when you follow these steps?"
+msgstr "Vad är resultatet du upplever när du följer dessa steg?"
+
+#: norsani-options.php:125
+msgid "What is the result you are expecting?"
+msgstr "Vad är resultatet du förväntar dig?"
+
+#: norsani-options.php:126
+msgid "How does this problem affect your business?"
+msgstr "Hur påverkar detta problem ditt företag?"
+
+#: norsani-options.php:128
+msgid ""
+"Please do not include any sensitive information in this form or in any "
+"subsequent case communications. (e.g. Password, credit card number, Social "
+"Security Number)"
+msgstr ""
+"Var god inte inkludera känslig information i detta formulär eller i något "
+"senare fall kommunikation. (t.ex. lösenord, kreditkortsnummer, personnummer)"
+
+#: norsani-options.php:133
+msgid "Type message here .."
+msgstr "Skriv meddelandet här .."
+
+#: norsani-options.php:232
+msgid "Please check your internet connection."
+msgstr "Kontrollera din internetanslutning."
+
+#: norsani-options.php:262
+#: templates/views/html-dashboard-vendor-settings_form.php:49
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+#: norsani-options.php:268
+#: templates/views/html-dashboard-vendor-settings_form.php:53
+msgid "Orders Settings"
+msgstr "Orderinställningar"
+
+#: norsani-options.php:274
+msgid "Distances calculation"
+msgstr "Avståndsberäkning"
+
+#: norsani-options.php:280
+msgid "Vendor Money Withdrawals Settings"
+msgstr "Återbetalningsinställningar för säljare"
+
+#: norsani-options.php:286
+msgid "General options"
+msgstr "Allmänna alternativ"
+
+#: norsani-options.php:292
+msgid "Vendor Fees"
+msgstr "Leverantörsavgifter"
+
+#: norsani-options.php:298
+msgid "Terms & Conditions"
+msgstr "Användarvillkor"
+
+#: norsani-options.php:305
+msgid "Google API Key"
+msgstr "Google API-nyckel"
+
+#: norsani-options.php:312
+msgid "Active Vendor Types"
+msgstr "Aktiva leverantörstyper"
+
+#: norsani-options.php:319
+msgid "Selling privileges"
+msgstr "Försäljning av privilegier"
+
+#: norsani-options.php:326
+msgid "Vendor store timing"
+msgstr "Leverantörens timing"
+
+#: norsani-options.php:340
+msgid "Featured Products."
+msgstr "Utvalda Produkter."
+
+#: norsani-options.php:347
+msgid "Featured Vendors."
+msgstr "Utvalda leverantörer."
+
+#: norsani-options.php:355 templates/vendors-registration.php:201
+#: templates/views/html-dashboard-vendor-settings_form.php:169
+msgid "Accepted orders"
+msgstr "Godkända order"
+
+#: norsani-options.php:361
+msgid "Accepted orders when vendor's store is closed"
+msgstr "Godkända order när leverantörens butik är stängd"
+
+#: norsani-options.php:369
+msgid "The mode of transport to use when calculating delivery timing."
+msgstr ""
+"Det transportsätt som ska användas vid beräkning av leveranstidpunkten."
+
+#: norsani-options.php:375
+msgid "The unit system to use when displaying delivery timing."
+msgstr "Enhetssystemet som ska användas vid visning av leveranstid."
+
+#: norsani-options.php:381
+msgid "Avoid highways"
+msgstr "Undvik motorvägar"
+
+#: norsani-options.php:387
+msgid "Non-toll routes"
+msgstr "Icke-vägtullar"
+
+#: norsani-options.php:395
+msgid "Automatic Withdrawals"
+msgstr "Automatiska uttag"
+
+#: norsani-options.php:401
+msgid "Paypal REST API App Client ID"
+msgstr "Paypal REST API App Client ID"
+
+#: norsani-options.php:407
+msgid "Paypal REST API App Secret."
+msgstr "Paypal REST API App Secret."
+
+#: norsani-options.php:413
+msgid "The minimum vendor balance to make a withdrawal request."
+msgstr "Minsta leverantörsbalans för att göra en begäran om återkallelse."
+
+#: norsani-options.php:419
+msgid "Withdrawal Methods."
+msgstr "Återtagningsmetoder."
+
+#: norsani-options.php:425
+msgid "Withdrawal Requests Status."
+msgstr "Återkallande begäran Status."
+
+#: norsani-options.php:433
+msgid "Cash on delivery fees"
+msgstr "Kassa på leveransavgifter"
+
+#: norsani-options.php:448
+msgid "Terms of Service for Sellers"
+msgstr "Användarvillkor för säljare"
+
+#: norsani-options.php:492
+msgid "Automatically enable selling after vendor registration?"
+msgstr "Aktivera automatiskt försäljningen efter leverantörsregistrering?"
+
+#: norsani-options.php:503
+msgid "Use manual status change?"
+msgstr "Använd manuell statusändring?"
+
+#: norsani-options.php:510
+msgid "Time to wait when no activity"
+msgstr "Tiden att vänta när ingen aktivitet"
+
+#: norsani-options.php:575
+msgid "Automatically create withdrawal requests"
+msgstr "Skapa automatiskt återkallningsförfrågningar"
+
+#: norsani-options.php:630 norsani-options.php:643
+msgid "Pick-up"
+msgstr "Hämtas"
+
+#: norsani-options.php:658
+msgid "Driving"
+msgstr "Kör med bil"
+
+#: norsani-options.php:659
+msgid "Bicycling"
+msgstr "Cykla"
+
+#: norsani-options.php:660
+msgid "Walking"
+msgstr "Går"
+
+#: norsani-options.php:669
+msgid "Kilometers"
+msgstr "Kilometer"
+
+#: norsani-options.php:670
+msgid "Miles"
+msgstr "Miles"
+
+#: norsani-options.php:680
+msgid "Calculate driving timing with avoiding highways where possible."
+msgstr "Beräkna körtidpunkten med att undvika motorvägar där det är möjligt."
+
+#: norsani-options.php:689
+msgid ""
+"Calculate delivery timing between points using non-toll routes, wherever "
+"possible."
+msgstr ""
+"Beräkna leveranstidpunkten mellan punkter som använder icke-vägtrafikvägar, "
+"om möjligt."
+
+#: norsani-options.php:698
+msgid "Do not deduct fees from vendor balance"
+msgstr "Dra inte av avgifter från leverantörsbalans"
+
+#: norsani-options.php:700
+msgid ""
+"ONLY check this if you will be responsible of the delivery service and "
+"reciving the total order amount."
+msgstr ""
+"KONTROLLERA detta endast om du kommer att ansvara för leveransservice och "
+"återta det totala orderbeloppet."
+
+#: norsani-options.php:709
+msgid "Order total and delivery"
+msgstr "Beställning totalt och leverans"
+
+#: norsani-options.php:710
+msgid "Only on order total"
+msgstr "Endast på order totalt"
+
+#: norsani-options.php:711
+msgid "Only on order delivery"
+msgstr "Endast vid orderleverans"
+
+#: norsani-options.php:719 norsani-options.php:790
+msgid "Fee&nbsp;Name"
+msgstr "Avgift Namn"
+
+#: norsani-options.php:720
+msgid "Customers Effected"
+msgstr "Kunder Effected"
+
+#: norsani-options.php:721
+msgid "Vendors Effected"
+msgstr "Leverantörer Effected"
+
+#: norsani-options.php:722
+msgid "Fee Rate"
+msgstr "Avgiftshastighet"
+
+#: norsani-options.php:723 norsani-options.php:789
+msgid "Payment Method"
+msgstr "Betalningsmetod"
+
+#: norsani-options.php:724
+msgid "Applied on"
+msgstr "Tillämpad på"
+
+#: norsani-options.php:725
+msgid "Action"
+msgstr "Åtgärd"
+
+#: norsani-options.php:758
+msgid "You do not charge sellers any fees."
+msgstr "Du debiterar inte säljare några avgifter."
+
+#: norsani-options.php:759
+msgid "Add New Rule"
+msgstr "Lägg till ny regel"
+
+#: norsani-options.php:767
+msgid "Any payment gateway"
+msgstr "Varje betalnings gateway"
+
+#: norsani-options.php:782 norsani-options.php:784
+msgid "Apply this fee on"
+msgstr "Ansök denna avgift på"
+
+#: norsani-options.php:783 norsani-options.php:797
+msgid "Select Customers"
+msgstr "Välj kunder"
+
+#: norsani-options.php:785 norsani-options.php:802
+msgid "Select Vendors"
+msgstr "Välj leverantörer"
+
+#: norsani-options.php:786
+msgid "Order Sub-Total"
+msgstr "Beställningens totala kostnad"
+
+#: norsani-options.php:787
+msgid "Apply this rule on"
+msgstr "Tillämpa denna regel på"
+
+#: norsani-options.php:788
+msgid "Rate&nbsp;%"
+msgstr "Betygsätta %"
+
+#: norsani-options.php:791
+msgid "Fee Description"
+msgstr "Beskrivning avgift"
+
+#: norsani-options.php:795
+msgid "All Customers"
+msgstr "Alla kunder"
+
+#: norsani-options.php:796
+msgid "All Customers, Except..."
+msgstr "Alla kunder, förutom ..."
+
+#: norsani-options.php:800
+msgid "All Vendors"
+msgstr "Alla Säljare"
+
+#: norsani-options.php:801
+msgid "All Vendors, Except..."
+msgstr "Alla leverantörer, utom ..."
+
+#: norsani-options.php:805
+msgid "Order Total and Delivery"
+msgstr "Beställ Totalt och Leverans"
+
+#: norsani-options.php:806
+msgid "Only on Order Total"
+msgstr "Endast på Order Total"
+
+#: norsani-options.php:807
+msgid "Only on Order Delivery"
+msgstr "Endast på beställningsleverans"
+
+#: norsani-options.php:810
+msgid "Plus"
+msgstr "Plus"
+
+#: norsani-options.php:811
+msgid "Minus"
+msgstr "Minus"
+
+#: norsani-options.php:812
+msgid "Multiply"
+msgstr "Multiplicera"
+
+#: norsani-options.php:841 templates/vendors-registration.php:386
+msgid "Back"
+msgstr "Tillbaka"
+
+#: norsani-options.php:895 templates/vendors-registration.php:73
+msgid "General"
+msgstr "Allmänt"
+
+#: norsani-options.php:897
+msgid "Withdrawals"
+msgstr "uttag"
+
+#: norsani-options.php:898
+msgid "Distances"
+msgstr "Avstånden"
+
+#: norsani-options.php:899
+msgid "Fees/Commission"
+msgstr "Avgifter / Commission"
+
+#: norsani-options.php:900
+msgid "Terms of Service"
+msgstr "Köpvillkor"
+
+#: templates/emails/plain/vendor-message.php:18
+#: templates/emails/vendor-message.php:17
+msgid "Sender Name"
+msgstr "Avsändarnamn"
+
+#: templates/emails/plain/vendor-message.php:21
+#: templates/emails/vendor-message.php:20
+msgid "Sender Email"
+msgstr "Skicka e-post"
+
+#: templates/emails/plain/vendor-order-refund.php:18
+#: templates/emails/plain/vendor-rating.php:17
+#: templates/emails/vendor-order-refund.php:17
+#: templates/emails/vendor-rating.php:17
+#, php-format
+msgid "Hello %1$s,"
+msgstr "Hej %1$s,"
+
+#: templates/emails/plain/vendor-order-refund.php:20
+#: templates/emails/vendor-order-refund.php:19
+#, php-format
+msgid ""
+"The order id %1$s, dated %2$s, status has been changed from completed to "
+"%3$s. The order total amount is %4$s."
+msgstr ""
+"Order-id%1$s, daterad%2$s, status har ändrats från fullbordad till%3$s. "
+"Orderens totala belopp är%4$s."
+
+#: templates/emails/plain/vendor-order-refund.php:22
+#: templates/emails/vendor-order-refund.php:20
+#, php-format
+msgid ""
+"Your new balance is %1$s. Please contact us via %2$s if you might need any "
+"clarification."
+msgstr ""
+"Ditt nya saldo är%1$s. Vänligen kontakta oss via%2$s om du kanske behöver "
+"något förtydligande."
+
+#: templates/emails/plain/vendor-rating.php:19
+#, php-format
+msgid ""
+"Your order number %1$s, dated %2$s, has been marked as completed. Please "
+"take few moments and make a review on %3$s by clicking on the following link"
+msgstr ""
+"Ditt beställningsnummer%1$s, daterat%2$s, har markerats som färdigt. "
+"Vänligen ta några ögonblick och gör en recension på%3$s genom att klicka på "
+"följande länk"
+
+#: templates/emails/plain/vendor-status.php:23
+#: templates/emails/vendor-status.php:23
+msgid ""
+"Congratulations of been a part of our community. You can start selling by "
+"posting your products from your dashboard"
+msgstr ""
+"Grattis till att vara en del av vårt samhälle. Du kan börja sälja genom att "
+"skicka dina produkter från din instrumentpanel"
+
+#: templates/emails/plain/vendor-status.php:27
+#: templates/emails/vendor-status.php:27
+msgid ""
+"Your selling privileges status will be activated shortly by one of our "
+"website editors. You will be notified on any updates."
+msgstr ""
+"Din status för försäljningstillstånd aktiveras inom kort av en av våra "
+"webbplatsredaktörer. Du kommer att bli underrättad om eventuella "
+"uppdateringar."
+
+#: templates/emails/plain/vendor-status.php:30
+#: templates/emails/vendor-status.php:30
+msgid "Vendor details:"
+msgstr "Leverantörsinformation:"
+
+#: templates/emails/plain/vendor-status.php:31
+#: templates/emails/vendor-status.php:31
+#: templates/views/html-dashboard-orders-single-customer_details.php:27
+msgid "Email:"
+msgstr "E-post:"
+
+#: templates/emails/plain/vendor-status.php:32
+#: templates/emails/vendor-status.php:32
+msgid "First Name:"
+msgstr "Förnamn:"
+
+#: templates/emails/plain/vendor-status.php:33
+#: templates/emails/vendor-status.php:33
+msgid "Last Name:"
+msgstr "Efternamn:"
+
+#: templates/emails/plain/vendor-status.php:34
+#: templates/emails/vendor-status.php:34
+msgid "Shop Name:"
+msgstr "Butikens namn:"
+
+#: templates/emails/plain/vendor-status.php:35
+#: templates/emails/vendor-status.php:35
+msgid "Shop URL:"
+msgstr "Shop URL:"
+
+#: templates/emails/plain/vendor-status.php:36
+#: templates/emails/vendor-status.php:36
+msgid "Contact Number:"
+msgstr "Kontaktnummer:"
+
+#: templates/emails/plain/vendor-status.php:38
+#: templates/emails/vendor-status.php:38
+#, php-format
+msgid "Manage all vendors from your dashboard sellers page %s"
+msgstr "Hantera alla leverantörer från sidan Dashboard-säljare på sidan %s"
+
+#: templates/emails/plain/vendor-status.php:40
+#: templates/emails/vendor-status.php:40
+#, php-format
+msgid "Activate this vendor&apos;s selling privileges from %s"
+msgstr "Aktivera säljarens försäljningsbehörigheter från %s"
+
+#: templates/emails/plain/vendor-status.php:44
+#: templates/emails/vendor-status.php:45
+msgid ""
+"Your selling privileges has been activated. You can start selling by posting "
+"your products from your dashboard."
+msgstr ""
+"Dina försäljningsbehörigheter har aktiverats. Du kan börja sälja genom att "
+"skicka dina produkter från din instrumentpanel."
+
+#: templates/emails/plain/vendor-status.php:46
+#: templates/emails/vendor-status.php:47
+msgid "Your selling privileges has been deactivated"
+msgstr "Dina försäljningsbehörigheter har avaktiverats"
+
+#: templates/emails/plain/withdraw-status.php:17
+#: templates/emails/withdraw_status.php:17
+#, php-format
+msgid "Hi %1$s,"
+msgstr "Hej%1$s,"
+
+#: templates/emails/plain/withdraw-status.php:21
+#: templates/emails/withdraw_status.php:20
+#, php-format
+msgid ""
+"Your withdrawal request #%1$s, with total amount of %2$s, via %3$s, has been "
+"approved. We will transfer this amount to your preferred destination shortly."
+msgstr ""
+"Din begäran om uttag #%1$s, med totalt antal%2$s, via%3$s, har godkänts. Vi "
+"kommer snart att överföra beloppet till ditt önskade resmål."
+
+#: templates/emails/plain/withdraw-status.php:25
+#: templates/emails/withdraw_status.php:22
+#, php-format
+msgid ""
+"Your withdrawal request #%1$s, with total amount of %2$s, via %3$s, has been "
+"rejected with the following reason: %4$s."
+msgstr ""
+"Din begäran om återkallelse %1$s, med totalt antal %2$s, via %3$s, har "
+"avslagits med följande orsak: %4$s."
+
+#: templates/emails/plain/withdraw-status.php:29
+#: templates/emails/withdraw_status.php:24
+#, php-format
+msgid ""
+"We received your withdrawal request #%1$s, with total amount of %2$s, via "
+"%3$s. We will review your request as soon as possible and get back to you."
+msgstr ""
+"Vi mottog din begäran om uttag #%1$s, med totalt antal%2$s, via%3$s. Vi "
+"kommer att granska din förfrågan så snart som möjligt och komma tillbaka "
+"till dig."
+
+#: templates/emails/plain/withdraw-status.php:33
+#: templates/emails/withdraw_status.php:27
+msgid "Thank you."
+msgstr "Tack."
+
+#: templates/emails/vendor-rating.php:19
+#, php-format
+msgid ""
+"Your order number %1$s, dated %2$s, has been marked as completed. Please "
+"take few moments and make a rating on %3$s by clicking on the following link"
+msgstr ""
+"Ditt beställningsnummer%1$s, daterat%2$s, har markerats som färdigt. "
+"Vänligen ta några ögonblick och gör ett betyg på%3$s genom att klicka på "
+"följande länk"
+
+#: templates/emails/vendor-status.php:43
+#, php-format
+msgid "Hello %s"
+msgstr "Hej %s"
+
+#: templates/orders/html-order-fee.php:18
+msgid "Fee"
+msgstr "Avgift"
+
+#: templates/orders/html-order-item-quick.php:21
+#: templates/orders/html-order-item.php:30
+msgid "Product ID:"
+msgstr "Produkt ID:"
+
+#: templates/orders/html-order-item-quick.php:24
+#: templates/orders/html-order-item-quick.php:26
+#: templates/orders/html-order-item.php:33
+#: templates/orders/html-order-item.php:35
+msgid "Variation ID:"
+msgstr "Variations-ID:"
+
+#: templates/orders/html-order-item-quick.php:26
+#: templates/orders/html-order-item.php:35
+msgid "No longer exists"
+msgstr "Finns inte längre"
+
+#: templates/orders/html-order-item-quick.php:30
+#: templates/orders/html-order-item.php:39
+msgid "Product SKU:"
+msgstr "Produkt SKU:"
+
+#: templates/orders/html-order-refund.php:27
+msgid "Refund"
+msgstr "Återbetalning"
+
+#: templates/orders/html-order-refund.php:30
+msgctxt "Ex: Refund - $date >by< $username"
+msgid "by"
+msgstr "av"
+
+#: templates/orders/html-order-refund.php:30
+msgid "ID: "
+msgstr "ID: "
+
+#: templates/orders/order-details.php:17
+msgid "This is not yours, I swear!"
+msgstr "Det här är inte ditt, jag svär!"
+
+#: templates/orders/order-details.php:25
+msgid "Order items"
+msgstr "Beställa varor"
+
+#: templates/orders/order-details.php:31
+msgid "Customer Details"
+msgstr "Kunddetaljer"
+
+#: templates/orders/order-details.php:35
+msgid "General Details"
+msgstr "Allmänna detljer"
+
+#: templates/orders/order-details.php:41
+msgid "Order Notes"
+msgstr "Ordernoteringar"
+
+#: templates/orders/order-details.php:72
+#, php-format
+msgid "added on %1$s at %2$s"
+msgstr "tillagd på %1$s vid %2$s"
+
+#: templates/orders/order-details.php:73
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: templates/orders/order-details.php:73
+#, php-format
+msgid "by %1$s"
+msgstr "av %1$s"
+
+#: templates/orders/order-details.php:80
+msgid "There are no notes yet."
+msgstr "Det finns inga anteckningar ännu."
+
+#: templates/orders/order-details.php:86
+msgid "Add note"
+msgstr "Lägg till anteckning"
+
+#: templates/orders/order-details.php:92
+msgid "Private note"
+msgstr "Privat notering"
+
+#: templates/orders/order-details.php:93
+msgid "Note to customer"
+msgstr "Anmälan till kunden"
+
+#: templates/orders/order-details.php:95
+msgid "Add"
+msgstr "Lägg till"
+
+#: templates/vendors-registration.php:30
+msgid ""
+"Type first two/three letters and choose from list, if you don't find the "
+"addresses in list or the list does not appear, make sure of the address "
+"spelling."
+msgstr ""
+"Skriv första / tre bokstäverna och välj från listan, om du inte hittar "
+"adresserna i listan eller listan visas inte, kontrollera adressadressen."
+
+#: templates/vendors-registration.php:42
+msgid ""
+"Road/Street names. Type first two/three letters and choose from list, if the "
+"list doesn't appear then complete typing and hit the comma button."
+msgstr ""
+"Väg / gatunamn. Skriv först två / tre bokstäver och välj från listan, om "
+"listan inte visas fyller du i och skriver kommandot."
+
+#: templates/vendors-registration.php:43
+msgid ""
+"Type first two/three letters and choose from list, if the list doesn't "
+"appear, then complete typing normally."
+msgstr ""
+"Skriv först två / tre bokstäver och välj från listan, om listan inte visas, "
+"fyll då på normalt."
+
+#: templates/vendors-registration.php:75 templates/vendors-registration.php:224
+#: templates/views/html-dashboard-vendor-settings_form.php:51
+#: templates/views/html-dashboard-vendor-settings_form.php:127
+msgid "Menus"
+msgstr "Menyer"
+
+#: templates/vendors-registration.php:79
+msgid "Timing"
+msgstr "Timing"
+
+#: templates/vendors-registration.php:95
+#, php-format
+msgid "I Accept %1$s vendor terms of service."
+msgstr "Jag godkänner%1$s leverantörsvillkor."
+
+#: templates/vendors-registration.php:100
+msgid ""
+"Your registration form is under review. You will recieve updates via email."
+msgstr ""
+"Ditt registreringsformulär är under granskning. Du kommer att få "
+"uppdateringar via e-post."
+
+#: templates/vendors-registration.php:103
+#, php-format
+msgid "You are currently logged in as (%1$s)"
+msgstr "Du är för närvarande inloggad som (%1$s)"
+
+#: templates/vendors-registration.php:107
+msgid "Thanks"
+msgstr "Tack"
+
+#: templates/vendors-registration.php:108
+msgid ""
+"We will review your registration information as soon as possible and contact "
+"you via email."
+msgstr ""
+"Vi kommer att granska din registreringsinformation så snart som möjligt och "
+"kontakta dig via e-post."
+
+#: templates/vendors-registration.php:114
+msgid "Let's start"
+msgstr "Låt oss börja"
+
+#: templates/vendors-registration.php:114
+msgid ""
+"Fill out the general information fields here and click next. Keep in mind "
+"that all form fields are important ot fill for a good start, so make sure "
+"you don't miss any one."
+msgstr ""
+"Fyll i de allmänna informationsfälten här och klicka på nästa. Tänk på att "
+"alla formulärfält är viktiga för att du ska få en bra start, så se till att "
+"du inte saknar någon."
+
+#: templates/vendors-registration.php:124
+#: templates/vendors-registration.php:128
+#: templates/views/html-vendor-store_rating.php:24
+msgid "Password"
+msgstr "Lösenord"
+
+#: templates/vendors-registration.php:125
+msgid "Type a strong password"
+msgstr "Skriv ett starkt lösenord"
+
+#: templates/vendors-registration.php:129
+msgid ""
+"Your password will be automatically generated and sent to your email address."
+msgstr "Ditt lösenord genereras automatiskt och skickas till din e-postadress."
+
+#: templates/vendors-registration.php:135
+msgid "First Name"
+msgstr "Förnamn"
+
+#: templates/vendors-registration.php:136
+msgid "Type your first name"
+msgstr "Skriv ditt förnamn"
+
+#: templates/vendors-registration.php:140
+msgid "Last Name"
+msgstr "Efternamn"
+
+#: templates/vendors-registration.php:141
+msgid "Type your Last name"
+msgstr "Skriv ditt efternamn"
+
+#: templates/vendors-registration.php:146
+msgid "Shop Type"
+msgstr "Butikstyp"
+
+#: templates/vendors-registration.php:155
+msgid "Shop Name"
+msgstr "Butikens namn"
+
+#: templates/vendors-registration.php:156
+#: templates/views/html-dashboard-vendor-settings_form.php:75
+msgid "e.g. BOB's Pizza"
+msgstr "t.ex. BIR&#39;s Pizza"
+
+#: templates/vendors-registration.php:160
+#: templates/views/html-dashboard-vendor-settings_form.php:79
+msgid "Contact number"
+msgstr "Telefonnummer"
+
+#: templates/vendors-registration.php:161
+#: templates/views/html-dashboard-vendor-settings_form.php:80
+msgid "e.g. +123 456 789"
+msgstr "t ex +123 456 789"
+
+#: templates/vendors-registration.php:165
+#: templates/views/html-dashboard-vendor-settings_form.php:84
+msgid "Shop address"
+msgstr "Butik adress"
+
+#: templates/vendors-registration.php:167
+msgid "e.g. Seasons Mall, Town Mall"
+msgstr "t.ex. Seasons Mall, Town Mall"
+
+#: templates/vendors-registration.php:172
+#: templates/views/html-dashboard-vendor-settings_form.php:91
+msgid "Shop's location on map"
+msgstr "Butikens läge på kartan"
+
+#: templates/vendors-registration.php:179
+#: templates/views/html-dashboard-vendor-settings_form.php:98
+msgid "Shop's tags"
+msgstr "Butikens taggar"
+
+#: templates/vendors-registration.php:181
+msgid "Separate tags with commas"
+msgstr "Separera etiketter med kommatecken"
+
+#: templates/vendors-registration.php:212
+#: templates/views/html-dashboard-vendor-settings_form.php:185
+msgid "Accepted orders when closed"
+msgstr "Godkända order när stängda"
+
+#: templates/vendors-registration.php:230
+#: templates/views/html-dashboard-vendor-settings_form.php:133
+#: templates/views/html-dashboard-vendor-settings_form.php:146
+msgid "Menu title"
+msgstr "Menyn titel"
+
+#: templates/vendors-registration.php:231
+#: templates/views/html-dashboard-vendor-settings_form.php:134
+#: templates/views/html-dashboard-vendor-settings_form.php:147
+msgid "Meal Type. ie. Breakfast, Lunch & Dinner"
+msgstr "Måltyp. dvs. Frukost lunch middag"
+
+#: templates/vendors-registration.php:233
+#: templates/views/html-dashboard-vendor-settings_form.php:136
+#: templates/views/html-dashboard-vendor-settings_form.php:149
+msgid "Start time"
+msgstr "Starttid"
+
+#: templates/vendors-registration.php:234
+#: templates/vendors-registration.php:323
+#: templates/vendors-registration.php:333
+#: templates/views/html-dashboard-vendor-settings_form.php:336
+#: templates/views/html-dashboard-vendor-settings_form.php:346
+msgid "Start time (24 hour format 00:00)"
+msgstr "Starttid (24-timmarsformat 00:00)"
+
+#: templates/vendors-registration.php:236
+#: templates/views/html-dashboard-vendor-settings_form.php:139
+#: templates/views/html-dashboard-vendor-settings_form.php:152
+msgid "End time"
+msgstr "Sluttid"
+
+#: templates/vendors-registration.php:237
+#: templates/vendors-registration.php:327
+#: templates/vendors-registration.php:337
+#: templates/views/html-dashboard-vendor-settings_form.php:340
+#: templates/views/html-dashboard-vendor-settings_form.php:350
+msgid "End time (24 hour format 00:00)"
+msgstr "Sluttid (24-timmarsformat 00:00)"
+
+#: templates/vendors-registration.php:242
+#: templates/views/html-dashboard-vendor-settings_form.php:159
+msgid "Add new menu"
+msgstr "Lägg till ny meny"
+
+#: templates/vendors-registration.php:248
+#: templates/views/html-dashboard-vendor-settings_form.php:54
+msgid "Delivery Settings"
+msgstr "Leveransinställningar"
+
+#: templates/vendors-registration.php:250
+msgid "You have more options to set in your settings page after registration."
+msgstr ""
+"Du har fler alternativ att ställa in på din inställningssida efter "
+"registrering."
+
+#: templates/vendors-registration.php:252
+msgid "Calculate delivery by"
+msgstr "Beräkna leverans med"
+
+#: templates/vendors-registration.php:256
+#: templates/views/html-dashboard-orders-list.php:19
+#: templates/views/html-dashboard-vendor-settings_form.php:221
+#: templates/views/html-dashboard-vendor-settings_form.php:253
+msgid "Order"
+msgstr "Order"
+
+#: templates/vendors-registration.php:260
+#: templates/views/html-dashboard-home-top_items.php:19
+#: templates/views/html-dashboard-orders-list-row.php:92
+#: templates/views/html-dashboard-orders-single-items.php:17
+#: templates/views/html-dashboard-vendor-settings_form.php:225
+#: templates/views/html-dashboard-vendor-settings_form.php:257
+msgid "Product"
+msgstr "Produkt"
+
+#: templates/vendors-registration.php:265
+#: templates/views/html-dashboard-vendor-settings_form.php:230
+#: templates/views/html-dashboard-vendor-settings_form.php:262
+msgid "Delivery fee"
+msgstr "Leveransavgift"
+
+#: templates/vendors-registration.php:269
+#: templates/views/html-dashboard-vendor-settings_form.php:234
+#: templates/views/html-dashboard-vendor-settings_form.php:266
+msgid "Fee per additional product"
+msgstr "Avgift per tilläggsprodukt"
+
+#: templates/vendors-registration.php:273
+#: templates/views/html-dashboard-vendor-settings_form.php:238
+#: templates/views/html-dashboard-vendor-settings_form.php:270
+msgid "Minimum order amount for delivery"
+msgstr "Minsta orderbelopp för leverans"
+
+#: templates/vendors-registration.php:277
+#: templates/views/html-dashboard-vendor-settings_form.php:210
+msgid "Delivery zone"
+msgstr "Leveranszon"
+
+#: templates/vendors-registration.php:280
+#: templates/views/html-dashboard-vendor-settings_form.php:213
+msgid "Erase drawing"
+msgstr "Radera ritning"
+
+#: templates/vendors-registration.php:282
+msgid "Type & select from predictions and separate by commas."
+msgstr "Skriv &amp; välj från förutsägelser och separera med kommatecken."
+
+#: templates/vendors-registration.php:288
+msgid "Working timing"
+msgstr "Arbetstid"
+
+#: templates/vendors-registration.php:309
+#: templates/views/html-dashboard-vendor-settings_form.php:322
+msgid "Open"
+msgstr "Öppen"
+
+#: templates/vendors-registration.php:313
+msgid "Two Shifts"
+msgstr "Två skift"
+
+#: templates/vendors-registration.php:322
+#: templates/views/html-dashboard-vendor-settings_form.php:335
+msgid "Opening time for first shift"
+msgstr "Öppettid för första skiftet"
+
+#: templates/vendors-registration.php:326
+#: templates/views/html-dashboard-vendor-settings_form.php:339
+msgid "Closing time for first shift"
+msgstr "Sluttid för första skiftet"
+
+#: templates/vendors-registration.php:332
+#: templates/views/html-dashboard-vendor-settings_form.php:345
+msgid "Opening time for second shift"
+msgstr "Öppettid för andra skift"
+
+#: templates/vendors-registration.php:336
+#: templates/views/html-dashboard-vendor-settings_form.php:349
+msgid "Closing time for second shift"
+msgstr "Sluttid för andra skift"
+
+#: templates/vendors-registration.php:346
+#: templates/views/html-dashboard-vendor-settings_form.php:359
+msgid "Unavailable Dates (mm/dd/yyyy)"
+msgstr "Otillgängliga datum (mm / dd / åååå)"
+
+#: templates/vendors-registration.php:351
+#: templates/views/html-dashboard-vendor-settings_form.php:365
+#: templates/views/html-dashboard-vendor-settings_form.php:379
+msgid "Starting date"
+msgstr "Start datum"
+
+#: templates/vendors-registration.php:352
+#: templates/views/html-dashboard-vendor-settings_form.php:366
+#: templates/views/html-dashboard-vendor-settings_form.php:380
+msgid "Start Date YYYY/MM/DD"
+msgstr "Startdatum ÅÅÅÅ / MM / DD"
+
+#: templates/vendors-registration.php:356
+#: templates/views/html-dashboard-vendor-settings_form.php:370
+#: templates/views/html-dashboard-vendor-settings_form.php:384
+msgid "Ending date"
+msgstr "Slut datum"
+
+#: templates/vendors-registration.php:357
+#: templates/views/html-dashboard-vendor-settings_form.php:371
+#: templates/views/html-dashboard-vendor-settings_form.php:385
+msgid "End Date YYYY/MM/DD"
+msgstr "Slutdatum YYYY / MM / DD"
+
+#: templates/vendors-registration.php:363
+#: templates/views/html-dashboard-vendor-settings_form.php:392
+msgid "Add new date"
+msgstr "Lägg till nytt datum"
+
+#: templates/vendors-registration.php:369
+msgid "Withdrawal Settings"
+msgstr "Återtagningsinställningar"
+
+#: templates/vendors-registration.php:387
+msgid "Next"
+msgstr "Nästa"
+
+#: templates/vendors-registration.php:444
+msgid "Geo-location was not successful for the following reason:"
+msgstr "Geo-location lyckades inte av följande orsak:"
+
+#: templates/vendors-registration.php:518
+msgid "Error: The Geo-location service failed."
+msgstr "Fel: Tjänsten Geo-location misslyckades."
+
+#: templates/views/html-dashboard-coupon-form.php:14
+msgid "Create Coupon"
+msgstr "Skapa kupong"
+
+#: templates/views/html-dashboard-coupon-form.php:19
+msgid "Are you cheating?"
+msgstr "Fuskar du?"
+
+#: templates/views/html-dashboard-coupon-form.php:23
+msgid "Update Coupon"
+msgstr "Uppdatera kupong"
+
+#: templates/views/html-dashboard-coupon-form.php:108
+msgid "Coupon Code"
+msgstr "Rabattkod"
+
+#: templates/views/html-dashboard-coupon-form.php:118
+msgid "Discount Type"
+msgstr "Rabatttyp"
+
+#: templates/views/html-dashboard-coupon-form.php:121
+msgid "Fixed amount"
+msgstr "Bestämd mängd"
+
+#: templates/views/html-dashboard-coupon-form.php:122
+msgid "% Discount"
+msgstr "% Rabatt"
+
+#: templates/views/html-dashboard-coupon-form.php:134
+#: templates/views/html-dashboard-coupon-form.php:135
+msgid "Email Restrictions"
+msgstr "E-postbegränsningar"
+
+#: templates/views/html-dashboard-coupon-form.php:138
+msgid "Usage Limit per coupon"
+msgstr "Användningsgräns per kupong"
+
+#: templates/views/html-dashboard-coupon-form.php:139
+#: templates/views/html-dashboard-coupon-form.php:147
+msgid "Unlimited usage"
+msgstr "Obegränsad"
+
+#: templates/views/html-dashboard-coupon-form.php:142
+msgid "Limit usage to X products"
+msgstr "Begränsa användningen till X-produkter"
+
+#: templates/views/html-dashboard-coupon-form.php:143
+msgid "Apply to all qualifying products in cart"
+msgstr "Applicera på alla kvalificerade produkter i kundvagnen"
+
+#: templates/views/html-dashboard-coupon-form.php:146
+msgid "Usage limit per user"
+msgstr "Antal per kund"
+
+#: templates/views/html-dashboard-coupon-form.php:150
+#: templates/views/html-dashboard-coupon-form.php:151
+msgid "Expire Date"
+msgstr "Utgångsdatum"
+
+#: templates/views/html-dashboard-coupon-form.php:182
+msgid "Minimum spend"
+msgstr "Minsta utgift"
+
+#: templates/views/html-dashboard-coupon-form.php:183
+msgid "No Minimum"
+msgstr "Inga lägsta belopp"
+
+#: templates/views/html-dashboard-coupon-form.php:186
+msgid "Maximum spend"
+msgstr "Max orderbelopp"
+
+#: templates/views/html-dashboard-coupon-form.php:187
+msgid "No Maximum"
+msgstr "Ingen Maximal"
+
+#: templates/views/html-dashboard-coupon-form.php:193
+msgid "Enable free delivery"
+msgstr "Aktivera gratis leverans"
+
+#: templates/views/html-dashboard-coupon-form.php:200
+msgid "Individual use only"
+msgstr "Kan inte kombineras"
+
+#: templates/views/html-dashboard-coupon-form.php:207
+msgid "Exclude discounted products"
+msgstr "Undanta rabatterade produkter"
+
+#: templates/views/html-dashboard-coupon-form.php:214
+msgid "Go public"
+msgstr "Gå offentligt"
+
+#: templates/views/html-dashboard-coupon-form.php:218
+msgid "Coupon text to show"
+msgstr "Kupongtext som ska visas"
+
+#: templates/views/html-dashboard-coupon-form.php:219
+msgid ""
+"i.e: Use (enter coupon code) coupon before checkout to get (10%) discount."
+msgstr ""
+"dvs: Använd (ange kupongkod) kupong före kassan för att få (10%) rabatt."
+
+#: templates/views/html-dashboard-coupon-header.php:19
+msgid "&larr; Coupons"
+msgstr "← Kuponger"
+
+#: templates/views/html-dashboard-coupon-header.php:24
+msgid "New Coupon"
+msgstr "Ny rabattkod"
+
+#: templates/views/html-dashboard-coupon-list.php:21
+msgid "Code"
+msgstr "Kod"
+
+#: templates/views/html-dashboard-coupon-list.php:22
+msgid "Type"
+msgstr "Typ"
+
+#: templates/views/html-dashboard-coupon-list.php:24
+msgid "Product IDs"
+msgstr "Tjänst-IDn"
+
+#: templates/views/html-dashboard-coupon-list.php:25
+msgid "Usage / Limit"
+msgstr "Användning / Gräns"
+
+#: templates/views/html-dashboard-coupon-list.php:26
+msgid "Expiry date"
+msgstr "Utgångsdatum"
+
+#: templates/views/html-dashboard-coupon-list.php:43
+msgid "Expiry:"
+msgstr "Upphörande:"
+
+#: templates/views/html-dashboard-coupon-list.php:81
+msgid "delete"
+msgstr "radera"
+
+#: templates/views/html-dashboard-coupon-list.php:86
+msgid "Visit Store"
+msgstr "Besök Butiken"
+
+#: templates/views/html-dashboard-coupon-list.php:101
+msgid "Sorry, no coupons found!"
+msgstr "Tyvärr, inga kuponger hittades!"
+
+#: templates/views/html-dashboard-home-orders.php:19
+#: templates/views/html-dashboard-orders-list.php:22
+msgid "Status"
+msgstr "Status"
+
+#: templates/views/html-dashboard-home-orders.php:20
+msgid "Count"
+msgstr "Antal"
+
+#: templates/views/html-dashboard-home-orders.php:36
+msgid "Pending Payment"
+msgstr "Inväntar betalning"
+
+#: templates/views/html-dashboard-home-orders.php:54
+#: templates/views/html-dashboard-orders-list-row_actions.php:20
+msgid "Cancelled"
+msgstr "Avbruten"
+
+#: templates/views/html-dashboard-home-orders.php:63
+#: templates/views/html-dashboard-orders-list-row_actions.php:22
+#: templates/views/html-dashboard-orders-single-items.php:116
+msgid "Refunded"
+msgstr "Återbetalat"
+
+#: templates/views/html-dashboard-home-orders.php:72
+msgid "On-hold"
+msgstr "Mottagen (inväntar betalning)"
+
+#: templates/views/html-dashboard-home-top_clients.php:14
+msgid "Top Customers"
+msgstr "Toppkunder"
+
+#: templates/views/html-dashboard-home-top_clients.php:19
+#: templates/views/html-dashboard-orders-list.php:24
+msgid "Customer"
+msgstr "Kund"
+
+#: templates/views/html-dashboard-home-top_clients.php:20
+msgid "Money Spent"
+msgstr "Spenderade pengar"
+
+#: templates/views/html-dashboard-home-top_clients.php:42
+msgid "Your top 10 clients will be listed here."
+msgstr "Dina 10 bästa kunder kommer att listas här."
+
+#: templates/views/html-dashboard-home-top_items.php:14
+msgid "Top Selling Products"
+msgstr "Toppsäljande produkter"
+
+#: templates/views/html-dashboard-home-top_items.php:20
+#: templates/views/html-dashboard-home-totals.php:14
+#: templates/views/html-dashboard-items-list-single_item.php:26
+msgid "Sales"
+msgstr "Försäljning"
+
+#: templates/views/html-dashboard-home-top_items.php:30
+#, php-format
+msgid "Permalink to %1$s"
+msgstr "Permalink till%1$s"
+
+#: templates/views/html-dashboard-home-top_items.php:43
+msgid "Your top 10 selling products will be listed here."
+msgstr "Dina 10 mest sålda produkter kommer att listas här."
+
+#: templates/views/html-dashboard-home-totals-table.php:17
+msgid "Gross"
+msgstr "Brutto"
+
+#: templates/views/html-dashboard-home-totals-table.php:18
+msgid "Total Coupon Usage"
+msgstr "Total kuponganvändning"
+
+#: templates/views/html-dashboard-home-totals-table.php:20
+msgid "Taxes"
+msgstr "Skatter"
+
+#: templates/views/html-dashboard-home-totals-table.php:21
+msgid "Taxes Refunded"
+msgstr "Skatter återbetalas"
+
+#: templates/views/html-dashboard-home-totals-table.php:24
+msgid "Uncompleted Orders"
+msgstr "Ofullständiga order"
+
+#: templates/views/html-dashboard-home-totals-table.php:25
+msgid "Refunded Orders"
+msgstr "Återbetalade beställningar"
+
+#: templates/views/html-dashboard-home-totals-table.php:29
+msgid "Net Profit"
+msgstr "Nettoförtjänst"
+
+#: templates/views/html-dashboard-home-totals.php:14
+msgid "Print table"
+msgstr "Skrivbord"
+
+#: templates/views/html-dashboard-home-totals.php:14
+msgid "From all sellers"
+msgstr "Från alla säljare"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "All Time"
+msgstr "Totalt"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Year"
+msgstr "År"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Last Month"
+msgstr "Föregående månad"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Month"
+msgstr "Månad"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Week"
+msgstr "Vecka"
+
+#: templates/views/html-dashboard-home-totals.php:15
+msgid "Today"
+msgstr "Idag"
+
+#: templates/views/html-dashboard-home-totals.php:17
+msgid "Start Date, i.e:"
+msgstr "Startdatum, dvs:"
+
+#: templates/views/html-dashboard-home-totals.php:20
+msgid "End Date, i.e:"
+msgstr "Slutdatum, dvs:"
+
+#: templates/views/html-dashboard-home-totals.php:23
+#: templates/views/html-dashboard-vendor-status_menu.php:15
+msgid "Go"
+msgstr "Start"
+
+#: templates/views/html-dashboard-home-vendor_balance.php:14
+msgid "Account Balance"
+msgstr "Kontobalans"
+
+#: templates/views/html-dashboard-home-vendor_balance.php:18
+msgid "Withdraw Money"
+msgstr "Ta ut pengar"
+
+#: templates/views/html-dashboard-items-form.php:21
+#: templates/views/html-dashboard-orders-list.php:26
+msgid "Update"
+msgstr "Uppdatera"
+
+#: templates/views/html-dashboard-items-form.php:24
+msgid "Post"
+msgstr "Inlägg"
+
+#: templates/views/html-dashboard-items-form.php:25
+msgid "Post & Add New"
+msgstr "Posta och lägg till nytt"
+
+#: templates/views/html-dashboard-items-form_data.php:20
+msgid "Upload Cover"
+msgstr "Ladda upp omslaget"
+
+#: templates/views/html-dashboard-items-form_data.php:20
+msgid "Upload cover image"
+msgstr "Ladda omslagsbild"
+
+#: templates/views/html-dashboard-items-form_data.php:24
+msgid "Remove Image"
+msgstr "Ta bort bild"
+
+#: templates/views/html-dashboard-items-form_data.php:36
+msgid "Product Name"
+msgstr "Produktnamn"
+
+#: templates/views/html-dashboard-items-form_data.php:37
+msgid "Type name including brand name if available."
+msgstr "Skriv namn med varumärke om det finns tillgängligt."
+
+#: templates/views/html-dashboard-items-form_data.php:43
+msgid "General fields"
+msgstr "Allmänna fält"
+
+#: templates/views/html-dashboard-items-form_data.php:46
+msgid "Short Description"
+msgstr "Kort beskrivning"
+
+#: templates/views/html-dashboard-items-form_data.php:47
+msgid "Few words about the product..."
+msgstr "Få ord om produkten ..."
+
+#: templates/views/html-dashboard-items-form_data.php:50
+msgid "Full Description"
+msgstr "Fullständig Beskrivning"
+
+#: templates/views/html-dashboard-items-form_data.php:54
+msgid "Category"
+msgstr "Kategori"
+
+#: templates/views/html-dashboard-items-form_data.php:59
+msgid "Menu"
+msgstr "Meny"
+
+#: templates/views/html-dashboard-items-form_data.php:67
+#, php-format
+msgid "You must set your %1$s before you can use this option"
+msgstr "Du måste ställa in din%1$s innan du kan använda det här alternativet"
+
+#: templates/views/html-dashboard-items-form_data.php:67
+msgid "meal types"
+msgstr "måltider"
+
+#: templates/views/html-dashboard-items-form_data.php:76
+msgid "Preparation/Handling time (in minutes)"
+msgstr "Beredning / Hanteringstid (i minuter)"
+
+#: templates/views/html-dashboard-items-form_data.php:80
+msgid "Maximum orders per day"
+msgstr "Maximal order per dag"
+
+#: templates/views/html-dashboard-items-form_data.php:137
+#: templates/views/html-dashboard-items-form_data.php:166
+#: templates/views/html-dashboard-items-form_data.php:204
+msgid "Variations"
+msgstr "variationer"
+
+#: templates/views/html-dashboard-items-form_data.php:140
+msgid "The product has variations?"
+msgstr "Produkten har variationer?"
+
+#: templates/views/html-dashboard-items-form_data.php:158
+#: templates/views/html-dashboard-items-form_data.php:200
+msgid "Variation title"
+msgstr "Variationstitel"
+
+#: templates/views/html-dashboard-items-form_data.php:161
+msgid "variation title"
+msgstr "variationstitel"
+
+#: templates/views/html-dashboard-items-form_data.php:170
+msgid "Update product after selecting to see changes on options below."
+msgstr ""
+"Uppdatera produkten efter att ha markerat för att se ändringar på alternativ "
+"nedan."
+
+#: templates/views/html-dashboard-items-form_data.php:171
+msgid "Select terms"
+msgstr "Välj objekt"
+
+#: templates/views/html-dashboard-items-form_data.php:189
+#: templates/views/html-dashboard-items-form_data.php:192
+#: templates/views/html-dashboard-items-form_data.php:205
+#, php-format
+msgid "Enter variations by \"%1$s\" separating values."
+msgstr "Ange variationer med &quot;%1$s&quot; separeringsvärden."
+
+#: templates/views/html-dashboard-items-form_data.php:211
+msgid "+ Add Option Group"
+msgstr "+ Lägg till alternativgrupp"
+
+#: templates/views/html-dashboard-items-form_data.php:215
+msgid "Add new option"
+msgstr "Nytt alternativ"
+
+#: templates/views/html-dashboard-items-form_data.php:220
+msgid "Promotions"
+msgstr "Rabatter"
+
+#: templates/views/html-dashboard-items-form_data.php:238
+#: templates/views/html-dashboard-items-form_data.php:239
+#: templates/views/html-dashboard-items-form_data.php:267
+#: templates/views/html-dashboard-items-form_data.php:268
+msgid "Discount %"
+msgstr "Rabatt %"
+
+#: templates/views/html-dashboard-items-form_data.php:283
+msgid "Add new promotion rule"
+msgstr "Lägg till ny befordringsregel"
+
+#: templates/views/html-dashboard-items-form_data.php:287
+msgid "Link products"
+msgstr "Länk produkter"
+
+#: templates/views/html-dashboard-items-form_data.php:292
+msgid "Up-Sells"
+msgstr "Up-Sells"
+
+#: templates/views/html-dashboard-items-form_data.php:302
+msgid "Cross-Sells"
+msgstr "Cross-Sells"
+
+#: templates/views/html-dashboard-items-form_data.php:314
+msgid "Other options"
+msgstr "Andra alternativ"
+
+#: templates/views/html-dashboard-items-form_data.php:317
+msgid "Purchase Note"
+msgstr "Köp not"
+
+#: templates/views/html-dashboard-items-form_data.php:319
+msgid "Enter an optional note to send the customer after purchase."
+msgstr "Ange en valfri anteckning för att skicka kunden efter inköpet."
+
+#: templates/views/html-dashboard-items-form_variation.php:35
+#, php-format
+msgid "Any %1$s&hellip;"
+msgstr "Alla%1$s ..."
+
+#: templates/views/html-dashboard-items-form_variation.php:52
+msgid "Few words about this variation..."
+msgstr "Få ord om denna variation ..."
+
+#: templates/views/html-dashboard-items-list-single_item.php:17
+msgid "edit product"
+msgstr "redigera produkt"
+
+#: templates/views/html-dashboard-items-list-single_item.php:27
+msgid "Views"
+msgstr "Visningar"
+
+#: templates/views/html-dashboard-items-list-single_item.php:52
+msgid "Add this product to today's special products list."
+msgstr "Lägg till den här produkten i dagens specialprodukter lista."
+
+#: templates/views/html-dashboard-items-list-single_item.php:52
+msgid "Today's Special Product"
+msgstr "Dagens specialprodukt"
+
+#: templates/views/html-dashboard-items-nav.php:15
+msgid "New product"
+msgstr "Ny produkt"
+
+#: templates/views/html-dashboard-items-nav.php:22
+#, php-format
+msgid "Online (%d)"
+msgstr "Online (% d)"
+
+#: templates/views/html-dashboard-items-nav.php:25
+#, php-format
+msgid "Offline (%d)"
+msgstr "Offline (% d)"
+
+#: templates/views/html-dashboard-menu.php:14
+#, php-format
+msgid "%1$s Dashboard"
+msgstr "%1$s Adminpanel"
+
+#: templates/views/html-dashboard-orders-list-row.php:16
+#, php-format
+msgid "Order %1$s"
+msgstr "Beställ%1$s"
+
+#: templates/views/html-dashboard-orders-list-row.php:17
+msgid "Quick View"
+msgstr "Snabbvisa"
+
+#: templates/views/html-dashboard-orders-list-row.php:43
+msgid "Billing:"
+msgstr "Betalning:"
+
+#: templates/views/html-dashboard-orders-list-row.php:46
+msgid "Tel:"
+msgstr "Tel:"
+
+#: templates/views/html-dashboard-orders-list-row.php:61
+msgid "Guest"
+msgstr "Gäst"
+
+#: templates/views/html-dashboard-orders-list-row.php:93
+msgid "Options"
+msgstr "Alternativ"
+
+#: templates/views/html-dashboard-orders-list-row.php:94
+msgid "Quantity"
+msgstr "Antal"
+
+#: templates/views/html-dashboard-orders-list-row_actions.php:19
+msgid "Complete"
+msgstr "Genomförd"
+
+#: templates/views/html-dashboard-orders-list-row_actions.php:26
+msgid "Failed"
+msgstr "Misslyckad"
+
+#: templates/views/html-dashboard-orders-list_no_results.php:17
+msgid "No orders found"
+msgstr "Inga beställningar hittades"
+
+#: templates/views/html-dashboard-orders-nav.php:17
+#, php-format
+msgid "Processing (%d)"
+msgstr "Bearbetning (% d)"
+
+#: templates/views/html-dashboard-orders-nav.php:22
+#, php-format
+msgid "Completed (%d)"
+msgstr "Avslutad (%d)"
+
+#: templates/views/html-dashboard-orders-nav.php:27
+#, php-format
+msgid "On-hold (%d)"
+msgstr "Pausad (%d)"
+
+#: templates/views/html-dashboard-orders-nav.php:32
+#, php-format
+msgid "Pending Payment (%d)"
+msgstr "Väntar på betalning (% d)"
+
+#: templates/views/html-dashboard-orders-nav.php:37
+#, php-format
+msgid "Cancelled (%d)"
+msgstr "Avbruten (% d)"
+
+#: templates/views/html-dashboard-orders-nav.php:42
+#, php-format
+msgid "Refunded (%d)"
+msgstr "Återbetalas (% d)"
+
+#: templates/views/html-dashboard-orders-nav.php:47
+#, php-format
+msgid "failed (%d)"
+msgstr "misslyckades (% d)"
+
+#: templates/views/html-dashboard-orders-single-customer_details.php:17
+msgid "Customer:"
+msgstr "Kund:"
+
+#: templates/views/html-dashboard-orders-single-customer_details.php:31
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: templates/views/html-dashboard-orders-single-customer_details.php:46
+msgid "Customer Note:"
+msgstr "Kundnotering:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:17
+msgid "Order Status:"
+msgstr "Orderstatus:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:21
+msgid "Payment Method:"
+msgstr "Betalsätt:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:25
+msgid "Created Date:"
+msgstr "Skapat Datum:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:29
+msgid "Website Fee:"
+msgstr "Webbplatsavgift:"
+
+#: templates/views/html-dashboard-orders-single-general_details.php:33
+msgid "Vendor's Net:"
+msgstr "Leverantörens nät:"
+
+#: templates/views/html-dashboard-orders-single-items.php:19
+msgid "Cost"
+msgstr "Pris"
+
+#: templates/views/html-dashboard-orders-single-items.php:20
+msgid "Qty"
+msgstr "Antal"
+
+#: templates/views/html-dashboard-orders-single-items.php:25
+#: templates/views/html-dashboard-orders-single-items.php:26
+msgid "Tax"
+msgstr "Moms"
+
+#: templates/views/html-dashboard-orders-single-items.php:71
+msgid "Coupon(s) Used"
+msgstr "Rabattkod(er) som används"
+
+#: templates/views/html-dashboard-orders-single-items.php:108
+msgid "Order Total"
+msgstr "Totalsumma"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:21
+#: templates/views/html-dashboard-vendor-settings_form.php:36
+msgid "Change"
+msgstr "Ändra"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:26
+msgid "Select your shop's banner"
+msgstr "Välj din butiks banner"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:26
+msgid "Select Image"
+msgstr "Välj bild"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:26
+msgid "Upload banner"
+msgstr "Ladda upp banner"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:27
+msgid "Upload a banner for your shop. Banner size is (1125x190) pixel."
+msgstr ""
+"Ladda upp en banderoll till din butik. Bannerstorlek är (1125x190) pixel."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:40
+msgid "Upload Logo"
+msgstr "Ladda upp Logotyp"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:55
+msgid "Shop Notice"
+msgstr "Handla meddelande"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:56
+msgid "Social Settings"
+msgstr "Sociala inställningar"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:58
+msgid "Open/Close Timings"
+msgstr "Öppna / Stäng Timing"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:60
+msgid "Withdrawal Methods"
+msgstr "Återtagningsmetoder"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:65
+msgid "General Info"
+msgstr "Övergripande"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:69
+msgid "Shop type"
+msgstr "Butikstyp"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:74
+msgid "Shop name"
+msgstr "Butiksnamn"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:86
+msgid "e.g. In front of cinema, Fourth floor, Seasons mall"
+msgstr "t ex framför biografen, fjärde våningen, årstider köpcentret"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:99
+msgid "i.e Italian, Indian, Fast Food, Fine Dining .. etc."
+msgstr "det vill säga italiensk, indisk, snabbmat, fina middagar etc."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:120
+msgid "Allow receiving emails from the shop page."
+msgstr "Tillåt att ta emot e-post från butikssidan."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:137
+#: templates/views/html-dashboard-vendor-settings_form.php:150
+msgid "Start time (24 hours format 00:00)"
+msgstr "Starttid (24 timmar format 00:00)"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:140
+#: templates/views/html-dashboard-vendor-settings_form.php:153
+msgid "End time (24 hours format 00:00)"
+msgstr "Sluttid (24 timmar format 00:00)"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:182
+msgid "Allow orders even when your shop is closed?"
+msgstr "Tillåt order även när din butik är stängd?"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:196
+msgid "Calculate order preparation time percentage"
+msgstr "Beräkna beställningstidens procentandel"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:203
+msgid "Delivery settings."
+msgstr "Leveransinställningar."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:206
+msgid ""
+"You have chosen not to provide delivery service. You can change that from "
+"your orders settings."
+msgstr ""
+"Du har valt att inte tillhandahålla leveransservice. Du kan ändra det från "
+"dina beställningsinställningar."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:217
+#: templates/views/html-dashboard-vendor-settings_form.php:249
+msgid "Calculate delivery fee by"
+msgstr "Beräkna leveransavgift av"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:242
+msgid "Delivery on peak times"
+msgstr "Leverans på högtider"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:245
+msgid "Processing orders"
+msgstr "Bearbetningsorder"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:279
+msgid "Shop page notification"
+msgstr "Butikssidan meddelande"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:282
+msgid "Add message"
+msgstr "Lägg till meddelande"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:283
+msgid "Type your note..."
+msgstr "Skriv din anteckning ..."
+
+#: templates/views/html-dashboard-vendor-settings_form.php:288
+msgid "Social accounts"
+msgstr "Sociala konton"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:292
+msgid "Facebook"
+msgstr "Facebook"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:296
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:300
+msgid "Youtube"
+msgstr "Youtube"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:304
+msgid "Instagram"
+msgstr "Instagram"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:312
+msgid "Shop's timings"
+msgstr "Butikens tidpunkter"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:326
+msgid "Two shifts"
+msgstr "Två skift"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:400
+msgid "Withdrawal settings"
+msgstr "Återkallningsinställningar"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:415
+msgid "Update Settings"
+msgstr "Uppdatera inställningar"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:498
+msgid "Geocode was not successful for the following reason:"
+msgstr "Geokodning misslyckades av följande skäl:"
+
+#: templates/views/html-dashboard-vendor-settings_form.php:580
+msgid "Error: The Geolocation service failed."
+msgstr "Fel: Geolocation-tjänsten misslyckades."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:15
+msgid "Status:"
+msgstr "Status:"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:15
+msgid "Change Status?"
+msgstr "Byta status?"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:16
+msgid "Play tune on new orders"
+msgstr "Spela upp nya order"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:16
+msgid "Turn on notifications"
+msgstr "Sätt på notifikationer"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:16
+msgid "Active"
+msgstr "Aktiv"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:16
+msgid "Turn off notifications"
+msgstr "Stäng av notifikationer"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:17
+#, php-format
+msgid "Website time: %1$s"
+msgstr "Webbplats tid:%1$s"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:18
+msgid "Set your status to online if you wish to receive orders."
+msgstr "Ställ in din status online om du vill få order."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:19
+#, php-format
+msgid ""
+"Your status will be automatically set to \"offline\" if you closed or "
+"navigated away from the website for %1$s minutes."
+msgstr ""
+"Din status kommer automatiskt att ställas in till &quot;offline&quot; om du "
+"stängde eller navigerade bort från webbplatsen för%1$s minuter."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:20
+#, php-format
+msgid "%1$s from %2$s to %3$s."
+msgstr "%1$s från%2$s till%3$s."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:22
+#, php-format
+msgid "No %1$s timings for today."
+msgstr "Inga %1$s tidpunkter för idag."
+
+#: templates/views/html-dashboard-vendor-status_menu.php:22
+msgid "set timing"
+msgstr "ställa in timing"
+
+#: templates/views/html-dashboard-vendor-status_menu.php:22
+msgid "opeining and closing"
+msgstr "uppeining och stängning"
+
+#: templates/views/html-items-atc.php:57
+msgid "Clear"
+msgstr "Rensa"
+
+#: templates/views/html-vendor-store_email_form.php:16
+msgid "Send Message to"
+msgstr "Skicka meddelande till"
+
+#: templates/views/html-vendor-store_email_form.php:27
+msgid "Your Name"
+msgstr "Ditt namn"
+
+#: templates/views/html-vendor-store_email_form.php:33
+msgid "you@example.com"
+msgstr "you@example.com"
+
+#: templates/views/html-vendor-store_email_form.php:40
+msgid "Email Subject"
+msgstr "Ämne"
+
+#: templates/views/html-vendor-store_email_form.php:46
+msgid "Type your message..."
+msgstr "Skriv meddelande."
+
+#: templates/views/html-vendor-store_email_form.php:55
+msgid "Send Message"
+msgstr "Skicka meddelande"
+
+#: templates/views/html-vendor-store_rating.php:17
+msgid "Login to make your rating on"
+msgstr "Logga in för att göra ditt betyg på"
+
+#: templates/views/html-vendor-store_rating.php:20
+msgid "Email address"
+msgstr "E-postadress"
+
+#: templates/views/html-vendor-store_rating.php:28
+msgid "Login"
+msgstr "Logga in"
+
+#: templates/views/html-vendor-store_rating.php:35
+msgid "Rate"
+msgstr "Betygsätt"
+
+#: templates/views/html-vendor-store_rating.php:39
+msgid "Star"
+msgstr "Stjärna"
+
+#. Plugin Name of the plugin/theme
+msgid "Norsani, The Multi-Vendor online Food Ordering System."
+msgstr "Norsani, Multi-Vendor Online Food Order System."
+
+#. Plugin URI of the plugin/theme
+msgid "http://norsani.mahmudhamid.com/"
+msgstr "http://norsani.mahmudhamid.com/"
+
+#. Description of the plugin/theme
+msgid "Multi-vendor online food ordering system."
+msgstr "Multi-leverantör online matbeställningssystem."
+
+#. Author of the plugin/theme
+msgid "Mahmud Hamid"
+msgstr "Mahmud Hamid"
+
+#. Author URI of the plugin/theme
+msgid "https://mahmudhamid.com"
+msgstr "https://mahmudhamid.com"
+
+#~ msgid ""
+#~ "You cannot add that amount of &quot;%s&quot; to the cart because there is "
+#~ "not enough stock (%s remaining)."
+#~ msgstr ""
+#~ "Du kan inte lägga till så många &quot;%s&quot; i varukorgen eftersom att "
+#~ "det inte finns tillräckligt många i lager. Just nu har vi %s kvar."
+
+#~ msgid "Visit our website for docs"
+#~ msgstr "Besök vår webbplats för docs"
+
+#~ msgid "Documentation"
+#~ msgstr "Dokumentation"
+
+#~ msgid "Update Location?"
+#~ msgstr "Uppdatera plats?"
+
+#~ msgid "Updating PayPal Payouts statuses..."
+#~ msgstr "Uppdaterar status för PayPal utbetalningar ..."
+
+#~ msgid "This option has been disabled because the product has variations."
+#~ msgstr ""
+#~ "Det här alternativet har inaktiverats eftersom produkten har variationer."
+
+#~ msgid ""
+#~ "Something went wrong, please check your browser console for more info."
+#~ msgstr "Något gick fel, kolla din webbläsarkonsol för mer info."
+
+#~ msgid "Available"
+#~ msgstr "Tillgänglig"
+
+#~ msgid "Not Available"
+#~ msgstr "Inte tillgänglig"
+
+#~ msgid "Sorry, no products matched your selection."
+#~ msgstr "Tyvärr, inga produkter matchade ditt val."
+
+#~ msgid ""
+#~ "Please select some product options before adding this product to your "
+#~ "cart."
+#~ msgstr ""
+#~ "Vänligen välj produktalternativ innan du lägger produkten i din varukorg."
+
+#~ msgid "Sorry, this product is unavailable."
+#~ msgstr "Tyvärr, den här produkten är inte tillgänglig."
+
+#~ msgid "No address found for your location."
+#~ msgstr "Ingen adress hittades för din plats."
+
+#~ msgid "No results found. Please review your input."
+#~ msgstr "Inga resultat funna. Granska din inmatning."
+
+#~ msgid "Geocoding Query limit reached. Please try again later."
+#~ msgstr "Geocoding Query gräns uppnådd. Vänligen försök igen senare."
+
+#~ msgid ""
+#~ "We could not set your location due to query limit. Please try setting it "
+#~ "manually."
+#~ msgstr ""
+#~ "Vi kunde inte ställa in din plats på grund av sökbegränsning. Försök att "
+#~ "ställa in det manuellt."
+
+#~ msgid ""
+#~ "We could not load the predictions list due to a denied request. Please "
+#~ "try again later."
+#~ msgstr ""
+#~ "Vi kunde inte ladda prognoslistan på grund av en nekad begäran. Vänligen "
+#~ "försök igen senare."
+
+#~ msgid ""
+#~ "We could not load the predictions list due to a invalid request. Please "
+#~ "try again later."
+#~ msgstr ""
+#~ "Vi kunde inte ladda prognoslistan på grund av en ogiltig förfrågan. "
+#~ "Vänligen försök igen senare."
+
+#~ msgid ""
+#~ "We could not load the predictions list due to an unknown error. Please "
+#~ "try again later."
+#~ msgstr ""
+#~ "Vi kunde inte ladda prognoslistan på grund av ett okänt fel. Vänligen "
+#~ "försök igen senare."
+
+#~ msgid ""
+#~ "The location was not set due to invalid request. Please try again later."
+#~ msgstr ""
+#~ "Platsen var inte inställd på grund av ogiltig begäran. Vänligen försök "
+#~ "igen senare."
+
+#~ msgid ""
+#~ "The location was not set due to denied request. Please try again later."
+#~ msgstr ""
+#~ "Platsen var inte inställd på grund av nekad begäran. Vänligen försök igen "
+#~ "senare."
+
+#~ msgid ""
+#~ "Geolocation Access Denied. Please enable the geolocation service on your "
+#~ "device."
+#~ msgstr ""
+#~ "Geolocation Access nekad. Vänligen aktivera geolocation-tjänsten på din "
+#~ "enhet."
+
+#~ msgid "Your location information is unavailable! Please review your input."
+#~ msgstr "Din platsinformation är inte tillgänglig! Granska din inmatning."
+
+#~ msgid "Your location information is unavailable!"
+#~ msgstr "Din platsinformation är inte tillgänglig!"
+
+#~ msgid "Geolocation failed, maybe due to a slow internet connection."
+#~ msgstr ""
+#~ "Geolocation misslyckades, kanske på grund av en långsam "
+#~ "internetanslutning."
+
+#~ msgid "Geolocation failed due to an unknown error. Please try again later."
+#~ msgstr ""
+#~ "Geolocation misslyckades på grund av ett okänt fel. Vänligen försök igen "
+#~ "senare."
+
+#~ msgid ""
+#~ "Could not set your address due to an unknown error. Please try again "
+#~ "later."
+#~ msgstr ""
+#~ "Det gick inte att ställa in din adress på grund av ett okänt fel. "
+#~ "Vänligen försök igen senare."
+
+#~ msgid "Error: Your browser doesn't support geolocation."
+#~ msgstr "Fel: Din webbläsare stöder inte geolocation."
+
+#~ msgid "Please check your internet connection and try again."
+#~ msgstr "Kontrollera din internetanslutning och försök igen."
+
+#~ msgid "Unsupported location"
+#~ msgstr "Ostödd plats"
+
+#~ msgid "Server error"
+#~ msgstr "Serverfel"
+
+#~ msgid ""
+#~ "We couldn't calculate the delivery duration between your location and "
+#~ "this vendor due to a server or internet connection error."
+#~ msgstr ""
+#~ "Vi kunde inte beräkna leveranstiden mellan din plats och den här "
+#~ "försäljaren på grund av ett server- eller internetanslutningsfel."
+
+#~ msgid ""
+#~ "We couldn't calculate the delivery fee of this vendor due to a server or "
+#~ "internet connection error."
+#~ msgstr ""
+#~ "Vi kunde inte beräkna leveransavgiften för den här säljaren på grund av "
+#~ "ett server- eller internetanslutningsfel."
+
+#~ msgid "Free Delivery"
+#~ msgstr "Fri leverans"
+
+#~ msgid "per"
+#~ msgstr "per"
+
+#~ msgid "No Connection!"
+#~ msgstr "Ingen förbindelse!"
+
+#~ msgid "Our service is not supported in your country"
+#~ msgstr "Vår service stöds inte i ditt land"
+
+#~ msgid "Your location has been set to"
+#~ msgstr "Din plats har blivit inställd på"
+
+#~ msgid ""
+#~ "This is an estimate calculation for the delivery duration to your location"
+#~ msgstr "Detta är en beräkningsberäkning för leveranstiden till din plats"
+
+#~ msgid "Your location is not within the delivery zone of this vendor."
+#~ msgstr "Din plats ligger inte inom leveransområdet för denna leverantör."
+
+#~ msgid "This vendor provides free delivery service."
+#~ msgstr "Denna leverantör tillhandahåller gratis leveransservice."
+
+#~ msgid ""
+#~ "The delivery fee multiplied with the total distance to your location."
+#~ msgstr ""
+#~ "Leveransavgiften multiplicerad med det totala avståndet till din plats."
+
+#~ msgid "Out of range"
+#~ msgstr "Utom räckhåll"
+
+#~ msgid ""
+#~ "Your current location is out of range of this vendor's delivery service."
+#~ msgstr ""
+#~ "Din nuvarande plats ligger utanför utbudet av denna leverantörs "
+#~ "leveransservice."
+
+#~ msgid "Start Date, mm/dd/yyyy"
+#~ msgstr "Startdatum, mm / dd / åååå"
+
+#~ msgid "End Date, mm/dd/yyyy"
+#~ msgstr "Slutdatum, mm / dd / åååå"
+
+#~ msgid "Product:"
+#~ msgstr "Produkt:"
+
+#~ msgid "Class:"
+#~ msgstr "Klass:"
+
+#~ msgid "Spicy:"
+#~ msgstr "Kryddad:"
+
+#~ msgid "Fat:"
+#~ msgstr "Fett:"
+
+#~ msgid " Grams"
+#~ msgstr " Gram"
+
+#~ msgid "Message from"
+#~ msgstr "meddelande från"
+
+#~ msgid "\"%s\"! \"%s\" sent you a message from your \"%s\" vendor page."
+#~ msgstr ""
+#~ "&quot; %s&quot;! &quot; %s&quot; skickade dig ett meddelande från din "
+#~ "&quot; %s&quot; säljare sida."
+
+#~ msgid "Invitation Letter from %s."
+#~ msgstr "Inbjudningsbrev från %s."
+
+#~ msgid "Withdrawal Request #"
+#~ msgstr "Uttagsbegäran #"
+
+#~ msgid "New Customer Registration at"
+#~ msgstr "Ny kundregistrering på"
+
+#~ msgid "Your"
+#~ msgstr "Din"
+
+#~ msgid "Balance Updated."
+#~ msgstr "Balans Uppdaterad."
+
+#~ msgid ""
+#~ "Hello Admin,\n"
+#~ "\n"
+#~ "Your Payout trasaction for order number: %s to vendor: %s has failed due "
+#~ "to the following error:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hej Admin, Din utbetalning för ordernummer: %s till leverantör: %s har "
+#~ "misslyckats på grund av följande fel: %s Hälsningar!  %s %s"
+
+#~ msgid ""
+#~ "Hello %s,\n"
+#~ "\n"
+#~ "Someone requested through our mobile app that the password be reset for "
+#~ "the following account:\n"
+#~ "Username:%s\n"
+#~ "\n"
+#~ "If this was a mistake, just ignore this email and nothing will happen.\n"
+#~ "To reset your password, enter the following key in the password reset "
+#~ "verification field:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hej %s, Någon begärde via vår mobilapp att lösenordet återställs för "
+#~ "följande konto: Användarnamn: %s Om det här var ett misstag, ignorerar du "
+#~ "bara det här e-postmeddelandet och ingenting kommer att hända. För att "
+#~ "återställa ditt lösenord anger du följande nyckel i fältet för "
+#~ "återställning av lösenord: %s Hälsningar!  %s %s"
+
+#~ msgid ""
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "------------------------------\n"
+#~ "Sent from %s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "------------------------------\n"
+#~ "Skickat från %s\n"
+#~ "%s"
+
+#~ msgid ""
+#~ "From: %s\n"
+#~ "IP: %s\n"
+#~ "User Agent: %s\n"
+#~ "------------------------------\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "------------------------------\n"
+#~ "Sent from %s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Från: %s IP: %s Användaragent: %s ------------------------------ %s ----- "
+#~ "------------------------- Skickat från %s %s"
+
+#~ msgid ""
+#~ "Hello %s Admin,\n"
+#~ "\n"
+#~ "A New Customer has registered in your site.\n"
+#~ "User details:\n"
+#~ "Email : %s\n"
+#~ "\n"
+#~ "View all users list at %s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hej %s Admin, En ny kund har registrerat sig på din webbplats. "
+#~ "Användaruppgifter: E-post: %s Visa alla användarlistor på %s Hälsningar!  "
+#~ "%s %s"
+
+#~ msgid ""
+#~ "Hello %s Admin,\n"
+#~ "\n"
+#~ "A New Vendor has registered in your site.\n"
+#~ "Vendor details:\n"
+#~ "Email : %s\n"
+#~ "First Name : %s\n"
+#~ "Last Name : %s\n"
+#~ "Shop Name : %s\n"
+#~ "Shop URL : %s\n"
+#~ "Shop Phone : %s\n"
+#~ "\n"
+#~ "View all stores at %s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hej %s Admin, En ny leverantör har registrerat dig på din webbplats. "
+#~ "Leverantörsuppgifter: Email: %s Förnamn: %s Efternamn: %s Butikens namn: "
+#~ "%s Butikens URL: %s Butikstelefon: %s Visa alla butiker på %s "
+#~ "Hälsningar!  %s %s"
+
+#~ msgid ""
+#~ "Hello %s,\n"
+#~ "\n"
+#~ "Your selling privileges status has been changed to: %s\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hej %s, statusen för ditt försäljnings privilegier har ändrats till: %s "
+#~ "Hälsningar!  %s %s"
+
+#~ msgid ""
+#~ "Hello %s,\n"
+#~ "\n"
+#~ "The order id %s status has been changed from completed to %s. The order "
+#~ "total amount is %s.\n"
+#~ "Your new balance is %s. Please contact the website Admin if you might "
+#~ "need any clarification.\n"
+#~ "\n"
+#~ "Regards!\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Hej %s, Status för order-id %s har ändrats från slutförd till %s. "
+#~ "Orderens totala belopp är %s. Ditt nya saldo är %s. Vänligen kontakta "
+#~ "webbplatsen Admin om du kan behöva någon förtydligande. Hälsningar!  %s %s"
+
+#~ msgid "e.g. Indian, Italian, Chinese ..."
+#~ msgstr "t.ex. indiska, italienska, kinesiska ..."
+
+#~ msgid "e.g. Beef, Chicken, Onion ..."
+#~ msgstr "t ex nötkött, kyckling, lök ..."
+
+#~ msgid "e.g. Road One, Road Two, Road Three ..."
+#~ msgstr "t.ex. väg ett, väg två, väg tre ..."
+
+#~ msgid "next"
+#~ msgstr "nästa"
+
+#~ msgid ""
+#~ "Sorry, The preparation date set for %s&apos;s products is inappropriate."
+#~ msgstr "Tyvärr, förberedelsedatumet för %s produkter är olämpligt."
+
+#~ msgid "Sub Orders"
+#~ msgstr "Underbeställningar"
+
+#~ msgid "Note:"
+#~ msgstr "Anteckning:"
+
+#~ msgid ""
+#~ "This order has products from multiple vendors. So we have divided the "
+#~ "main order into multiple sub-orders, each will be handled by its "
+#~ "respective vendor independently."
+#~ msgstr ""
+#~ "Denna order har produkter från flera leverantörer. Så vi har delat "
+#~ "huvudordern i flera delordningar, var och en kommer att hanteras av "
+#~ "respektive leverantör självständigt."
+
+#~ msgid "%s for %s product"
+#~ msgid_plural "%s for %s products"
+#~ msgstr[0] "%s för %s produkt"
+#~ msgstr[1] "%s för %s produkter"
+
+#~ msgid "N/A"
+#~ msgstr "N/A"
+
+#~ msgid "Account Name: %s"
+#~ msgstr "Kontonamn: %s"
+
+#~ msgid "Account Number: %s"
+#~ msgstr "Kontonummer: %s"
+
+#~ msgid "Bank Name: %s"
+#~ msgstr "Banknamn: %s"
+
+#~ msgid "Address: %s"
+#~ msgstr "Addres: %s"
+
+#~ msgid "SWIFT: %s"
+#~ msgstr "SWIFT: %s"
+
+#~ msgid "the vendor balance is Insufficient."
+#~ msgstr "Leverantörsbalansen är otillräcklig."
+
+#~ msgid "Sub Order of"
+#~ msgstr "Underbeställning för"
+
+#~ msgid "Unpublished"
+#~ msgstr "Opublicerade"
+
+#~ msgid "Update the Product"
+#~ msgstr "Uppdatera produkten"
+
+#~ msgid "list"
+#~ msgstr "lista"
+
+#~ msgid "Please select the types of vendors that you allow to register."
+#~ msgstr ""
+#~ "Var god välj vilka typer av leverantörer du tillåter att registrera."
+
+#~ msgid "Post the Product"
+#~ msgstr "Skicka in produkten"
+
+#~ msgid "Post the product & add a new one"
+#~ msgstr "Posta produkten och lägg till en ny"
+
+#~ msgid "This product cannot be purchased."
+#~ msgstr "Denna produkt kan inte köpas."
+
+#~ msgid "Available food types"
+#~ msgstr "Tillgängliga mattyper"
+
+#~ msgid "Veg."
+#~ msgstr "Veg."
+
+#~ msgid "Non-Veg."
+#~ msgstr "Inte vegetarisk."
+
+#~ msgid "Sea Food."
+#~ msgstr "Havsmat."
+
+#~ msgid "Food Truck"
+#~ msgstr "Mat lastbil"
+
+#~ msgid "Chefs list page was not found."
+#~ msgstr "Kocklistor sida hittades inte."
+
+#~ msgid "Restaurants list page was not found."
+#~ msgstr "Listan med restauranger listades inte."
+
+#~ msgid "Groceries list page was not found."
+#~ msgstr "Livsmedelslistan hittades inte."
+
+#~ msgid "Food Trucks list page was not found."
+#~ msgstr "Listan med livsmedelsbilar hittades inte."
+
+#~ msgid "Chef"
+#~ msgstr "Kock"
+
+#~ msgid "Restaurant"
+#~ msgstr "Restaurang"
+
+#~ msgid "Grocery"
+#~ msgstr "Livsmedel"
+
+#~ msgid "Browse Restaurants"
+#~ msgstr "Bläddra Restauranger"
+
+#~ msgid "Browse Groceries"
+#~ msgstr "Bläddra Livsmedel"
+
+#~ msgid "Browse Food Trucks"
+#~ msgstr "Bläddra i matbilar"
+
+#~ msgid "Foodtrucks"
+#~ msgstr "Foodtrucks"

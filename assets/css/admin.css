@@ -1,0 +1,103 @@
+#taxonomy-ingredient,.manage-column.column-is_in_stock,.manage-column.column-sku,.manage-column.column-price{width:10%}
+.norsani nav.nav-tab-wrapper{margin:1.5em 0 1em;border-bottom:1px solid #ccc}
+.frozr_fee_settings{width:96%;background-color:#fff;text-align:left;padding:2em}
+.fl-form-field,.form-group{margin:0;flex:1}
+.frozr_add_new_rule.button-primary{margin:1em 0 0}
+.frozr_fee_settings .select2-container{display:block;max-width:350px;vertical-align:top;margin-bottom:3px}
+.frozr_fee_settings input{width:100%}
+.frozr_seller_fee_rule table td:first-child{padding:1em;font-weight:700}
+.frozr_sellers_fee_table{width:100%;padding:1em;border-collapse:collapse}
+.frozr_sellers_fee_table thead tr th{padding:1em 0}
+#rates{background-color:rgba(0,0,0,0.08)}
+#rates tr td{padding:.5em}
+.frozr_fee_empty_notice{text-align:center}
+.frozr_tooltip_wrapper{color:#666;display:inline-block;font-size:1.4em;font-style:normal;height:16px;line-height:16px;position:relative;vertical-align:middle;width:16px}
+.frozr_tooltip_wrapper::after{font-family:Dashicons;font-weight:400;font-variant:normal;line-height:1;margin:0;text-indent:0;position:absolute;top:0;left:0;width:100%;height:100%;text-align:center;content:"";cursor:help}
+.frozr_tooltip_wrapper .frozr_help_tip{visibility:hidden;width:17em;background-color:#555;font-size:.6em;color:#fff;text-align:center;padding:10px;border-radius:6px;position:absolute;z-index:9999;top:125%;left:50%;margin-left:-60px;opacity:0;transition:opacity .5s}
+.frozr_tooltip_wrapper:hover .frozr_help_tip{visibility:visible;opacity:1}
+.frozr_user_ftp_credit_form{position:absolute;z-index:10;background-color:#fff;width:50%;min-width:20em;padding:1em 2em;box-sizing:border-box;box-shadow:7px 7px 0 0 rgba(0,0,0,0.1);border:1px solid rgba(0,0,0,0.2);left:50%;margin:0 0 0 -25%;top:7%}
+.wp-admin select.frozr_admin_select[multiple="multiple"],.frozr_tos{height:10em}
+.frozr_user_ftp_credit_form input[type="text"],.frozr_user_ftp_credit_form input[type="password"]{width:100%}
+.frozr_credits_required #adminmenumain,.frozr_credits_required #wpcontent{pointer-events:none;opacity:.6}
+.frozr.notice .button{margin:0 .7em}
+.frozr.notice{padding:1em;display:flex;flex-flow:wrap}
+.frozr_admin_page_inner_wrapper{display:flex;width:99%;margin:1em 0 0;flex-flow:wrap}
+.frozr_admin_box{padding:2em 1em;background-color:#fff;box-shadow:3px 3px 1px -1px rgba(0,0,0,0.1)}
+.frozr_admin_page_inner_wrapper > .frozr_admin_box:not(:last-child){margin:0 1em 1em 0}
+.frozr_admin_box_content{display:flex;flex-flow:wrap;height:100%;box-sizing:border-box}
+.frozr_admin_box_content.demo_box{align-items:center;flex-flow:column}
+.frozr_admin_box_content.demo_box > span{font-size:1.5em;color:rgba(0,0,0,0.4)}
+span.frozr_demo_box_desc{font-weight:700;width:100%;text-align:center;margin:0 0 2em;color:rgba(0,0,0,1)!important}
+.norsani label,.norsani input[type="text"],select.frozr_admin_select,.norsani input[type="number"],.frozr_option_group,.frozr_tos{width:50%}
+.norsani label input[type="text"]{width:100%}
+.frozr_contact_box{border:1px solid rgba(0,0,0,0.2)}
+.frozr_contact_screen{width:100%;height:30em;overflow:auto;position:relative;background-color:rgba(0,0,0,0.05)}
+form#frozr_contact_form textarea{border:none;width:100%;height:8em;padding:1em;font-size:1.5em}
+form#frozr_contact_form{text-align:right}
+.frozr_contact_box_details{flex:1;padding:0 2em 0 1em}
+form#frozr_contact_form textarea:hover,form#frozr_contact_form textarea:focus{box-shadow:0 -2px 0 0 rgba(0,0,0,0.1)}
+.frozr_contact_box_details p,.frozr_contact_box_details ol{font-size:1.2em}
+.frozr_comment_body{margin:.7em 1em;padding:1em;position:relative;box-shadow:0 0 1px 1px rgba(0,0,0,0.1);background-color:#fff;border-radius:0 .5em .5em}
+span.frozr_comment_date{display:block;font-style:italic;margin:.5em 0 0}
+.frozr_comment_body:after{border-width:.45em;position:absolute;display:block;width:0;height:0;border-color:transparent;border-style:solid;left:-11.5px;content:" ";border-top-color:#fff;border-right-color:#fff;top:0;box-shadow:0 -1px 0 0 rgba(0,0,0,0.1)}
+.frozr_content_loader{height:6px;width:75px;position:relative}
+.frozr_content_loader:before{background-color:#000;content:'';height:6px;width:10px;position:absolute;left:0;-webkit-animation:frozr_content_loaderanim 1s infinite ease-in-out;animation:frozr_content_loaderanim 1s infinite ease-in-out}
+@-webkit-keyframes frozr_content_loaderanim {
+0%,100%{-webkit-transform:translateX(0);transform:translateX(0)}
+50%{-webkit-transform:translateX(65px);transform:translateX(65px)}
+}
+@keyframes frozr_content_loaderanim {
+0%,100%{-webkit-transform:translateX(0);transform:translateX(0)}
+50%{-webkit-transform:translateX(65px);transform:translateX(65px)}
+}
+span.frozr_no_comments:before{font-size:5em;position:absolute;top:0;color:rgba(0,0,0,0.1);width:1em;margin:0 0 0 6px;height:1em}
+span.frozr_no_comments{display:block;position:absolute;width:7em;vertical-align:middle;text-align:center;left:50%;color:rgba(0,0,0,0.6);padding:5em 0 0;margin:-2.5em 0 0 -3.5em;top:50%;font-weight:700}
+.frozr_comment_body.admin_reply{background-color:#ffe4b5;border-radius:.5em 0 .5em .5em;margin:2em 1em}
+.frozr_comment_body.admin_reply:after{border-top-color:#ffe4b5;border-left-color:#ffe4b5;right:-11px;left:auto;border-right-color:transparent}
+.frozr_admin_box.frozrhelp_qa > div,.frozrhelp_system_status{flex-flow:column}
+.frozr_admin_box.frozrhelp_qa{width:100%}
+.frozrhelp_qa_content > ul > li > div{display:block;padding:0;background-color:rgba(0,0,0,0.01);transition:opacity 0.1s,padding 0.4s,height .4s;height:0;opacity:0;overflow:hidden;pointer-events:none;position:relative}
+.frozrhelp_qa_content > ul > li > div p{font-size:1.2em;}
+.frozrhelp_qa_content > ul > li{background-color:#fff;box-shadow:1px 1px 3px 1px rgba(0,0,0,0.1);padding:0;margin:0 0 1em}
+.frozrhelp_qa_content > ul > li > h2{margin:0;padding:.8em;border-bottom:1px solid rgba(0,0,0,0.1)}
+.frozrhelp_qa_content > ul > li > h2:hover{background-color:rgba(0,0,0,0.01);cursor:pointer}
+.frozrhelp_qa_content > ul > li > div.active{opacity:1;pointer-events:auto;min-height:2em;height:auto;padding:1em}
+.frozrhelp_qa_suggest{background-color:rgba(0,0,0,0.05);border-radius:1em;border:1px solid rgba(0,0,0,0.1);padding:1em;margin:1em 0 0}
+.frozrhelp_qa_suggest h2{margin:0 0 .5em}
+.frozrhelp_qa_suggest span{display:block;margin:0 0 1em}
+form#frozr_qu_suggest input{flex:1}
+form#frozr_qu_suggest{display:flex}
+.frozr_admin_box_content .notice{margin:.5em 0 1em}
+.frozrhelp_qa_content{max-height:40em;overflow:auto;padding:.5em;flex:1}
+.frozrhelp_found_errors{background:#fff;line-height:1.5em;border-left:4px solid #dc3232;box-shadow:2px 1px 2px 1px rgba(0,0,0,.1);margin:5px 15px 2px;padding:.7em;font-weight:700}
+span.frozrhelp_system_check:before{font-size:8em;height:1.2em;width:1.2em;border-radius:50%}
+span.frozrhelp_system_check{text-align:center}
+.frozrhelp_system_ok{text-align:center;font-size:1.5em;font-weight:700}
+.frozrhelp_boxes_wrapper{margin:0 0 1em}
+span.frozrhelp_system_check.dashicons-before.dashicons-warning{color:red}
+.frozrhelp_boxes_wrapper > div:first-child{margin:0 0 1em}
+.frozr_admin_page_inner_wrapper h1{line-height:normal}
+.frozr_admin_box_content.demo_box span.frozrhelp_system_check{font-size:1em}
+.frozrhelp_found_errors a.button-primary{padding:.2em 2em;line-height:normal;height:auto}
+.frozrhelp_demo_installed{box-shadow:1px 1px 0 2px rgba(0,0,0,0.1);padding:.5em;background-color:rgba(0,0,0,0.02);border-left:2px solid green;margin:0 0 1em}
+.frozr_option_group,.norsani h2{display:flex;align-items:flex-start}
+.frozr_option_group input,.frozr_option_group select{width:4em}
+.frozr_seller_fee_rule .form-group label{display:none}
+.frozr_set_input_group label{font-weight:700;margin:0 3em 0 0;width:17em;display:inline-block}
+.frozr_set_input_group{margin:0 0 2em}
+th:empty{display:none}
+ol{margin:1em 0 1em 2em}
+.form-table .frozr_fees_td{display:flex;padding:10px}
+.form-table td:empty{display:none}
+.frozr_fee_settings table{width:100%}
+.frozr_fee_settings table tr td:first-child{width:15%}
+.frozr_option_group input,.frozr_option_group select{width:93%!important}
+td.order_date.column-order_date > time{display:none;}
+span.order-status.frozr_order_inq{background-color:yellow;margin:.5em 0 0 0;padding:0 1em;overflow:hidden;text-overflow:ellipsis;}
+.order-status.status-processing{margin:0;}
+@media screen and (min-width: 59.6875em) {
+.frozrhelp_boxes_wrapper{max-width:30%;display:flex;flex-flow:column}
+.frozrhelp_boxes_wrapper > div{flex:1}
+.frozr_admin_box.frozrhelp_qa{flex:1}
+.frozr_contact_box{width:50%}
+}
